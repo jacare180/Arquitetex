@@ -1,0 +1,4337 @@
+{
+ "ach-022": {
+  "pergunta": "Uma igreja ou catedral famosa",
+  "linhas": [
+   {
+    "nome": "Sagrada Família",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sagrada Família",
+    "views": 125862,
+    "vpt": 298,
+    "ven": 125564,
+    "peso": 15365.68,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Basílica de Nossa Senhora Aparecida",
+    "grafias": [
+     "Aparecida",
+     "Basílica de Aparecida",
+     "Catedral Basílica de Nossa Senhora Aparecida"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral Basílica de Nossa Senhora Aparecida",
+    "views": 9399,
+    "vpt": 9399,
+    "ven": 0,
+    "peso": 9399.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Catedral de São Paulo (Londres)",
+    "grafias": [
+     "St Paul's",
+     "St Paul's Cathedral"
+    ],
+    "lang": "en",
+    "titulo": "St Paul's Cathedral",
+    "views": 35074,
+    "vpt": 0,
+    "ven": 35074,
+    "peso": 6313.32,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Mosteiro dos Jerónimos",
+    "grafias": [
+     "Jerónimos",
+     "Jeronimos"
+    ],
+    "lang": "pt",
+    "titulo": "Mosteiro dos Jerónimos",
+    "views": 11151,
+    "vpt": 2777,
+    "ven": 8374,
+    "peso": 3781.88,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Basílica de São Pedro",
+    "grafias": [
+     "São Pedro"
+    ],
+    "lang": "pt",
+    "titulo": "Basílica de São Pedro",
+    "views": 3781,
+    "vpt": 3781,
+    "ven": 0,
+    "peso": 3781.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Panteão de Roma",
+    "grafias": [
+     "Panteão"
+    ],
+    "lang": "pt",
+    "titulo": "Panteão (Roma)",
+    "views": 3661,
+    "vpt": 3661,
+    "ven": 0,
+    "peso": 3661.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Catedral de Notre-Dame de Paris",
+    "grafias": [
+     "Notre-Dame",
+     "Notre Dame"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Notre-Dame de Paris",
+    "views": 2537,
+    "vpt": 2537,
+    "ven": 0,
+    "peso": 2537.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Capela Sistina",
+    "grafias": [
+     "Sistina"
+    ],
+    "lang": "pt",
+    "titulo": "Capela Sistina",
+    "views": 2333,
+    "vpt": 2333,
+    "ven": 0,
+    "peso": 2333.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Santa Sofia",
+    "grafias": [
+     "Hagia Sophia"
+    ],
+    "lang": "pt",
+    "titulo": "Santa Sofia",
+    "views": 2313,
+    "vpt": 2313,
+    "ven": 0,
+    "peso": 2313.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Catedral de Colônia",
+    "grafias": [
+     "Colônia"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Colônia",
+    "views": 2239,
+    "vpt": 2239,
+    "ven": 0,
+    "peso": 2239.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Catedral da Sé de São Paulo",
+    "grafias": [
+     "Sé",
+     "Catedral da Sé",
+     "Catedral Metropolitana de São Paulo"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral Metropolitana de São Paulo",
+    "views": 3403,
+    "vpt": 2075,
+    "ven": 1328,
+    "peso": 2234.36,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Catedral de Ulm",
+    "grafias": [
+     "Ulm",
+     "Ulm Minster"
+    ],
+    "lang": "en",
+    "titulo": "Ulm Minster",
+    "views": 11928,
+    "vpt": 0,
+    "ven": 11928,
+    "peso": 2147.04,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Sainte-Chapelle",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sainte-Chapelle",
+    "views": 13999,
+    "vpt": 344,
+    "ven": 13655,
+    "peso": 1982.6,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Igreja de São Francisco de Assis (Ouro Preto)",
+    "grafias": [
+     "São Francisco de Ouro Preto",
+     "Igreja de São Francisco de Assis"
+    ],
+    "lang": "pt",
+    "titulo": "Igreja de São Francisco de Assis (Ouro Preto)",
+    "views": 1824,
+    "vpt": 1824,
+    "ven": 0,
+    "peso": 1824.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Igreja do Santo Sepulcro",
+    "grafias": [
+     "Santo Sepulcro"
+    ],
+    "lang": "pt",
+    "titulo": "Santo Sepulcro",
+    "views": 1822,
+    "vpt": 1822,
+    "ven": 0,
+    "peso": 1822.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Catedral de Milão",
+    "grafias": [
+     "Duomo de Milão"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Milão",
+    "views": 1758,
+    "vpt": 1758,
+    "ven": 0,
+    "peso": 1758.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Santuário do Bom Jesus de Matosinhos",
+    "grafias": [
+     "Bom Jesus de Matosinhos",
+     "Congonhas"
+    ],
+    "lang": "pt",
+    "titulo": "Santuário do Bom Jesus de Matosinhos",
+    "views": 1850,
+    "vpt": 1715,
+    "ven": 135,
+    "peso": 1731.2,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Catedral de Brasília",
+    "grafias": [
+     "Catedral Metropolitana de Brasília"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral Metropolitana de Brasília",
+    "views": 1698,
+    "vpt": 1698,
+    "ven": 0,
+    "peso": 1698.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Catedral de Santiago de Compostela",
+    "grafias": [
+     "Santiago de Compostela"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Santiago de Compostela",
+    "views": 8366,
+    "vpt": 709,
+    "ven": 7657,
+    "peso": 1627.84,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mesquita Sheikh Zayed",
+    "grafias": [
+     "Sheikh Zayed Grand Mosque"
+    ],
+    "lang": "en",
+    "titulo": "Sheikh Zayed Grand Mosque",
+    "views": 8312,
+    "vpt": 0,
+    "ven": 8312,
+    "peso": 1496.1599999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mosteiro de São Bento (São Paulo)",
+    "grafias": [
+     "Mosteiro de São Bento"
+    ],
+    "lang": "pt",
+    "titulo": "Mosteiro de São Bento (São Paulo)",
+    "views": 1487,
+    "vpt": 1298,
+    "ven": 189,
+    "peso": 1320.68,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Basílica de São João de Latrão",
+    "grafias": [
+     "São João de Latrão",
+     "Arquibasílica de São João de Latrão"
+    ],
+    "lang": "pt",
+    "titulo": "Arquibasílica de São João de Latrão",
+    "views": 1266,
+    "vpt": 1266,
+    "ven": 0,
+    "peso": 1266.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Igreja de Hallgrímur",
+    "grafias": [
+     "Hallgrimskirkja",
+     "Hallgrímskirkja"
+    ],
+    "lang": "pt",
+    "titulo": "Hallgrímskirkja",
+    "views": 8938,
+    "vpt": 215,
+    "ven": 8723,
+    "peso": 1261.76,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Abadia de Westminster",
+    "grafias": [
+     "Westminster"
+    ],
+    "lang": "pt",
+    "titulo": "Abadia de Westminster",
+    "views": 1041,
+    "vpt": 1041,
+    "ven": 0,
+    "peso": 1041.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Igreja da Pampulha",
+    "grafias": [
+     "Igreja de São Francisco de Assis"
+    ],
+    "lang": "pt",
+    "titulo": "Igreja de São Francisco de Assis (Belo Horizonte)",
+    "views": 995,
+    "vpt": 995,
+    "ven": 0,
+    "peso": 995.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Catedral de Toledo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Catedral de Toledo",
+    "views": 4801,
+    "vpt": 386,
+    "ven": 4415,
+    "peso": 915.8,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Catedral de Florença",
+    "grafias": [
+     "Duomo de Florença",
+     "Santa Maria del Fiore"
+    ],
+    "lang": "pt",
+    "titulo": "Santa Maria del Fiore",
+    "views": 876,
+    "vpt": 876,
+    "ven": 0,
+    "peso": 876.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Igreja e Convento de São Francisco (Salvador)",
+    "grafias": [
+     "São Francisco de Salvador",
+     "Igreja e Convento de São Francisco"
+    ],
+    "lang": "pt",
+    "titulo": "Igreja e Convento de São Francisco (Salvador)",
+    "views": 826,
+    "vpt": 826,
+    "ven": 0,
+    "peso": 826.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Catedral de São Basílio",
+    "grafias": [
+     "São Basílio"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de São Basílio",
+    "views": 793,
+    "vpt": 793,
+    "ven": 0,
+    "peso": 793.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mesquita Azul",
+    "grafias": [
+     "Mesquita do Sultão Ahmed"
+    ],
+    "lang": "pt",
+    "titulo": "Mesquita Azul",
+    "views": 659,
+    "vpt": 659,
+    "ven": 0,
+    "peso": 659.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Basílica de São Marcos",
+    "grafias": [
+     "São Marcos"
+    ],
+    "lang": "pt",
+    "titulo": "Basílica de São Marcos",
+    "views": 556,
+    "vpt": 556,
+    "ven": 0,
+    "peso": 556.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Catedral de Sevilha",
+    "grafias": [
+     "Sevilha"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Sevilha",
+    "views": 552,
+    "vpt": 552,
+    "ven": 0,
+    "peso": 552.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Catedral de Chartres",
+    "grafias": [
+     "Chartres"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Chartres",
+    "views": 490,
+    "vpt": 490,
+    "ven": 0,
+    "peso": 490.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Igreja de Grundtvig",
+    "grafias": [
+     "Grundtvig",
+     "Grundtvig's Church"
+    ],
+    "lang": "en",
+    "titulo": "Grundtvig's Church",
+    "views": 2502,
+    "vpt": 0,
+    "ven": 2502,
+    "peso": 450.36,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Catedral de Las Lajas",
+    "grafias": [
+     "Las Lajas",
+     "Santuário de Las Lajas"
+    ],
+    "lang": "pt",
+    "titulo": "Santuário de Las Lajas",
+    "views": 412,
+    "vpt": 412,
+    "ven": 0,
+    "peso": 412.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Igreja da Luz",
+    "grafias": [
+     "Church of the Light"
+    ],
+    "lang": "en",
+    "titulo": "Church of the Light",
+    "views": 2269,
+    "vpt": 0,
+    "ven": 2269,
+    "peso": 408.41999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mesquita-Catedral de Córdova",
+    "grafias": [
+     "Mesquita de Córdoba"
+    ],
+    "lang": "pt",
+    "titulo": "Mesquita-Catedral de Córdova",
+    "views": 362,
+    "vpt": 362,
+    "ven": 0,
+    "peso": 362.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Catedral de Santa Maria da Assunção (Tóquio)",
+    "grafias": [
+     "St. Mary's Cathedral, Tokyo"
+    ],
+    "lang": "en",
+    "titulo": "St. Mary's Cathedral, Tokyo",
+    "views": 1935,
+    "vpt": 0,
+    "ven": 1935,
+    "peso": 348.29999999999995,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Catedral de Reims",
+    "grafias": [
+     "Reims"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Reims",
+    "views": 294,
+    "vpt": 294,
+    "ven": 0,
+    "peso": 294.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Catedral Metropolitana de São Sebastião (Rio de Janeiro)",
+    "grafias": [
+     "Catedral do Rio",
+     "Rio de Janeiro Cathedral"
+    ],
+    "lang": "en",
+    "titulo": "Rio de Janeiro Cathedral",
+    "views": 1618,
+    "vpt": 0,
+    "ven": 1618,
+    "peso": 291.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Santuário Dom Bosco",
+    "grafias": [
+     "Dom Bosco"
+    ],
+    "lang": "pt",
+    "titulo": "Santuário Dom Bosco",
+    "views": 271,
+    "vpt": 271,
+    "ven": 0,
+    "peso": 271.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Igreja de São Francisco (Recife)",
+    "grafias": [
+     "Capela Dourada"
+    ],
+    "lang": "pt",
+    "titulo": "Capela Dourada",
+    "views": 300,
+    "vpt": 228,
+    "ven": 72,
+    "peso": 236.64,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Catedral de Amiens",
+    "grafias": [
+     "Amiens",
+     "Catedral de Notre-Dame de Amiens"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Notre-Dame de Amiens",
+    "views": 231,
+    "vpt": 231,
+    "ven": 0,
+    "peso": 231.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Templo de Lótus",
+    "grafias": [
+     "Lótus"
+    ],
+    "lang": "pt",
+    "titulo": "Templo de Lótus",
+    "views": 191,
+    "vpt": 191,
+    "ven": 0,
+    "peso": 191.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Convento de La Tourette",
+    "grafias": [
+     "La Tourette",
+     "Sainte Marie de La Tourette"
+    ],
+    "lang": "en",
+    "titulo": "Sainte Marie de La Tourette",
+    "views": 980,
+    "vpt": 0,
+    "ven": 980,
+    "peso": 176.39999999999998,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Grande Mesquita de Djenné",
+    "grafias": [
+     "Djenné",
+     "Grande Mesquita de Jené"
+    ],
+    "lang": "pt",
+    "titulo": "Grande Mesquita de Jené",
+    "views": 161,
+    "vpt": 161,
+    "ven": 0,
+    "peso": 161.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Catedral de Salisbury",
+    "grafias": [
+     "Salisbury"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral de Salisbury",
+    "views": 114,
+    "vpt": 114,
+    "ven": 0,
+    "peso": 114.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Catedral de Burgos",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Catedral de Burgos",
+    "views": 109,
+    "vpt": 109,
+    "ven": 0,
+    "peso": 109.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Capela Rothko",
+    "grafias": [
+     "Rothko Chapel"
+    ],
+    "lang": "pt",
+    "titulo": "Capela Rothko",
+    "views": 44,
+    "vpt": 44,
+    "ven": 0,
+    "peso": 44.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Igreja de Atlántida",
+    "grafias": [
+     "Iglesia de Cristo Obrero y Nuestra Señora de Lourdes"
+    ],
+    "lang": "en",
+    "titulo": "Iglesia de Cristo Obrero y Nuestra Señora de Lourdes",
+    "views": 226,
+    "vpt": 0,
+    "ven": 226,
+    "peso": 40.67999999999999,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Capela de Notre-Dame-du-Haut",
+    "grafias": [
+     "Ronchamp"
+    ],
+    "lang": "pt",
+    "titulo": "Capela de Notre-Dame-du-Haut",
+    "views": 39,
+    "vpt": 39,
+    "ven": 0,
+    "peso": 39.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-023": {
+  "pergunta": "Um teatro ou casa de ópera",
+  "linhas": [
+   {
+    "nome": "Teatro Amazonas",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Teatro Amazonas",
+    "views": 4818,
+    "vpt": 3256,
+    "ven": 1562,
+    "peso": 3443.44,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Royal Albert Hall",
+    "grafias": [
+     "Albert Hall"
+    ],
+    "lang": "pt",
+    "titulo": "Royal Albert Hall",
+    "views": 22295,
+    "vpt": 258,
+    "ven": 22037,
+    "peso": 2902.44,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Kennedy Center",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Kennedy Center",
+    "views": 14350,
+    "vpt": 0,
+    "ven": 14350,
+    "peso": 2583.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Globe Theatre",
+    "grafias": [
+     "Shakespeare's Globe",
+     "Globe"
+    ],
+    "lang": "pt",
+    "titulo": "Globe Theatre",
+    "views": 17471,
+    "vpt": 170,
+    "ven": 17301,
+    "peso": 2246.12,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Teatro alla Scala",
+    "grafias": [
+     "Scala",
+     "La Scala"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro alla Scala",
+    "views": 10725,
+    "vpt": 281,
+    "ven": 10444,
+    "peso": 1534.28,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Theatro Municipal de São Paulo",
+    "grafias": [
+     "Municipal de São Paulo"
+    ],
+    "lang": "pt",
+    "titulo": "Theatro Municipal de São Paulo",
+    "views": 1631,
+    "vpt": 1097,
+    "ven": 534,
+    "peso": 1161.08,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Metropolitan Opera",
+    "grafias": [
+     "Met Opera"
+    ],
+    "lang": "pt",
+    "titulo": "Metropolitan Opera",
+    "views": 8638,
+    "vpt": 112,
+    "ven": 8526,
+    "peso": 1135.12,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ópera de Sydney",
+    "grafias": [
+     "Sydney Opera House"
+    ],
+    "lang": "pt",
+    "titulo": "Ópera de Sydney",
+    "views": 1023,
+    "vpt": 1023,
+    "ven": 0,
+    "peso": 1023.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Theatro Municipal do Rio de Janeiro",
+    "grafias": [
+     "Municipal do Rio"
+    ],
+    "lang": "pt",
+    "titulo": "Theatro Municipal do Rio de Janeiro",
+    "views": 1637,
+    "vpt": 926,
+    "ven": 711,
+    "peso": 1011.3199999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Royal Opera House",
+    "grafias": [
+     "Covent Garden"
+    ],
+    "lang": "pt",
+    "titulo": "Royal Opera House",
+    "views": 5579,
+    "vpt": 88,
+    "ven": 5491,
+    "peso": 746.92,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Teatro Oficina",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Teatro Oficina",
+    "views": 893,
+    "vpt": 570,
+    "ven": 323,
+    "peso": 608.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Theatro da Paz",
+    "grafias": [
+     "Teatro da Paz"
+    ],
+    "lang": "pt",
+    "titulo": "Theatro da Paz",
+    "views": 800,
+    "vpt": 573,
+    "ven": 227,
+    "peso": 600.24,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Teatro Colón",
+    "grafias": [
+     "Colón"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro Colón",
+    "views": 2465,
+    "vpt": 257,
+    "ven": 2208,
+    "peso": 521.96,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ópera Garnier",
+    "grafias": [
+     "Palais Garnier",
+     "Garnier"
+    ],
+    "lang": "pt",
+    "titulo": "Ópera Garnier",
+    "views": 444,
+    "vpt": 444,
+    "ven": 0,
+    "peso": 444.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ópera de Arame",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ópera de Arame",
+    "views": 550,
+    "vpt": 403,
+    "ven": 147,
+    "peso": 420.64,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Teatro José de Alencar",
+    "grafias": [
+     "Theatro José de Alencar"
+    ],
+    "lang": "pt",
+    "titulo": "Theatro José de Alencar",
+    "views": 361,
+    "vpt": 361,
+    "ven": 0,
+    "peso": 361.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ópera de Guangzhou",
+    "grafias": [
+     "Guangzhou Opera House"
+    ],
+    "lang": "en",
+    "titulo": "Guangzhou Opera House",
+    "views": 1797,
+    "vpt": 0,
+    "ven": 1797,
+    "peso": 323.46,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Harpa (Reykjavík)",
+    "grafias": [
+     "Harpa"
+    ],
+    "lang": "en",
+    "titulo": "Harpa (concert hall)",
+    "views": 1777,
+    "vpt": 0,
+    "ven": 1777,
+    "peso": 319.85999999999996,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Teatro La Fenice",
+    "grafias": [
+     "La Fenice",
+     "Fenice"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro La Fenice",
+    "views": 2244,
+    "vpt": 52,
+    "ven": 2192,
+    "peso": 315.03999999999996,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Teatro Massimo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Teatro Massimo",
+    "views": 2009,
+    "vpt": 68,
+    "ven": 1941,
+    "peso": 300.91999999999996,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Teatro Olímpico (Vicenza)",
+    "grafias": [
+     "Teatro Olimpico"
+    ],
+    "lang": "en",
+    "titulo": "Teatro Olimpico",
+    "views": 1582,
+    "vpt": 0,
+    "ven": 1582,
+    "peso": 284.76,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Teatro Bolshoi",
+    "grafias": [
+     "Bolshoi"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro Bolshoi",
+    "views": 283,
+    "vpt": 283,
+    "ven": 0,
+    "peso": 283.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Esplanade - Theatres on the Bay",
+    "grafias": [
+     "Esplanade",
+     "Esplanade – Theatres on the Bay"
+    ],
+    "lang": "en",
+    "titulo": "Esplanade – Theatres on the Bay",
+    "views": 1478,
+    "vpt": 0,
+    "ven": 1478,
+    "peso": 266.03999999999996,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Teatro di San Carlo",
+    "grafias": [
+     "San Carlo",
+     "Teatro San Carlo"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro San Carlo",
+    "views": 1475,
+    "vpt": 63,
+    "ven": 1412,
+    "peso": 232.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Teatro Nacional Cláudio Santoro",
+    "grafias": [
+     "Teatro Nacional"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro Nacional Cláudio Santoro",
+    "views": 397,
+    "vpt": 195,
+    "ven": 202,
+    "peso": 219.24,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Theatro São Pedro (Porto Alegre)",
+    "grafias": [
+     "Theatro São Pedro"
+    ],
+    "lang": "pt",
+    "titulo": "Theatro São Pedro (Porto Alegre)",
+    "views": 182,
+    "vpt": 182,
+    "ven": 0,
+    "peso": 182.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Teatro Castro Alves",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Teatro Castro Alves",
+    "views": 177,
+    "vpt": 177,
+    "ven": 0,
+    "peso": 177.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Teatro Santa Isabel",
+    "grafias": [
+     "Teatro de Santa Isabel"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro de Santa Isabel",
+    "views": 169,
+    "vpt": 169,
+    "ven": 0,
+    "peso": 169.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Teatro Guaíra",
+    "grafias": [
+     "Centro Cultural Teatro Guaíra"
+    ],
+    "lang": "pt",
+    "titulo": "Centro Cultural Teatro Guaíra",
+    "views": 242,
+    "vpt": 154,
+    "ven": 88,
+    "peso": 164.56,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Teatro Real (Madrid)",
+    "grafias": [
+     "Teatro Real"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro Real (Madrid)",
+    "views": 947,
+    "vpt": 37,
+    "ven": 910,
+    "peso": 146.2,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Auditório Ibirapuera",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Auditório Ibirapuera",
+    "views": 282,
+    "vpt": 125,
+    "ven": 157,
+    "peso": 143.84,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ópera Estatal de Viena",
+    "grafias": [
+     "Ópera de Viena",
+     "Staatsoper"
+    ],
+    "lang": "pt",
+    "titulo": "Ópera Estatal de Viena",
+    "views": 112,
+    "vpt": 112,
+    "ven": 0,
+    "peso": 112.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Gran Teatre del Liceu",
+    "grafias": [
+     "Liceu",
+     "Grande Teatro do Liceu"
+    ],
+    "lang": "pt",
+    "titulo": "Grande Teatro do Liceu",
+    "views": 703,
+    "vpt": 29,
+    "ven": 674,
+    "peso": 109.88,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Festspielhaus de Bayreuth",
+    "grafias": [
+     "Bayreuth",
+     "Bayreuth Festspielhaus"
+    ],
+    "lang": "pt",
+    "titulo": "Bayreuth Festspielhaus",
+    "views": 87,
+    "vpt": 87,
+    "ven": 0,
+    "peso": 87.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Dubai Opera",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Dubai Opera",
+    "views": 446,
+    "vpt": 0,
+    "ven": 446,
+    "peso": 80.28,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ópera de Lyon",
+    "grafias": [
+     "Opéra de Lyon"
+    ],
+    "lang": "en",
+    "titulo": "Opéra de Lyon",
+    "views": 427,
+    "vpt": 0,
+    "ven": 427,
+    "peso": 76.85999999999999,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Cidade das Artes",
+    "grafias": [
+     "Cidade das Artes Bibi Ferreira"
+    ],
+    "lang": "pt",
+    "titulo": "Cidade das Artes Bibi Ferreira",
+    "views": 163,
+    "vpt": 59,
+    "ven": 104,
+    "peso": 71.48,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Teatro de Taichung",
+    "grafias": [
+     "Taichung Opera House",
+     "National Taichung Theater"
+    ],
+    "lang": "en",
+    "titulo": "National Taichung Theater",
+    "views": 360,
+    "vpt": 0,
+    "ven": 360,
+    "peso": 64.8,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ópera da Bastilha",
+    "grafias": [
+     "Bastilha"
+    ],
+    "lang": "pt",
+    "titulo": "Ópera da Bastilha",
+    "views": 55,
+    "vpt": 55,
+    "ven": 0,
+    "peso": 55.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ópera de Oslo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ópera de Oslo",
+    "views": 47,
+    "vpt": 47,
+    "ven": 0,
+    "peso": 47.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Teatro Mariinsky",
+    "grafias": [
+     "Mariinsky",
+     "Teatro Mariinski"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro Mariinski",
+    "views": 45,
+    "vpt": 45,
+    "ven": 0,
+    "peso": 45.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-024": {
+  "pergunta": "Uma casa projetada por um arquiteto famoso",
+  "linhas": [
+   {
+    "nome": "Casa da Cascata",
+    "grafias": [
+     "Fallingwater"
+    ],
+    "lang": "en",
+    "titulo": "Fallingwater",
+    "views": 35786,
+    "vpt": 0,
+    "ven": 35786,
+    "peso": 6441.48,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Casa Stahl",
+    "grafias": [
+     "Case Study House 22",
+     "Stahl House"
+    ],
+    "lang": "en",
+    "titulo": "Stahl House",
+    "views": 19891,
+    "vpt": 0,
+    "ven": 19891,
+    "peso": 3580.38,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Casa Batlló",
+    "grafias": [
+     "Batlló"
+    ],
+    "lang": "pt",
+    "titulo": "Casa Batlló",
+    "views": 13685,
+    "vpt": 737,
+    "ven": 12948,
+    "peso": 2290.76,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Casa Ennis",
+    "grafias": [
+     "Ennis",
+     "Ennis House"
+    ],
+    "lang": "en",
+    "titulo": "Ennis House",
+    "views": 10195,
+    "vpt": 0,
+    "ven": 10195,
+    "peso": 1835.1,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Casa Farnsworth",
+    "grafias": [
+     "Farnsworth House"
+    ],
+    "lang": "en",
+    "titulo": "Farnsworth House",
+    "views": 5647,
+    "vpt": 0,
+    "ven": 5647,
+    "peso": 1016.46,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Casa Robie",
+    "grafias": [
+     "Robie House"
+    ],
+    "lang": "en",
+    "titulo": "Robie House",
+    "views": 5241,
+    "vpt": 0,
+    "ven": 5241,
+    "peso": 943.3799999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Casa Kaufmann (Palm Springs)",
+    "grafias": [
+     "Kaufmann Desert House"
+    ],
+    "lang": "en",
+    "titulo": "Kaufmann Desert House",
+    "views": 4893,
+    "vpt": 0,
+    "ven": 4893,
+    "peso": 880.74,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Casa Milà",
+    "grafias": [
+     "La Pedrera",
+     "Pedrera"
+    ],
+    "lang": "pt",
+    "titulo": "Casa Milà",
+    "views": 4070,
+    "vpt": 388,
+    "ven": 3682,
+    "peso": 829.8399999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Villa Savoye",
+    "grafias": [
+     "Savoye"
+    ],
+    "lang": "pt",
+    "titulo": "Villa Savoye",
+    "views": 5818,
+    "vpt": 134,
+    "ven": 5684,
+    "peso": 816.0799999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Casa Hollyhock",
+    "grafias": [
+     "Hollyhock",
+     "Hollyhock House"
+    ],
+    "lang": "en",
+    "titulo": "Hollyhock House",
+    "views": 3719,
+    "vpt": 0,
+    "ven": 3719,
+    "peso": 669.42,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Casa Eames",
+    "grafias": [
+     "Eames House"
+    ],
+    "lang": "en",
+    "titulo": "Eames House",
+    "views": 3438,
+    "vpt": 0,
+    "ven": 3438,
+    "peso": 618.84,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Hôtel Tassel",
+    "grafias": [
+     "Tassel"
+    ],
+    "lang": "en",
+    "titulo": "Hôtel Tassel",
+    "views": 2582,
+    "vpt": 0,
+    "ven": 2582,
+    "peso": 464.76,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Casa E-1027",
+    "grafias": [
+     "E-1027"
+    ],
+    "lang": "en",
+    "titulo": "E-1027",
+    "views": 2402,
+    "vpt": 0,
+    "ven": 2402,
+    "peso": 432.36,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Villa Tugendhat",
+    "grafias": [
+     "Tugendhat"
+    ],
+    "lang": "en",
+    "titulo": "Villa Tugendhat",
+    "views": 2212,
+    "vpt": 0,
+    "ven": 2212,
+    "peso": 398.15999999999997,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Villa La Rotonda",
+    "grafias": [
+     "Rotonda",
+     "Villa Capra"
+    ],
+    "lang": "en",
+    "titulo": "Villa La Rotonda",
+    "views": 2000,
+    "vpt": 0,
+    "ven": 2000,
+    "peso": 360.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Casa Rietveld Schröder",
+    "grafias": [
+     "Schröder",
+     "Rietveld Schröder",
+     "Rietveld Schröder House"
+    ],
+    "lang": "en",
+    "titulo": "Rietveld Schröder House",
+    "views": 1993,
+    "vpt": 0,
+    "ven": 1993,
+    "peso": 358.74,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Casa Gehry",
+    "grafias": [
+     "Gehry Residence"
+    ],
+    "lang": "en",
+    "titulo": "Gehry Residence",
+    "views": 1870,
+    "vpt": 0,
+    "ven": 1870,
+    "peso": 336.6,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Palácio Stoclet",
+    "grafias": [
+     "Stoclet",
+     "Stoclet Palace"
+    ],
+    "lang": "en",
+    "titulo": "Stoclet Palace",
+    "views": 1746,
+    "vpt": 0,
+    "ven": 1746,
+    "peso": 314.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Casa Malaparte",
+    "grafias": [
+     "Villa Malaparte"
+    ],
+    "lang": "en",
+    "titulo": "Casa Malaparte",
+    "views": 1603,
+    "vpt": 0,
+    "ven": 1603,
+    "peso": 288.53999999999996,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Casa Dana-Thomas",
+    "grafias": [
+     "Dana–Thomas House"
+    ],
+    "lang": "en",
+    "titulo": "Dana–Thomas House",
+    "views": 1560,
+    "vpt": 0,
+    "ven": 1560,
+    "peso": 280.79999999999995,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Casa de Vidro (São Paulo)",
+    "grafias": [
+     "Casa de Vidro",
+     "Casa de Vidro da Lina"
+    ],
+    "lang": "pt",
+    "titulo": "Casa de Vidro (São Paulo)",
+    "views": 261,
+    "vpt": 261,
+    "ven": 0,
+    "peso": 261.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lovell Health House",
+    "grafias": [
+     "Lovell House"
+    ],
+    "lang": "en",
+    "titulo": "Lovell House",
+    "views": 1421,
+    "vpt": 0,
+    "ven": 1421,
+    "peso": 255.77999999999997,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Casa Gropius",
+    "grafias": [
+     "Gropius House"
+    ],
+    "lang": "en",
+    "titulo": "Gropius House",
+    "views": 1419,
+    "vpt": 0,
+    "ven": 1419,
+    "peso": 255.42000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Casa Vanna Venturi",
+    "grafias": [
+     "Vanna Venturi",
+     "Vanna Venturi House"
+    ],
+    "lang": "en",
+    "titulo": "Vanna Venturi House",
+    "views": 1258,
+    "vpt": 0,
+    "ven": 1258,
+    "peso": 226.44,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casa Schindler",
+    "grafias": [
+     "Kings Road House",
+     "Schindler House"
+    ],
+    "lang": "en",
+    "titulo": "Schindler House",
+    "views": 1140,
+    "vpt": 0,
+    "ven": 1140,
+    "peso": 205.2,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casa Azuma",
+    "grafias": [
+     "Row House in Sumiyoshi"
+    ],
+    "lang": "en",
+    "titulo": "Row House in Sumiyoshi",
+    "views": 1013,
+    "vpt": 0,
+    "ven": 1013,
+    "peso": 182.34,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casa Müller",
+    "grafias": [
+     "Villa Müller"
+    ],
+    "lang": "en",
+    "titulo": "Villa Müller",
+    "views": 939,
+    "vpt": 0,
+    "ven": 939,
+    "peso": 169.01999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Villa Mairea",
+    "grafias": [
+     "Mairea"
+    ],
+    "lang": "en",
+    "titulo": "Villa Mairea",
+    "views": 903,
+    "vpt": 0,
+    "ven": 903,
+    "peso": 162.54,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casa das Canoas",
+    "grafias": [
+     "Canoas"
+    ],
+    "lang": "pt",
+    "titulo": "Casa das Canoas",
+    "views": 150,
+    "vpt": 150,
+    "ven": 0,
+    "peso": 150.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casa Luis Barragán",
+    "grafias": [
+     "Casa Barragán",
+     "Luis Barragán House and Studio"
+    ],
+    "lang": "en",
+    "titulo": "Luis Barragán House and Studio",
+    "views": 800,
+    "vpt": 0,
+    "ven": 800,
+    "peso": 144.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Maison de Verre",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Maison de Verre",
+    "views": 776,
+    "vpt": 0,
+    "ven": 776,
+    "peso": 139.67999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casa Esherick",
+    "grafias": [
+     "Margaret Esherick House"
+    ],
+    "lang": "en",
+    "titulo": "Margaret Esherick House",
+    "views": 668,
+    "vpt": 0,
+    "ven": 668,
+    "peso": 120.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casa Steiner",
+    "grafias": [
+     "Steiner House"
+    ],
+    "lang": "en",
+    "titulo": "Steiner House",
+    "views": 587,
+    "vpt": 0,
+    "ven": 587,
+    "peso": 105.66,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Casa Fisher",
+    "grafias": [
+     "Fisher House"
+    ],
+    "lang": "en",
+    "titulo": "Fisher House (Hatboro, Pennsylvania)",
+    "views": 538,
+    "vpt": 0,
+    "ven": 538,
+    "peso": 96.84,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Glass House",
+    "grafias": [
+     "Casa de Vidro de Philip Johnson"
+    ],
+    "lang": "en",
+    "titulo": "Glass house",
+    "views": 487,
+    "vpt": 0,
+    "ven": 487,
+    "peso": 87.66,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Casa Curutchet",
+    "grafias": [
+     "Curutchet",
+     "Curutchet House"
+    ],
+    "lang": "en",
+    "titulo": "Curutchet House",
+    "views": 389,
+    "vpt": 0,
+    "ven": 389,
+    "peso": 70.02,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Villa Stein",
+    "grafias": [
+     "Garches"
+    ],
+    "lang": "en",
+    "titulo": "Villa Stein",
+    "views": 182,
+    "vpt": 0,
+    "ven": 182,
+    "peso": 32.76,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Casa Douglas",
+    "grafias": [
+     "Douglas House"
+    ],
+    "lang": "en",
+    "titulo": "Douglas House (Harbor Springs, Michigan)",
+    "views": 126,
+    "vpt": 0,
+    "ven": 126,
+    "peso": 22.68,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-025": {
+  "pergunta": "Uma ponte famosa",
+  "linhas": [
+   {
+    "nome": "Ponte Sheikh Zayed",
+    "grafias": [
+     "Zaha Hadid"
+    ],
+    "lang": "en",
+    "titulo": "Zaha Hadid",
+    "views": 32686,
+    "vpt": 0,
+    "ven": 32686,
+    "peso": 5883.48,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Ponte 25 de Abril",
+    "grafias": [
+     "25 de Abril"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte 25 de Abril",
+    "views": 9093,
+    "vpt": 3244,
+    "ven": 5849,
+    "peso": 3945.88,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Ponte Vasco da Gama",
+    "grafias": [
+     "Vasco da Gama"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Vasco da Gama",
+    "views": 7076,
+    "vpt": 3270,
+    "ven": 3806,
+    "peso": 3726.72,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Tower Bridge",
+    "grafias": [
+     "Ponte da Torre"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte da Torre",
+    "views": 26746,
+    "vpt": 442,
+    "ven": 26304,
+    "peso": 3598.48,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Ponte Rio-Niterói",
+    "grafias": [
+     "Rio-Niterói",
+     "Ponte Costa e Silva"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Rio-Niterói",
+    "views": 3567,
+    "vpt": 3567,
+    "ven": 0,
+    "peso": 3567.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Verrazzano",
+    "grafias": [
+     "Verrazzano",
+     "Verrazzano–Narrows Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Verrazzano–Narrows Bridge",
+    "views": 16300,
+    "vpt": 0,
+    "ven": 16300,
+    "peso": 2934.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Mackinac",
+    "grafias": [
+     "Mackinac Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Mackinac Bridge",
+    "views": 13464,
+    "vpt": 0,
+    "ven": 13464,
+    "peso": 2423.5199999999995,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Sunshine Skyway",
+    "grafias": [
+     "Sunshine Skyway Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Sunshine Skyway Bridge",
+    "views": 11608,
+    "vpt": 0,
+    "ven": 11608,
+    "peso": 2089.44,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Hong Kong-Zhuhai-Macau",
+    "grafias": [
+     "HZMB",
+     "Hong Kong–Zhuhai–Macau Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Hong Kong–Zhuhai–Macau Bridge",
+    "views": 11126,
+    "vpt": 0,
+    "ven": 11126,
+    "peso": 2002.6799999999998,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Danyang-Kunshan",
+    "grafias": [
+     "Danyang–Kunshan Grand Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Danyang–Kunshan Grand Bridge",
+    "views": 10298,
+    "vpt": 0,
+    "ven": 10298,
+    "peso": 1853.6399999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Golden Gate",
+    "grafias": [
+     "Golden Gate"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Golden Gate",
+    "views": 1599,
+    "vpt": 1599,
+    "ven": 0,
+    "peso": 1599.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Rio Negro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ponte Rio Negro",
+    "views": 1562,
+    "vpt": 1562,
+    "ven": 0,
+    "peso": 1562.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Vecchio",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ponte Vecchio",
+    "views": 9610,
+    "vpt": 451,
+    "ven": 9159,
+    "peso": 1550.08,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte Maria Pia",
+    "grafias": [
+     "Ponte de D. Maria Pia"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte de D. Maria Pia",
+    "views": 2943,
+    "vpt": 1328,
+    "ven": 1615,
+    "peso": 1521.8,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte Hercílio Luz",
+    "grafias": [
+     "Hercílio Luz"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Hercílio Luz",
+    "views": 1432,
+    "vpt": 1432,
+    "ven": 0,
+    "peso": 1432.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pont du Gard",
+    "grafias": [
+     "Ponte do Gard"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte do Gard",
+    "views": 9416,
+    "vpt": 147,
+    "ven": 9269,
+    "peso": 1259.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte Estaiada",
+    "grafias": [
+     "Octávio Frias de Oliveira",
+     "Ponte Octávio Frias de Oliveira"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Octávio Frias de Oliveira",
+    "views": 1133,
+    "vpt": 1133,
+    "ven": 0,
+    "peso": 1133.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte das Correntes",
+    "grafias": [
+     "Ponte das Correntes",
+     "Széchenyi",
+     "Széchenyi Chain Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Széchenyi Chain Bridge",
+    "views": 5078,
+    "vpt": 0,
+    "ven": 5078,
+    "peso": 914.04,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte JK",
+    "grafias": [
+     "Juscelino Kubitschek",
+     "Ponte Juscelino Kubitschek"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Juscelino Kubitschek",
+    "views": 737,
+    "vpt": 737,
+    "ven": 0,
+    "peso": 737.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte Newton Navarro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ponte Newton Navarro",
+    "views": 701,
+    "vpt": 701,
+    "ven": 0,
+    "peso": 701.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte do Brooklyn",
+    "grafias": [
+     "Brooklyn Bridge",
+     "Brooklyn"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte do Brooklyn",
+    "views": 644,
+    "vpt": 644,
+    "ven": 0,
+    "peso": 644.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pont Neuf",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pont Neuf",
+    "views": 4436,
+    "vpt": 122,
+    "ven": 4314,
+    "peso": 639.68,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte Carlos",
+    "grafias": [
+     "Ponte Carlos de Praga",
+     "Charles Bridge"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Carlos",
+    "views": 432,
+    "vpt": 432,
+    "ven": 0,
+    "peso": 432.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ponte Rion-Antirion",
+    "grafias": [
+     "Rion-Antirion",
+     "Rio–Antirrio Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Rio–Antirrio Bridge",
+    "views": 1959,
+    "vpt": 0,
+    "ven": 1959,
+    "peso": 352.62,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Viaduto de Millau",
+    "grafias": [
+     "Millau"
+    ],
+    "lang": "pt",
+    "titulo": "Viaduto de Millau",
+    "views": 339,
+    "vpt": 339,
+    "ven": 0,
+    "peso": 339.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte Gateshead Millennium",
+    "grafias": [
+     "Gateshead Millennium Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Gateshead Millennium Bridge",
+    "views": 1725,
+    "vpt": 0,
+    "ven": 1725,
+    "peso": 310.5,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte da Baía de Hangzhou",
+    "grafias": [
+     "Hangzhou Bay Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Hangzhou Bay Bridge",
+    "views": 1436,
+    "vpt": 0,
+    "ven": 1436,
+    "peso": 258.48,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte Erasmus",
+    "grafias": [
+     "Erasmusbrug"
+    ],
+    "lang": "en",
+    "titulo": "Erasmusbrug",
+    "views": 1332,
+    "vpt": 0,
+    "ven": 1332,
+    "peso": 239.76,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte de Alcântara",
+    "grafias": [
+     "Alcántara",
+     "Alcántara Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Alcántara Bridge",
+    "views": 1252,
+    "vpt": 0,
+    "ven": 1252,
+    "peso": 225.35999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte Alexandre III",
+    "grafias": [
+     "Alexandre III"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Alexandre III",
+    "views": 221,
+    "vpt": 221,
+    "ven": 0,
+    "peso": 221.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte dos Suspiros",
+    "grafias": [
+     "Suspiros"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte dos Suspiros",
+    "views": 218,
+    "vpt": 218,
+    "ven": 0,
+    "peso": 218.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte Anita Garibaldi",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ponte Anita Garibaldi",
+    "views": 216,
+    "vpt": 216,
+    "ven": 0,
+    "peso": 216.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte Helix",
+    "grafias": [
+     "Helix Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Helix Bridge",
+    "views": 995,
+    "vpt": 0,
+    "ven": 995,
+    "peso": 179.1,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte de Rialto",
+    "grafias": [
+     "Rialto"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte de Rialto",
+    "views": 153,
+    "vpt": 153,
+    "ven": 0,
+    "peso": 153.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte da Mulher",
+    "grafias": [
+     "Puente de la Mujer"
+    ],
+    "lang": "en",
+    "titulo": "Puente de la Mujer",
+    "views": 797,
+    "vpt": 0,
+    "ven": 797,
+    "peso": 143.46,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ponte do Porto de Sydney",
+    "grafias": [
+     "Sydney Harbour Bridge",
+     "Harbour Bridge",
+     "Ponte da Baía de Sydney"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte da Baía de Sydney",
+    "views": 109,
+    "vpt": 109,
+    "ven": 0,
+    "peso": 109.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ponte do Alamillo",
+    "grafias": [
+     "Alamillo",
+     "Alamillo Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Alamillo Bridge",
+    "views": 525,
+    "vpt": 0,
+    "ven": 525,
+    "peso": 94.5,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ponte do Milênio (Londres)",
+    "grafias": [
+     "Millennium Bridge",
+     "Ponte do Milénio"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte do Milénio",
+    "views": 89,
+    "vpt": 89,
+    "ven": 0,
+    "peso": 89.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ponte da Amizade",
+    "grafias": [
+     "Friendship Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Friendship Bridge (Brazil–Paraguay)",
+    "views": 480,
+    "vpt": 0,
+    "ven": 480,
+    "peso": 86.39999999999999,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ponte Salginatobel",
+    "grafias": [
+     "Salginatobel",
+     "Salginatobel Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Salginatobel Bridge",
+    "views": 397,
+    "vpt": 0,
+    "ven": 397,
+    "peso": 71.46000000000001,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-026": {
+  "pergunta": "Um estádio",
+  "linhas": [
+   {
+    "nome": "SoFi Stadium",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "SoFi Stadium",
+    "views": 45913,
+    "vpt": 0,
+    "ven": 45913,
+    "peso": 8264.34,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Coliseu",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Coliseu",
+    "views": 7082,
+    "vpt": 7082,
+    "ven": 0,
+    "peso": 7082.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Camp Nou",
+    "grafias": [
+     "Spotify Camp Nou"
+    ],
+    "lang": "pt",
+    "titulo": "Camp Nou",
+    "views": 42398,
+    "vpt": 2058,
+    "ven": 40340,
+    "peso": 6898.8,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Estádio do Maracanã",
+    "grafias": [
+     "Maracanã",
+     "Estádio Jornalista Mário Filho"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Jornalista Mário Filho",
+    "views": 19835,
+    "vpt": 5108,
+    "ven": 14727,
+    "peso": 6875.24,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Allianz Parque",
+    "grafias": [
+     "Palestra Itália",
+     "Nubank Parque"
+    ],
+    "lang": "pt",
+    "titulo": "Nubank Parque",
+    "views": 10333,
+    "vpt": 6403,
+    "ven": 3930,
+    "peso": 6874.6,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Estádio do Morumbi",
+    "grafias": [
+     "Morumbi",
+     "MorumBIS"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio do Morumbi",
+    "views": 10032,
+    "vpt": 4924,
+    "ven": 5108,
+    "peso": 5536.96,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Estádio Centenário",
+    "grafias": [
+     "Centenário"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Centenario",
+    "views": 4780,
+    "vpt": 4666,
+    "ven": 114,
+    "peso": 4679.68,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Mercedes-Benz Stadium",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Mercedes-Benz Stadium",
+    "views": 25843,
+    "vpt": 0,
+    "ven": 25843,
+    "peso": 4651.74,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Stade de France",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Stade de France",
+    "views": 33591,
+    "vpt": 637,
+    "ven": 32954,
+    "peso": 4591.48,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Estádio Engenhão",
+    "grafias": [
+     "Nilton Santos",
+     "Engenhão",
+     "Estádio Olímpico Nilton Santos"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Olímpico Nilton Santos",
+    "views": 6314,
+    "vpt": 3529,
+    "ven": 2785,
+    "peso": 3863.2,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Estádio São Januário",
+    "grafias": [
+     "São Januário",
+     "Estádio Vasco da Gama"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Vasco da Gama",
+    "views": 4560,
+    "vpt": 3760,
+    "ven": 800,
+    "peso": 3856.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Old Trafford",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Old Trafford",
+    "views": 24758,
+    "vpt": 632,
+    "ven": 24126,
+    "peso": 3527.12,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Anfield",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Anfield",
+    "views": 23716,
+    "vpt": 676,
+    "ven": 23040,
+    "peso": 3440.7999999999997,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Estádio da Luz",
+    "grafias": [
+     "Luz"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio da Luz",
+    "views": 11052,
+    "vpt": 2400,
+    "ven": 8652,
+    "peso": 3438.24,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "La Bombonera",
+    "grafias": [
+     "Bombonera"
+    ],
+    "lang": "pt",
+    "titulo": "La Bombonera",
+    "views": 3179,
+    "vpt": 3179,
+    "ven": 0,
+    "peso": 3179.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Allianz Arena",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Allianz Arena",
+    "views": 18809,
+    "vpt": 795,
+    "ven": 18014,
+    "peso": 2956.68,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arena Corinthians",
+    "grafias": [
+     "Neo Química Arena",
+     "Itaquerão"
+    ],
+    "lang": "pt",
+    "titulo": "Neo Química Arena",
+    "views": 5232,
+    "vpt": 2598,
+    "ven": 2634,
+    "peso": 2914.08,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estádio San Siro",
+    "grafias": [
+     "San Siro",
+     "Giuseppe Meazza",
+     "Estádio Giuseppe Meazza"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Giuseppe Meazza",
+    "views": 2691,
+    "vpt": 2691,
+    "ven": 0,
+    "peso": 2691.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estádio Vila Belmiro",
+    "grafias": [
+     "Vila Belmiro",
+     "Estádio Urbano Caldeira"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Urbano Caldeira",
+    "views": 4343,
+    "vpt": 2247,
+    "ven": 2096,
+    "peso": 2498.52,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arena do Grêmio",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Arena do Grêmio",
+    "views": 3580,
+    "vpt": 2140,
+    "ven": 1440,
+    "peso": 2312.8,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arena Fonte Nova",
+    "grafias": [
+     "Fonte Nova"
+    ],
+    "lang": "pt",
+    "titulo": "Arena Fonte Nova",
+    "views": 3320,
+    "vpt": 1989,
+    "ven": 1331,
+    "peso": 2148.72,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estádio Beira-Rio",
+    "grafias": [
+     "Beira-Rio"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Beira-Rio",
+    "views": 3652,
+    "vpt": 1935,
+    "ven": 1717,
+    "peso": 2141.04,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mineirão",
+    "grafias": [
+     "Estádio Governador Magalhães Pinto"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Governador Magalhães Pinto",
+    "views": 4444,
+    "vpt": 1668,
+    "ven": 2776,
+    "peso": 2001.12,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Signal Iduna Park",
+    "grafias": [
+     "Westfalenstadion"
+    ],
+    "lang": "pt",
+    "titulo": "Signal Iduna Park",
+    "views": 11686,
+    "vpt": 660,
+    "ven": 11026,
+    "peso": 1983.12,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estádio do Pacaembu",
+    "grafias": [
+     "Pacaembu",
+     "Estádio Municipal Paulo Machado de Carvalho"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Municipal Paulo Machado de Carvalho",
+    "views": 2816,
+    "vpt": 1770,
+    "ven": 1046,
+    "peso": 1895.52,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estádio do Dragão",
+    "grafias": [
+     "Dragão"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio do Dragão",
+    "views": 5891,
+    "vpt": 1341,
+    "ven": 4550,
+    "peso": 1887.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estádio Municipal de Braga",
+    "grafias": [
+     "Pedreira"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Municipal de Braga",
+    "views": 4937,
+    "vpt": 1437,
+    "ven": 3500,
+    "peso": 1857.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arena da Baixada",
+    "grafias": [
+     "Ligga Arena",
+     "Estádio Mário Celso Petraglia"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Mário Celso Petraglia",
+    "views": 3385,
+    "vpt": 1600,
+    "ven": 1785,
+    "peso": 1814.2,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estádio Nacional de Brasília Mané Garrincha",
+    "grafias": [
+     "Mané Garrincha"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Nacional de Brasília Mané Garrincha",
+    "views": 1620,
+    "vpt": 1620,
+    "ven": 0,
+    "peso": 1620.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arena Pernambuco",
+    "grafias": [
+     "Arena de Pernambuco"
+    ],
+    "lang": "pt",
+    "titulo": "Arena de Pernambuco",
+    "views": 2082,
+    "vpt": 1239,
+    "ven": 843,
+    "peso": 1340.16,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arena da Amazônia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Arena da Amazônia",
+    "views": 2468,
+    "vpt": 1186,
+    "ven": 1282,
+    "peso": 1339.84,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estádio Castelão (Ceará)",
+    "grafias": [
+     "Castelão",
+     "Estádio Governador Plácido Castelo"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Governador Plácido Castelo",
+    "views": 1710,
+    "vpt": 1287,
+    "ven": 423,
+    "peso": 1337.76,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Olímpico de Atenas",
+    "grafias": [
+     "Olympic Stadium"
+    ],
+    "lang": "en",
+    "titulo": "Olympic Stadium (Athens)",
+    "views": 7259,
+    "vpt": 0,
+    "ven": 7259,
+    "peso": 1306.62,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Santiago Bernabéu",
+    "grafias": [
+     "Bernabéu",
+     "Santiago Bernabéu",
+     "Estádio Bernabéu"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Bernabéu",
+    "views": 1162,
+    "vpt": 1162,
+    "ven": 0,
+    "peso": 1162.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Mangueirão",
+    "grafias": [
+     "Mangueirão"
+    ],
+    "lang": "pt",
+    "titulo": "Mangueirão",
+    "views": 1830,
+    "vpt": 991,
+    "ven": 839,
+    "peso": 1091.68,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Serra Dourada",
+    "grafias": [
+     "Serra Dourada"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Serra Dourada",
+    "views": 1239,
+    "vpt": 1036,
+    "ven": 203,
+    "peso": 1060.36,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Lusail",
+    "grafias": [
+     "Lusail",
+     "Lusail Stadium"
+    ],
+    "lang": "en",
+    "titulo": "Lusail Stadium",
+    "views": 4665,
+    "vpt": 0,
+    "ven": 4665,
+    "peso": 839.6999999999999,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Nacional do Japão",
+    "grafias": [
+     "Japan National Stadium"
+    ],
+    "lang": "en",
+    "titulo": "Japan National Stadium",
+    "views": 4659,
+    "vpt": 0,
+    "ven": 4659,
+    "peso": 838.6199999999999,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Wembley",
+    "grafias": [
+     "Estádio de Wembley"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio de Wembley",
+    "views": 737,
+    "vpt": 737,
+    "ven": 0,
+    "peso": 737.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Rei Pelé",
+    "grafias": [
+     "Trapichão"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Rei Pelé",
+    "views": 954,
+    "vpt": 683,
+    "ven": 271,
+    "peso": 715.52,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Azteca",
+    "grafias": [
+     "Azteca"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Azteca",
+    "views": 651,
+    "vpt": 651,
+    "ven": 0,
+    "peso": 651.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Olímpico de Berlim",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Estádio Olímpico de Berlim",
+    "views": 372,
+    "vpt": 372,
+    "ven": 0,
+    "peso": 372.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio Monumental de Núñez",
+    "grafias": [
+     "Monumental de Núñez",
+     "Monumental",
+     "Estadio Monumental"
+    ],
+    "lang": "pt",
+    "titulo": "Estadio Monumental (Buenos Aires)",
+    "views": 341,
+    "vpt": 341,
+    "ven": 0,
+    "peso": 341.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estádio 974",
+    "grafias": [
+     "974",
+     "Stadium 974"
+    ],
+    "lang": "en",
+    "titulo": "Stadium 974",
+    "views": 1887,
+    "vpt": 0,
+    "ven": 1887,
+    "peso": 339.65999999999997,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Estádio Olímpico de Munique",
+    "grafias": [
+     "Olympiastadion Munique"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Olímpico de Munique",
+    "views": 326,
+    "vpt": 326,
+    "ven": 0,
+    "peso": 326.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Estádio Panathinaiko",
+    "grafias": [
+     "Panathinaiko",
+     "Kallimarmaro",
+     "Estádio Panatenaico"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Panatenaico",
+    "views": 303,
+    "vpt": 303,
+    "ven": 0,
+    "peso": 303.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Estádio Al Janoub",
+    "grafias": [
+     "Al Janoub Stadium"
+    ],
+    "lang": "en",
+    "titulo": "Al Janoub Stadium",
+    "views": 1319,
+    "vpt": 0,
+    "ven": 1319,
+    "peso": 237.42000000000002,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ginásio Nacional de Yoyogi",
+    "grafias": [
+     "Yoyogi",
+     "Yoyogi National Stadium"
+    ],
+    "lang": "en",
+    "titulo": "Yoyogi National Stadium",
+    "views": 1234,
+    "vpt": 0,
+    "ven": 1234,
+    "peso": 222.11999999999998,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Estádio Olímpico Lluís Companys",
+    "grafias": [
+     "Lluís Companys"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Olímpico Lluís Companys",
+    "views": 201,
+    "vpt": 201,
+    "ven": 0,
+    "peso": 201.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Estádio Nacional de Pequim",
+    "grafias": [
+     "Ninho de Pássaro",
+     "Ninho do Pássaro",
+     "Bird's Nest"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Nacional de Pequim",
+    "views": 170,
+    "vpt": 170,
+    "ven": 0,
+    "peso": 170.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Estádio Olímpico de Montreal",
+    "grafias": [
+     "Estádio Olímpico (Montreal)"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Olímpico de Montreal",
+    "views": 72,
+    "vpt": 72,
+    "ven": 0,
+    "peso": 72.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-027": {
+  "pergunta": "Uma obra tombada pelo Iphan",
+  "linhas": [
+   {
+    "nome": "Cristo Redentor",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cristo Redentor",
+    "views": 8542,
+    "vpt": 8542,
+    "ven": 0,
+    "peso": 8542.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Estádio do Maracanã",
+    "grafias": [
+     "Maracanã",
+     "Estádio Jornalista Mário Filho"
+    ],
+    "lang": "pt",
+    "titulo": "Estádio Jornalista Mário Filho",
+    "views": 5108,
+    "vpt": 5108,
+    "ven": 0,
+    "peso": 5108.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Edifício Copan",
+    "grafias": [
+     "Copan"
+    ],
+    "lang": "pt",
+    "titulo": "Edifício Copan",
+    "views": 3947,
+    "vpt": 3947,
+    "ven": 0,
+    "peso": 3947.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Palácio do Catete",
+    "grafias": [
+     "Catete"
+    ],
+    "lang": "pt",
+    "titulo": "Palácio do Catete",
+    "views": 3544,
+    "vpt": 3544,
+    "ven": 0,
+    "peso": 3544.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Teatro Amazonas",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Teatro Amazonas",
+    "views": 3256,
+    "vpt": 3256,
+    "ven": 0,
+    "peso": 3256.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu de Arte de São Paulo",
+    "grafias": [
+     "MASP"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte de São Paulo",
+    "views": 4522,
+    "vpt": 2491,
+    "ven": 2031,
+    "peso": 2734.72,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu Paulista",
+    "grafias": [
+     "Museu do Ipiranga"
+    ],
+    "lang": "pt",
+    "titulo": "Museu do Ipiranga",
+    "views": 2642,
+    "vpt": 2642,
+    "ven": 0,
+    "peso": 2642.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Igreja de São Francisco de Assis (Ouro Preto)",
+    "grafias": [
+     "São Francisco de Ouro Preto",
+     "Igreja de São Francisco de Assis"
+    ],
+    "lang": "pt",
+    "titulo": "Igreja de São Francisco de Assis (Ouro Preto)",
+    "views": 1824,
+    "vpt": 1824,
+    "ven": 0,
+    "peso": 1824.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Santuário do Bom Jesus de Matosinhos",
+    "grafias": [
+     "Bom Jesus de Matosinhos",
+     "Congonhas"
+    ],
+    "lang": "pt",
+    "titulo": "Santuário do Bom Jesus de Matosinhos",
+    "views": 1850,
+    "vpt": 1715,
+    "ven": 135,
+    "peso": 1731.2,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Catedral Metropolitana de Brasília",
+    "grafias": [
+     "Catedral de Brasília"
+    ],
+    "lang": "pt",
+    "titulo": "Catedral Metropolitana de Brasília",
+    "views": 1698,
+    "vpt": 1698,
+    "ven": 0,
+    "peso": 1698.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Estação da Luz",
+    "grafias": [
+     "Luz"
+    ],
+    "lang": "pt",
+    "titulo": "Estação da Luz",
+    "views": 1569,
+    "vpt": 1569,
+    "ven": 0,
+    "peso": 1569.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Elevador Lacerda",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Elevador Lacerda",
+    "views": 1764,
+    "vpt": 1536,
+    "ven": 228,
+    "peso": 1563.36,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Biblioteca Nacional (Brasil)",
+    "grafias": [
+     "Biblioteca Nacional",
+     "Biblioteca Nacional do Brasil"
+    ],
+    "lang": "pt",
+    "titulo": "Biblioteca Nacional do Brasil",
+    "views": 1552,
+    "vpt": 1552,
+    "ven": 0,
+    "peso": 1552.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte Hercílio Luz",
+    "grafias": [
+     "Hercílio Luz"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Hercílio Luz",
+    "views": 1432,
+    "vpt": 1432,
+    "ven": 0,
+    "peso": 1432.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arcos da Lapa",
+    "grafias": [
+     "Aqueduto da Carioca"
+    ],
+    "lang": "pt",
+    "titulo": "Aqueduto da Carioca",
+    "views": 1780,
+    "vpt": 1244,
+    "ven": 536,
+    "peso": 1308.32,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mosteiro de São Bento (São Paulo)",
+    "grafias": [
+     "Mosteiro de São Bento"
+    ],
+    "lang": "pt",
+    "titulo": "Mosteiro de São Bento (São Paulo)",
+    "views": 1298,
+    "vpt": 1298,
+    "ven": 0,
+    "peso": 1298.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Parque do Flamengo",
+    "grafias": [
+     "Aterro do Flamengo"
+    ],
+    "lang": "pt",
+    "titulo": "Aterro do Flamengo",
+    "views": 1143,
+    "vpt": 1143,
+    "ven": 0,
+    "peso": 1143.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mercado Ver-o-Peso",
+    "grafias": [
+     "Ver-o-Peso"
+    ],
+    "lang": "pt",
+    "titulo": "Mercado Ver-o-Peso",
+    "views": 1279,
+    "vpt": 1102,
+    "ven": 177,
+    "peso": 1123.24,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Palácio Gustavo Capanema",
+    "grafias": [
+     "Capanema",
+     "MEC",
+     "Edifício Gustavo Capanema"
+    ],
+    "lang": "pt",
+    "titulo": "Edifício Gustavo Capanema",
+    "views": 1121,
+    "vpt": 1121,
+    "ven": 0,
+    "peso": 1121.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Paço Imperial",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Paço Imperial",
+    "views": 1093,
+    "vpt": 1093,
+    "ven": 0,
+    "peso": 1093.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pinacoteca do Estado de São Paulo",
+    "grafias": [
+     "Pinacoteca",
+     "Pinacoteca de São Paulo"
+    ],
+    "lang": "pt",
+    "titulo": "Pinacoteca de São Paulo",
+    "views": 1082,
+    "vpt": 1082,
+    "ven": 0,
+    "peso": 1082.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Igreja São Francisco de Assis (Belo Horizonte)",
+    "grafias": [
+     "Igreja da Pampulha",
+     "Igreja de São Francisco de Assis"
+    ],
+    "lang": "pt",
+    "titulo": "Igreja de São Francisco de Assis (Belo Horizonte)",
+    "views": 995,
+    "vpt": 995,
+    "ven": 0,
+    "peso": 995.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ilha Fiscal",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ilha Fiscal",
+    "views": 948,
+    "vpt": 948,
+    "ven": 0,
+    "peso": 948.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Forte dos Reis Magos",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Forte dos Reis Magos",
+    "views": 1086,
+    "vpt": 903,
+    "ven": 183,
+    "peso": 924.96,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Igreja e Convento de São Francisco (Salvador)",
+    "grafias": [
+     "São Francisco de Salvador",
+     "Igreja e Convento de São Francisco"
+    ],
+    "lang": "pt",
+    "titulo": "Igreja e Convento de São Francisco (Salvador)",
+    "views": 826,
+    "vpt": 826,
+    "ven": 0,
+    "peso": 826.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Jardim Botânico do Rio de Janeiro",
+    "grafias": [
+     "Jardim Botânico"
+    ],
+    "lang": "pt",
+    "titulo": "Jardim Botânico do Rio de Janeiro",
+    "views": 1272,
+    "vpt": 744,
+    "ven": 528,
+    "peso": 807.36,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Sítio Roberto Burle Marx",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sítio Roberto Burle Marx",
+    "views": 2726,
+    "vpt": 538,
+    "ven": 2188,
+    "peso": 800.56,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Real Gabinete Português de Leitura",
+    "grafias": [
+     "Real Gabinete"
+    ],
+    "lang": "pt",
+    "titulo": "Real Gabinete Português de Leitura",
+    "views": 798,
+    "vpt": 798,
+    "ven": 0,
+    "peso": 798.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Palácio Tiradentes",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Palácio Tiradentes",
+    "views": 782,
+    "vpt": 782,
+    "ven": 0,
+    "peso": 782.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casa da Torre de Garcia d'Ávila",
+    "grafias": [
+     "Casa da Torre"
+    ],
+    "lang": "pt",
+    "titulo": "Casa da Torre",
+    "views": 767,
+    "vpt": 767,
+    "ven": 0,
+    "peso": 767.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mosteiro de São Bento (Rio de Janeiro)",
+    "grafias": [
+     "Mosteiro de São Bento"
+    ],
+    "lang": "pt",
+    "titulo": "Mosteiro de São Bento (Rio de Janeiro)",
+    "views": 629,
+    "vpt": 629,
+    "ven": 0,
+    "peso": 629.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Teatro Oficina",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Teatro Oficina",
+    "views": 893,
+    "vpt": 570,
+    "ven": 323,
+    "peso": 608.76,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Theatro da Paz",
+    "grafias": [
+     "Teatro da Paz"
+    ],
+    "lang": "pt",
+    "titulo": "Theatro da Paz",
+    "views": 800,
+    "vpt": 573,
+    "ven": 227,
+    "peso": 600.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "SESC Pompeia",
+    "grafias": [
+     "Sesc Pompeia"
+    ],
+    "lang": "pt",
+    "titulo": "Sesc Pompeia",
+    "views": 553,
+    "vpt": 553,
+    "ven": 0,
+    "peso": 553.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Forte de Copacabana",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Forte de Copacabana",
+    "views": 533,
+    "vpt": 533,
+    "ven": 0,
+    "peso": 533.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu Nacional de Belas Artes (Brasil)",
+    "grafias": [
+     "Museu Nacional de Belas Artes"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Nacional de Belas Artes (Brasil)",
+    "views": 854,
+    "vpt": 484,
+    "ven": 370,
+    "peso": 528.4,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Igreja de Nossa Senhora do Rosário dos Pretos (Salvador)",
+    "grafias": [
+     "Rosário dos Pretos",
+     "Igreja de Nossa Senhora do Rosário dos Pretos"
+    ],
+    "lang": "pt",
+    "titulo": "Igreja de Nossa Senhora do Rosário dos Pretos (Salvador)",
+    "views": 528,
+    "vpt": 528,
+    "ven": 0,
+    "peso": 528.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Mercado Modelo (Salvador)",
+    "grafias": [
+     "Mercado Modelo"
+    ],
+    "lang": "pt",
+    "titulo": "Mercado Modelo",
+    "views": 354,
+    "vpt": 354,
+    "ven": 0,
+    "peso": 354.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Edifício Esther",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Edifício Esther",
+    "views": 270,
+    "vpt": 270,
+    "ven": 0,
+    "peso": 270.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Casa de Vidro (São Paulo)",
+    "grafias": [
+     "Casa de Vidro"
+    ],
+    "lang": "pt",
+    "titulo": "Casa de Vidro (São Paulo)",
+    "views": 261,
+    "vpt": 261,
+    "ven": 0,
+    "peso": 261.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Igreja de São Francisco (Recife)",
+    "grafias": [
+     "Capela Dourada"
+    ],
+    "lang": "pt",
+    "titulo": "Capela Dourada",
+    "views": 228,
+    "vpt": 228,
+    "ven": 0,
+    "peso": 228.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Casa das Canoas",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Casa das Canoas",
+    "views": 150,
+    "vpt": 150,
+    "ven": 0,
+    "peso": 150.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-028": {
+  "pergunta": "Um Patrimônio Mundial da Unesco no Brasil",
+  "linhas": [
+   {
+    "nome": "Brasília",
+    "grafias": [
+     "Plano Piloto",
+     "Plano Piloto de Brasília"
+    ],
+    "lang": "pt",
+    "titulo": "Brasília",
+    "views": 60271,
+    "vpt": 15677,
+    "ven": 44594,
+    "peso": 21028.28,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Parque Nacional dos Lençóis Maranhenses",
+    "grafias": [
+     "Lençóis Maranhenses"
+    ],
+    "lang": "pt",
+    "titulo": "Parque Nacional dos Lençóis Maranhenses",
+    "views": 14180,
+    "vpt": 5042,
+    "ven": 9138,
+    "peso": 6138.5599999999995,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Parque Nacional Serra da Capivara",
+    "grafias": [
+     "Serra da Capivara"
+    ],
+    "lang": "pt",
+    "titulo": "Parque Nacional Serra da Capivara",
+    "views": 2993,
+    "vpt": 2993,
+    "ven": 0,
+    "peso": 2993.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cais do Valongo",
+    "grafias": [
+     "Valongo"
+    ],
+    "lang": "pt",
+    "titulo": "Cais do Valongo",
+    "views": 3311,
+    "vpt": 2889,
+    "ven": 422,
+    "peso": 2939.64,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Área de Conservação do Pantanal",
+    "grafias": [
+     "Pantanal"
+    ],
+    "lang": "en",
+    "titulo": "Pantanal",
+    "views": 9716,
+    "vpt": 0,
+    "ven": 9716,
+    "peso": 1748.8799999999997,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Santuário do Bom Jesus de Matosinhos",
+    "grafias": [
+     "Bom Jesus de Matosinhos",
+     "Congonhas"
+    ],
+    "lang": "pt",
+    "titulo": "Santuário do Bom Jesus de Matosinhos",
+    "views": 1850,
+    "vpt": 1715,
+    "ven": 135,
+    "peso": 1731.2,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Parque Nacional do Iguaçu",
+    "grafias": [
+     "Iguaçu",
+     "Cataratas do Iguaçu"
+    ],
+    "lang": "pt",
+    "titulo": "Parque Nacional do Iguaçu",
+    "views": 2264,
+    "vpt": 792,
+    "ven": 1472,
+    "peso": 968.64,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Sítio Roberto Burle Marx",
+    "grafias": [
+     "Sítio Burle Marx"
+    ],
+    "lang": "pt",
+    "titulo": "Sítio Roberto Burle Marx",
+    "views": 2726,
+    "vpt": 538,
+    "ven": 2188,
+    "peso": 800.56,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Costa do Descobrimento",
+    "grafias": [
+     "Reservas da Mata Atlântica da Costa do Descobrimento",
+     "Atlantic Forest"
+    ],
+    "lang": "en",
+    "titulo": "Atlantic Forest",
+    "views": 3761,
+    "vpt": 0,
+    "ven": 3761,
+    "peso": 676.98,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Centro Histórico de Salvador",
+    "grafias": [
+     "Pelourinho",
+     "Salvador"
+    ],
+    "lang": "pt",
+    "titulo": "Centro Histórico de Salvador",
+    "views": 511,
+    "vpt": 511,
+    "ven": 0,
+    "peso": 511.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Centro Histórico de Olinda",
+    "grafias": [
+     "Olinda"
+    ],
+    "lang": "pt",
+    "titulo": "Centro Histórico de Olinda",
+    "views": 488,
+    "vpt": 488,
+    "ven": 0,
+    "peso": 488.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Centro Histórico de São Luís",
+    "grafias": [
+     "São Luís"
+    ],
+    "lang": "pt",
+    "titulo": "Centro Histórico de São Luís",
+    "views": 433,
+    "vpt": 433,
+    "ven": 0,
+    "peso": 433.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Reservas da Mata Atlântica do Sudeste",
+    "grafias": [
+     "Serra do Mar"
+    ],
+    "lang": "en",
+    "titulo": "Serra do Mar",
+    "views": 1111,
+    "vpt": 0,
+    "ven": 1111,
+    "peso": 199.98,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Centro Histórico de Diamantina",
+    "grafias": [
+     "Diamantina"
+    ],
+    "lang": "pt",
+    "titulo": "Centro Histórico de Diamantina",
+    "views": 130,
+    "vpt": 130,
+    "ven": 0,
+    "peso": 130.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Centro Histórico de Goiás",
+    "grafias": [
+     "Cidade de Goiás",
+     "Goiás Velho",
+     "Goiás, Goiás"
+    ],
+    "lang": "en",
+    "titulo": "Goiás, Goiás",
+    "views": 470,
+    "vpt": 0,
+    "ven": 470,
+    "peso": 84.6,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Complexo de Conservação da Amazônia Central",
+    "grafias": [
+     "Parque Nacional do Jaú",
+     "Jaú National Park"
+    ],
+    "lang": "en",
+    "titulo": "Jaú National Park",
+    "views": 233,
+    "vpt": 0,
+    "ven": 233,
+    "peso": 41.94,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-029": {
+  "pergunta": "Uma obra demolida ou destruída",
+  "linhas": [
+   {
+    "nome": "World Trade Center (1973-2001)",
+    "grafias": [
+     "Torres Gêmeas",
+     "World Trade Center",
+     "WTC"
+    ],
+    "lang": "en",
+    "titulo": "World Trade Center (1973–2001)",
+    "views": 85056,
+    "vpt": 0,
+    "ven": 85056,
+    "peso": 15310.079999999998,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Palácio de Cristal",
+    "grafias": [
+     "Crystal Palace",
+     "The Crystal Palace"
+    ],
+    "lang": "en",
+    "titulo": "The Crystal Palace",
+    "views": 41708,
+    "vpt": 0,
+    "ven": 41708,
+    "peso": 7507.4400000000005,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Muro de Berlim",
+    "grafias": [
+     "Muro"
+    ],
+    "lang": "pt",
+    "titulo": "Muro de Berlim",
+    "views": 6209,
+    "vpt": 6209,
+    "ven": 0,
+    "peso": 6209.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Biblioteca de Alexandria",
+    "grafias": [
+     "Biblioteca de Alexandria"
+    ],
+    "lang": "pt",
+    "titulo": "Biblioteca de Alexandria",
+    "views": 2666,
+    "vpt": 2666,
+    "ven": 0,
+    "peso": 2666.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ponte de Tacoma Narrows",
+    "grafias": [
+     "Tacoma Narrows",
+     "Tacoma Narrows Bridge"
+    ],
+    "lang": "en",
+    "titulo": "Tacoma Narrows Bridge (1940)",
+    "views": 13007,
+    "vpt": 0,
+    "ven": 13007,
+    "peso": 2341.2599999999998,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pruitt-Igoe",
+    "grafias": [
+     "Pruitt Igoe",
+     "Pruitt–Igoe"
+    ],
+    "lang": "en",
+    "titulo": "Pruitt–Igoe",
+    "views": 12147,
+    "vpt": 0,
+    "ven": 12147,
+    "peso": 2186.46,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Colosso de Rodes",
+    "grafias": [
+     "Colosso"
+    ],
+    "lang": "pt",
+    "titulo": "Colosso de Rodes",
+    "views": 1672,
+    "vpt": 1672,
+    "ven": 0,
+    "peso": 1672.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Jardins Suspensos da Babilônia",
+    "grafias": [
+     "Jardins Suspensos"
+    ],
+    "lang": "pt",
+    "titulo": "Jardins Suspensos da Babilónia",
+    "views": 1563,
+    "vpt": 1563,
+    "ven": 0,
+    "peso": 1563.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pennsylvania Station (1910-1963)",
+    "grafias": [
+     "Penn Station",
+     "Pennsylvania Station"
+    ],
+    "lang": "en",
+    "titulo": "Pennsylvania Station (1910–1963)",
+    "views": 8647,
+    "vpt": 0,
+    "ven": 8647,
+    "peso": 1556.4599999999998,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Farol de Alexandria",
+    "grafias": [
+     "Farol de Alexandria"
+    ],
+    "lang": "pt",
+    "titulo": "Farol de Alexandria",
+    "views": 1556,
+    "vpt": 1556,
+    "ven": 0,
+    "peso": 1556.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Templo de Ártemis",
+    "grafias": [
+     "Ártemis"
+    ],
+    "lang": "pt",
+    "titulo": "Templo de Ártemis",
+    "views": 1218,
+    "vpt": 1218,
+    "ven": 0,
+    "peso": 1218.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Hotel Imperial de Tóquio",
+    "grafias": [
+     "Imperial Hotel",
+     "Imperial Hotel, Tokyo"
+    ],
+    "lang": "en",
+    "titulo": "Imperial Hotel, Tokyo",
+    "views": 6338,
+    "vpt": 0,
+    "ven": 6338,
+    "peso": 1140.84,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Les Halles",
+    "grafias": [
+     "Les Halles de Baltard"
+    ],
+    "lang": "en",
+    "titulo": "Les Halles",
+    "views": 5878,
+    "vpt": 0,
+    "ven": 5878,
+    "peso": 1058.04,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Palácio Monroe",
+    "grafias": [
+     "Monroe"
+    ],
+    "lang": "pt",
+    "titulo": "Palácio Monroe",
+    "views": 1319,
+    "vpt": 1001,
+    "ven": 318,
+    "peso": 1039.16,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Palácio da República",
+    "grafias": [
+     "Palast der Republik",
+     "Palace of the Republic, Berlin"
+    ],
+    "lang": "en",
+    "titulo": "Palace of the Republic, Berlin",
+    "views": 5224,
+    "vpt": 0,
+    "ven": 5224,
+    "peso": 940.3199999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mausoléu de Halicarnasso",
+    "grafias": [
+     "Halicarnasso"
+    ],
+    "lang": "pt",
+    "titulo": "Mausoléu de Halicarnasso",
+    "views": 937,
+    "vpt": 937,
+    "ven": 0,
+    "peso": 937.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu Nacional (Brasil)",
+    "grafias": [
+     "Museu Nacional",
+     "Palácio de São Cristóvão"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Nacional (Rio de Janeiro)",
+    "views": 872,
+    "vpt": 872,
+    "ven": 0,
+    "peso": 872.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Morro do Castelo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Morro do Castelo",
+    "views": 848,
+    "vpt": 780,
+    "ven": 68,
+    "peso": 788.16,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Nakagin Capsule Tower",
+    "grafias": [
+     "Nakagin"
+    ],
+    "lang": "en",
+    "titulo": "Nakagin Capsule Tower",
+    "views": 4274,
+    "vpt": 0,
+    "ven": 4274,
+    "peso": 769.3199999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Bastilha",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Bastilha",
+    "views": 757,
+    "vpt": 757,
+    "ven": 0,
+    "peso": 757.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Templo de Bel",
+    "grafias": [
+     "Templo de Bel em Palmira",
+     "Temple of Bel"
+    ],
+    "lang": "en",
+    "titulo": "Temple of Bel",
+    "views": 2575,
+    "vpt": 0,
+    "ven": 2575,
+    "peso": 463.5,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Palácio de Tuileries",
+    "grafias": [
+     "Tulherias",
+     "Palácio das Tulherias"
+    ],
+    "lang": "pt",
+    "titulo": "Palácio das Tulherias",
+    "views": 424,
+    "vpt": 424,
+    "ven": 0,
+    "peso": 424.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Larkin Administration Building",
+    "grafias": [
+     "Larkin Building",
+     "Edifício Larkin"
+    ],
+    "lang": "en",
+    "titulo": "Larkin Administration Building",
+    "views": 2066,
+    "vpt": 0,
+    "ven": 2066,
+    "peso": 371.88,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Robin Hood Gardens",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Robin Hood Gardens",
+    "views": 1969,
+    "vpt": 0,
+    "ven": 1969,
+    "peso": 354.42,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ponte Morandi",
+    "grafias": [
+     "Morandi"
+    ],
+    "lang": "pt",
+    "titulo": "Ponte Morandi",
+    "views": 2088,
+    "vpt": 86,
+    "ven": 2002,
+    "peso": 326.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Edifício Wilton Paes de Almeida",
+    "grafias": [
+     "Wilton Paes de Almeida"
+    ],
+    "lang": "pt",
+    "titulo": "Edifício Wilton Paes de Almeida",
+    "views": 777,
+    "vpt": 251,
+    "ven": 526,
+    "peso": 314.12,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Budas de Bamiyan",
+    "grafias": [
+     "Bamiyan",
+     "Budas de Bamiã"
+    ],
+    "lang": "pt",
+    "titulo": "Budas de Bamiã",
+    "views": 314,
+    "vpt": 314,
+    "ven": 0,
+    "peso": 314.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Igreja de Nossa Senhora do Carmo (Lisboa)",
+    "grafias": [
+     "Convento do Carmo",
+     "Carmo Convent"
+    ],
+    "lang": "en",
+    "titulo": "Carmo Convent",
+    "views": 1491,
+    "vpt": 0,
+    "ven": 1491,
+    "peso": 268.38,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Mesquita de Al-Nuri",
+    "grafias": [
+     "Al-Nuri",
+     "Great Mosque of al-Nuri, Mosul"
+    ],
+    "lang": "en",
+    "titulo": "Great Mosque of al-Nuri, Mosul",
+    "views": 1471,
+    "vpt": 0,
+    "ven": 1471,
+    "peso": 264.78,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Palácio de Verão",
+    "grafias": [
+     "Yuanmingyuan",
+     "Antigo Palácio de Verão"
+    ],
+    "lang": "pt",
+    "titulo": "Antigo Palácio de Verão",
+    "views": 182,
+    "vpt": 182,
+    "ven": 0,
+    "peso": 182.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Pavilhão Philips",
+    "grafias": [
+     "Philips Pavilion"
+    ],
+    "lang": "en",
+    "titulo": "Philips Pavilion",
+    "views": 970,
+    "vpt": 0,
+    "ven": 970,
+    "peso": 174.6,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-030": {
+  "pergunta": "Um pavilhão de exposição ou de feira mundial",
+  "linhas": [
+   {
+    "nome": "Torre Eiffel",
+    "grafias": [
+     "Eiffel"
+    ],
+    "lang": "pt",
+    "titulo": "Torre Eiffel",
+    "views": 132772,
+    "vpt": 6630,
+    "ven": 126142,
+    "peso": 21767.04,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Palácio de Cristal",
+    "grafias": [
+     "Crystal Palace",
+     "The Crystal Palace"
+    ],
+    "lang": "en",
+    "titulo": "The Crystal Palace",
+    "views": 41708,
+    "vpt": 0,
+    "ven": 41708,
+    "peso": 7507.4400000000005,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Space Needle",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Space Needle",
+    "views": 19440,
+    "vpt": 470,
+    "ven": 18970,
+    "peso": 2746.4,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Atomium",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Atomium",
+    "views": 10326,
+    "vpt": 775,
+    "ven": 9551,
+    "peso": 1921.12,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Palácio das Artes Finas (São Francisco)",
+    "grafias": [
+     "Palace of Fine Arts"
+    ],
+    "lang": "en",
+    "titulo": "Palace of Fine Arts",
+    "views": 6728,
+    "vpt": 0,
+    "ven": 6728,
+    "peso": 1211.04,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Habitat 67",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Habitat 67",
+    "views": 9241,
+    "vpt": 87,
+    "ven": 9154,
+    "peso": 1185.48,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Unisphere",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Unisphere",
+    "views": 5749,
+    "vpt": 0,
+    "ven": 5749,
+    "peso": 1034.82,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Grand Palais",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Grand Palais",
+    "views": 6103,
+    "vpt": 304,
+    "ven": 5799,
+    "peso": 999.88,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Biosfera de Montreal",
+    "grafias": [
+     "Biosphère",
+     "Montreal Biosphere"
+    ],
+    "lang": "en",
+    "titulo": "Montreal Biosphere",
+    "views": 3968,
+    "vpt": 0,
+    "ven": 3968,
+    "peso": 714.24,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Petit Palais",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Petit Palais",
+    "views": 2843,
+    "vpt": 102,
+    "ven": 2741,
+    "peso": 430.92,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Torre do Sol",
+    "grafias": [
+     "Tower of the Sun"
+    ],
+    "lang": "en",
+    "titulo": "Tower of the Sun",
+    "views": 1997,
+    "vpt": 0,
+    "ven": 1997,
+    "peso": 359.46,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pavilhão da Serpentine",
+    "grafias": [
+     "Serpentine Pavilion",
+     "Serpentine Galleries"
+    ],
+    "lang": "en",
+    "titulo": "Serpentine Galleries",
+    "views": 1176,
+    "vpt": 0,
+    "ven": 1176,
+    "peso": 211.68,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pavilhão Philips",
+    "grafias": [
+     "Philips Pavilion"
+    ],
+    "lang": "en",
+    "titulo": "Philips Pavilion",
+    "views": 970,
+    "vpt": 0,
+    "ven": 970,
+    "peso": 174.6,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pavilhão de Barcelona",
+    "grafias": [
+     "Pavilhão Alemão de Barcelona",
+     "Barcelona Pavilion"
+    ],
+    "lang": "pt",
+    "titulo": "Pavilhão de Barcelona",
+    "views": 145,
+    "vpt": 145,
+    "ven": 0,
+    "peso": 145.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Galerie des machines",
+    "grafias": [
+     "Galeria das Máquinas"
+    ],
+    "lang": "en",
+    "titulo": "Galerie des machines",
+    "views": 555,
+    "vpt": 0,
+    "ven": 555,
+    "peso": 99.89999999999999,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pavilhão de Glass (Werkbund)",
+    "grafias": [
+     "Glass Pavilion",
+     "Pavilhão de Vidro"
+    ],
+    "lang": "en",
+    "titulo": "Glass Pavilion",
+    "views": 539,
+    "vpt": 0,
+    "ven": 539,
+    "peso": 97.01999999999998,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Pavilhão da Bienal",
+    "grafias": [
+     "Bienal",
+     "Pavilhão Ciccillo Matarazzo",
+     "Fundação Bienal de São Paulo"
+    ],
+    "lang": "pt",
+    "titulo": "Fundação Bienal de São Paulo",
+    "views": 93,
+    "vpt": 93,
+    "ven": 0,
+    "peso": 93.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Pavilhão do Esprit Nouveau",
+    "grafias": [
+     "Esprit Nouveau",
+     "Pavillon de l'Esprit Nouveau"
+    ],
+    "lang": "en",
+    "titulo": "Pavillon de l'Esprit Nouveau",
+    "views": 414,
+    "vpt": 0,
+    "ven": 414,
+    "peso": 74.52,
+    "faixa": "Achado"
+   }
+  ]
+ }
+}

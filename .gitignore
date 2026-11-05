@@ -1,3 +1,5 @@
 ferramentas/acervo/cache/
 __pycache__/
 node_modules/
+ferramentas/achado/cache/
+ferramentas/achado/log_*.txt

@@ -1,0 +1,6185 @@
+{
+ "ach-001": {
+  "pergunta": "Um arquiteto ou arquiteta brasileira modernista",
+  "linhas": [
+   {
+    "nome": "Oscar Niemeyer",
+    "grafias": [
+     "Niemeyer"
+    ],
+    "lang": "pt",
+    "titulo": "Oscar Niemeyer",
+    "views": 17631,
+    "vpt": 7918,
+    "ven": 9713,
+    "peso": 9083.56,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Lina Bo Bardi",
+    "grafias": [
+     "Lina"
+    ],
+    "lang": "pt",
+    "titulo": "Lina Bo Bardi",
+    "views": 4178,
+    "vpt": 2401,
+    "ven": 1777,
+    "peso": 2614.24,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Roberto Burle Marx",
+    "grafias": [
+     "Burle Marx"
+    ],
+    "lang": "pt",
+    "titulo": "Roberto Burle Marx",
+    "views": 4224,
+    "vpt": 2036,
+    "ven": 2188,
+    "peso": 2298.56,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Lúcio Costa",
+    "grafias": [
+     "Lucio Costa"
+    ],
+    "lang": "pt",
+    "titulo": "Lúcio Costa",
+    "views": 2263,
+    "vpt": 1328,
+    "ven": 935,
+    "peso": 1440.2,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Paulo Mendes da Rocha",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Paulo Mendes da Rocha",
+    "views": 1434,
+    "vpt": 968,
+    "ven": 466,
+    "peso": 1023.92,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ruy Ohtake",
+    "grafias": [
+     "Ohtake"
+    ],
+    "lang": "pt",
+    "titulo": "Ruy Ohtake",
+    "views": 923,
+    "vpt": 750,
+    "ven": 173,
+    "peso": 770.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "João Batista Vilanova Artigas",
+    "grafias": [
+     "Vilanova Artigas",
+     "Artigas"
+    ],
+    "lang": "pt",
+    "titulo": "Vilanova Artigas",
+    "views": 670,
+    "vpt": 518,
+    "ven": 152,
+    "peso": 536.24,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Lelé",
+    "grafias": [
+     "João Filgueiras Lima",
+     "João da Gama Filgueiras Lima",
+     "João Filgueiras"
+    ],
+    "lang": "pt",
+    "titulo": "João Filgueiras",
+    "views": 461,
+    "vpt": 375,
+    "ven": 86,
+    "peso": 385.32,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Sérgio Bernardes",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sérgio Bernardes",
+    "views": 335,
+    "vpt": 335,
+    "ven": 0,
+    "peso": 335.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Flávio de Carvalho",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Flávio de Carvalho",
+    "views": 360,
+    "vpt": 298,
+    "ven": 62,
+    "peso": 305.44,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Gregori Warchavchik",
+    "grafias": [
+     "Warchavchik"
+    ],
+    "lang": "pt",
+    "titulo": "Gregori Warchavchik",
+    "views": 352,
+    "vpt": 230,
+    "ven": 122,
+    "peso": 244.64,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Affonso Eduardo Reidy",
+    "grafias": [
+     "Reidy",
+     "Affonso Reidy"
+    ],
+    "lang": "pt",
+    "titulo": "Affonso Eduardo Reidy",
+    "views": 336,
+    "vpt": 228,
+    "ven": 108,
+    "peso": 240.96,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Rino Levi",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Rino Levi",
+    "views": 285,
+    "vpt": 221,
+    "ven": 64,
+    "peso": 228.68,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Zanine Caldas",
+    "grafias": [
+     "José Zanine Caldas"
+    ],
+    "lang": "pt",
+    "titulo": "Zanine Caldas",
+    "views": 234,
+    "vpt": 171,
+    "ven": 63,
+    "peso": 178.56,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Carmen Portinho",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Carmen Portinho",
+    "views": 193,
+    "vpt": 170,
+    "ven": 23,
+    "peso": 172.76,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Attilio Corrêa Lima",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Attilio Corrêa Lima",
+    "views": 139,
+    "vpt": 139,
+    "ven": 0,
+    "peso": 139.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Acácio Gil Borsoi",
+    "grafias": [
+     "Borsoi"
+    ],
+    "lang": "pt",
+    "titulo": "Acácio Gil Borsoi",
+    "views": 124,
+    "vpt": 124,
+    "ven": 0,
+    "peso": 124.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Oswaldo Bratke",
+    "grafias": [
+     "Oswaldo Arthur Bratke"
+    ],
+    "lang": "pt",
+    "titulo": "Oswaldo Arthur Bratke",
+    "views": 113,
+    "vpt": 113,
+    "ven": 0,
+    "peso": 113.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Severiano Mário Porto",
+    "grafias": [
+     "Severiano Porto"
+    ],
+    "lang": "pt",
+    "titulo": "Severiano Mário Porto",
+    "views": 142,
+    "vpt": 109,
+    "ven": 33,
+    "peso": 112.96,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Francisco Bolonha",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Francisco Bolonha",
+    "views": 87,
+    "vpt": 87,
+    "ven": 0,
+    "peso": 87.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Franz Heep",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Franz Heep",
+    "views": 125,
+    "vpt": 74,
+    "ven": 51,
+    "peso": 80.12,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Álvaro Vital Brazil",
+    "grafias": [
+     "Vital Brazil"
+    ],
+    "lang": "pt",
+    "titulo": "Álvaro Vital Brazil",
+    "views": 62,
+    "vpt": 62,
+    "ven": 0,
+    "peso": 62.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Jorge Machado Moreira",
+    "grafias": [
+     "Jorge Moreira"
+    ],
+    "lang": "pt",
+    "titulo": "Jorge Machado Moreira",
+    "views": 53,
+    "vpt": 53,
+    "ven": 0,
+    "peso": 53.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Joaquim Guedes",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Joaquim Guedes",
+    "views": 72,
+    "vpt": 49,
+    "ven": 23,
+    "peso": 51.76,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Carlos Leão",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Carlos Leão",
+    "views": 51,
+    "vpt": 51,
+    "ven": 0,
+    "peso": 51.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Eduardo de Almeida",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Eduardo de Almeida",
+    "views": 44,
+    "vpt": 44,
+    "ven": 0,
+    "peso": 44.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Fábio Penteado",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Fábio Penteado",
+    "views": 37,
+    "vpt": 37,
+    "ven": 0,
+    "peso": 37.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Marcos Konder Netto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Marcos Konder Netto",
+    "views": 37,
+    "vpt": 37,
+    "ven": 0,
+    "peso": 37.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Eduardo Kneese de Mello",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Eduardo Kneese de Mello",
+    "views": 36,
+    "vpt": 36,
+    "ven": 0,
+    "peso": 36.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Henrique Mindlin",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Henrique Mindlin",
+    "views": 34,
+    "vpt": 34,
+    "ven": 0,
+    "peso": 34.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ernani Vasconcellos",
+    "grafias": [
+     "Ernâni Vasconcelos"
+    ],
+    "lang": "pt",
+    "titulo": "Ernâni Vasconcelos",
+    "views": 29,
+    "vpt": 29,
+    "ven": 0,
+    "peso": 29.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Giancarlo Palanti",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Giancarlo Palanti",
+    "views": 22,
+    "vpt": 22,
+    "ven": 0,
+    "peso": 22.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Abelardo de Souza",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Abelardo de Souza",
+    "views": 20,
+    "vpt": 20,
+    "ven": 0,
+    "peso": 20.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-002": {
+  "pergunta": "Uma arquiteta mulher, de qualquer época",
+  "linhas": [
+   {
+    "nome": "Zaha Hadid",
+    "grafias": [
+     "Zaha"
+    ],
+    "lang": "pt",
+    "titulo": "Zaha Hadid",
+    "views": 33368,
+    "vpt": 682,
+    "ven": 32686,
+    "peso": 4604.32,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Neri Oxman",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Neri Oxman",
+    "views": 16654,
+    "vpt": 0,
+    "ven": 16654,
+    "peso": 2997.7200000000003,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lina Bo Bardi",
+    "grafias": [
+     "Lina"
+    ],
+    "lang": "pt",
+    "titulo": "Lina Bo Bardi",
+    "views": 4178,
+    "vpt": 2401,
+    "ven": 1777,
+    "peso": 2614.24,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Eileen Gray",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Eileen Gray",
+    "views": 5071,
+    "vpt": 51,
+    "ven": 5020,
+    "peso": 653.4,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Julia Morgan",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Julia Morgan",
+    "views": 4825,
+    "vpt": 17,
+    "ven": 4808,
+    "peso": 593.9599999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ray Eames",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Ray Eames",
+    "views": 2857,
+    "vpt": 0,
+    "ven": 2857,
+    "peso": 514.26,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Jeanne Gang",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Jeanne Gang",
+    "views": 3252,
+    "vpt": 19,
+    "ven": 3233,
+    "peso": 406.96,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Charlotte Perriand",
+    "grafias": [
+     "Perriand"
+    ],
+    "lang": "pt",
+    "titulo": "Charlotte Perriand",
+    "views": 1730,
+    "vpt": 40,
+    "ven": 1690,
+    "peso": 242.79999999999998,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Marion Mahony Griffin",
+    "grafias": [
+     "Marion Mahony"
+    ],
+    "lang": "en",
+    "titulo": "Marion Mahony Griffin",
+    "views": 1328,
+    "vpt": 0,
+    "ven": 1328,
+    "peso": 239.03999999999996,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Alison Smithson",
+    "grafias": [
+     "Alison and Peter Smithson"
+    ],
+    "lang": "en",
+    "titulo": "Alison and Peter Smithson",
+    "views": 1295,
+    "vpt": 0,
+    "ven": 1295,
+    "peso": 233.10000000000002,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Denise Scott Brown",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Denise Scott Brown",
+    "views": 1230,
+    "vpt": 35,
+    "ven": 1195,
+    "peso": 178.4,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Kazuyo Sejima",
+    "grafias": [
+     "Sejima"
+    ],
+    "lang": "pt",
+    "titulo": "Kazuyo Sejima",
+    "views": 1161,
+    "vpt": 42,
+    "ven": 1119,
+    "peso": 176.28,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Carmen Portinho",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Carmen Portinho",
+    "views": 193,
+    "vpt": 170,
+    "ven": 23,
+    "peso": 172.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Elizabeth Diller",
+    "grafias": [
+     "Liz Diller"
+    ],
+    "lang": "en",
+    "titulo": "Elizabeth Diller",
+    "views": 908,
+    "vpt": 0,
+    "ven": 908,
+    "peso": 163.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ada Louise Huxtable",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Ada Louise Huxtable",
+    "views": 863,
+    "vpt": 0,
+    "ven": 863,
+    "peso": 155.34,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lilly Reich",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lilly Reich",
+    "views": 937,
+    "vpt": 43,
+    "ven": 894,
+    "peso": 150.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Gae Aulenti",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Gae Aulenti",
+    "views": 873,
+    "vpt": 21,
+    "ven": 852,
+    "peso": 123.24,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Margarete Schütte-Lihotzky",
+    "grafias": [
+     "Schütte-Lihotzky",
+     "Grete Lihotzky"
+    ],
+    "lang": "pt",
+    "titulo": "Margarete Schütte-Lihotzky",
+    "views": 757,
+    "vpt": 36,
+    "ven": 721,
+    "peso": 122.52,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Frida Escobedo",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Frida Escobedo",
+    "views": 552,
+    "vpt": 0,
+    "ven": 552,
+    "peso": 99.35999999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Amanda Levete",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Amanda Levete",
+    "views": 502,
+    "vpt": 0,
+    "ven": 502,
+    "peso": 90.35999999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Anne Tyng",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Anne Tyng",
+    "views": 496,
+    "vpt": 0,
+    "ven": 496,
+    "peso": 89.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Marina Tabassum",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Marina Tabassum",
+    "views": 471,
+    "vpt": 0,
+    "ven": 471,
+    "peso": 84.78,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Tatiana Bilbao",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Tatiana Bilbao",
+    "views": 401,
+    "vpt": 0,
+    "ven": 401,
+    "peso": 72.17999999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Natalie de Blois",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Natalie de Blois",
+    "views": 398,
+    "vpt": 0,
+    "ven": 398,
+    "peso": 71.64,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Norma Merrick Sklarek",
+    "grafias": [
+     "Norma Sklarek"
+    ],
+    "lang": "en",
+    "titulo": "Norma Merrick Sklarek",
+    "views": 397,
+    "vpt": 0,
+    "ven": 397,
+    "peso": 71.46000000000001,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Jane Drew",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Jane Drew",
+    "views": 364,
+    "vpt": 0,
+    "ven": 364,
+    "peso": 65.52,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Odile Decq",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Odile Decq",
+    "views": 336,
+    "vpt": 0,
+    "ven": 336,
+    "peso": 60.480000000000004,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Sophia Hayden",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Sophia Hayden",
+    "views": 322,
+    "vpt": 0,
+    "ven": 322,
+    "peso": 57.96,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mariam Kamara",
+    "grafias": [
+     "Mariam Issoufou"
+    ],
+    "lang": "en",
+    "titulo": "Mariam Issoufou",
+    "views": 281,
+    "vpt": 0,
+    "ven": 281,
+    "peso": 50.58,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Benedetta Tagliabue",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Benedetta Tagliabue",
+    "views": 265,
+    "vpt": 0,
+    "ven": 265,
+    "peso": 47.699999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Yvonne Farrell",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Yvonne Farrell",
+    "views": 260,
+    "vpt": 0,
+    "ven": 260,
+    "peso": 46.8,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Eva Jiřičná",
+    "grafias": [
+     "Eva Jiricna"
+    ],
+    "lang": "en",
+    "titulo": "Eva Jiřičná",
+    "views": 253,
+    "vpt": 0,
+    "ven": 253,
+    "peso": 45.54,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Anne Lacaton",
+    "grafias": [
+     "Lacaton"
+    ],
+    "lang": "en",
+    "titulo": "Anne Lacaton",
+    "views": 240,
+    "vpt": 0,
+    "ven": 240,
+    "peso": 43.199999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Patty Hopkins",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Patty Hopkins",
+    "views": 221,
+    "vpt": 0,
+    "ven": 221,
+    "peso": 39.78,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Shelley McNamara",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Shelley McNamara",
+    "views": 204,
+    "vpt": 0,
+    "ven": 204,
+    "peso": 36.72,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lu Wenyu",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Lu Wenyu",
+    "views": 185,
+    "vpt": 0,
+    "ven": 185,
+    "peso": 33.3,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Momoyo Kaijima",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Momoyo Kaijima",
+    "views": 178,
+    "vpt": 0,
+    "ven": 178,
+    "peso": 32.04,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Itsuko Hasegawa",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Itsuko Hasegawa",
+    "views": 153,
+    "vpt": 0,
+    "ven": 153,
+    "peso": 27.54,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Carme Pinós",
+    "grafias": [
+     "Carme Pinos"
+    ],
+    "lang": "en",
+    "titulo": "Carme Pinós",
+    "views": 129,
+    "vpt": 0,
+    "ven": 129,
+    "peso": 23.22,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Gabriela Carrillo",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Gabriela Carrillo",
+    "views": 74,
+    "vpt": 0,
+    "ven": 74,
+    "peso": 13.319999999999999,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Carla Juaçaba",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Carla Juaçaba",
+    "views": 51,
+    "vpt": 0,
+    "ven": 51,
+    "peso": 9.18,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Lotte Stam-Beese",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Lotte Stam-Beese",
+    "views": 48,
+    "vpt": 0,
+    "ven": 48,
+    "peso": 8.64,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-003": {
+  "pergunta": "Um vencedor do Prêmio Pritzker",
+  "linhas": [
+   {
+    "nome": "Oscar Niemeyer",
+    "grafias": [
+     "Niemeyer"
+    ],
+    "lang": "pt",
+    "titulo": "Oscar Niemeyer",
+    "views": 17631,
+    "vpt": 7918,
+    "ven": 9713,
+    "peso": 9083.56,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Zaha Hadid",
+    "grafias": [
+     "Zaha",
+     "Hadid"
+    ],
+    "lang": "pt",
+    "titulo": "Zaha Hadid",
+    "views": 33368,
+    "vpt": 682,
+    "ven": 32686,
+    "peso": 4604.32,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Eduardo Souto de Moura",
+    "grafias": [
+     "Souto de Moura",
+     "Souto Moura"
+    ],
+    "lang": "pt",
+    "titulo": "Eduardo Souto de Moura",
+    "views": 5412,
+    "vpt": 4416,
+    "ven": 996,
+    "peso": 4535.52,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Frank Gehry",
+    "grafias": [
+     "Gehry"
+    ],
+    "lang": "pt",
+    "titulo": "Frank Gehry",
+    "views": 27757,
+    "vpt": 417,
+    "ven": 27340,
+    "peso": 3697.7999999999997,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Álvaro Siza",
+    "grafias": [
+     "Siza",
+     "Alvaro Siza Vieira",
+     "Álvaro Siza Vieira"
+    ],
+    "lang": "pt",
+    "titulo": "Álvaro Siza Vieira",
+    "views": 3692,
+    "vpt": 2154,
+    "ven": 1538,
+    "peso": 2338.56,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Norman Foster",
+    "grafias": [
+     "Foster"
+    ],
+    "lang": "pt",
+    "titulo": "Norman Foster",
+    "views": 13182,
+    "vpt": 303,
+    "ven": 12879,
+    "peso": 1848.48,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "I. M. Pei",
+    "grafias": [
+     "Ieoh Ming Pei",
+     "Pei"
+    ],
+    "lang": "pt",
+    "titulo": "I. M. Pei",
+    "views": 13527,
+    "vpt": 91,
+    "ven": 13436,
+    "peso": 1703.32,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Tadao Ando",
+    "grafias": [
+     "Ando"
+    ],
+    "lang": "pt",
+    "titulo": "Tadao Ando",
+    "views": 10964,
+    "vpt": 393,
+    "ven": 10571,
+    "peso": 1661.52,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Renzo Piano",
+    "grafias": [
+     "Piano"
+    ],
+    "lang": "pt",
+    "titulo": "Renzo Piano",
+    "views": 8036,
+    "vpt": 243,
+    "ven": 7793,
+    "peso": 1178.1599999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Paulo Mendes da Rocha",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Paulo Mendes da Rocha",
+    "views": 1434,
+    "vpt": 968,
+    "ven": 466,
+    "peso": 1023.92,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Jørn Utzon",
+    "grafias": [
+     "Jorn Utzon",
+     "Utzon"
+    ],
+    "lang": "pt",
+    "titulo": "Jørn Utzon",
+    "views": 6788,
+    "vpt": 90,
+    "ven": 6698,
+    "peso": 893.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Rem Koolhaas",
+    "grafias": [
+     "Koolhaas"
+    ],
+    "lang": "pt",
+    "titulo": "Rem Koolhaas",
+    "views": 4785,
+    "vpt": 231,
+    "ven": 4554,
+    "peso": 777.48,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Philip Johnson",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Philip Johnson",
+    "views": 5478,
+    "vpt": 73,
+    "ven": 5405,
+    "peso": 721.6,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Richard Rogers",
+    "grafias": [
+     "Rogers"
+    ],
+    "lang": "pt",
+    "titulo": "Richard Rogers",
+    "views": 5367,
+    "vpt": 48,
+    "ven": 5319,
+    "peso": 686.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Luis Barragán",
+    "grafias": [
+     "Barragan",
+     "Barragán"
+    ],
+    "lang": "pt",
+    "titulo": "Luis Barragán",
+    "views": 3129,
+    "vpt": 125,
+    "ven": 3004,
+    "peso": 485.47999999999996,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Peter Zumthor",
+    "grafias": [
+     "Zumthor"
+    ],
+    "lang": "pt",
+    "titulo": "Peter Zumthor",
+    "views": 3142,
+    "vpt": 97,
+    "ven": 3045,
+    "peso": 462.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Jean Nouvel",
+    "grafias": [
+     "Nouvel"
+    ],
+    "lang": "pt",
+    "titulo": "Jean Nouvel",
+    "views": 2455,
+    "vpt": 108,
+    "ven": 2347,
+    "peso": 389.64,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Francis Kéré",
+    "grafias": [
+     "Kere",
+     "Kéré",
+     "Diébédo Francis Kéré"
+    ],
+    "lang": "pt",
+    "titulo": "Diébédo Francis Kéré",
+    "views": 1781,
+    "vpt": 196,
+    "ven": 1585,
+    "peso": 386.2,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Richard Meier",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Richard Meier",
+    "views": 2829,
+    "vpt": 46,
+    "ven": 2783,
+    "peso": 379.96,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Jacques Herzog",
+    "grafias": [
+     "Herzog",
+     "Herzog e de Meuron",
+     "Pierre de Meuron",
+     "de Meuron",
+     "Herzog & de Meuron"
+    ],
+    "lang": "pt",
+    "titulo": "Herzog & de Meuron",
+    "views": 2604,
+    "vpt": 70,
+    "ven": 2534,
+    "peso": 374.08,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Kenzo Tange",
+    "grafias": [
+     "Tange"
+    ],
+    "lang": "pt",
+    "titulo": "Kenzo Tange",
+    "views": 2480,
+    "vpt": 80,
+    "ven": 2400,
+    "peso": 368.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Robert Venturi",
+    "grafias": [
+     "Venturi"
+    ],
+    "lang": "pt",
+    "titulo": "Robert Venturi",
+    "views": 2180,
+    "vpt": 98,
+    "ven": 2082,
+    "peso": 347.84000000000003,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "David Chipperfield",
+    "grafias": [
+     "Chipperfield"
+    ],
+    "lang": "pt",
+    "titulo": "David Chipperfield",
+    "views": 1949,
+    "vpt": 60,
+    "ven": 1889,
+    "peso": 286.67999999999995,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Balkrishna Doshi",
+    "grafias": [
+     "Doshi",
+     "B. V. Doshi"
+    ],
+    "lang": "pt",
+    "titulo": "Balkrishna Doshi",
+    "views": 2129,
+    "vpt": 18,
+    "ven": 2111,
+    "peso": 271.32,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Toyo Ito",
+    "grafias": [
+     "Ito"
+    ],
+    "lang": "pt",
+    "titulo": "Toyo Ito",
+    "views": 1316,
+    "vpt": 121,
+    "ven": 1195,
+    "peso": 264.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Aldo Rossi",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Aldo Rossi",
+    "views": 1666,
+    "vpt": 70,
+    "ven": 1596,
+    "peso": 261.52,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Shigeru Ban",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Shigeru Ban",
+    "views": 1807,
+    "vpt": 37,
+    "ven": 1770,
+    "peso": 249.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Kazuyo Sejima",
+    "grafias": [
+     "Sejima",
+     "Ryue Nishizawa",
+     "Nishizawa",
+     "SANAA"
+    ],
+    "lang": "en",
+    "titulo": "SANAA",
+    "views": 1328,
+    "vpt": 0,
+    "ven": 1328,
+    "peso": 239.03999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Fumihiko Maki",
+    "grafias": [
+     "Maki"
+    ],
+    "lang": "pt",
+    "titulo": "Fumihiko Maki",
+    "views": 1470,
+    "vpt": 22,
+    "ven": 1448,
+    "peso": 195.76,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Arata Isozaki",
+    "grafias": [
+     "Isozaki"
+    ],
+    "lang": "pt",
+    "titulo": "Arata Isozaki",
+    "views": 1223,
+    "vpt": 36,
+    "ven": 1187,
+    "peso": 178.44,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Frei Otto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Frei Otto",
+    "views": 934,
+    "vpt": 38,
+    "ven": 896,
+    "peso": 145.51999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Glenn Murcutt",
+    "grafias": [
+     "Murcutt"
+    ],
+    "lang": "pt",
+    "titulo": "Glenn Murcutt",
+    "views": 1020,
+    "vpt": 22,
+    "ven": 998,
+    "peso": 141.76,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Alejandro Aravena",
+    "grafias": [
+     "Aravena"
+    ],
+    "lang": "pt",
+    "titulo": "Alejandro Aravena",
+    "views": 734,
+    "vpt": 61,
+    "ven": 673,
+    "peso": 141.76,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Christian de Portzamparc",
+    "grafias": [
+     "Portzamparc"
+    ],
+    "lang": "pt",
+    "titulo": "Christian de Portzamparc",
+    "views": 711,
+    "vpt": 48,
+    "ven": 663,
+    "peso": 127.56,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Gordon Bunshaft",
+    "grafias": [
+     "Bunshaft"
+    ],
+    "lang": "pt",
+    "titulo": "Gordon Bunshaft",
+    "views": 957,
+    "vpt": 13,
+    "ven": 944,
+    "peso": 126.28,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Riken Yamamoto",
+    "grafias": [
+     "Yamamoto"
+    ],
+    "lang": "en",
+    "titulo": "Riken Yamamoto",
+    "views": 670,
+    "vpt": 0,
+    "ven": 670,
+    "peso": 120.6,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Kevin Roche",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Kevin Roche",
+    "views": 944,
+    "vpt": 6,
+    "ven": 938,
+    "peso": 118.56,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Thom Mayne",
+    "grafias": [
+     "Mayne"
+    ],
+    "lang": "pt",
+    "titulo": "Thom Mayne",
+    "views": 879,
+    "vpt": 8,
+    "ven": 871,
+    "peso": 112.52,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Gottfried Böhm",
+    "grafias": [
+     "Bohm",
+     "Böhm"
+    ],
+    "lang": "pt",
+    "titulo": "Gottfried Böhm",
+    "views": 710,
+    "vpt": 23,
+    "ven": 687,
+    "peso": 105.44,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Wang Shu",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Wang Shu",
+    "views": 774,
+    "vpt": 12,
+    "ven": 762,
+    "peso": 103.44,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Liu Jiakun",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Liu Jiakun",
+    "views": 566,
+    "vpt": 0,
+    "ven": 566,
+    "peso": 101.88,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Hans Hollein",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Hans Hollein",
+    "views": 484,
+    "vpt": 14,
+    "ven": 470,
+    "peso": 70.4,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Anne Lacaton",
+    "grafias": [
+     "Lacaton e Vassal",
+     "Jean-Philippe Vassal",
+     "Lacaton & Vassal"
+    ],
+    "lang": "en",
+    "titulo": "Lacaton & Vassal",
+    "views": 366,
+    "vpt": 0,
+    "ven": 366,
+    "peso": 65.88,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "RCR Arquitectes",
+    "grafias": [
+     "RCR",
+     "Rafael Aranda",
+     "Carme Pigem",
+     "Ramon Vilalta"
+    ],
+    "lang": "en",
+    "titulo": "RCR Arquitectes",
+    "views": 192,
+    "vpt": 0,
+    "ven": 192,
+    "peso": 34.56,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "James Stirling",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "James Stirling",
+    "views": 20,
+    "vpt": 20,
+    "ven": 0,
+    "peso": 20.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-004": {
+  "pergunta": "Um arquiteto japonês",
+  "linhas": [
+   {
+    "nome": "Tadao Ando",
+    "grafias": [
+     "Ando"
+    ],
+    "lang": "pt",
+    "titulo": "Tadao Ando",
+    "views": 10964,
+    "vpt": 393,
+    "ven": 10571,
+    "peso": 1661.52,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Kengo Kuma",
+    "grafias": [
+     "Kuma"
+    ],
+    "lang": "pt",
+    "titulo": "Kengo Kuma",
+    "views": 2841,
+    "vpt": 95,
+    "ven": 2746,
+    "peso": 424.52,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Kenzo Tange",
+    "grafias": [
+     "Tange"
+    ],
+    "lang": "pt",
+    "titulo": "Kenzo Tange",
+    "views": 2480,
+    "vpt": 80,
+    "ven": 2400,
+    "peso": 368.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Kisho Kurokawa",
+    "grafias": [
+     "Kurokawa"
+    ],
+    "lang": "pt",
+    "titulo": "Kisho Kurokawa",
+    "views": 2313,
+    "vpt": 28,
+    "ven": 2285,
+    "peso": 302.2,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Toyo Ito",
+    "grafias": [
+     "Ito"
+    ],
+    "lang": "pt",
+    "titulo": "Toyo Ito",
+    "views": 1316,
+    "vpt": 121,
+    "ven": 1195,
+    "peso": 264.4,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Shigeru Ban",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Shigeru Ban",
+    "views": 1807,
+    "vpt": 37,
+    "ven": 1770,
+    "peso": 249.4,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Fumihiko Maki",
+    "grafias": [
+     "Maki"
+    ],
+    "lang": "pt",
+    "titulo": "Fumihiko Maki",
+    "views": 1470,
+    "vpt": 22,
+    "ven": 1448,
+    "peso": 195.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Arata Isozaki",
+    "grafias": [
+     "Isozaki"
+    ],
+    "lang": "pt",
+    "titulo": "Arata Isozaki",
+    "views": 1223,
+    "vpt": 36,
+    "ven": 1187,
+    "peso": 178.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Kazuyo Sejima",
+    "grafias": [
+     "Sejima"
+    ],
+    "lang": "pt",
+    "titulo": "Kazuyo Sejima",
+    "views": 1161,
+    "vpt": 42,
+    "ven": 1119,
+    "peso": 176.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Sou Fujimoto",
+    "grafias": [
+     "Fujimoto"
+    ],
+    "lang": "pt",
+    "titulo": "Sou Fujimoto",
+    "views": 1131,
+    "vpt": 23,
+    "ven": 1108,
+    "peso": 155.96,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Riken Yamamoto",
+    "grafias": [
+     "Yamamoto"
+    ],
+    "lang": "en",
+    "titulo": "Riken Yamamoto",
+    "views": 670,
+    "vpt": 0,
+    "ven": 670,
+    "peso": 120.6,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Yoshio Taniguchi",
+    "grafias": [
+     "Taniguchi"
+    ],
+    "lang": "en",
+    "titulo": "Yoshio Taniguchi",
+    "views": 559,
+    "vpt": 0,
+    "ven": 559,
+    "peso": 100.62,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Shin Takamatsu",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Shin Takamatsu",
+    "views": 493,
+    "vpt": 0,
+    "ven": 493,
+    "peso": 88.74,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ryue Nishizawa",
+    "grafias": [
+     "Nishizawa"
+    ],
+    "lang": "pt",
+    "titulo": "Ryūe Nishizawa",
+    "views": 631,
+    "vpt": 12,
+    "ven": 619,
+    "peso": 86.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Junya Ishigami",
+    "grafias": [
+     "Ishigami",
+     "Jun'ya Ishigami"
+    ],
+    "lang": "en",
+    "titulo": "Jun'ya Ishigami",
+    "views": 469,
+    "vpt": 0,
+    "ven": 469,
+    "peso": 84.42,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Kazuo Shinohara",
+    "grafias": [
+     "Shinohara"
+    ],
+    "lang": "en",
+    "titulo": "Kazuo Shinohara",
+    "views": 398,
+    "vpt": 0,
+    "ven": 398,
+    "peso": 71.64,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Terunobu Fujimori",
+    "grafias": [
+     "Fujimori"
+    ],
+    "lang": "en",
+    "titulo": "Terunobu Fujimori",
+    "views": 330,
+    "vpt": 0,
+    "ven": 330,
+    "peso": 59.400000000000006,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Kiyonori Kikutake",
+    "grafias": [
+     "Kikutake"
+    ],
+    "lang": "en",
+    "titulo": "Kiyonori Kikutake",
+    "views": 324,
+    "vpt": 0,
+    "ven": 324,
+    "peso": 58.31999999999999,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Kunio Maekawa",
+    "grafias": [
+     "Maekawa"
+    ],
+    "lang": "pt",
+    "titulo": "Kunio Maekawa",
+    "views": 406,
+    "vpt": 7,
+    "ven": 399,
+    "peso": 54.879999999999995,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Junzo Yoshimura",
+    "grafias": [
+     "Yoshimura"
+    ],
+    "lang": "en",
+    "titulo": "Junzō Yoshimura",
+    "views": 203,
+    "vpt": 0,
+    "ven": 203,
+    "peso": 36.54,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Togo Murano",
+    "grafias": [
+     "Murano"
+    ],
+    "lang": "en",
+    "titulo": "Togo Murano",
+    "views": 181,
+    "vpt": 0,
+    "ven": 181,
+    "peso": 32.58,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Momoyo Kaijima",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Momoyo Kaijima",
+    "views": 178,
+    "vpt": 0,
+    "ven": 178,
+    "peso": 32.04,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Itsuko Hasegawa",
+    "grafias": [
+     "Hasegawa"
+    ],
+    "lang": "en",
+    "titulo": "Itsuko Hasegawa",
+    "views": 153,
+    "vpt": 0,
+    "ven": 153,
+    "peso": 27.54,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Sutemi Horiguchi",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Sutemi Horiguchi",
+    "views": 41,
+    "vpt": 0,
+    "ven": 41,
+    "peso": 7.38,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Hiroshi Hara",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Hiroshi Hara",
+    "views": 4,
+    "vpt": 0,
+    "ven": 4,
+    "peso": 0.72,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-005": {
+  "pergunta": "Um arquiteto latino-americano que não seja brasileiro",
+  "linhas": [
+   {
+    "nome": "Luis Barragán",
+    "grafias": [
+     "Barragan",
+     "Barragán"
+    ],
+    "lang": "pt",
+    "titulo": "Luis Barragán",
+    "views": 3129,
+    "vpt": 125,
+    "ven": 3004,
+    "peso": 485.47999999999996,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "César Pelli",
+    "grafias": [
+     "Pelli",
+     "Cesar Pelli"
+    ],
+    "lang": "pt",
+    "titulo": "César Pelli",
+    "views": 3606,
+    "vpt": 42,
+    "ven": 3564,
+    "peso": 469.68,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Rafael Viñoly",
+    "grafias": [
+     "Vinoly",
+     "Viñoly"
+    ],
+    "lang": "pt",
+    "titulo": "Rafael Viñoly",
+    "views": 2517,
+    "vpt": 30,
+    "ven": 2487,
+    "peso": 328.44,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Smiljan Radić",
+    "grafias": [
+     "Smiljan Radic",
+     "Radic",
+     "Smiljan Radić Clarke"
+    ],
+    "lang": "en",
+    "titulo": "Smiljan Radić Clarke",
+    "views": 1818,
+    "vpt": 0,
+    "ven": 1818,
+    "peso": 327.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Juan O'Gorman",
+    "grafias": [
+     "O'Gorman"
+    ],
+    "lang": "pt",
+    "titulo": "Juan O'Gorman",
+    "views": 1103,
+    "vpt": 36,
+    "ven": 1067,
+    "peso": 164.04,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Alejandro Aravena",
+    "grafias": [
+     "Aravena"
+    ],
+    "lang": "pt",
+    "titulo": "Alejandro Aravena",
+    "views": 734,
+    "vpt": 61,
+    "ven": 673,
+    "peso": 141.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Frida Escobedo",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Frida Escobedo",
+    "views": 552,
+    "vpt": 0,
+    "ven": 552,
+    "peso": 99.35999999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ricardo Legorreta",
+    "grafias": [
+     "Legorreta"
+    ],
+    "lang": "pt",
+    "titulo": "Ricardo Legorreta",
+    "views": 680,
+    "vpt": 17,
+    "ven": 663,
+    "peso": 96.56,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Félix Candela",
+    "grafias": [
+     "Candela"
+    ],
+    "lang": "pt",
+    "titulo": "Félix Candela",
+    "views": 636,
+    "vpt": 17,
+    "ven": 619,
+    "peso": 91.28,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Abraham Zabludovsky",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Abraham Zabludovsky",
+    "views": 443,
+    "vpt": 0,
+    "ven": 443,
+    "peso": 79.74,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Tatiana Bilbao",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Tatiana Bilbao",
+    "views": 401,
+    "vpt": 0,
+    "ven": 401,
+    "peso": 72.17999999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Eladio Dieste",
+    "grafias": [
+     "Dieste"
+    ],
+    "lang": "pt",
+    "titulo": "Eladio Dieste",
+    "views": 332,
+    "vpt": 33,
+    "ven": 299,
+    "peso": 68.88,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pedro Ramírez Vázquez",
+    "grafias": [
+     "Ramirez Vazquez"
+    ],
+    "lang": "en",
+    "titulo": "Pedro Ramírez Vázquez",
+    "views": 356,
+    "vpt": 0,
+    "ven": 356,
+    "peso": 64.08,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mathias Goeritz",
+    "grafias": [
+     "Goeritz"
+    ],
+    "lang": "en",
+    "titulo": "Mathias Goeritz",
+    "views": 347,
+    "vpt": 0,
+    "ven": 347,
+    "peso": 62.46,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Alberto Kalach",
+    "grafias": [
+     "Kalach"
+    ],
+    "lang": "en",
+    "titulo": "Alberto Kalach",
+    "views": 336,
+    "vpt": 0,
+    "ven": 336,
+    "peso": 60.480000000000004,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Rogelio Salmona",
+    "grafias": [
+     "Salmona"
+    ],
+    "lang": "pt",
+    "titulo": "Rogelio Salmona",
+    "views": 324,
+    "vpt": 24,
+    "ven": 300,
+    "peso": 60.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Clorindo Testa",
+    "grafias": [
+     "Testa"
+    ],
+    "lang": "pt",
+    "titulo": "Clorindo Testa",
+    "views": 246,
+    "vpt": 29,
+    "ven": 217,
+    "peso": 55.04,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Emilio Ambasz",
+    "grafias": [
+     "Ambasz"
+    ],
+    "lang": "en",
+    "titulo": "Emilio Ambasz",
+    "views": 241,
+    "vpt": 0,
+    "ven": 241,
+    "peso": 43.379999999999995,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mario Pani",
+    "grafias": [
+     "Pani"
+    ],
+    "lang": "en",
+    "titulo": "Mario Pani",
+    "views": 224,
+    "vpt": 0,
+    "ven": 224,
+    "peso": 40.32,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Amancio Williams",
+    "grafias": [
+     "Williams"
+    ],
+    "lang": "pt",
+    "titulo": "Amancio Williams",
+    "views": 151,
+    "vpt": 19,
+    "ven": 132,
+    "peso": 34.84,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Simón Vélez",
+    "grafias": [
+     "Simon Velez"
+    ],
+    "lang": "en",
+    "titulo": "Simón Vélez",
+    "views": 186,
+    "vpt": 0,
+    "ven": 186,
+    "peso": 33.480000000000004,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mario Palanti",
+    "grafias": [
+     "Palanti"
+    ],
+    "lang": "en",
+    "titulo": "Mario Palanti",
+    "views": 179,
+    "vpt": 0,
+    "ven": 179,
+    "peso": 32.22,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Alejandro Bustillo",
+    "grafias": [
+     "Bustillo"
+    ],
+    "lang": "en",
+    "titulo": "Alejandro Bustillo",
+    "views": 178,
+    "vpt": 0,
+    "ven": 178,
+    "peso": 32.04,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Carlos Raúl Villanueva",
+    "grafias": [
+     "Villanueva"
+    ],
+    "lang": "en",
+    "titulo": "Carlos Raúl Villanueva",
+    "views": 170,
+    "vpt": 0,
+    "ven": 170,
+    "peso": 30.599999999999998,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Giancarlo Mazzanti",
+    "grafias": [
+     "Mazzanti"
+    ],
+    "lang": "en",
+    "titulo": "Giancarlo Mazzanti",
+    "views": 164,
+    "vpt": 0,
+    "ven": 164,
+    "peso": 29.52,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Agustín Hernández Navarro",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Agustín Hernández Navarro",
+    "views": 146,
+    "vpt": 0,
+    "ven": 146,
+    "peso": 26.28,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Enrique Norten",
+    "grafias": [
+     "Norten"
+    ],
+    "lang": "en",
+    "titulo": "Enrique Norten",
+    "views": 140,
+    "vpt": 0,
+    "ven": 140,
+    "peso": 25.200000000000003,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Teodoro González de León",
+    "grafias": [
+     "Teodoro Gonzalez de Leon"
+    ],
+    "lang": "en",
+    "titulo": "Teodoro González de León",
+    "views": 138,
+    "vpt": 0,
+    "ven": 138,
+    "peso": 24.839999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ricardo Porro",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Ricardo Porro",
+    "views": 135,
+    "vpt": 0,
+    "ven": 135,
+    "peso": 24.299999999999997,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mathias Klotz",
+    "grafias": [
+     "Klotz"
+    ],
+    "lang": "en",
+    "titulo": "Mathias Klotz",
+    "views": 93,
+    "vpt": 0,
+    "ven": 93,
+    "peso": 16.740000000000002,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Antonio Bonet",
+    "grafias": [
+     "Bonet",
+     "Antoni Bonet i Castellana"
+    ],
+    "lang": "en",
+    "titulo": "Antoni Bonet i Castellana",
+    "views": 92,
+    "vpt": 0,
+    "ven": 92,
+    "peso": 16.56,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Juan Sordo Madaleno",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Juan Sordo Madaleno",
+    "views": 84,
+    "vpt": 0,
+    "ven": 84,
+    "peso": 15.120000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mauricio Rocha",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Mauricio Rocha",
+    "views": 83,
+    "vpt": 0,
+    "ven": 83,
+    "peso": 14.939999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Fruto Vivas",
+    "grafias": [
+     "José Vivas"
+    ],
+    "lang": "en",
+    "titulo": "José Vivas",
+    "views": 81,
+    "vpt": 0,
+    "ven": 81,
+    "peso": 14.579999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Gabriela Carrillo",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Gabriela Carrillo",
+    "views": 74,
+    "vpt": 0,
+    "ven": 74,
+    "peso": 13.319999999999999,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Augusto H. Álvarez",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Augusto H. Álvarez",
+    "views": 57,
+    "vpt": 0,
+    "ven": 57,
+    "peso": 10.26,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Julio Vilamajó",
+    "grafias": [
+     "Vilamajo"
+    ],
+    "lang": "en",
+    "titulo": "Julio Vilamajó",
+    "views": 57,
+    "vpt": 0,
+    "ven": 57,
+    "peso": 10.26,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Mario Roberto Álvarez",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Mario Roberto Álvarez",
+    "views": 49,
+    "vpt": 0,
+    "ven": 49,
+    "peso": 8.82,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Fernando Romero",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Fernando Romero",
+    "views": 45,
+    "vpt": 0,
+    "ven": 45,
+    "peso": 8.1,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Emilio Duhart",
+    "grafias": [
+     "Duhart"
+    ],
+    "lang": "en",
+    "titulo": "Emilio Duhart",
+    "views": 43,
+    "vpt": 0,
+    "ven": 43,
+    "peso": 7.74,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-006": {
+  "pergunta": "Um pintor impressionista",
+  "linhas": [
+   {
+    "nome": "Claude Monet",
+    "grafias": [
+     "Monet"
+    ],
+    "lang": "pt",
+    "titulo": "Claude Monet",
+    "views": 59573,
+    "vpt": 3758,
+    "ven": 55815,
+    "peso": 10455.8,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Paul Cézanne",
+    "grafias": [
+     "Cézanne",
+     "Cezanne"
+    ],
+    "lang": "pt",
+    "titulo": "Paul Cézanne",
+    "views": 27862,
+    "vpt": 1111,
+    "ven": 26751,
+    "peso": 4321.12,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Pierre-Auguste Renoir",
+    "grafias": [
+     "Renoir"
+    ],
+    "lang": "pt",
+    "titulo": "Pierre-Auguste Renoir",
+    "views": 27643,
+    "vpt": 1087,
+    "ven": 26556,
+    "peso": 4273.719999999999,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Edgar Degas",
+    "grafias": [
+     "Degas"
+    ],
+    "lang": "pt",
+    "titulo": "Edgar Degas",
+    "views": 20764,
+    "vpt": 1457,
+    "ven": 19307,
+    "peso": 3773.8399999999997,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Édouard Manet",
+    "grafias": [
+     "Manet",
+     "Edouard Manet"
+    ],
+    "lang": "pt",
+    "titulo": "Édouard Manet",
+    "views": 20033,
+    "vpt": 775,
+    "ven": 19258,
+    "peso": 3085.96,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Mary Cassatt",
+    "grafias": [
+     "Cassatt"
+    ],
+    "lang": "pt",
+    "titulo": "Mary Cassatt",
+    "views": 16881,
+    "vpt": 334,
+    "ven": 16547,
+    "peso": 2319.64,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Camille Pissarro",
+    "grafias": [
+     "Pissarro"
+    ],
+    "lang": "pt",
+    "titulo": "Camille Pissarro",
+    "views": 11317,
+    "vpt": 365,
+    "ven": 10952,
+    "peso": 1679.24,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Berthe Morisot",
+    "grafias": [
+     "Morisot"
+    ],
+    "lang": "pt",
+    "titulo": "Berthe Morisot",
+    "views": 10647,
+    "vpt": 279,
+    "ven": 10368,
+    "peso": 1523.1599999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Walter Sickert",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Walter Sickert",
+    "views": 6275,
+    "vpt": 0,
+    "ven": 6275,
+    "peso": 1129.5,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Childe Hassam",
+    "grafias": [
+     "Hassam"
+    ],
+    "lang": "en",
+    "titulo": "Childe Hassam",
+    "views": 5918,
+    "vpt": 0,
+    "ven": 5918,
+    "peso": 1065.24,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Joaquín Sorolla",
+    "grafias": [
+     "Sorolla"
+    ],
+    "lang": "pt",
+    "titulo": "Joaquín Sorolla",
+    "views": 6652,
+    "vpt": 226,
+    "ven": 6426,
+    "peso": 997.12,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Gustave Caillebotte",
+    "grafias": [
+     "Caillebotte"
+    ],
+    "lang": "pt",
+    "titulo": "Gustave Caillebotte",
+    "views": 5403,
+    "vpt": 74,
+    "ven": 5329,
+    "peso": 713.48,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Alfred Sisley",
+    "grafias": [
+     "Sisley"
+    ],
+    "lang": "pt",
+    "titulo": "Alfred Sisley",
+    "views": 4197,
+    "vpt": 147,
+    "ven": 4050,
+    "peso": 633.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Georgina de Albuquerque",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Georgina de Albuquerque",
+    "views": 603,
+    "vpt": 535,
+    "ven": 68,
+    "peso": 543.16,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Eva Gonzalès",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Eva Gonzalès",
+    "views": 2400,
+    "vpt": 0,
+    "ven": 2400,
+    "peso": 432.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Eliseu Visconti",
+    "grafias": [
+     "Visconti"
+    ],
+    "lang": "pt",
+    "titulo": "Eliseu Visconti",
+    "views": 582,
+    "vpt": 410,
+    "ven": 172,
+    "peso": 430.64,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "William Merritt Chase",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "William Merritt Chase",
+    "views": 2063,
+    "vpt": 0,
+    "ven": 2063,
+    "peso": 371.34000000000003,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lovis Corinth",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Lovis Corinth",
+    "views": 1902,
+    "vpt": 0,
+    "ven": 1902,
+    "peso": 342.35999999999996,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Frédéric Bazille",
+    "grafias": [
+     "Bazille"
+    ],
+    "lang": "pt",
+    "titulo": "Frédéric Bazille",
+    "views": 2138,
+    "vpt": 61,
+    "ven": 2077,
+    "peso": 310.24,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Max Liebermann",
+    "grafias": [
+     "Liebermann"
+    ],
+    "lang": "pt",
+    "titulo": "Max Liebermann",
+    "views": 2304,
+    "vpt": 33,
+    "ven": 2271,
+    "peso": 305.52,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Marie Bracquemond",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Marie Bracquemond",
+    "views": 1539,
+    "vpt": 0,
+    "ven": 1539,
+    "peso": 277.02,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Konstantin Korovin",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Konstantin Korovin",
+    "views": 696,
+    "vpt": 0,
+    "ven": 696,
+    "peso": 125.28,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Armand Guillaumin",
+    "grafias": [
+     "Guillaumin"
+    ],
+    "lang": "pt",
+    "titulo": "Armand Guillaumin",
+    "views": 617,
+    "vpt": 18,
+    "ven": 599,
+    "peso": 89.88,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Giuseppe De Nittis",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Giuseppe De Nittis",
+    "views": 483,
+    "vpt": 0,
+    "ven": 483,
+    "peso": 86.94,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Theodore Robinson",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Theodore Robinson",
+    "views": 374,
+    "vpt": 0,
+    "ven": 374,
+    "peso": 67.32,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Jean-Louis Forain",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Jean-Louis Forain",
+    "views": 364,
+    "vpt": 0,
+    "ven": 364,
+    "peso": 65.52,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Philip Wilson Steer",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Philip Wilson Steer",
+    "views": 327,
+    "vpt": 0,
+    "ven": 327,
+    "peso": 58.86,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Gustave Loiseau",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Gustave Loiseau",
+    "views": 277,
+    "vpt": 0,
+    "ven": 277,
+    "peso": 49.86,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Henri Lebasque",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Henri Lebasque",
+    "views": 271,
+    "vpt": 0,
+    "ven": 271,
+    "peso": 48.779999999999994,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Albert Lebourg",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Albert Lebourg",
+    "views": 229,
+    "vpt": 0,
+    "ven": 229,
+    "peso": 41.22,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Federico Zandomeneghi",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Federico Zandomeneghi",
+    "views": 209,
+    "vpt": 0,
+    "ven": 209,
+    "peso": 37.62,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Kitty Kielland",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Kitty Kielland",
+    "views": 199,
+    "vpt": 0,
+    "ven": 199,
+    "peso": 35.82,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Stanislas Lépine",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Stanislas Lépine",
+    "views": 127,
+    "vpt": 0,
+    "ven": 127,
+    "peso": 22.86,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Henri Rouart",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Henri Rouart",
+    "views": 101,
+    "vpt": 0,
+    "ven": 101,
+    "peso": 18.18,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-007": {
+  "pergunta": "Um artista do Renascimento",
+  "linhas": [
+   {
+    "nome": "Leonardo da Vinci",
+    "grafias": [
+     "Leonardo",
+     "Da Vinci"
+    ],
+    "lang": "pt",
+    "titulo": "Leonardo da Vinci",
+    "views": 174853,
+    "vpt": 12381,
+    "ven": 162472,
+    "peso": 31877.64,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Michelangelo",
+    "grafias": [
+     "Michelangelo Buonarroti",
+     "Miguel Ângelo"
+    ],
+    "lang": "pt",
+    "titulo": "Michelangelo",
+    "views": 94734,
+    "vpt": 5724,
+    "ven": 89010,
+    "peso": 16405.199999999997,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Hieronymus Bosch",
+    "grafias": [
+     "Bosch"
+    ],
+    "lang": "pt",
+    "titulo": "Hieronymus Bosch",
+    "views": 59345,
+    "vpt": 1444,
+    "ven": 57901,
+    "peso": 8392.119999999999,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Rafael Sanzio",
+    "grafias": [
+     "Rafael",
+     "Raffaello",
+     "Raphael"
+    ],
+    "lang": "pt",
+    "titulo": "Rafael",
+    "views": 42927,
+    "vpt": 2066,
+    "ven": 40861,
+    "peso": 6969.32,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Sandro Botticelli",
+    "grafias": [
+     "Botticelli"
+    ],
+    "lang": "pt",
+    "titulo": "Sandro Botticelli",
+    "views": 22257,
+    "vpt": 1562,
+    "ven": 20695,
+    "peso": 4045.4,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Albrecht Dürer",
+    "grafias": [
+     "Dürer",
+     "Durer"
+    ],
+    "lang": "pt",
+    "titulo": "Albrecht Dürer",
+    "views": 26501,
+    "vpt": 831,
+    "ven": 25670,
+    "peso": 3911.4,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Jan van Eyck",
+    "grafias": [
+     "Van Eyck"
+    ],
+    "lang": "pt",
+    "titulo": "Jan van Eyck",
+    "views": 23179,
+    "vpt": 644,
+    "ven": 22535,
+    "peso": 3348.2,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Donatello",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Donatello",
+    "views": 16456,
+    "vpt": 966,
+    "ven": 15490,
+    "peso": 2824.8,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Giotto di Bondone",
+    "grafias": [
+     "Giotto"
+    ],
+    "lang": "pt",
+    "titulo": "Giotto di Bondone",
+    "views": 13537,
+    "vpt": 669,
+    "ven": 12868,
+    "peso": 2213.16,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Filippo Brunelleschi",
+    "grafias": [
+     "Brunelleschi"
+    ],
+    "lang": "pt",
+    "titulo": "Filippo Brunelleschi",
+    "views": 10114,
+    "vpt": 641,
+    "ven": 9473,
+    "peso": 1777.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Fra Angelico",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Fra Angelico",
+    "views": 7329,
+    "vpt": 374,
+    "ven": 6955,
+    "peso": 1208.6,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Giorgio Vasari",
+    "grafias": [
+     "Vasari"
+    ],
+    "lang": "pt",
+    "titulo": "Giorgio Vasari",
+    "views": 7068,
+    "vpt": 371,
+    "ven": 6697,
+    "peso": 1174.6399999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Tintoretto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tintoretto",
+    "views": 7632,
+    "vpt": 264,
+    "ven": 7368,
+    "peso": 1148.1599999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Sofonisba Anguissola",
+    "grafias": [
+     "Anguissola"
+    ],
+    "lang": "pt",
+    "titulo": "Sofonisba Anguissola",
+    "views": 5270,
+    "vpt": 297,
+    "ven": 4973,
+    "peso": 893.76,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Andrea Palladio",
+    "grafias": [
+     "Palladio"
+    ],
+    "lang": "pt",
+    "titulo": "Andrea Palladio",
+    "views": 5589,
+    "vpt": 247,
+    "ven": 5342,
+    "peso": 888.04,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Piero della Francesca",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Piero della Francesca",
+    "views": 5573,
+    "vpt": 174,
+    "ven": 5399,
+    "peso": 821.88,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Leon Battista Alberti",
+    "grafias": [
+     "Alberti"
+    ],
+    "lang": "pt",
+    "titulo": "Leon Battista Alberti",
+    "views": 4949,
+    "vpt": 254,
+    "ven": 4695,
+    "peso": 817.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Paolo Veronese",
+    "grafias": [
+     "Veronese"
+    ],
+    "lang": "pt",
+    "titulo": "Paolo Veronese",
+    "views": 4319,
+    "vpt": 269,
+    "ven": 4050,
+    "peso": 755.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Masaccio",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Masaccio",
+    "views": 4167,
+    "vpt": 242,
+    "ven": 3925,
+    "peso": 713.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Andrea del Verrocchio",
+    "grafias": [
+     "Verrocchio"
+    ],
+    "lang": "pt",
+    "titulo": "Andrea del Verrocchio",
+    "views": 4566,
+    "vpt": 177,
+    "ven": 4389,
+    "peso": 703.68,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Giovanni Bellini",
+    "grafias": [
+     "Bellini"
+    ],
+    "lang": "pt",
+    "titulo": "Giovanni Bellini",
+    "views": 4572,
+    "vpt": 139,
+    "ven": 4433,
+    "peso": 670.96,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ticiano",
+    "grafias": [
+     "Tiziano",
+     "Titian",
+     "Tiziano Vecellio"
+    ],
+    "lang": "pt",
+    "titulo": "Ticiano",
+    "views": 597,
+    "vpt": 597,
+    "ven": 0,
+    "peso": 597.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Andrea Mantegna",
+    "grafias": [
+     "Mantegna"
+    ],
+    "lang": "pt",
+    "titulo": "Andrea Mantegna",
+    "views": 3670,
+    "vpt": 117,
+    "ven": 3553,
+    "peso": 543.3599999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pieter Bruegel, o Velho",
+    "grafias": [
+     "Bruegel",
+     "Brueghel",
+     "Pieter Bruegel"
+    ],
+    "lang": "pt",
+    "titulo": "Pieter Bruegel, o Velho",
+    "views": 543,
+    "vpt": 543,
+    "ven": 0,
+    "peso": 543.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Fra Filippo Lippi",
+    "grafias": [
+     "Filippo Lippi"
+    ],
+    "lang": "pt",
+    "titulo": "Fra Filippo Lippi",
+    "views": 3391,
+    "vpt": 104,
+    "ven": 3287,
+    "peso": 498.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Giorgione",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Giorgione",
+    "views": 3551,
+    "vpt": 80,
+    "ven": 3471,
+    "peso": 496.52,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Domenico Ghirlandaio",
+    "grafias": [
+     "Ghirlandaio"
+    ],
+    "lang": "pt",
+    "titulo": "Domenico Ghirlandaio",
+    "views": 3030,
+    "vpt": 131,
+    "ven": 2899,
+    "peso": 478.88,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Donato Bramante",
+    "grafias": [
+     "Bramante"
+    ],
+    "lang": "pt",
+    "titulo": "Donato Bramante",
+    "views": 2596,
+    "vpt": 177,
+    "ven": 2419,
+    "peso": 467.28,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Paolo Uccello",
+    "grafias": [
+     "Uccello"
+    ],
+    "lang": "pt",
+    "titulo": "Paolo Uccello",
+    "views": 2835,
+    "vpt": 88,
+    "ven": 2747,
+    "peso": 417.64,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Perugino",
+    "grafias": [
+     "Pietro Perugino"
+    ],
+    "lang": "pt",
+    "titulo": "Pietro Perugino",
+    "views": 2566,
+    "vpt": 124,
+    "ven": 2442,
+    "peso": 417.03999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Hans Holbein, o Jovem",
+    "grafias": [
+     "Holbein",
+     "Hans Holbein"
+    ],
+    "lang": "pt",
+    "titulo": "Hans Holbein, o Jovem",
+    "views": 409,
+    "vpt": 409,
+    "ven": 0,
+    "peso": 409.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lorenzo Ghiberti",
+    "grafias": [
+     "Ghiberti"
+    ],
+    "lang": "pt",
+    "titulo": "Lorenzo Ghiberti",
+    "views": 2256,
+    "vpt": 91,
+    "ven": 2165,
+    "peso": 350.8,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Carlo Crivelli",
+    "grafias": [
+     "Crivelli"
+    ],
+    "lang": "en",
+    "titulo": "Carlo Crivelli",
+    "views": 1743,
+    "vpt": 0,
+    "ven": 1743,
+    "peso": 313.74,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Correggio",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Correggio",
+    "views": 2270,
+    "vpt": 33,
+    "ven": 2237,
+    "peso": 301.44,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Antonello da Messina",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Antonello da Messina",
+    "views": 2031,
+    "vpt": 58,
+    "ven": 1973,
+    "peso": 294.76,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lucas Cranach, o Velho",
+    "grafias": [
+     "Cranach",
+     "Lucas Cranach"
+    ],
+    "lang": "pt",
+    "titulo": "Lucas Cranach, o Velho",
+    "views": 281,
+    "vpt": 281,
+    "ven": 0,
+    "peso": 281.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pinturicchio",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pinturicchio",
+    "views": 1557,
+    "vpt": 60,
+    "ven": 1497,
+    "peso": 239.64,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Andrea del Sarto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Andrea del Sarto",
+    "views": 1609,
+    "vpt": 33,
+    "ven": 1576,
+    "peso": 222.12,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Benvenuto Cellini",
+    "grafias": [
+     "Cellini"
+    ],
+    "lang": "pt",
+    "titulo": "Benvenuto Cellini",
+    "views": 166,
+    "vpt": 166,
+    "ven": 0,
+    "peso": 166.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Luca della Robbia",
+    "grafias": [
+     "Della Robbia"
+    ],
+    "lang": "pt",
+    "titulo": "Luca della Robbia",
+    "views": 1069,
+    "vpt": 37,
+    "ven": 1032,
+    "peso": 160.83999999999997,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Rogier van der Weyden",
+    "grafias": [
+     "Van der Weyden"
+    ],
+    "lang": "pt",
+    "titulo": "Rogier van der Weyden",
+    "views": 106,
+    "vpt": 106,
+    "ven": 0,
+    "peso": 106.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Bronzino",
+    "grafias": [
+     "Agnolo Bronzino"
+    ],
+    "lang": "pt",
+    "titulo": "Agnolo Bronzino",
+    "views": 102,
+    "vpt": 102,
+    "ven": 0,
+    "peso": 102.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Parmigianino",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Parmigianino",
+    "views": 80,
+    "vpt": 80,
+    "ven": 0,
+    "peso": 80.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Jacopo della Quercia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Jacopo della Quercia",
+    "views": 363,
+    "vpt": 14,
+    "ven": 349,
+    "peso": 55.879999999999995,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-008": {
+  "pergunta": "Um artista brasileiro do século 20",
+  "linhas": [
+   {
+    "nome": "Tarsila do Amaral",
+    "grafias": [
+     "Tarsila"
+    ],
+    "lang": "pt",
+    "titulo": "Tarsila do Amaral",
+    "views": 14950,
+    "vpt": 13343,
+    "ven": 1607,
+    "peso": 13535.84,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Candido Portinari",
+    "grafias": [
+     "Portinari",
+     "Cândido Portinari"
+    ],
+    "lang": "pt",
+    "titulo": "Candido Portinari",
+    "views": 5882,
+    "vpt": 4893,
+    "ven": 989,
+    "peso": 5011.68,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Anita Malfatti",
+    "grafias": [
+     "Malfatti"
+    ],
+    "lang": "pt",
+    "titulo": "Anita Malfatti",
+    "views": 3859,
+    "vpt": 3428,
+    "ven": 431,
+    "peso": 3479.72,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Sebastião Salgado",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sebastião Salgado",
+    "views": 5704,
+    "vpt": 2201,
+    "ven": 3503,
+    "peso": 2621.36,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Burle Marx",
+    "grafias": [
+     "Roberto Burle Marx"
+    ],
+    "lang": "pt",
+    "titulo": "Roberto Burle Marx",
+    "views": 4224,
+    "vpt": 2036,
+    "ven": 2188,
+    "peso": 2298.56,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Di Cavalcanti",
+    "grafias": [
+     "Emiliano Di Cavalcanti"
+    ],
+    "lang": "pt",
+    "titulo": "Di Cavalcanti",
+    "views": 2384,
+    "vpt": 2038,
+    "ven": 346,
+    "peso": 2079.52,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Vik Muniz",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vik Muniz",
+    "views": 3082,
+    "vpt": 1918,
+    "ven": 1164,
+    "peso": 2057.68,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Hélio Oiticica",
+    "grafias": [
+     "Oiticica",
+     "Helio Oiticica"
+    ],
+    "lang": "pt",
+    "titulo": "Hélio Oiticica",
+    "views": 2317,
+    "vpt": 1665,
+    "ven": 652,
+    "peso": 1743.24,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Lygia Clark",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lygia Clark",
+    "views": 2127,
+    "vpt": 1266,
+    "ven": 861,
+    "peso": 1369.32,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Heitor dos Prazeres",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Heitor dos Prazeres",
+    "views": 1432,
+    "vpt": 1299,
+    "ven": 133,
+    "peso": 1314.96,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Arthur Bispo do Rosário",
+    "grafias": [
+     "Bispo do Rosário"
+    ],
+    "lang": "pt",
+    "titulo": "Bispo do Rosário",
+    "views": 1277,
+    "vpt": 1033,
+    "ven": 244,
+    "peso": 1062.28,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ismael Nery",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ismael Nery",
+    "views": 1262,
+    "vpt": 1012,
+    "ven": 250,
+    "peso": 1042.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Adriana Varejão",
+    "grafias": [
+     "Varejão"
+    ],
+    "lang": "pt",
+    "titulo": "Adriana Varejão",
+    "views": 1152,
+    "vpt": 933,
+    "ven": 219,
+    "peso": 959.28,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Mestre Vitalino",
+    "grafias": [
+     "Vitalino"
+    ],
+    "lang": "pt",
+    "titulo": "Mestre Vitalino",
+    "views": 944,
+    "vpt": 944,
+    "ven": 0,
+    "peso": 944.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Tomie Ohtake",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tomie Ohtake",
+    "views": 1263,
+    "vpt": 894,
+    "ven": 369,
+    "peso": 938.28,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Alfredo Volpi",
+    "grafias": [
+     "Volpi"
+    ],
+    "lang": "pt",
+    "titulo": "Alfredo Volpi",
+    "views": 999,
+    "vpt": 890,
+    "ven": 109,
+    "peso": 903.08,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Lasar Segall",
+    "grafias": [
+     "Segall"
+    ],
+    "lang": "pt",
+    "titulo": "Lasar Segall",
+    "views": 1134,
+    "vpt": 806,
+    "ven": 328,
+    "peso": 845.36,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Carybé",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Carybé",
+    "views": 926,
+    "vpt": 721,
+    "ven": 205,
+    "peso": 745.6,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cildo Meireles",
+    "grafias": [
+     "Cildo"
+    ],
+    "lang": "pt",
+    "titulo": "Cildo Meireles",
+    "views": 1009,
+    "vpt": 694,
+    "ven": 315,
+    "peso": 731.8,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Beatriz Milhazes",
+    "grafias": [
+     "Milhazes"
+    ],
+    "lang": "pt",
+    "titulo": "Beatriz Milhazes",
+    "views": 1209,
+    "vpt": 635,
+    "ven": 574,
+    "peso": 703.88,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Victor Brecheret",
+    "grafias": [
+     "Brecheret"
+    ],
+    "lang": "pt",
+    "titulo": "Victor Brecheret",
+    "views": 743,
+    "vpt": 637,
+    "ven": 106,
+    "peso": 649.72,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Athos Bulcão",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Athos Bulcão",
+    "views": 693,
+    "vpt": 581,
+    "ven": 112,
+    "peso": 594.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Aldemir Martins",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Aldemir Martins",
+    "views": 576,
+    "vpt": 538,
+    "ven": 38,
+    "peso": 542.56,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Iberê Camargo",
+    "grafias": [
+     "Ibere Camargo"
+    ],
+    "lang": "pt",
+    "titulo": "Iberê Camargo",
+    "views": 545,
+    "vpt": 458,
+    "ven": 87,
+    "peso": 468.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Rubem Valentim",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Rubem Valentim",
+    "views": 549,
+    "vpt": 440,
+    "ven": 109,
+    "peso": 453.08,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Djanira",
+    "grafias": [
+     "Djanira da Motta e Silva"
+    ],
+    "lang": "pt",
+    "titulo": "Djanira",
+    "views": 483,
+    "vpt": 408,
+    "ven": 75,
+    "peso": 417.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lygia Pape",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lygia Pape",
+    "views": 599,
+    "vpt": 305,
+    "ven": 294,
+    "peso": 340.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Manabu Mabe",
+    "grafias": [
+     "Mabe"
+    ],
+    "lang": "pt",
+    "titulo": "Manabu Mabe",
+    "views": 705,
+    "vpt": 279,
+    "ven": 426,
+    "peso": 330.12,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Vicente do Rego Monteiro",
+    "grafias": [
+     "Rego Monteiro"
+    ],
+    "lang": "pt",
+    "titulo": "Vicente do Rego Monteiro",
+    "views": 371,
+    "vpt": 306,
+    "ven": 65,
+    "peso": 313.8,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Flávio de Carvalho",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Flávio de Carvalho",
+    "views": 360,
+    "vpt": 298,
+    "ven": 62,
+    "peso": 305.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Nelson Leirner",
+    "grafias": [
+     "Leirner"
+    ],
+    "lang": "pt",
+    "titulo": "Nelson Leirner",
+    "views": 335,
+    "vpt": 300,
+    "ven": 35,
+    "peso": 304.2,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Siron Franco",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Siron Franco",
+    "views": 338,
+    "vpt": 297,
+    "ven": 41,
+    "peso": 301.92,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Alberto da Veiga Guignard",
+    "grafias": [
+     "Guignard"
+    ],
+    "lang": "pt",
+    "titulo": "Alberto da Veiga Guignard",
+    "views": 325,
+    "vpt": 271,
+    "ven": 54,
+    "peso": 277.48,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Leonilson",
+    "grafias": [
+     "José Leonilson"
+    ],
+    "lang": "pt",
+    "titulo": "Leonilson",
+    "views": 275,
+    "vpt": 275,
+    "ven": 0,
+    "peso": 275.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Abraham Palatnik",
+    "grafias": [
+     "Palatnik"
+    ],
+    "lang": "pt",
+    "titulo": "Abraham Palatnik",
+    "views": 436,
+    "vpt": 250,
+    "ven": 186,
+    "peso": 272.32,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cícero Dias",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cícero Dias",
+    "views": 266,
+    "vpt": 266,
+    "ven": 0,
+    "peso": 266.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Amilcar de Castro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Amilcar de Castro",
+    "views": 271,
+    "vpt": 211,
+    "ven": 60,
+    "peso": 218.2,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ernesto Neto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ernesto Neto",
+    "views": 525,
+    "vpt": 171,
+    "ven": 354,
+    "peso": 213.48,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Oswaldo Goeldi",
+    "grafias": [
+     "Goeldi"
+    ],
+    "lang": "pt",
+    "titulo": "Oswaldo Goeldi",
+    "views": 274,
+    "vpt": 205,
+    "ven": 69,
+    "peso": 213.28,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Rubens Gerchman",
+    "grafias": [
+     "Gerchman"
+    ],
+    "lang": "pt",
+    "titulo": "Rubens Gerchman",
+    "views": 231,
+    "vpt": 166,
+    "ven": 65,
+    "peso": 173.8,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Geraldo de Barros",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Geraldo de Barros",
+    "views": 221,
+    "vpt": 155,
+    "ven": 66,
+    "peso": 162.92,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Regina Silveira",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Regina Silveira",
+    "views": 209,
+    "vpt": 153,
+    "ven": 56,
+    "peso": 159.72,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "José Pancetti",
+    "grafias": [
+     "Pancetti"
+    ],
+    "lang": "pt",
+    "titulo": "José Pancetti",
+    "views": 197,
+    "vpt": 150,
+    "ven": 47,
+    "peso": 155.64,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Claudio Tozzi",
+    "grafias": [
+     "Cláudio Tozzi"
+    ],
+    "lang": "pt",
+    "titulo": "Claudio Tozzi",
+    "views": 187,
+    "vpt": 146,
+    "ven": 41,
+    "peso": 150.92,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mira Schendel",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mira Schendel",
+    "views": 440,
+    "vpt": 111,
+    "ven": 329,
+    "peso": 150.48,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lívio Abramo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lívio Abramo",
+    "views": 133,
+    "vpt": 133,
+    "ven": 0,
+    "peso": 133.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Anna Maria Maiolino",
+    "grafias": [
+     "Maiolino"
+    ],
+    "lang": "pt",
+    "titulo": "Anna Maria Maiolino",
+    "views": 241,
+    "vpt": 113,
+    "ven": 128,
+    "peso": 128.36,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Rosângela Rennó",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Rosângela Rennó",
+    "views": 173,
+    "vpt": 121,
+    "ven": 52,
+    "peso": 127.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ivan Serpa",
+    "grafias": [
+     "Serpa"
+    ],
+    "lang": "pt",
+    "titulo": "Ivan Serpa",
+    "views": 161,
+    "vpt": 117,
+    "ven": 44,
+    "peso": 122.28,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Milton Dacosta",
+    "grafias": [
+     "Dacosta"
+    ],
+    "lang": "pt",
+    "titulo": "Milton Dacosta",
+    "views": 110,
+    "vpt": 110,
+    "ven": 0,
+    "peso": 110.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Franz Weissmann",
+    "grafias": [
+     "Weissmann"
+    ],
+    "lang": "pt",
+    "titulo": "Franz Weissmann",
+    "views": 153,
+    "vpt": 102,
+    "ven": 51,
+    "peso": 108.12,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Glauco Rodrigues",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Glauco Rodrigues",
+    "views": 106,
+    "vpt": 106,
+    "ven": 0,
+    "peso": 106.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Artur Barrio",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Artur Barrio",
+    "views": 160,
+    "vpt": 92,
+    "ven": 68,
+    "peso": 100.16,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Waldemar Cordeiro",
+    "grafias": [
+     "Cordeiro"
+    ],
+    "lang": "pt",
+    "titulo": "Waldemar Cordeiro",
+    "views": 150,
+    "vpt": 86,
+    "ven": 64,
+    "peso": 93.68,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Genaro de Carvalho",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Genaro de Carvalho",
+    "views": 84,
+    "vpt": 84,
+    "ven": 0,
+    "peso": 84.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Sergio Camargo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sergio Camargo",
+    "views": 332,
+    "vpt": 44,
+    "ven": 288,
+    "peso": 78.56,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Wesley Duke Lee",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Wesley Duke Lee",
+    "views": 89,
+    "vpt": 72,
+    "ven": 17,
+    "peso": 74.04,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Antonio Dias",
+    "grafias": [
+     "Antonio Manuel Lima Dias"
+    ],
+    "lang": "pt",
+    "titulo": "Antonio Manuel Lima Dias",
+    "views": 65,
+    "vpt": 65,
+    "ven": 0,
+    "peso": 65.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Samson Flexor",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Samson Flexor",
+    "views": 88,
+    "vpt": 60,
+    "ven": 28,
+    "peso": 63.36,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Judith Lauand",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Judith Lauand",
+    "views": 93,
+    "vpt": 51,
+    "ven": 42,
+    "peso": 56.04,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Maria Leontina",
+    "grafias": [
+     "Maria Leontina da Costa"
+    ],
+    "lang": "pt",
+    "titulo": "Maria Leontina da Costa",
+    "views": 55,
+    "vpt": 55,
+    "ven": 0,
+    "peso": 55.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Willys de Castro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Willys de Castro",
+    "views": 86,
+    "vpt": 45,
+    "ven": 41,
+    "peso": 49.92,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Lothar Charoux",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lothar Charoux",
+    "views": 24,
+    "vpt": 24,
+    "ven": 0,
+    "peso": 24.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Hércules Barsotti",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Hércules Barsotti",
+    "views": 43,
+    "vpt": 18,
+    "ven": 25,
+    "peso": 21.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-009": {
+  "pergunta": "Um escultor, de qualquer época",
+  "linhas": [
+   {
+    "nome": "Pablo Picasso",
+    "grafias": [
+     "Picasso"
+    ],
+    "lang": "pt",
+    "titulo": "Pablo Picasso",
+    "views": 152173,
+    "vpt": 7857,
+    "ven": 144316,
+    "peso": 25174.92,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Michelangelo",
+    "grafias": [
+     "Michelangelo Buonarroti"
+    ],
+    "lang": "pt",
+    "titulo": "Michelangelo",
+    "views": 94734,
+    "vpt": 5724,
+    "ven": 89010,
+    "peso": 16405.199999999997,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Yayoi Kusama",
+    "grafias": [
+     "Kusama"
+    ],
+    "lang": "pt",
+    "titulo": "Yayoi Kusama",
+    "views": 53905,
+    "vpt": 2291,
+    "ven": 51614,
+    "peso": 8484.68,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Aleijadinho",
+    "grafias": [
+     "Antônio Francisco Lisboa"
+    ],
+    "lang": "pt",
+    "titulo": "Aleijadinho",
+    "views": 6487,
+    "vpt": 5718,
+    "ven": 769,
+    "peso": 5810.28,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Edgar Degas",
+    "grafias": [
+     "Degas"
+    ],
+    "lang": "pt",
+    "titulo": "Edgar Degas",
+    "views": 20764,
+    "vpt": 1457,
+    "ven": 19307,
+    "peso": 3773.8399999999997,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Gian Lorenzo Bernini",
+    "grafias": [
+     "Bernini"
+    ],
+    "lang": "pt",
+    "titulo": "Gian Lorenzo Bernini",
+    "views": 18133,
+    "vpt": 1150,
+    "ven": 16983,
+    "peso": 3187.96,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Donatello",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Donatello",
+    "views": 16456,
+    "vpt": 966,
+    "ven": 15490,
+    "peso": 2824.8,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Auguste Rodin",
+    "grafias": [
+     "Rodin"
+    ],
+    "lang": "pt",
+    "titulo": "Auguste Rodin",
+    "views": 17014,
+    "vpt": 807,
+    "ven": 16207,
+    "peso": 2751.84,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Anish Kapoor",
+    "grafias": [
+     "Kapoor"
+    ],
+    "lang": "pt",
+    "titulo": "Anish Kapoor",
+    "views": 19332,
+    "vpt": 132,
+    "ven": 19200,
+    "peso": 2436.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Jeff Koons",
+    "grafias": [
+     "Koons"
+    ],
+    "lang": "pt",
+    "titulo": "Jeff Koons",
+    "views": 15346,
+    "vpt": 255,
+    "ven": 15091,
+    "peso": 2065.92,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Camille Claudel",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Camille Claudel",
+    "views": 9369,
+    "vpt": 739,
+    "ven": 8630,
+    "peso": 1774.6,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Louise Bourgeois",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Louise Bourgeois",
+    "views": 10134,
+    "vpt": 298,
+    "ven": 9836,
+    "peso": 1478.32,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Alexander Calder",
+    "grafias": [
+     "Calder"
+    ],
+    "lang": "pt",
+    "titulo": "Alexander Calder",
+    "views": 10518,
+    "vpt": 237,
+    "ven": 10281,
+    "peso": 1470.72,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Isamu Noguchi",
+    "grafias": [
+     "Noguchi"
+    ],
+    "lang": "pt",
+    "titulo": "Isamu Noguchi",
+    "views": 11610,
+    "vpt": 86,
+    "ven": 11524,
+    "peso": 1468.8799999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Frédéric Auguste Bartholdi",
+    "grafias": [
+     "Bartholdi"
+    ],
+    "lang": "pt",
+    "titulo": "Frédéric Auguste Bartholdi",
+    "views": 9742,
+    "vpt": 330,
+    "ven": 9412,
+    "peso": 1459.44,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Constantin Brâncuși",
+    "grafias": [
+     "Brancusi",
+     "Brâncuși"
+    ],
+    "lang": "pt",
+    "titulo": "Constantin Brâncuși",
+    "views": 10232,
+    "vpt": 127,
+    "ven": 10105,
+    "peso": 1339.6,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Henry Moore",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Henry Moore",
+    "views": 9611,
+    "vpt": 91,
+    "ven": 9520,
+    "peso": 1233.3999999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Alberto Giacometti",
+    "grafias": [
+     "Giacometti"
+    ],
+    "lang": "pt",
+    "titulo": "Alberto Giacometti",
+    "views": 8289,
+    "vpt": 202,
+    "ven": 8087,
+    "peso": 1172.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Niki de Saint Phalle",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Niki de Saint Phalle",
+    "views": 8237,
+    "vpt": 190,
+    "ven": 8047,
+    "peso": 1155.6399999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Carl Andre",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Carl Andre",
+    "views": 8016,
+    "vpt": 99,
+    "ven": 7917,
+    "peso": 1049.04,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Benvenuto Cellini",
+    "grafias": [
+     "Cellini"
+    ],
+    "lang": "pt",
+    "titulo": "Benvenuto Cellini",
+    "views": 7154,
+    "vpt": 166,
+    "ven": 6988,
+    "peso": 1004.56,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Antonio Canova",
+    "grafias": [
+     "Canova"
+    ],
+    "lang": "pt",
+    "titulo": "Antonio Canova",
+    "views": 5000,
+    "vpt": 344,
+    "ven": 4656,
+    "peso": 902.72,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Barbara Hepworth",
+    "grafias": [
+     "Hepworth"
+    ],
+    "lang": "pt",
+    "titulo": "Barbara Hepworth",
+    "views": 6563,
+    "vpt": 18,
+    "ven": 6545,
+    "peso": 803.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Umberto Boccioni",
+    "grafias": [
+     "Boccioni"
+    ],
+    "lang": "pt",
+    "titulo": "Umberto Boccioni",
+    "views": 4094,
+    "vpt": 269,
+    "ven": 3825,
+    "peso": 728.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Antony Gormley",
+    "grafias": [
+     "Gormley"
+    ],
+    "lang": "pt",
+    "titulo": "Antony Gormley",
+    "views": 5361,
+    "vpt": 17,
+    "ven": 5344,
+    "peso": 658.28,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Victor Brecheret",
+    "grafias": [
+     "Brecheret"
+    ],
+    "lang": "pt",
+    "titulo": "Victor Brecheret",
+    "views": 743,
+    "vpt": 637,
+    "ven": 106,
+    "peso": 649.72,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Richard Serra",
+    "grafias": [
+     "Serra"
+    ],
+    "lang": "pt",
+    "titulo": "Richard Serra",
+    "views": 4115,
+    "vpt": 99,
+    "ven": 4016,
+    "peso": 580.92,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Donald Judd",
+    "grafias": [
+     "Judd"
+    ],
+    "lang": "pt",
+    "titulo": "Donald Judd",
+    "views": 4310,
+    "vpt": 55,
+    "ven": 4255,
+    "peso": 565.5999999999999,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Claes Oldenburg",
+    "grafias": [
+     "Oldenburg"
+    ],
+    "lang": "pt",
+    "titulo": "Claes Oldenburg",
+    "views": 3975,
+    "vpt": 55,
+    "ven": 3920,
+    "peso": 525.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Paul Landowski",
+    "grafias": [
+     "Landowski"
+    ],
+    "lang": "pt",
+    "titulo": "Paul Landowski",
+    "views": 2307,
+    "vpt": 282,
+    "ven": 2025,
+    "peso": 525.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Jean Arp",
+    "grafias": [
+     "Hans Arp"
+    ],
+    "lang": "pt",
+    "titulo": "Hans Arp",
+    "views": 3392,
+    "vpt": 105,
+    "ven": 3287,
+    "peso": 499.44,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Alfredo Ceschiatti",
+    "grafias": [
+     "Ceschiatti"
+    ],
+    "lang": "pt",
+    "titulo": "Alfredo Ceschiatti",
+    "views": 524,
+    "vpt": 466,
+    "ven": 58,
+    "peso": 472.96,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Fídias",
+    "grafias": [
+     "Phidias"
+    ],
+    "lang": "pt",
+    "titulo": "Fídias",
+    "views": 429,
+    "vpt": 429,
+    "ven": 0,
+    "peso": 429.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ron Mueck",
+    "grafias": [
+     "Mueck"
+    ],
+    "lang": "pt",
+    "titulo": "Ron Mueck",
+    "views": 2542,
+    "vpt": 122,
+    "ven": 2420,
+    "peso": 412.4,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mestre Valentim",
+    "grafias": [
+     "Valentim da Fonseca e Silva"
+    ],
+    "lang": "pt",
+    "titulo": "Mestre Valentim",
+    "views": 390,
+    "vpt": 365,
+    "ven": 25,
+    "peso": 368.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Kiki Smith",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Kiki Smith",
+    "views": 2732,
+    "vpt": 32,
+    "ven": 2700,
+    "peso": 356.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Bertel Thorvaldsen",
+    "grafias": [
+     "Thorvaldsen"
+    ],
+    "lang": "pt",
+    "titulo": "Bertel Thorvaldsen",
+    "views": 2528,
+    "vpt": 58,
+    "ven": 2470,
+    "peso": 354.4,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lorenzo Ghiberti",
+    "grafias": [
+     "Ghiberti"
+    ],
+    "lang": "pt",
+    "titulo": "Lorenzo Ghiberti",
+    "views": 2256,
+    "vpt": 91,
+    "ven": 2165,
+    "peso": 350.8,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Louise Nevelson",
+    "grafias": [
+     "Nevelson"
+    ],
+    "lang": "pt",
+    "titulo": "Louise Nevelson",
+    "views": 2667,
+    "vpt": 32,
+    "ven": 2635,
+    "peso": 348.2,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Jean Tinguely",
+    "grafias": [
+     "Tinguely"
+    ],
+    "lang": "pt",
+    "titulo": "Jean Tinguely",
+    "views": 2450,
+    "vpt": 33,
+    "ven": 2417,
+    "peso": 323.03999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Policleto",
+    "grafias": [
+     "Polykleitos"
+    ],
+    "lang": "pt",
+    "titulo": "Policleto",
+    "views": 304,
+    "vpt": 304,
+    "ven": 0,
+    "peso": 304.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Bruno Giorgi",
+    "grafias": [
+     "Giorgi"
+    ],
+    "lang": "pt",
+    "titulo": "Bruno Giorgi",
+    "views": 346,
+    "vpt": 249,
+    "ven": 97,
+    "peso": 260.64,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Aristide Maillol",
+    "grafias": [
+     "Maillol"
+    ],
+    "lang": "pt",
+    "titulo": "Aristide Maillol",
+    "views": 1555,
+    "vpt": 47,
+    "ven": 1508,
+    "peso": 227.95999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Amilcar de Castro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Amilcar de Castro",
+    "views": 271,
+    "vpt": 211,
+    "ven": 60,
+    "peso": 218.2,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Naum Gabo",
+    "grafias": [
+     "Gabo"
+    ],
+    "lang": "pt",
+    "titulo": "Naum Gabo",
+    "views": 1261,
+    "vpt": 33,
+    "ven": 1228,
+    "peso": 180.35999999999999,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Eduardo Chillida",
+    "grafias": [
+     "Chillida"
+    ],
+    "lang": "pt",
+    "titulo": "Eduardo Chillida",
+    "views": 1080,
+    "vpt": 44,
+    "ven": 1036,
+    "peso": 168.32,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Jean-Antoine Houdon",
+    "grafias": [
+     "Houdon"
+    ],
+    "lang": "pt",
+    "titulo": "Jean-Antoine Houdon",
+    "views": 1010,
+    "vpt": 29,
+    "ven": 981,
+    "peso": 146.72,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Rodolfo Bernardelli",
+    "grafias": [
+     "Bernardelli"
+    ],
+    "lang": "pt",
+    "titulo": "Rodolfo Bernardelli",
+    "views": 221,
+    "vpt": 128,
+    "ven": 93,
+    "peso": 139.16,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Míron",
+    "grafias": [
+     "Myron"
+    ],
+    "lang": "pt",
+    "titulo": "Míron",
+    "views": 126,
+    "vpt": 126,
+    "ven": 0,
+    "peso": 126.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Praxíteles",
+    "grafias": [
+     "Praxiteles"
+    ],
+    "lang": "pt",
+    "titulo": "Praxiteles",
+    "views": 119,
+    "vpt": 119,
+    "ven": 0,
+    "peso": 119.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Franz Weissmann",
+    "grafias": [
+     "Weissmann"
+    ],
+    "lang": "pt",
+    "titulo": "Franz Weissmann",
+    "views": 153,
+    "vpt": 102,
+    "ven": 51,
+    "peso": 108.12,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Sergio Camargo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sergio Camargo",
+    "views": 332,
+    "vpt": 44,
+    "ven": 288,
+    "peso": 78.56,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Jorge Oteiza",
+    "grafias": [
+     "Oteiza"
+    ],
+    "lang": "pt",
+    "titulo": "Jorge Oteiza",
+    "views": 227,
+    "vpt": 14,
+    "ven": 213,
+    "peso": 39.56,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Antoine Pevsner",
+    "grafias": [
+     "Pevsner"
+    ],
+    "lang": "pt",
+    "titulo": "Antoine Pevsner",
+    "views": 264,
+    "vpt": 8,
+    "ven": 256,
+    "peso": 38.72,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ernesto de Fiori",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ernesto De Fiori",
+    "views": 49,
+    "vpt": 18,
+    "ven": 31,
+    "peso": 21.72,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-010": {
+  "pergunta": "Um designer de cadeira famosa",
+  "linhas": [
+   {
+    "nome": "Frank Lloyd Wright",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Frank Lloyd Wright",
+    "views": 66364,
+    "vpt": 768,
+    "ven": 65596,
+    "peso": 8639.52,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Oscar Niemeyer",
+    "grafias": [
+     "Niemeyer"
+    ],
+    "lang": "pt",
+    "titulo": "Oscar Niemeyer",
+    "views": 7918,
+    "vpt": 7918,
+    "ven": 0,
+    "peso": 7918.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Le Corbusier",
+    "grafias": [
+     "Corbusier"
+    ],
+    "lang": "pt",
+    "titulo": "Le Corbusier",
+    "views": 24387,
+    "vpt": 1511,
+    "ven": 22876,
+    "peso": 4256.12,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Lina Bo Bardi",
+    "grafias": [
+     "Lina"
+    ],
+    "lang": "pt",
+    "titulo": "Lina Bo Bardi",
+    "views": 4178,
+    "vpt": 2401,
+    "ven": 1777,
+    "peso": 2614.24,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Eero Saarinen",
+    "grafias": [
+     "Saarinen"
+    ],
+    "lang": "pt",
+    "titulo": "Eero Saarinen",
+    "views": 12034,
+    "vpt": 459,
+    "ven": 11575,
+    "peso": 1848.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Isamu Noguchi",
+    "grafias": [
+     "Noguchi"
+    ],
+    "lang": "pt",
+    "titulo": "Isamu Noguchi",
+    "views": 11610,
+    "vpt": 86,
+    "ven": 11524,
+    "peso": 1468.8799999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Charles Rennie Mackintosh",
+    "grafias": [
+     "Mackintosh"
+    ],
+    "lang": "pt",
+    "titulo": "Charles Rennie Mackintosh",
+    "views": 7882,
+    "vpt": 73,
+    "ven": 7809,
+    "peso": 1010.0799999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Alvar Aalto",
+    "grafias": [
+     "Aalto"
+    ],
+    "lang": "pt",
+    "titulo": "Alvar Aalto",
+    "views": 6328,
+    "vpt": 237,
+    "ven": 6091,
+    "peso": 967.92,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Charles Eames",
+    "grafias": [
+     "Eames",
+     "Charles e Ray Eames"
+    ],
+    "lang": "pt",
+    "titulo": "Charles e Ray Eames",
+    "views": 4154,
+    "vpt": 522,
+    "ven": 3632,
+    "peso": 957.8399999999999,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Marcel Breuer",
+    "grafias": [
+     "Breuer"
+    ],
+    "lang": "pt",
+    "titulo": "Marcel Breuer",
+    "views": 4937,
+    "vpt": 239,
+    "ven": 4698,
+    "peso": 802.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Warren Platner",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Warren Platner",
+    "views": 3921,
+    "vpt": 0,
+    "ven": 3921,
+    "peso": 705.78,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Philippe Starck",
+    "grafias": [
+     "Starck"
+    ],
+    "lang": "pt",
+    "titulo": "Philippe Starck",
+    "views": 4332,
+    "vpt": 165,
+    "ven": 4167,
+    "peso": 665.04,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Eileen Gray",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Eileen Gray",
+    "views": 5071,
+    "vpt": 51,
+    "ven": 5020,
+    "peso": 653.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ray Eames",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Ray Eames",
+    "views": 2857,
+    "vpt": 0,
+    "ven": 2857,
+    "peso": 514.26,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ludwig Mies van der Rohe",
+    "grafias": [
+     "Mies",
+     "Mies van der Rohe"
+    ],
+    "lang": "pt",
+    "titulo": "Ludwig Mies van der Rohe",
+    "views": 448,
+    "vpt": 448,
+    "ven": 0,
+    "peso": 448.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ettore Sottsass",
+    "grafias": [
+     "Sottsass"
+    ],
+    "lang": "pt",
+    "titulo": "Ettore Sottsass",
+    "views": 2600,
+    "vpt": 40,
+    "ven": 2560,
+    "peso": 347.2,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Verner Panton",
+    "grafias": [
+     "Panton"
+    ],
+    "lang": "en",
+    "titulo": "Verner Panton",
+    "views": 1693,
+    "vpt": 0,
+    "ven": 1693,
+    "peso": 304.74,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Gerrit Rietveld",
+    "grafias": [
+     "Rietveld"
+    ],
+    "lang": "pt",
+    "titulo": "Gerrit Rietveld",
+    "views": 2012,
+    "vpt": 65,
+    "ven": 1947,
+    "peso": 298.64,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arne Jacobsen",
+    "grafias": [
+     "Jacobsen"
+    ],
+    "lang": "pt",
+    "titulo": "Arne Jacobsen",
+    "views": 1936,
+    "vpt": 46,
+    "ven": 1890,
+    "peso": 272.79999999999995,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Charlotte Perriand",
+    "grafias": [
+     "Perriand"
+    ],
+    "lang": "pt",
+    "titulo": "Charlotte Perriand",
+    "views": 1730,
+    "vpt": 40,
+    "ven": 1690,
+    "peso": 242.79999999999998,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Hans Wegner",
+    "grafias": [
+     "Wegner",
+     "Hans J. Wegner"
+    ],
+    "lang": "en",
+    "titulo": "Hans Wegner",
+    "views": 1223,
+    "vpt": 0,
+    "ven": 1223,
+    "peso": 220.14,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "George Nelson",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "George Nelson (designer)",
+    "views": 992,
+    "vpt": 0,
+    "ven": 992,
+    "peso": 178.56,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Irmãos Campana",
+    "grafias": [
+     "Campana",
+     "Fernando Campana",
+     "Humberto Campana",
+     "Estúdio Campana"
+    ],
+    "lang": "pt",
+    "titulo": "Irmãos Campana",
+    "views": 176,
+    "vpt": 176,
+    "ven": 0,
+    "peso": 176.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Harry Bertoia",
+    "grafias": [
+     "Bertoia"
+    ],
+    "lang": "en",
+    "titulo": "Harry Bertoia",
+    "views": 939,
+    "vpt": 0,
+    "ven": 939,
+    "peso": 169.01999999999998,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Michael Thonet",
+    "grafias": [
+     "Thonet"
+    ],
+    "lang": "pt",
+    "titulo": "Michael Thonet",
+    "views": 979,
+    "vpt": 47,
+    "ven": 932,
+    "peso": 158.83999999999997,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Geraldo de Barros",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Geraldo de Barros",
+    "views": 155,
+    "vpt": 155,
+    "ven": 0,
+    "peso": 155.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Jean Prouvé",
+    "grafias": [
+     "Prouvé",
+     "Prouve"
+    ],
+    "lang": "en",
+    "titulo": "Jean Prouvé",
+    "views": 815,
+    "vpt": 0,
+    "ven": 815,
+    "peso": 146.7,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Patricia Urquiola",
+    "grafias": [
+     "Urquiola"
+    ],
+    "lang": "en",
+    "titulo": "Patricia Urquiola",
+    "views": 725,
+    "vpt": 0,
+    "ven": 725,
+    "peso": 130.5,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Gaetano Pesce",
+    "grafias": [
+     "Pesce"
+    ],
+    "lang": "en",
+    "titulo": "Gaetano Pesce",
+    "views": 689,
+    "vpt": 0,
+    "ven": 689,
+    "peso": 124.01999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Achille Castiglioni",
+    "grafias": [
+     "Castiglioni"
+    ],
+    "lang": "en",
+    "titulo": "Achille Castiglioni",
+    "views": 689,
+    "vpt": 0,
+    "ven": 689,
+    "peso": 124.01999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Jasper Morrison",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Jasper Morrison",
+    "views": 676,
+    "vpt": 0,
+    "ven": 676,
+    "peso": 121.67999999999998,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Joaquim Tenreiro",
+    "grafias": [
+     "Tenreiro"
+    ],
+    "lang": "pt",
+    "titulo": "Joaquim Tenreiro",
+    "views": 181,
+    "vpt": 102,
+    "ven": 79,
+    "peso": 111.48,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Finn Juhl",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Finn Juhl",
+    "views": 519,
+    "vpt": 0,
+    "ven": 519,
+    "peso": 93.42,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Eero Aarnio",
+    "grafias": [
+     "Aarnio"
+    ],
+    "lang": "en",
+    "titulo": "Eero Aarnio",
+    "views": 480,
+    "vpt": 0,
+    "ven": 480,
+    "peso": 86.39999999999999,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pierre Paulin",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Pierre Paulin",
+    "views": 475,
+    "vpt": 0,
+    "ven": 475,
+    "peso": 85.5,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Konstantin Grcic",
+    "grafias": [
+     "Grcic"
+    ],
+    "lang": "en",
+    "titulo": "Konstantin Grcic",
+    "views": 390,
+    "vpt": 0,
+    "ven": 390,
+    "peso": 70.19999999999999,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Hella Jongerius",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Hella Jongerius",
+    "views": 369,
+    "vpt": 0,
+    "ven": 369,
+    "peso": 66.42,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Vico Magistretti",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Vico Magistretti",
+    "views": 321,
+    "vpt": 0,
+    "ven": 321,
+    "peso": 57.779999999999994,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Børge Mogensen",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Børge Mogensen",
+    "views": 302,
+    "vpt": 0,
+    "ven": 302,
+    "peso": 54.36,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Poul Kjærholm",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Poul Kjærholm",
+    "views": 219,
+    "vpt": 0,
+    "ven": 219,
+    "peso": 39.419999999999995,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Jorge Zalszupin",
+    "grafias": [
+     "Zalszupin"
+    ],
+    "lang": "en",
+    "titulo": "Jorge Zalszupin",
+    "views": 104,
+    "vpt": 0,
+    "ven": 104,
+    "peso": 18.72,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-011": {
+  "pergunta": "Um paisagista",
+  "linhas": [
+   {
+    "nome": "Roberto Burle Marx",
+    "grafias": [
+     "Burle Marx"
+    ],
+    "lang": "pt",
+    "titulo": "Roberto Burle Marx",
+    "views": 4224,
+    "vpt": 2036,
+    "ven": 2188,
+    "peso": 2298.56,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Frederick Law Olmsted",
+    "grafias": [
+     "Olmsted"
+    ],
+    "lang": "pt",
+    "titulo": "Frederick Law Olmsted",
+    "views": 12584,
+    "vpt": 37,
+    "ven": 12547,
+    "peso": 1542.6399999999999,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Capability Brown",
+    "grafias": [
+     "Lancelot Brown",
+     "Brown"
+    ],
+    "lang": "pt",
+    "titulo": "Lancelot Brown",
+    "views": 7471,
+    "vpt": 23,
+    "ven": 7448,
+    "peso": 916.76,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Luis Barragán",
+    "grafias": [
+     "Barragán"
+    ],
+    "lang": "pt",
+    "titulo": "Luis Barragán",
+    "views": 3129,
+    "vpt": 125,
+    "ven": 3004,
+    "peso": 485.47999999999996,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Piet Oudolf",
+    "grafias": [
+     "Oudolf"
+    ],
+    "lang": "en",
+    "titulo": "Piet Oudolf",
+    "views": 2623,
+    "vpt": 0,
+    "ven": 2623,
+    "peso": 472.14,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Gertrude Jekyll",
+    "grafias": [
+     "Jekyll"
+    ],
+    "lang": "en",
+    "titulo": "Gertrude Jekyll",
+    "views": 2112,
+    "vpt": 0,
+    "ven": 2112,
+    "peso": 380.15999999999997,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Mestre Valentim",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mestre Valentim",
+    "views": 390,
+    "vpt": 365,
+    "ven": 25,
+    "peso": 368.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Calvert Vaux",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Calvert Vaux",
+    "views": 1588,
+    "vpt": 0,
+    "ven": 1588,
+    "peso": 285.84000000000003,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "André Le Nôtre",
+    "grafias": [
+     "Le Nôtre",
+     "Le Notre"
+    ],
+    "lang": "pt",
+    "titulo": "André Le Nôtre",
+    "views": 1720,
+    "vpt": 71,
+    "ven": 1649,
+    "peso": 268.88,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "William Kent",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "William Kent",
+    "views": 1829,
+    "vpt": 34,
+    "ven": 1795,
+    "peso": 249.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lawrence Halprin",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Lawrence Halprin",
+    "views": 1082,
+    "vpt": 0,
+    "ven": 1082,
+    "peso": 194.76,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Jens Jensen",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Jens Jensen (landscape architect)",
+    "views": 1032,
+    "vpt": 0,
+    "ven": 1032,
+    "peso": 185.76,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Humphry Repton",
+    "grafias": [
+     "Repton"
+    ],
+    "lang": "en",
+    "titulo": "Humphry Repton",
+    "views": 928,
+    "vpt": 0,
+    "ven": 928,
+    "peso": 167.04,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Rosa Kliass",
+    "grafias": [
+     "Rosa Grena Kliass"
+    ],
+    "lang": "pt",
+    "titulo": "Rosa Grena Kliass",
+    "views": 155,
+    "vpt": 155,
+    "ven": 0,
+    "peso": 155.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Beatrix Farrand",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Beatrix Farrand",
+    "views": 763,
+    "vpt": 0,
+    "ven": 763,
+    "peso": 137.34,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ian McHarg",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Ian McHarg",
+    "views": 755,
+    "vpt": 0,
+    "ven": 755,
+    "peso": 135.89999999999998,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Glaziou",
+    "grafias": [
+     "Auguste Glaziou",
+     "Auguste François Marie Glaziou"
+    ],
+    "lang": "pt",
+    "titulo": "Auguste François Marie Glaziou",
+    "views": 122,
+    "vpt": 90,
+    "ven": 32,
+    "peso": 93.84,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Dan Kiley",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Dan Kiley",
+    "views": 483,
+    "vpt": 0,
+    "ven": 483,
+    "peso": 86.94,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Waldemar Cordeiro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Waldemar Cordeiro",
+    "views": 86,
+    "vpt": 86,
+    "ven": 0,
+    "peso": 86.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Peter Walker",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Peter Walker (landscape architect)",
+    "views": 392,
+    "vpt": 0,
+    "ven": 392,
+    "peso": 70.56,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Thomas Church",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Thomas Church (landscape architect)",
+    "views": 302,
+    "vpt": 0,
+    "ven": 302,
+    "peso": 54.36,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Gilles Clément",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Gilles Clément",
+    "views": 300,
+    "vpt": 0,
+    "ven": 300,
+    "peso": 54.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Geoffrey Jellicoe",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Geoffrey Jellicoe",
+    "views": 283,
+    "vpt": 0,
+    "ven": 283,
+    "peso": 50.94,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mirei Shigemori",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Mirei Shigemori",
+    "views": 218,
+    "vpt": 0,
+    "ven": 218,
+    "peso": 39.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Martha Schwartz",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Martha Schwartz",
+    "views": 214,
+    "vpt": 0,
+    "ven": 214,
+    "peso": 38.519999999999996,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Carlos Thays",
+    "grafias": [
+     "Thays"
+    ],
+    "lang": "en",
+    "titulo": "Carlos Thays",
+    "views": 209,
+    "vpt": 0,
+    "ven": 209,
+    "peso": 37.62,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Adolphe Alphand",
+    "grafias": [
+     "Alphand"
+    ],
+    "lang": "en",
+    "titulo": "Adolphe Alphand",
+    "views": 208,
+    "vpt": 0,
+    "ven": 208,
+    "peso": 37.44,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Kathryn Gustafson",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Kathryn Gustafson",
+    "views": 205,
+    "vpt": 0,
+    "ven": 205,
+    "peso": 36.9,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Paul Villon",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Paul Villon",
+    "views": 34,
+    "vpt": 34,
+    "ven": 0,
+    "peso": 34.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Fernando Chacel",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Fernando Chacel",
+    "views": 29,
+    "vpt": 29,
+    "ven": 0,
+    "peso": 29.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Jean-Claude Nicolas Forestier",
+    "grafias": [
+     "Forestier"
+    ],
+    "lang": "en",
+    "titulo": "Jean-Claude Nicolas Forestier",
+    "views": 133,
+    "vpt": 0,
+    "ven": 133,
+    "peso": 23.939999999999998,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-012": {
+  "pergunta": "Um fotógrafo de arquitetura ou de arte",
+  "linhas": [
+   {
+    "nome": "Ansel Adams",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ansel Adams",
+    "views": 2366528,
+    "vpt": 258,
+    "ven": 2366270,
+    "peso": 284210.39999999997,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Robert Mapplethorpe",
+    "grafias": [
+     "Mapplethorpe"
+    ],
+    "lang": "pt",
+    "titulo": "Robert Mapplethorpe",
+    "views": 32702,
+    "vpt": 471,
+    "ven": 32231,
+    "peso": 4338.719999999999,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Man Ray",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Man Ray",
+    "views": 26949,
+    "vpt": 257,
+    "ven": 26692,
+    "peso": 3460.04,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Annie Leibovitz",
+    "grafias": [
+     "Leibovitz"
+    ],
+    "lang": "pt",
+    "titulo": "Annie Leibovitz",
+    "views": 21209,
+    "vpt": 309,
+    "ven": 20900,
+    "peso": 2817.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Sebastião Salgado",
+    "grafias": [
+     "Salgado"
+    ],
+    "lang": "pt",
+    "titulo": "Sebastião Salgado",
+    "views": 5704,
+    "vpt": 2201,
+    "ven": 3503,
+    "peso": 2621.36,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Vik Muniz",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vik Muniz",
+    "views": 3082,
+    "vpt": 1918,
+    "ven": 1164,
+    "peso": 2057.68,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Diane Arbus",
+    "grafias": [
+     "Arbus"
+    ],
+    "lang": "pt",
+    "titulo": "Diane Arbus",
+    "views": 10907,
+    "vpt": 138,
+    "ven": 10769,
+    "peso": 1430.28,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cindy Sherman",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cindy Sherman",
+    "views": 9673,
+    "vpt": 143,
+    "ven": 9530,
+    "peso": 1286.6,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Alfred Stieglitz",
+    "grafias": [
+     "Stieglitz"
+    ],
+    "lang": "pt",
+    "titulo": "Alfred Stieglitz",
+    "views": 9769,
+    "vpt": 96,
+    "ven": 9673,
+    "peso": 1256.76,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Henri Cartier-Bresson",
+    "grafias": [
+     "Cartier-Bresson"
+    ],
+    "lang": "pt",
+    "titulo": "Henri Cartier-Bresson",
+    "views": 7524,
+    "vpt": 332,
+    "ven": 7192,
+    "peso": 1195.04,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Vivian Maier",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vivian Maier",
+    "views": 8177,
+    "vpt": 189,
+    "ven": 7988,
+    "peso": 1147.56,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pierre Verger",
+    "grafias": [
+     "Verger"
+    ],
+    "lang": "pt",
+    "titulo": "Pierre Verger",
+    "views": 947,
+    "vpt": 641,
+    "ven": 306,
+    "peso": 677.72,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Edward Steichen",
+    "grafias": [
+     "Steichen"
+    ],
+    "lang": "pt",
+    "titulo": "Edward Steichen",
+    "views": 3529,
+    "vpt": 42,
+    "ven": 3487,
+    "peso": 460.44,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Walker Evans",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Walker Evans",
+    "views": 3367,
+    "vpt": 45,
+    "ven": 3322,
+    "peso": 443.64,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Wolfgang Tillmans",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Wolfgang Tillmans",
+    "views": 2417,
+    "vpt": 0,
+    "ven": 2417,
+    "peso": 435.05999999999995,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Hiroshi Sugimoto",
+    "grafias": [
+     "Sugimoto"
+    ],
+    "lang": "en",
+    "titulo": "Hiroshi Sugimoto",
+    "views": 2364,
+    "vpt": 0,
+    "ven": 2364,
+    "peso": 425.52,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Marc Ferrez",
+    "grafias": [
+     "Ferrez"
+    ],
+    "lang": "pt",
+    "titulo": "Marc Ferrez",
+    "views": 382,
+    "vpt": 382,
+    "ven": 0,
+    "peso": 382.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Claudia Andujar",
+    "grafias": [
+     "Andujar"
+    ],
+    "lang": "pt",
+    "titulo": "Claudia Andujar",
+    "views": 486,
+    "vpt": 311,
+    "ven": 175,
+    "peso": 332.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Andreas Gursky",
+    "grafias": [
+     "Gursky"
+    ],
+    "lang": "pt",
+    "titulo": "Andreas Gursky",
+    "views": 2204,
+    "vpt": 27,
+    "ven": 2177,
+    "peso": 288.24,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Berenice Abbott",
+    "grafias": [
+     "Abbott"
+    ],
+    "lang": "pt",
+    "titulo": "Berenice Abbott",
+    "views": 2194,
+    "vpt": 24,
+    "ven": 2170,
+    "peso": 284.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Eugène Atget",
+    "grafias": [
+     "Atget"
+    ],
+    "lang": "pt",
+    "titulo": "Eugène Atget",
+    "views": 1777,
+    "vpt": 63,
+    "ven": 1714,
+    "peso": 268.67999999999995,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Julius Shulman",
+    "grafias": [
+     "Shulman"
+    ],
+    "lang": "en",
+    "titulo": "Julius Shulman",
+    "views": 1476,
+    "vpt": 0,
+    "ven": 1476,
+    "peso": 265.68,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Jeff Wall",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Jeff Wall",
+    "views": 1356,
+    "vpt": 0,
+    "ven": 1356,
+    "peso": 244.07999999999998,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Bob Wolfenson",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Bob Wolfenson",
+    "views": 201,
+    "vpt": 201,
+    "ven": 0,
+    "peso": 201.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Geraldo de Barros",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Geraldo de Barros",
+    "views": 221,
+    "vpt": 155,
+    "ven": 66,
+    "peso": 162.92,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Miguel Rio Branco",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Miguel Rio Branco",
+    "views": 206,
+    "vpt": 131,
+    "ven": 75,
+    "peso": 140.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Rosângela Rennó",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Rosângela Rennó",
+    "views": 173,
+    "vpt": 121,
+    "ven": 52,
+    "peso": 127.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Thomas Ruff",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Thomas Ruff",
+    "views": 670,
+    "vpt": 0,
+    "ven": 670,
+    "peso": 120.6,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Militão Augusto de Azevedo",
+    "grafias": [
+     "Militão"
+    ],
+    "lang": "pt",
+    "titulo": "Militão Augusto de Azevedo",
+    "views": 114,
+    "vpt": 93,
+    "ven": 21,
+    "peso": 95.52,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Augusto Malta",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Augusto Malta",
+    "views": 106,
+    "vpt": 87,
+    "ven": 19,
+    "peso": 89.28,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Thomas Struth",
+    "grafias": [
+     "Struth"
+    ],
+    "lang": "en",
+    "titulo": "Thomas Struth",
+    "views": 473,
+    "vpt": 0,
+    "ven": 473,
+    "peso": 85.14,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Candida Höfer",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Candida Höfer",
+    "views": 408,
+    "vpt": 0,
+    "ven": 408,
+    "peso": 73.44,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Cristiano Mascaro",
+    "grafias": [
+     "Mascaro"
+    ],
+    "lang": "pt",
+    "titulo": "Cristiano Mascaro",
+    "views": 73,
+    "vpt": 73,
+    "ven": 0,
+    "peso": 73.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Hélène Binet",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Hélène Binet",
+    "views": 385,
+    "vpt": 0,
+    "ven": 385,
+    "peso": 69.3,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Thomaz Farkas",
+    "grafias": [
+     "Farkas"
+    ],
+    "lang": "pt",
+    "titulo": "Thomaz Farkas",
+    "views": 113,
+    "vpt": 61,
+    "ven": 52,
+    "peso": 67.24,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ezra Stoller",
+    "grafias": [
+     "Stoller"
+    ],
+    "lang": "en",
+    "titulo": "Ezra Stoller",
+    "views": 241,
+    "vpt": 0,
+    "ven": 241,
+    "peso": 43.379999999999995,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lucien Hervé",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Lucien Hervé",
+    "views": 241,
+    "vpt": 0,
+    "ven": 241,
+    "peso": 43.379999999999995,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Iwan Baan",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Iwan Baan",
+    "views": 237,
+    "vpt": 0,
+    "ven": 237,
+    "peso": 42.66,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Bernd e Hilla Becher",
+    "grafias": [
+     "Becher",
+     "Bernd Becher",
+     "Hilla Becher"
+    ],
+    "lang": "pt",
+    "titulo": "Bernd e Hilla Becher",
+    "views": 42,
+    "vpt": 42,
+    "ven": 0,
+    "peso": 42.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "German Lorca",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "German Lorca",
+    "views": 48,
+    "vpt": 35,
+    "ven": 13,
+    "peso": 36.56,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Marcel Gautherot",
+    "grafias": [
+     "Gautherot"
+    ],
+    "lang": "pt",
+    "titulo": "Marcel Gautherot",
+    "views": 15,
+    "vpt": 15,
+    "ven": 0,
+    "peso": 15.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Hedrich Blessing",
+    "grafias": [
+     "Hedrich Blessing Photographers"
+    ],
+    "lang": "en",
+    "titulo": "Hedrich Blessing Photographers",
+    "views": 76,
+    "vpt": 0,
+    "ven": 76,
+    "peso": 13.68,
+    "faixa": "Achado"
+   }
+  ]
+ }
+}
