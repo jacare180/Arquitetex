@@ -170,7 +170,63 @@
         cartao("achado", "Achado", "Uma categoria, uma resposta. Quanto mais rara, mais pontos."),
         cartao("escala", "Escala", "Um número, um chute. Quanto mais perto, mais pontos.")
       ]),
-      el("p", { "class": "rodape-nota", texto: "Protótipo. As perguntas da Escala ainda são provisórias, geradas a partir do acervo de obras." })
+      el("div", { "class": "acoes" }, [el("button", { type: "button", "class": "botao-texto", onclick: comoJogar }, ["Como jogar"])]),
+      el("p", { "class": "rodape-nota", texto: "Protótipo em teste. As perguntas da Escala ainda são provisórias." })
+    ]));
+  }
+
+  // O selo do jacaré arquiteto, em relevo seco: cabeça de perfil, óculos redondos e uma régua T.
+  var JACARE = [
+    "M32 4 a28 28 0 1 0 0.01 0", "M32 8 a24 24 0 1 0 0.01 0",
+    "M13 37 C15 30 22 26.5 31 27.5 L49 29.2 Q52.5 30 49.4 31.8 L30 33.6",
+    "M15 40.5 L48 37.4 Q51 38.2 48.2 39.6 L19 43.6",
+    "M31 33.4 l1.8 1.9 l1.8 -1.9 l1.8 1.9 l1.8 -1.9 l1.8 1.9 l1.8 -1.9 l1.8 1.9 l1.8 -1.9",
+    "M33 37.2 l1.8 -1.7 l1.8 1.7 l1.8 -1.7 l1.8 1.7 l1.8 -1.7 l1.8 1.7",
+    "M19.5 27.6 Q22.5 20.8 27.5 26",
+    "M21.4 26.4 a3.4 3.4 0 1 0 6.8 0 a3.4 3.4 0 1 0 -6.8 0", "M28.2 26.2 Q30 25.4 31.6 26.6",
+    "M24.3 26.3 a0.9 0.9 0 1 0 1.8 0 a0.9 0.9 0 1 0 -1.8 0",
+    "M47.8 29.4 a0.8 0.8 0 1 0 1.6 0 a0.8 0.8 0 1 0 -1.6 0",
+    "M13 37 Q11 41 15 40.5", "M11 33 l2 -2.4 l1.6 2.6 M14.6 30.4 l2.2 -2.2 l1.4 2.6",
+    "M17 48 H47", "M41 48 V54 M37 54 H45"
+  ];
+  function selo(grande) {
+    var s = el("span", { "class": "selo" + (grande ? " selo-grande" : ""), "aria-hidden": "true" });
+    var camadas = ["luz", "sombra", "relevo"].map(function (c) {
+      var off = c === "luz" ? "-0.5 -0.5" : (c === "sombra" ? "0.5 0.5" : "0 0");
+      return '<g class="selo-' + c + '" transform="translate(' + off + ')">' + JACARE.slice(0, 2).map(function (d) { return '<path d="' + d + '"/>'; }).join("") +
+        '<g transform="translate(31 33) scale(1.18) translate(-31 -39)">' + JACARE.slice(2).map(function (d) { return '<path d="' + d + '"/>'; }).join("") + "</g></g>";
+    }).join("");
+    s.innerHTML = '<svg viewBox="0 0 64 64">' + camadas + "</svg>";
+    return s;
+  }
+
+  var VIU = "arquitetex:viu-como-jogar";
+  function comoJogar() {
+    limpar();
+    try { localStorage.setItem(VIU, "1"); } catch (e) { /* sem armazenamento */ }
+    function bloco(titulo, linhas) {
+      return el("section", { "class": "como-bloco" }, [el("h2", { texto: titulo }), el("ul", {}, linhas.map(function (l) { return el("li", { texto: l }); }))]);
+    }
+    app.appendChild(el("section", { "class": "como" }, [
+      marca(true),
+      selo(true),
+      el("p", { "class": "subtitulo", texto: "O jacaré arquiteto explica, sem pressa." }),
+      bloco("Achado", [
+        "Aparece uma categoria. Escreva uma resposta que pertença a ela.",
+        "Pode errar quantas vezes quiser. A primeira resposta certa vale: quanto mais rara, mais pontos, de 10 a 100.",
+        "No desafio do dia, cada pergunta tem 25 segundos. Se o tempo acabar, vale 0."
+      ]),
+      bloco("Escala", [
+        "Aparece uma obra e um número para adivinhar, ou um número alvo para você dizer uma obra que chegue perto dele.",
+        "Um chute só. Quanto mais perto, mais pontos, até 100. A régua mostra a distância.",
+        "No desafio do dia, também são 25 segundos por pergunta."
+      ]),
+      bloco("A obra do dia", [
+        "Cada desafio esconde uma obra, só em pistas de relevo. Seus pontos põem tinta nela.",
+        "Com 700 pontos ela aparece inteira. No fim, você descobre qual era.",
+        "Os desafios são os mesmos para todo mundo. Depois de jogar, dá para continuar no modo livre, sem relógio."
+      ]),
+      el("div", { "class": "acoes" }, [el("button", { type: "button", "class": "botao botao-cheio", onclick: inicio }, ["Começar"])])
     ]));
   }
 
@@ -221,6 +277,9 @@
       : [el("p", { "class": "pergunta-sobre", texto: q.tipo === "alvo" ? "Alvo" : "" }), el("h2", { "class": "pergunta", texto: q.titulo }), el("p", { "class": "pergunta-detalhe", texto: q.pergunta })];
 
     form.addEventListener("submit", function (e) { e.preventDefault(); responder(q, campo.value, retorno, form); });
+    if (partida.modo === "escala" && partida.i === 0) {
+      area.appendChild(el("p", { "class": "aviso-provisorio", texto: "A Escala ainda está em teste: estas perguntas são provisórias, geradas automaticamente." }));
+    }
     enunciado.forEach(function (n) { if (n.textContent) { area.appendChild(n); } });
     area.appendChild(form);
     area.appendChild(retorno);
@@ -321,7 +380,7 @@
       blocos.push(el("p", { "class": "escolha", texto: res.escolha || (fmt(res.chute) + (q.unidade ? " " + q.unidade : "")) }));
       blocos.push(el("p", { "class": "faixa" }, [res.faixa + ", ", el("span", { "class": "num", texto: "+" + res.pontos }), res.pontos === 1 ? " ponto" : " pontos"]));
     }
-    blocos.push(el("p", { "class": "fala" }, [el("span", { "class": "selo", "aria-hidden": "true" }), fala(res.motivo || res.faixa)]));
+    blocos.push(el("p", { "class": "fala" }, [selo(false), fala(res.motivo || res.faixa)]));
     if (q.tipo !== "achado" && !res.motivo) {
       blocos.push(escalimetro(q, q.tipo === "numero" ? res.chute : res.valorEscolha, q.tipo === "numero" ? "Seu chute" : res.escolha));
     }
@@ -435,7 +494,9 @@
   function carregar(caminho) { return fetch(caminho).then(function (r) { if (!r.ok) { throw new Error(caminho); } return r.json(); }); }
   Promise.all([carregar("dados/achado.json"), carregar("dados/acervo.json")]).then(function (res) {
     dados.achado = res[0]; dados.acervo = res[1];
-    inicio();
+    var viu = false;
+    try { viu = !!localStorage.getItem(VIU); } catch (e) { viu = false; }
+    if (viu) { inicio(); } else { comoJogar(); }
   }).catch(function () {
     app.innerHTML = "";
     app.appendChild(el("p", { "class": "aviso", texto: "Não consegui carregar as perguntas. Recarregue a página." }));
