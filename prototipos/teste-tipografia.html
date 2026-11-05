@@ -17,7 +17,7 @@
   --font-garamond: "EB Garamond", "Iowan Old Style", "Palatino Linotype", Palatino, serif;
   --font-castoro: "Castoro", "Iowan Old Style", "Palatino Linotype", Palatino, serif;
   --font-piazzolla: "Piazzolla", "Iowan Old Style", "Palatino Linotype", Palatino, serif;
-  --font-ui: var(--font-garamond);
+  --font-ui: var(--font-piazzolla);
   --medida: 72rem;
   color-scheme: light;
 }
@@ -51,7 +51,7 @@ body {
 .ornamento { width: 4.5rem; height: auto; }
 .marca {
   margin: 0;
-  font-family: var(--font-garamond);
+  font-family: var(--font-piazzolla);
   font-weight: 500;
   font-size: clamp(2.75rem, 7vw, 4.75rem);
   line-height: 1;
@@ -131,7 +131,7 @@ body {
       </g>
     </svg>
     <h1 class="marca relevo">Arquitetex</h1>
-    <p class="sub">Teste de tipografia</p>
+    <p class="sub">Teste de tipografia: Piazzolla escolhida</p>
     <p class="nota">A obra do dia começa só em relevo e ganha tinta a cada ponto. Arraste o controle para ver o croqui do MASP sendo entintado. Abaixo, a mesma tela de pergunta em três fontes.</p>
   </header>
 
@@ -159,7 +159,7 @@ body {
       <div class="tela" data-tela></div>
     </article>
     <article class="amostra f-piazzolla">
-      <header><h2>Piazzolla</h2><span class="origem">mais contemporânea</span></header>
+      <header><h2>Piazzolla</h2><span class="origem">a escolhida</span></header>
       <div class="tela" data-tela></div>
     </article>
   </section>
@@ -192,7 +192,7 @@ body {
   // Croqui do MASP: camadas em ordem de entintagem (chão, construção, volume, vigas, aberturas, gente e árvore).
   var traços = [
     "M30 252 H610",                                   // linha do chão
-    "M60 252 L320 120 L580 252", "M320 120 V252",      // linhas de construção (fuga)
+    "M118 236 H522", "M118 230 V242", "M522 230 V242", // cota do vão livre de 74 m
     "M118 96 V252", "M146 96 V252", "M494 96 V252", "M522 96 V252",   // pilares
     "M104 96 H536", "M104 112 H536",                   // viga superior
     "M104 152 H536", "M104 166 H536",                  // viga do meio
@@ -233,7 +233,7 @@ body {
     });
     valor.textContent = pontos;
     pct.textContent = Math.round(f * 100);
-    legenda.textContent = pontos >= 700 ? "Museu de Arte de São Paulo, Lina Bo Bardi, 1968" : (pontos === 0 ? "A obra do dia, ainda só em relevo" : "Museu de Arte de São Paulo, Lina Bo Bardi, 1968");
+    legenda.textContent = pontos === 0 ? "A obra do dia, ainda só em relevo" : "Museu de Arte de São Paulo, Lina Bo Bardi, 1968, vão livre de 74 m";
   }
   faixa.addEventListener("input", entintar);
   entintar();
