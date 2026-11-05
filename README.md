@@ -3,6 +3,8 @@ Arquitetex
 
 Jogo diário para arquitetos e amantes de arte. Dois modos: **Achado** (quanto mais rara a resposta, mais pontos) e **Escala** (quanto mais perto, mais pontos). A obra do dia começa em relevo seco e ganha tinta a cada ponto.
 
+Jogar: https://jacare180.github.io/Arquitetex/
+
 * Regras: `REGRAS.md`
 * Sistema visual: `design.md`
 * Banco de perguntas: planilha "Arquitetex: banco de perguntas" no Google Drive
