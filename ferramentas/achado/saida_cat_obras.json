@@ -9,10 +9,10 @@
     ],
     "lang": "pt",
     "titulo": "Palácio da Alvorada",
-    "views": 19411,
+    "views": 13261,
     "vpt": 13261,
-    "ven": 6150,
-    "peso": 13999.0,
+    "ven": 0,
+    "peso": 13261.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -22,10 +22,10 @@
     ],
     "lang": "pt",
     "titulo": "Palácio do Planalto",
-    "views": 10406,
+    "views": 4961,
     "vpt": 4961,
-    "ven": 5445,
-    "peso": 5614.4,
+    "ven": 0,
+    "peso": 4961.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -35,11 +35,11 @@
     ],
     "lang": "pt",
     "titulo": "Palácio do Jaburu",
-    "views": 5310,
+    "views": 4665,
     "vpt": 4665,
-    "ven": 645,
-    "peso": 4742.4,
-    "faixa": "Cartão-postal"
+    "ven": 0,
+    "peso": 4665.0,
+    "faixa": "Arquivo"
    },
    {
     "nome": "Edifício Copan",
@@ -48,10 +48,10 @@
     ],
     "lang": "pt",
     "titulo": "Edifício Copan",
-    "views": 5322,
+    "views": 3947,
     "vpt": 3947,
-    "ven": 1375,
-    "peso": 4112.0,
+    "ven": 0,
+    "peso": 3947.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -62,10 +62,10 @@
     ],
     "lang": "pt",
     "titulo": "Palácio do Congresso Nacional",
-    "views": 5364,
+    "views": 2678,
     "vpt": 2678,
-    "ven": 2686,
-    "peso": 3000.32,
+    "ven": 0,
+    "peso": 2678.0,
     "faixa": "Clássico"
    },
    {
@@ -75,11 +75,11 @@
     ],
     "lang": "pt",
     "titulo": "Panteão da Pátria e da Liberdade Tancredo Neves",
-    "views": 2654,
+    "views": 2402,
     "vpt": 2402,
-    "ven": 252,
-    "peso": 2432.24,
-    "faixa": "Clássico"
+    "ven": 0,
+    "peso": 2402.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Catedral de Brasília",
@@ -102,10 +102,10 @@
     ],
     "lang": "pt",
     "titulo": "Palácio Itamaraty",
-    "views": 2625,
+    "views": 1435,
     "vpt": 1435,
-    "ven": 1190,
-    "peso": 1577.8,
+    "ven": 0,
+    "peso": 1435.0,
     "faixa": "Clássico"
    },
    {
@@ -115,10 +115,10 @@
     ],
     "lang": "pt",
     "titulo": "Parque Ibirapuera",
-    "views": 2717,
+    "views": 1407,
     "vpt": 1407,
-    "ven": 1310,
-    "peso": 1564.2,
+    "ven": 0,
+    "peso": 1407.0,
     "faixa": "Clássico"
    },
    {
@@ -143,25 +143,11 @@
     ],
     "lang": "pt",
     "titulo": "Sambódromo da Marquês de Sapucaí",
-    "views": 1729,
+    "views": 874,
     "vpt": 874,
-    "ven": 855,
-    "peso": 976.6,
+    "ven": 0,
+    "peso": 874.0,
     "faixa": "Clássico"
-   },
-   {
-    "nome": "Museu de Arte Contemporânea de Niterói",
-    "grafias": [
-     "MAC Niterói",
-     "MAC"
-    ],
-    "lang": "pt",
-    "titulo": "Museu de Arte Contemporânea de Niterói",
-    "views": 1660,
-    "vpt": 760,
-    "ven": 900,
-    "peso": 868.0,
-    "faixa": "Repertório"
    },
    {
     "nome": "Palácio do Supremo Tribunal Federal",
@@ -188,6 +174,20 @@
     "faixa": "Repertório"
    },
    {
+    "nome": "Museu de Arte Contemporânea de Niterói",
+    "grafias": [
+     "MAC Niterói",
+     "MAC"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Contemporânea de Niterói",
+    "views": 760,
+    "vpt": 760,
+    "ven": 0,
+    "peso": 760.0,
+    "faixa": "Repertório"
+   },
+   {
     "nome": "Cidade Administrativa Presidente Tancredo Neves",
     "grafias": [
      "Cidade Administrativa",
@@ -209,10 +209,10 @@
     ],
     "lang": "pt",
     "titulo": "Museu Oscar Niemeyer",
-    "views": 1132,
+    "views": 637,
     "vpt": 637,
-    "ven": 495,
-    "peso": 696.4,
+    "ven": 0,
+    "peso": 637.0,
     "faixa": "Repertório"
    },
    {
@@ -220,10 +220,10 @@
     "grafias": [],
     "lang": "pt",
     "titulo": "Memorial da América Latina",
-    "views": 789,
+    "views": 567,
     "vpt": 567,
-    "ven": 222,
-    "peso": 593.64,
+    "ven": 0,
+    "peso": 567.0,
     "faixa": "Repertório"
    },
    {
@@ -265,20 +265,6 @@
     "faixa": "Repertório"
    },
    {
-    "nome": "Sede do Partido Comunista Francês",
-    "grafias": [
-     "Partido Comunista Francês",
-     "Headquarters of the French Communist Party"
-    ],
-    "lang": "en",
-    "titulo": "Headquarters of the French Communist Party",
-    "views": 1886,
-    "vpt": 0,
-    "ven": 1886,
-    "peso": 339.48,
-    "faixa": "Repertório"
-   },
-   {
     "nome": "Caminho Niemeyer",
     "grafias": [],
     "lang": "pt",
@@ -294,11 +280,11 @@
     "grafias": [],
     "lang": "pt",
     "titulo": "Edifício Niemeyer",
-    "views": 408,
+    "views": 250,
     "vpt": 250,
-    "ven": 158,
-    "peso": 268.96,
-    "faixa": "Arquivo"
+    "ven": 0,
+    "peso": 250.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Igreja Nossa Senhora de Fátima (Brasília)",
@@ -312,19 +298,6 @@
     "vpt": 225,
     "ven": 0,
     "peso": 225.0,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Teatro Nacional Cláudio Santoro",
-    "grafias": [
-     "Teatro Nacional"
-    ],
-    "lang": "pt",
-    "titulo": "Teatro Nacional Cláudio Santoro",
-    "views": 397,
-    "vpt": 195,
-    "ven": 202,
-    "peso": 219.24,
     "faixa": "Arquivo"
    },
    {
@@ -342,6 +315,19 @@
     "faixa": "Arquivo"
    },
    {
+    "nome": "Teatro Nacional Cláudio Santoro",
+    "grafias": [
+     "Teatro Nacional"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro Nacional Cláudio Santoro",
+    "views": 195,
+    "vpt": 195,
+    "ven": 0,
+    "peso": 195.0,
+    "faixa": "Arquivo"
+   },
+   {
     "nome": "Biblioteca Nacional de Brasília",
     "grafias": [],
     "lang": "pt",
@@ -350,19 +336,6 @@
     "vpt": 170,
     "ven": 0,
     "peso": 170.0,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Centro Niemeyer",
-    "grafias": [
-     "Centro Cultural Internacional Oscar Niemeyer"
-    ],
-    "lang": "pt",
-    "titulo": "Centro Cultural Internacional Oscar Niemeyer",
-    "views": 502,
-    "vpt": 112,
-    "ven": 390,
-    "peso": 158.8,
     "faixa": "Arquivo"
    },
    {
@@ -377,17 +350,6 @@
     "faixa": "Arquivo"
    },
    {
-    "nome": "Auditório Ibirapuera",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Auditório Ibirapuera",
-    "views": 282,
-    "vpt": 125,
-    "ven": 157,
-    "peso": 143.84,
-    "faixa": "Arquivo"
-   },
-   {
     "nome": "Estação Cabo Branco",
     "grafias": [],
     "lang": "pt",
@@ -399,6 +361,30 @@
     "faixa": "Arquivo"
    },
    {
+    "nome": "Auditório Ibirapuera",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Auditório Ibirapuera",
+    "views": 125,
+    "vpt": 125,
+    "ven": 0,
+    "peso": 125.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Centro Niemeyer",
+    "grafias": [
+     "Centro Cultural Internacional Oscar Niemeyer"
+    ],
+    "lang": "pt",
+    "titulo": "Centro Cultural Internacional Oscar Niemeyer",
+    "views": 112,
+    "vpt": 112,
+    "ven": 0,
+    "peso": 112.0,
+    "faixa": "Arquivo"
+   },
+   {
     "nome": "Grande Hotel de Ouro Preto",
     "grafias": [],
     "lang": "pt",
@@ -407,7 +393,7 @@
     "vpt": 101,
     "ven": 0,
     "peso": 101.0,
-    "faixa": "Achado"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Museu de Arte da Pampulha",
@@ -420,6 +406,20 @@
     "vpt": 100,
     "ven": 0,
     "peso": 100.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Sede do Partido Comunista Francês",
+    "grafias": [
+     "Partido Comunista Francês",
+     "Headquarters of the French Communist Party"
+    ],
+    "lang": "en",
+    "titulo": "Headquarters of the French Communist Party",
+    "views": 1886,
+    "vpt": 0,
+    "ven": 1886,
+    "peso": 94.30000000000001,
     "faixa": "Achado"
    },
    {
@@ -459,7 +459,7 @@
     "views": 200,
     "vpt": 0,
     "ven": 200,
-    "peso": 36.0,
+    "peso": 10.0,
     "faixa": "Achado"
    }
   ]
@@ -483,19 +483,6 @@
     "faixa": "Cartão-postal"
    },
    {
-    "nome": "Villa Savoye",
-    "grafias": [
-     "Savoye"
-    ],
-    "lang": "pt",
-    "titulo": "Villa Savoye",
-    "views": 5818,
-    "vpt": 134,
-    "ven": 5684,
-    "peso": 816.0799999999999,
-    "faixa": "Cartão-postal"
-   },
-   {
     "nome": "Unité d'Habitation de Marselha",
     "grafias": [
      "Unité d'Habitation",
@@ -508,7 +495,20 @@
     "views": 2800,
     "vpt": 0,
     "ven": 2800,
-    "peso": 504.0,
+    "peso": 140.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Villa Savoye",
+    "grafias": [
+     "Savoye"
+    ],
+    "lang": "pt",
+    "titulo": "Villa Savoye",
+    "views": 134,
+    "vpt": 134,
+    "ven": 0,
+    "peso": 134.0,
     "faixa": "Clássico"
    },
    {
@@ -523,7 +523,7 @@
     "views": 1936,
     "vpt": 0,
     "ven": 1936,
-    "peso": 348.48,
+    "peso": 96.80000000000001,
     "faixa": "Clássico"
    },
    {
@@ -538,7 +538,7 @@
     "views": 1935,
     "vpt": 0,
     "ven": 1935,
-    "peso": 348.29999999999995,
+    "peso": 96.75,
     "faixa": "Clássico"
    },
    {
@@ -552,7 +552,7 @@
     "views": 1538,
     "vpt": 0,
     "ven": 1538,
-    "peso": 276.84000000000003,
+    "peso": 76.9,
     "faixa": "Clássico"
    },
    {
@@ -565,7 +565,7 @@
     "views": 1338,
     "vpt": 0,
     "ven": 1338,
-    "peso": 240.84,
+    "peso": 66.9,
     "faixa": "Clássico"
    },
    {
@@ -579,7 +579,7 @@
     "views": 1078,
     "vpt": 0,
     "ven": 1078,
-    "peso": 194.03999999999996,
+    "peso": 53.900000000000006,
     "faixa": "Repertório"
    },
    {
@@ -593,7 +593,7 @@
     "views": 986,
     "vpt": 0,
     "ven": 986,
-    "peso": 177.48,
+    "peso": 49.300000000000004,
     "faixa": "Repertório"
    },
    {
@@ -607,7 +607,7 @@
     "views": 980,
     "vpt": 0,
     "ven": 980,
-    "peso": 176.39999999999998,
+    "peso": 49.0,
     "faixa": "Repertório"
    },
    {
@@ -620,7 +620,7 @@
     "views": 970,
     "vpt": 0,
     "ven": 970,
-    "peso": 174.6,
+    "peso": 48.5,
     "faixa": "Repertório"
    },
    {
@@ -635,7 +635,7 @@
     "views": 926,
     "vpt": 0,
     "ven": 926,
-    "peso": 166.67999999999998,
+    "peso": 46.300000000000004,
     "faixa": "Repertório"
    },
    {
@@ -648,7 +648,7 @@
     "views": 651,
     "vpt": 0,
     "ven": 651,
-    "peso": 117.17999999999998,
+    "peso": 32.550000000000004,
     "faixa": "Repertório"
    },
    {
@@ -663,7 +663,7 @@
     "views": 438,
     "vpt": 0,
     "ven": 438,
-    "peso": 78.83999999999999,
+    "peso": 21.900000000000002,
     "faixa": "Repertório"
    },
    {
@@ -677,7 +677,7 @@
     "views": 414,
     "vpt": 0,
     "ven": 414,
-    "peso": 74.52,
+    "peso": 20.700000000000003,
     "faixa": "Arquivo"
    },
    {
@@ -688,7 +688,7 @@
     "views": 392,
     "vpt": 0,
     "ven": 392,
-    "peso": 70.56,
+    "peso": 19.6,
     "faixa": "Arquivo"
    },
    {
@@ -702,7 +702,7 @@
     "views": 389,
     "vpt": 0,
     "ven": 389,
-    "peso": 70.02,
+    "peso": 19.450000000000003,
     "faixa": "Arquivo"
    },
    {
@@ -715,7 +715,7 @@
     "views": 300,
     "vpt": 0,
     "ven": 300,
-    "peso": 54.0,
+    "peso": 15.0,
     "faixa": "Arquivo"
    },
    {
@@ -729,7 +729,7 @@
     "views": 286,
     "vpt": 0,
     "ven": 286,
-    "peso": 51.480000000000004,
+    "peso": 14.3,
     "faixa": "Arquivo"
    },
    {
@@ -743,7 +743,7 @@
     "views": 265,
     "vpt": 0,
     "ven": 265,
-    "peso": 47.699999999999996,
+    "peso": 13.25,
     "faixa": "Arquivo"
    },
    {
@@ -754,7 +754,7 @@
     "views": 263,
     "vpt": 0,
     "ven": 263,
-    "peso": 47.339999999999996,
+    "peso": 13.15,
     "faixa": "Achado"
    },
    {
@@ -768,7 +768,7 @@
     "views": 233,
     "vpt": 0,
     "ven": 233,
-    "peso": 41.94,
+    "peso": 11.65,
     "faixa": "Achado"
    },
    {
@@ -782,7 +782,7 @@
     "views": 182,
     "vpt": 0,
     "ven": 182,
-    "peso": 32.76,
+    "peso": 9.1,
     "faixa": "Achado"
    },
    {
@@ -793,7 +793,7 @@
     "views": 74,
     "vpt": 0,
     "ven": 74,
-    "peso": 13.319999999999999,
+    "peso": 3.7,
     "faixa": "Achado"
    }
   ]
@@ -811,7 +811,7 @@
     "views": 35786,
     "vpt": 0,
     "ven": 35786,
-    "peso": 6441.48,
+    "peso": 1789.3000000000002,
     "faixa": "Cartão-postal"
    },
    {
@@ -826,7 +826,7 @@
     "views": 16750,
     "vpt": 0,
     "ven": 16750,
-    "peso": 3015.0,
+    "peso": 837.5,
     "faixa": "Cartão-postal"
    },
    {
@@ -837,7 +837,7 @@
     "views": 10195,
     "vpt": 0,
     "ven": 10195,
-    "peso": 1835.1,
+    "peso": 509.75,
     "faixa": "Cartão-postal"
    },
    {
@@ -848,7 +848,7 @@
     "views": 9637,
     "vpt": 0,
     "ven": 9637,
-    "peso": 1734.66,
+    "peso": 481.85,
     "faixa": "Clássico"
    },
    {
@@ -859,7 +859,7 @@
     "views": 7580,
     "vpt": 0,
     "ven": 7580,
-    "peso": 1364.4,
+    "peso": 379.0,
     "faixa": "Clássico"
    },
    {
@@ -873,7 +873,7 @@
     "views": 6338,
     "vpt": 0,
     "ven": 6338,
-    "peso": 1140.84,
+    "peso": 316.90000000000003,
     "faixa": "Clássico"
    },
    {
@@ -887,7 +887,7 @@
     "views": 5241,
     "vpt": 0,
     "ven": 5241,
-    "peso": 943.3799999999999,
+    "peso": 262.05,
     "faixa": "Clássico"
    },
    {
@@ -901,7 +901,7 @@
     "views": 4721,
     "vpt": 0,
     "ven": 4721,
-    "peso": 849.78,
+    "peso": 236.05,
     "faixa": "Clássico"
    },
    {
@@ -912,7 +912,7 @@
     "views": 3719,
     "vpt": 0,
     "ven": 3719,
-    "peso": 669.42,
+    "peso": 185.95000000000002,
     "faixa": "Repertório"
    },
    {
@@ -925,7 +925,7 @@
     "views": 3624,
     "vpt": 0,
     "ven": 3624,
-    "peso": 652.3199999999999,
+    "peso": 181.20000000000002,
     "faixa": "Repertório"
    },
    {
@@ -939,7 +939,7 @@
     "views": 3266,
     "vpt": 0,
     "ven": 3266,
-    "peso": 587.8799999999999,
+    "peso": 163.3,
     "faixa": "Repertório"
    },
    {
@@ -953,7 +953,7 @@
     "views": 2955,
     "vpt": 0,
     "ven": 2955,
-    "peso": 531.9,
+    "peso": 147.75,
     "faixa": "Repertório"
    },
    {
@@ -964,7 +964,7 @@
     "views": 2835,
     "vpt": 0,
     "ven": 2835,
-    "peso": 510.29999999999995,
+    "peso": 141.75,
     "faixa": "Repertório"
    },
    {
@@ -975,7 +975,7 @@
     "views": 2589,
     "vpt": 0,
     "ven": 2589,
-    "peso": 466.02,
+    "peso": 129.45000000000002,
     "faixa": "Repertório"
    },
    {
@@ -989,7 +989,7 @@
     "views": 2066,
     "vpt": 0,
     "ven": 2066,
-    "peso": 371.88,
+    "peso": 103.30000000000001,
     "faixa": "Repertório"
    },
    {
@@ -1003,7 +1003,7 @@
     "views": 2008,
     "vpt": 0,
     "ven": 2008,
-    "peso": 361.43999999999994,
+    "peso": 100.4,
     "faixa": "Repertório"
    },
    {
@@ -1014,7 +1014,7 @@
     "views": 1641,
     "vpt": 0,
     "ven": 1641,
-    "peso": 295.38,
+    "peso": 82.05000000000001,
     "faixa": "Arquivo"
    },
    {
@@ -1028,7 +1028,7 @@
     "views": 1560,
     "vpt": 0,
     "ven": 1560,
-    "peso": 280.79999999999995,
+    "peso": 78.0,
     "faixa": "Arquivo"
    },
    {
@@ -1039,7 +1039,7 @@
     "views": 904,
     "vpt": 0,
     "ven": 904,
-    "peso": 162.71999999999997,
+    "peso": 45.2,
     "faixa": "Arquivo"
    },
    {
@@ -1052,7 +1052,7 @@
     "views": 810,
     "vpt": 0,
     "ven": 810,
-    "peso": 145.8,
+    "peso": 40.5,
     "faixa": "Arquivo"
    },
    {
@@ -1065,7 +1065,7 @@
     "views": 563,
     "vpt": 0,
     "ven": 563,
-    "peso": 101.34,
+    "peso": 28.150000000000002,
     "faixa": "Arquivo"
    },
    {
@@ -1078,7 +1078,7 @@
     "views": 487,
     "vpt": 0,
     "ven": 487,
-    "peso": 87.66,
+    "peso": 24.35,
     "faixa": "Arquivo"
    },
    {
@@ -1092,7 +1092,7 @@
     "views": 415,
     "vpt": 0,
     "ven": 415,
-    "peso": 74.69999999999999,
+    "peso": 20.75,
     "faixa": "Achado"
    },
    {
@@ -1105,7 +1105,7 @@
     "views": 333,
     "vpt": 0,
     "ven": 333,
-    "peso": 59.94,
+    "peso": 16.650000000000002,
     "faixa": "Achado"
    },
    {
@@ -1118,7 +1118,7 @@
     "views": 252,
     "vpt": 0,
     "ven": 252,
-    "peso": 45.36,
+    "peso": 12.600000000000001,
     "faixa": "Achado"
    },
    {
@@ -1131,7 +1131,7 @@
     "views": 18,
     "vpt": 0,
     "ven": 18,
-    "peso": 3.24,
+    "peso": 0.9,
     "faixa": "Achado"
    }
   ]
@@ -1149,7 +1149,7 @@
     "views": 32686,
     "vpt": 0,
     "ven": 32686,
-    "peso": 5883.48,
+    "peso": 1634.3000000000002,
     "faixa": "Cartão-postal"
    },
    {
@@ -1164,7 +1164,7 @@
     "views": 11436,
     "vpt": 0,
     "ven": 11436,
-    "peso": 2058.48,
+    "peso": 571.8000000000001,
     "faixa": "Cartão-postal"
    },
    {
@@ -1178,7 +1178,7 @@
     "views": 3986,
     "vpt": 0,
     "ven": 3986,
-    "peso": 717.48,
+    "peso": 199.3,
     "faixa": "Cartão-postal"
    },
    {
@@ -1191,7 +1191,7 @@
     "views": 2399,
     "vpt": 0,
     "ven": 2399,
-    "peso": 431.82,
+    "peso": 119.95,
     "faixa": "Clássico"
    },
    {
@@ -1202,7 +1202,7 @@
     "views": 2171,
     "vpt": 0,
     "ven": 2171,
-    "peso": 390.78,
+    "peso": 108.55000000000001,
     "faixa": "Clássico"
    },
    {
@@ -1215,7 +1215,7 @@
     "views": 1797,
     "vpt": 0,
     "ven": 1797,
-    "peso": 323.46,
+    "peso": 89.85000000000001,
     "faixa": "Clássico"
    },
    {
@@ -1228,7 +1228,7 @@
     "views": 1771,
     "vpt": 0,
     "ven": 1771,
-    "peso": 318.78,
+    "peso": 88.55000000000001,
     "faixa": "Clássico"
    },
    {
@@ -1241,7 +1241,7 @@
     "views": 1611,
     "vpt": 0,
     "ven": 1611,
-    "peso": 289.98,
+    "peso": 80.55000000000001,
     "faixa": "Clássico"
    },
    {
@@ -1255,7 +1255,7 @@
     "views": 1492,
     "vpt": 0,
     "ven": 1492,
-    "peso": 268.56,
+    "peso": 74.60000000000001,
     "faixa": "Clássico"
    },
    {
@@ -1270,7 +1270,7 @@
     "views": 1319,
     "vpt": 0,
     "ven": 1319,
-    "peso": 237.42000000000002,
+    "peso": 65.95,
     "faixa": "Repertório"
    },
    {
@@ -1281,7 +1281,7 @@
     "views": 1042,
     "vpt": 0,
     "ven": 1042,
-    "peso": 187.56,
+    "peso": 52.1,
     "faixa": "Repertório"
    },
    {
@@ -1294,7 +1294,7 @@
     "views": 873,
     "vpt": 0,
     "ven": 873,
-    "peso": 157.14,
+    "peso": 43.650000000000006,
     "faixa": "Repertório"
    },
    {
@@ -1305,7 +1305,7 @@
     "views": 867,
     "vpt": 0,
     "ven": 867,
-    "peso": 156.06,
+    "peso": 43.35,
     "faixa": "Repertório"
    },
    {
@@ -1318,7 +1318,7 @@
     "views": 864,
     "vpt": 0,
     "ven": 864,
-    "peso": 155.51999999999998,
+    "peso": 43.2,
     "faixa": "Repertório"
    },
    {
@@ -1332,7 +1332,7 @@
     "views": 851,
     "vpt": 0,
     "ven": 851,
-    "peso": 153.17999999999998,
+    "peso": 42.550000000000004,
     "faixa": "Repertório"
    },
    {
@@ -1345,7 +1345,7 @@
     "views": 732,
     "vpt": 0,
     "ven": 732,
-    "peso": 131.76,
+    "peso": 36.6,
     "faixa": "Repertório"
    },
    {
@@ -1356,7 +1356,7 @@
     "views": 643,
     "vpt": 0,
     "ven": 643,
-    "peso": 115.74,
+    "peso": 32.15,
     "faixa": "Repertório"
    },
    {
@@ -1367,7 +1367,7 @@
     "views": 625,
     "vpt": 0,
     "ven": 625,
-    "peso": 112.5,
+    "peso": 31.25,
     "faixa": "Arquivo"
    },
    {
@@ -1381,7 +1381,7 @@
     "views": 560,
     "vpt": 0,
     "ven": 560,
-    "peso": 100.80000000000001,
+    "peso": 28.0,
     "faixa": "Arquivo"
    },
    {
@@ -1395,7 +1395,7 @@
     "views": 550,
     "vpt": 0,
     "ven": 550,
-    "peso": 99.0,
+    "peso": 27.5,
     "faixa": "Arquivo"
    },
    {
@@ -1409,7 +1409,7 @@
     "views": 510,
     "vpt": 0,
     "ven": 510,
-    "peso": 91.8,
+    "peso": 25.5,
     "faixa": "Arquivo"
    },
    {
@@ -1423,7 +1423,7 @@
     "views": 445,
     "vpt": 0,
     "ven": 445,
-    "peso": 80.1,
+    "peso": 22.25,
     "faixa": "Arquivo"
    },
    {
@@ -1436,7 +1436,7 @@
     "views": 438,
     "vpt": 0,
     "ven": 438,
-    "peso": 78.83999999999999,
+    "peso": 21.900000000000002,
     "faixa": "Arquivo"
    },
    {
@@ -1449,7 +1449,7 @@
     "views": 436,
     "vpt": 0,
     "ven": 436,
-    "peso": 78.48,
+    "peso": 21.8,
     "faixa": "Arquivo"
    },
    {
@@ -1463,7 +1463,7 @@
     "views": 422,
     "vpt": 0,
     "ven": 422,
-    "peso": 75.96000000000001,
+    "peso": 21.1,
     "faixa": "Arquivo"
    },
    {
@@ -1477,7 +1477,7 @@
     "views": 365,
     "vpt": 0,
     "ven": 365,
-    "peso": 65.69999999999999,
+    "peso": 18.25,
     "faixa": "Achado"
    },
    {
@@ -1490,7 +1490,7 @@
     "views": 303,
     "vpt": 0,
     "ven": 303,
-    "peso": 54.54,
+    "peso": 15.15,
     "faixa": "Achado"
    },
    {
@@ -1503,7 +1503,7 @@
     "views": 174,
     "vpt": 0,
     "ven": 174,
-    "peso": 31.32,
+    "peso": 8.700000000000001,
     "faixa": "Achado"
    },
    {
@@ -1516,7 +1516,7 @@
     "views": 168,
     "vpt": 0,
     "ven": 168,
-    "peso": 30.240000000000002,
+    "peso": 8.4,
     "faixa": "Achado"
    }
   ]
@@ -1531,10 +1531,10 @@
     ],
     "lang": "pt",
     "titulo": "Palácio da Alvorada",
-    "views": 19411,
+    "views": 13261,
     "vpt": 13261,
-    "ven": 6150,
-    "peso": 13999.0,
+    "ven": 0,
+    "peso": 13261.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -1544,10 +1544,10 @@
     ],
     "lang": "pt",
     "titulo": "Palácio do Planalto",
-    "views": 10406,
+    "views": 4961,
     "vpt": 4961,
-    "ven": 5445,
-    "peso": 5614.4,
+    "ven": 0,
+    "peso": 4961.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -1557,11 +1557,11 @@
     ],
     "lang": "pt",
     "titulo": "Palácio do Jaburu",
-    "views": 5310,
+    "views": 4665,
     "vpt": 4665,
-    "ven": 645,
-    "peso": 4742.4,
-    "faixa": "Cartão-postal"
+    "ven": 0,
+    "peso": 4665.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Congresso Nacional",
@@ -1571,10 +1571,10 @@
     ],
     "lang": "pt",
     "titulo": "Palácio do Congresso Nacional",
-    "views": 5364,
+    "views": 2678,
     "vpt": 2678,
-    "ven": 2686,
-    "peso": 3000.32,
+    "ven": 0,
+    "peso": 2678.0,
     "faixa": "Clássico"
    },
    {
@@ -1584,11 +1584,11 @@
     ],
     "lang": "pt",
     "titulo": "Panteão da Pátria e da Liberdade Tancredo Neves",
-    "views": 2654,
+    "views": 2402,
     "vpt": 2402,
-    "ven": 252,
-    "peso": 2432.24,
-    "faixa": "Clássico"
+    "ven": 0,
+    "peso": 2402.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Catedral de Brasília",
@@ -1626,10 +1626,10 @@
     ],
     "lang": "pt",
     "titulo": "Palácio Itamaraty",
-    "views": 2625,
+    "views": 1435,
     "vpt": 1435,
-    "ven": 1190,
-    "peso": 1577.8,
+    "ven": 0,
+    "peso": 1435.0,
     "faixa": "Clássico"
    },
    {
@@ -1701,10 +1701,10 @@
     "grafias": [],
     "lang": "pt",
     "titulo": "Catetinho",
-    "views": 559,
+    "views": 452,
     "vpt": 452,
-    "ven": 107,
-    "peso": 464.84,
+    "ven": 0,
+    "peso": 452.0,
     "faixa": "Repertório"
    },
    {
@@ -1770,19 +1770,6 @@
     "faixa": "Arquivo"
    },
    {
-    "nome": "Teatro Nacional Cláudio Santoro",
-    "grafias": [
-     "Teatro Nacional"
-    ],
-    "lang": "pt",
-    "titulo": "Teatro Nacional Cláudio Santoro",
-    "views": 397,
-    "vpt": 195,
-    "ven": 202,
-    "peso": 219.24,
-    "faixa": "Arquivo"
-   },
-   {
     "nome": "Museu Nacional da República",
     "grafias": [
      "Museu Nacional",
@@ -1805,6 +1792,19 @@
     "vpt": 201,
     "ven": 0,
     "peso": 201.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Teatro Nacional Cláudio Santoro",
+    "grafias": [
+     "Teatro Nacional"
+    ],
+    "lang": "pt",
+    "titulo": "Teatro Nacional Cláudio Santoro",
+    "views": 195,
+    "vpt": 195,
+    "ven": 0,
+    "peso": 195.0,
     "faixa": "Arquivo"
    },
    {
@@ -1887,7 +1887,7 @@
     "views": 85,
     "vpt": 0,
     "ven": 85,
-    "peso": 15.299999999999999,
+    "peso": 4.25,
     "faixa": "Achado"
    },
    {
@@ -1898,7 +1898,7 @@
     "views": 43,
     "vpt": 0,
     "ven": 43,
-    "peso": 7.74,
+    "peso": 2.15,
     "faixa": "Achado"
    }
   ]
@@ -1913,10 +1913,10 @@
     ],
     "lang": "pt",
     "titulo": "Museu de Arte de São Paulo",
-    "views": 4522,
+    "views": 2491,
     "vpt": 2491,
-    "ven": 2031,
-    "peso": 2734.72,
+    "ven": 0,
+    "peso": 2491.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -1927,10 +1927,10 @@
     ],
     "lang": "pt",
     "titulo": "Instituto Moreira Salles",
-    "views": 692,
+    "views": 531,
     "vpt": 531,
-    "ven": 161,
-    "peso": 550.32,
+    "ven": 0,
+    "peso": 531.0,
     "faixa": "Clássico"
    },
    {
@@ -1942,17 +1942,17 @@
     "vpt": 452,
     "ven": 0,
     "peso": 452.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Casa das Rosas",
     "grafias": [],
     "lang": "pt",
     "titulo": "Casa das Rosas",
-    "views": 460,
+    "views": 394,
     "vpt": 394,
-    "ven": 66,
-    "peso": 401.92,
+    "ven": 0,
+    "peso": 394.0,
     "faixa": "Clássico"
    },
    {
@@ -1962,10 +1962,10 @@
     ],
     "lang": "pt",
     "titulo": "Parque Trianon",
-    "views": 423,
+    "views": 361,
     "vpt": 361,
-    "ven": 62,
-    "peso": 368.44,
+    "ven": 0,
+    "peso": 361.0,
     "faixa": "Repertório"
    },
    {
@@ -1990,10 +1990,10 @@
     ],
     "lang": "pt",
     "titulo": "Fundação Cásper Líbero",
-    "views": 367,
+    "views": 347,
     "vpt": 347,
-    "ven": 20,
-    "peso": 349.4,
+    "ven": 0,
+    "peso": 347.0,
     "faixa": "Repertório"
    },
    {
@@ -2001,10 +2001,10 @@
     "grafias": [],
     "lang": "pt",
     "titulo": "Itaú Cultural",
-    "views": 280,
+    "views": 186,
     "vpt": 186,
-    "ven": 94,
-    "peso": 197.28,
+    "ven": 0,
+    "peso": 186.0,
     "faixa": "Repertório"
    },
    {
@@ -2064,7 +2064,7 @@
     "vpt": 30,
     "ven": 0,
     "peso": 30.0,
-    "faixa": "Achado"
+    "faixa": "Clássico"
    },
    {
     "nome": "Conjunto Nacional",
@@ -2074,8 +2074,8 @@
     "views": 115,
     "vpt": 0,
     "ven": 115,
-    "peso": 20.7,
-    "faixa": "Achado"
+    "peso": 5.75,
+    "faixa": "Cartão-postal"
    }
   ]
  },
@@ -2087,37 +2087,10 @@
     "grafias": [],
     "lang": "pt",
     "titulo": "Burj Khalifa",
-    "views": 102963,
+    "views": 2940,
     "vpt": 2940,
-    "ven": 100023,
-    "peso": 14942.76,
-    "faixa": "Cartão-postal"
-   },
-   {
-    "nome": "Empire State Building",
-    "grafias": [
-     "Empire State"
-    ],
-    "lang": "pt",
-    "titulo": "Empire State Building",
-    "views": 81568,
-    "vpt": 1275,
-    "ven": 80293,
-    "peso": 10910.16,
-    "faixa": "Cartão-postal"
-   },
-   {
-    "nome": "One World Trade Center",
-    "grafias": [
-     "Freedom Tower",
-     "One WTC"
-    ],
-    "lang": "pt",
-    "titulo": "One World Trade Center",
-    "views": 55922,
-    "vpt": 788,
-    "ven": 55134,
-    "peso": 7404.08,
+    "ven": 0,
+    "peso": 2940.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -2131,70 +2104,35 @@
     "views": 35519,
     "vpt": 0,
     "ven": 35519,
-    "peso": 6393.42,
+    "peso": 1775.95,
     "faixa": "Cartão-postal"
    },
    {
-    "nome": "Willis Tower",
+    "nome": "Empire State Building",
     "grafias": [
-     "Sears Tower"
+     "Empire State"
     ],
     "lang": "pt",
-    "titulo": "Willis Tower",
-    "views": 42988,
-    "vpt": 289,
-    "ven": 42699,
-    "peso": 5412.88,
-    "faixa": "Clássico"
+    "titulo": "Empire State Building",
+    "views": 1275,
+    "vpt": 1275,
+    "ven": 0,
+    "peso": 1275.0,
+    "faixa": "Cartão-postal"
    },
    {
-    "nome": "Taipei 101",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Taipei 101",
-    "views": 34497,
-    "vpt": 339,
-    "ven": 34158,
-    "peso": 4437.96,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Abraj Al Bait",
+    "nome": "One World Trade Center",
     "grafias": [
-     "Torre do Relógio de Meca",
-     "Makkah Royal Clock Tower"
+     "Freedom Tower",
+     "One WTC"
     ],
     "lang": "pt",
-    "titulo": "Abraj Al Bait",
-    "views": 27058,
-    "vpt": 191,
-    "ven": 26867,
-    "peso": 3415.04,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "The Shard",
-    "grafias": [
-     "Shard"
-    ],
-    "lang": "pt",
-    "titulo": "The Shard",
-    "views": 25687,
-    "vpt": 290,
-    "ven": 25397,
-    "peso": 3337.64,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Shanghai Tower",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Shanghai Tower",
-    "views": 23859,
-    "vpt": 521,
-    "ven": 23338,
-    "peso": 3321.56,
-    "faixa": "Clássico"
+    "titulo": "One World Trade Center",
+    "views": 788,
+    "vpt": 788,
+    "ven": 0,
+    "peso": 788.0,
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "111 West 57th Street",
@@ -2206,29 +2144,18 @@
     "views": 15211,
     "vpt": 0,
     "ven": 15211,
-    "peso": 2737.98,
+    "peso": 760.5500000000001,
     "faixa": "Clássico"
    },
    {
-    "nome": "Central Park Tower",
+    "nome": "Shanghai Tower",
     "grafias": [],
     "lang": "pt",
-    "titulo": "Central Park Tower",
-    "views": 19985,
-    "vpt": 86,
-    "ven": 19899,
-    "peso": 2473.88,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Burj Al Arab",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Burj Al Arab",
-    "views": 16308,
-    "vpt": 234,
-    "ven": 16074,
-    "peso": 2162.88,
+    "titulo": "Shanghai Tower",
+    "views": 521,
+    "vpt": 521,
+    "ven": 0,
+    "peso": 521.0,
     "faixa": "Clássico"
    },
    {
@@ -2239,19 +2166,8 @@
     "views": 10415,
     "vpt": 0,
     "ven": 10415,
-    "peso": 1874.6999999999998,
+    "peso": 520.75,
     "faixa": "Clássico"
-   },
-   {
-    "nome": "Lotte World Tower",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Lotte World Tower",
-    "views": 13797,
-    "vpt": 141,
-    "ven": 13656,
-    "peso": 1779.72,
-    "faixa": "Repertório"
    },
    {
     "nome": "Landmark 81",
@@ -2261,253 +2177,8 @@
     "views": 8504,
     "vpt": 0,
     "ven": 8504,
-    "peso": 1530.72,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "432 Park Avenue",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "432 Park Avenue",
-    "views": 12307,
-    "vpt": 58,
-    "ven": 12249,
-    "peso": 1527.8799999999999,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Trump International Hotel and Tower (Chicago)",
-    "grafias": [
-     "Trump Tower Chicago",
-     "Trump International Hotel and Tower"
-    ],
-    "lang": "pt",
-    "titulo": "Trump International Hotel and Tower (Chicago)",
-    "views": 10497,
-    "vpt": 144,
-    "ven": 10353,
-    "peso": 1386.36,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Lakhta Center",
-    "grafias": [
-     "Lakhta"
-    ],
-    "lang": "pt",
-    "titulo": "Lakhta Center",
-    "views": 10665,
-    "vpt": 99,
-    "ven": 10566,
-    "peso": 1366.9199999999998,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "875 North Michigan Avenue",
-    "grafias": [
-     "John Hancock Center",
-     "Hancock"
-    ],
-    "lang": "pt",
-    "titulo": "875 North Michigan Avenue",
-    "views": 10175,
-    "vpt": 31,
-    "ven": 10144,
-    "peso": 1248.28,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Ping An Finance Center",
-    "grafias": [
-     "Ping An",
-     "Ping An Finance Centre"
-    ],
-    "lang": "en",
-    "titulo": "Ping An Finance Centre",
-    "views": 5614,
-    "vpt": 0,
-    "ven": 5614,
-    "peso": 1010.52,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "China Zun",
-    "grafias": [
-     "CITIC Tower"
-    ],
-    "lang": "en",
-    "titulo": "China Zun",
-    "views": 5120,
-    "vpt": 0,
-    "ven": 5120,
-    "peso": 921.5999999999999,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Shanghai World Financial Center",
-    "grafias": [
-     "Abridor de garrafas"
-    ],
-    "lang": "pt",
-    "titulo": "Shanghai World Financial Center",
-    "views": 6381,
-    "vpt": 55,
-    "ven": 6326,
-    "peso": 814.12,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Q1 (edifício)",
-    "grafias": [
-     "Q1"
-    ],
-    "lang": "en",
-    "titulo": "Q1 (building)",
-    "views": 4490,
-    "vpt": 0,
-    "ven": 4490,
-    "peso": 808.1999999999999,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Merdeka 118",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Merdeka 118",
-    "views": 4392,
-    "vpt": 227,
-    "ven": 4165,
-    "peso": 726.8,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Bank of America Tower (Nova Iorque)",
-    "grafias": [
-     "Bank of America Tower"
-    ],
-    "lang": "en",
-    "titulo": "Bank of America Tower (Manhattan)",
-    "views": 3776,
-    "vpt": 0,
-    "ven": 3776,
-    "peso": 679.6800000000001,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Jin Mao Tower",
-    "grafias": [
-     "Torre Jin Mao"
-    ],
-    "lang": "pt",
-    "titulo": "Jin Mao Tower",
-    "views": 4513,
-    "vpt": 50,
-    "ven": 4463,
-    "peso": 585.56,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Australia 108",
-    "grafias": [],
-    "lang": "en",
-    "titulo": "Australia 108",
-    "views": 3207,
-    "vpt": 0,
-    "ven": 3207,
-    "peso": 577.26,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Kingdom Centre",
-    "grafias": [
-     "Kingdom Tower"
-    ],
-    "lang": "pt",
-    "titulo": "Kingdom Centre",
-    "views": 4575,
-    "vpt": 9,
-    "ven": 4566,
-    "peso": 556.92,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "International Commerce Centre",
-    "grafias": [
-     "ICC"
-    ],
-    "lang": "pt",
-    "titulo": "International Commerce Centre",
-    "views": 4465,
-    "vpt": 21,
-    "ven": 4444,
-    "peso": 554.28,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Federation Tower",
-    "grafias": [
-     "Torre Federação"
-    ],
-    "lang": "pt",
-    "titulo": "Federation Tower",
-    "views": 3672,
-    "vpt": 34,
-    "ven": 3638,
-    "peso": 470.56,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Torre Costanera",
-    "grafias": [
-     "Gran Torre Santiago",
-     "Costanera Center",
-     "Gran Torre Costanera"
-    ],
-    "lang": "en",
-    "titulo": "Gran Torre Costanera",
-    "views": 2580,
-    "vpt": 0,
-    "ven": 2580,
-    "peso": 464.4,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Guangzhou CTF Finance Centre",
-    "grafias": [],
-    "lang": "en",
-    "titulo": "Guangzhou CTF Finance Centre",
-    "views": 2427,
-    "vpt": 0,
-    "ven": 2427,
-    "peso": 436.86,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Torre Eureka",
-    "grafias": [
-     "Eureka Tower"
-    ],
-    "lang": "en",
-    "titulo": "Eureka Tower",
-    "views": 2407,
-    "vpt": 0,
-    "ven": 2407,
-    "peso": 433.26,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Two International Finance Centre",
-    "grafias": [
-     "IFC",
-     "International Finance Centre"
-    ],
-    "lang": "pt",
-    "titulo": "International Finance Centre",
-    "views": 3418,
-    "vpt": 19,
-    "ven": 3399,
-    "peso": 426.88,
-    "faixa": "Arquivo"
+    "peso": 425.20000000000005,
+    "faixa": "Clássico"
    },
    {
     "nome": "Torres Petronas",
@@ -2521,7 +2192,221 @@
     "vpt": 390,
     "ven": 0,
     "peso": 390.0,
-    "faixa": "Arquivo"
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Taipei 101",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Taipei 101",
+    "views": 339,
+    "vpt": 339,
+    "ven": 0,
+    "peso": 339.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "The Shard",
+    "grafias": [
+     "Shard"
+    ],
+    "lang": "pt",
+    "titulo": "The Shard",
+    "views": 290,
+    "vpt": 290,
+    "ven": 0,
+    "peso": 290.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Willis Tower",
+    "grafias": [
+     "Sears Tower"
+    ],
+    "lang": "pt",
+    "titulo": "Willis Tower",
+    "views": 289,
+    "vpt": 289,
+    "ven": 0,
+    "peso": 289.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ping An Finance Center",
+    "grafias": [
+     "Ping An",
+     "Ping An Finance Centre"
+    ],
+    "lang": "en",
+    "titulo": "Ping An Finance Centre",
+    "views": 5614,
+    "vpt": 0,
+    "ven": 5614,
+    "peso": 280.7,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "China Zun",
+    "grafias": [
+     "CITIC Tower"
+    ],
+    "lang": "en",
+    "titulo": "China Zun",
+    "views": 5120,
+    "vpt": 0,
+    "ven": 5120,
+    "peso": 256.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Burj Al Arab",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Burj Al Arab",
+    "views": 234,
+    "vpt": 234,
+    "ven": 0,
+    "peso": 234.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Merdeka 118",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Merdeka 118",
+    "views": 227,
+    "vpt": 227,
+    "ven": 0,
+    "peso": 227.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Q1 (edifício)",
+    "grafias": [
+     "Q1"
+    ],
+    "lang": "en",
+    "titulo": "Q1 (building)",
+    "views": 4490,
+    "vpt": 0,
+    "ven": 4490,
+    "peso": 224.5,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Abraj Al Bait",
+    "grafias": [
+     "Torre do Relógio de Meca",
+     "Makkah Royal Clock Tower"
+    ],
+    "lang": "pt",
+    "titulo": "Abraj Al Bait",
+    "views": 191,
+    "vpt": 191,
+    "ven": 0,
+    "peso": 191.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Bank of America Tower (Nova Iorque)",
+    "grafias": [
+     "Bank of America Tower"
+    ],
+    "lang": "en",
+    "titulo": "Bank of America Tower (Manhattan)",
+    "views": 3776,
+    "vpt": 0,
+    "ven": 3776,
+    "peso": 188.8,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Australia 108",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Australia 108",
+    "views": 3207,
+    "vpt": 0,
+    "ven": 3207,
+    "peso": 160.35000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Trump International Hotel and Tower (Chicago)",
+    "grafias": [
+     "Trump Tower Chicago",
+     "Trump International Hotel and Tower"
+    ],
+    "lang": "pt",
+    "titulo": "Trump International Hotel and Tower (Chicago)",
+    "views": 144,
+    "vpt": 144,
+    "ven": 0,
+    "peso": 144.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lotte World Tower",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lotte World Tower",
+    "views": 141,
+    "vpt": 141,
+    "ven": 0,
+    "peso": 141.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Torre Costanera",
+    "grafias": [
+     "Gran Torre Santiago",
+     "Costanera Center",
+     "Gran Torre Costanera"
+    ],
+    "lang": "en",
+    "titulo": "Gran Torre Costanera",
+    "views": 2580,
+    "vpt": 0,
+    "ven": 2580,
+    "peso": 129.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Guangzhou CTF Finance Centre",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Guangzhou CTF Finance Centre",
+    "views": 2427,
+    "vpt": 0,
+    "ven": 2427,
+    "peso": 121.35000000000001,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Torre Eureka",
+    "grafias": [
+     "Eureka Tower"
+    ],
+    "lang": "en",
+    "titulo": "Eureka Tower",
+    "views": 2407,
+    "vpt": 0,
+    "ven": 2407,
+    "peso": 120.35000000000001,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lakhta Center",
+    "grafias": [
+     "Lakhta"
+    ],
+    "lang": "pt",
+    "titulo": "Lakhta Center",
+    "views": 99,
+    "vpt": 99,
+    "ven": 0,
+    "peso": 99.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Tianjin CTF Finance Centre",
@@ -2531,7 +2416,18 @@
     "views": 1761,
     "vpt": 0,
     "ven": 1761,
-    "peso": 316.98,
+    "peso": 88.05000000000001,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Central Park Tower",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Central Park Tower",
+    "views": 86,
+    "vpt": 86,
+    "ven": 0,
+    "peso": 86.0,
     "faixa": "Arquivo"
    },
    {
@@ -2542,18 +2438,7 @@
     "views": 1586,
     "vpt": 0,
     "ven": 1586,
-    "peso": 285.48,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Marina 101",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Marina 101",
-    "views": 1706,
-    "vpt": 19,
-    "ven": 1687,
-    "peso": 221.44,
+    "peso": 79.30000000000001,
     "faixa": "Arquivo"
    },
    {
@@ -2564,8 +2449,19 @@
     "views": 1197,
     "vpt": 0,
     "ven": 1197,
-    "peso": 215.45999999999998,
-    "faixa": "Achado"
+    "peso": 59.85,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "432 Park Avenue",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "432 Park Avenue",
+    "views": 58,
+    "vpt": 58,
+    "ven": 0,
+    "peso": 58.0,
+    "faixa": "Arquivo"
    },
    {
     "nome": "JW Marriott Marquis Dubai",
@@ -2575,19 +2471,34 @@
     "views": 1107,
     "vpt": 0,
     "ven": 1107,
-    "peso": 199.26,
-    "faixa": "Achado"
+    "peso": 55.35,
+    "faixa": "Arquivo"
    },
    {
-    "nome": "Princess Tower",
-    "grafias": [],
+    "nome": "Shanghai World Financial Center",
+    "grafias": [
+     "Abridor de garrafas"
+    ],
     "lang": "pt",
-    "titulo": "Princess Tower",
-    "views": 1465,
-    "vpt": 13,
-    "ven": 1452,
-    "peso": 187.23999999999998,
-    "faixa": "Achado"
+    "titulo": "Shanghai World Financial Center",
+    "views": 55,
+    "vpt": 55,
+    "ven": 0,
+    "peso": 55.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Jin Mao Tower",
+    "grafias": [
+     "Torre Jin Mao"
+    ],
+    "lang": "pt",
+    "titulo": "Jin Mao Tower",
+    "views": 50,
+    "vpt": 50,
+    "ven": 0,
+    "peso": 50.0,
+    "faixa": "Arquivo"
    },
    {
     "nome": "Gevora Hotel",
@@ -2597,8 +2508,8 @@
     "views": 847,
     "vpt": 0,
     "ven": 847,
-    "peso": 152.46,
-    "faixa": "Achado"
+    "peso": 42.35,
+    "faixa": "Arquivo"
    },
    {
     "nome": "Yachthouse Residence Club",
@@ -2610,8 +2521,35 @@
     "views": 743,
     "vpt": 0,
     "ven": 743,
-    "peso": 133.74,
-    "faixa": "Achado"
+    "peso": 37.15,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Federation Tower",
+    "grafias": [
+     "Torre Federação"
+    ],
+    "lang": "pt",
+    "titulo": "Federation Tower",
+    "views": 34,
+    "vpt": 34,
+    "ven": 0,
+    "peso": 34.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "875 North Michigan Avenue",
+    "grafias": [
+     "John Hancock Center",
+     "Hancock"
+    ],
+    "lang": "pt",
+    "titulo": "875 North Michigan Avenue",
+    "views": 31,
+    "vpt": 31,
+    "ven": 0,
+    "peso": 31.0,
+    "faixa": "Arquivo"
    },
    {
     "nome": "The Index (Dubai)",
@@ -2623,7 +2561,7 @@
     "views": 464,
     "vpt": 0,
     "ven": 464,
-    "peso": 83.52,
+    "peso": 23.200000000000003,
     "faixa": "Achado"
    },
    {
@@ -2636,7 +2574,69 @@
     "views": 454,
     "vpt": 0,
     "ven": 454,
-    "peso": 81.72,
+    "peso": 22.700000000000003,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "International Commerce Centre",
+    "grafias": [
+     "ICC"
+    ],
+    "lang": "pt",
+    "titulo": "International Commerce Centre",
+    "views": 21,
+    "vpt": 21,
+    "ven": 0,
+    "peso": 21.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Two International Finance Centre",
+    "grafias": [
+     "IFC",
+     "International Finance Centre"
+    ],
+    "lang": "pt",
+    "titulo": "International Finance Centre",
+    "views": 19,
+    "vpt": 19,
+    "ven": 0,
+    "peso": 19.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Marina 101",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Marina 101",
+    "views": 19,
+    "vpt": 19,
+    "ven": 0,
+    "peso": 19.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Princess Tower",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Princess Tower",
+    "views": 13,
+    "vpt": 13,
+    "ven": 0,
+    "peso": 13.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Kingdom Centre",
+    "grafias": [
+     "Kingdom Tower"
+    ],
+    "lang": "pt",
+    "titulo": "Kingdom Centre",
+    "views": 9,
+    "vpt": 9,
+    "ven": 0,
+    "peso": 9.0,
     "faixa": "Achado"
    }
   ]
@@ -2645,31 +2645,16 @@
   "pergunta": "Um museu de arte, em qualquer lugar do mundo",
   "linhas": [
    {
-    "nome": "Metropolitan Museum of Art",
-    "grafias": [
-     "Met",
-     "Metropolitan",
-     "Museu Metropolitano de Arte"
-    ],
-    "lang": "pt",
-    "titulo": "Museu Metropolitano de Arte",
-    "views": 27274,
-    "vpt": 230,
-    "ven": 27044,
-    "peso": 3475.2799999999997,
-    "faixa": "Cartão-postal"
-   },
-   {
     "nome": "Museu de Arte de São Paulo",
     "grafias": [
      "MASP"
     ],
     "lang": "pt",
     "titulo": "Museu de Arte de São Paulo",
-    "views": 4522,
+    "views": 2491,
     "vpt": 2491,
-    "ven": 2031,
-    "peso": 2734.72,
+    "ven": 0,
+    "peso": 2491.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -2699,56 +2684,6 @@
     "faixa": "Cartão-postal"
    },
    {
-    "nome": "National Gallery",
-    "grafias": [
-     "National Gallery de Londres"
-    ],
-    "lang": "en",
-    "titulo": "National Gallery",
-    "views": 8523,
-    "vpt": 0,
-    "ven": 8523,
-    "peso": 1534.1399999999999,
-    "faixa": "Cartão-postal"
-   },
-   {
-    "nome": "Galeria Nacional de Arte (Washington)",
-    "grafias": [
-     "National Gallery of Art"
-    ],
-    "lang": "en",
-    "titulo": "National Gallery of Art",
-    "views": 8439,
-    "vpt": 0,
-    "ven": 8439,
-    "peso": 1519.02,
-    "faixa": "Cartão-postal"
-   },
-   {
-    "nome": "Tate Modern",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Tate Modern",
-    "views": 8920,
-    "vpt": 109,
-    "ven": 8811,
-    "peso": 1166.32,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Rijksmuseum",
-    "grafias": [
-     "Museu Estatal de Amesterdão"
-    ],
-    "lang": "pt",
-    "titulo": "Museu Estatal de Amesterdão",
-    "views": 8761,
-    "vpt": 92,
-    "ven": 8669,
-    "peso": 1132.28,
-    "faixa": "Clássico"
-   },
-   {
     "nome": "Pinacoteca do Estado de São Paulo",
     "grafias": [
      "Pinacoteca",
@@ -2756,24 +2691,11 @@
     ],
     "lang": "pt",
     "titulo": "Pinacoteca de São Paulo",
-    "views": 1442,
+    "views": 1082,
     "vpt": 1082,
-    "ven": 360,
-    "peso": 1125.2,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Getty Center",
-    "grafias": [
-     "Getty"
-    ],
-    "lang": "pt",
-    "titulo": "Getty Center",
-    "views": 7545,
-    "vpt": 84,
-    "ven": 7461,
-    "peso": 979.3199999999999,
-    "faixa": "Clássico"
+    "ven": 0,
+    "peso": 1082.0,
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Museu de Arte Contemporânea de Niterói",
@@ -2782,46 +2704,11 @@
     ],
     "lang": "pt",
     "titulo": "Museu de Arte Contemporânea de Niterói",
-    "views": 1660,
+    "views": 760,
     "vpt": 760,
-    "ven": 900,
-    "peso": 868.0,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Louvre Abu Dhabi",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Louvre Abu Dhabi",
-    "views": 5727,
-    "vpt": 96,
-    "ven": 5631,
-    "peso": 771.72,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Museu Oscar Niemeyer",
-    "grafias": [
-     "MON"
-    ],
-    "lang": "pt",
-    "titulo": "Museu Oscar Niemeyer",
-    "views": 1132,
-    "vpt": 637,
-    "ven": 495,
-    "peso": 696.4,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Tate Britain",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Tate Britain",
-    "views": 5245,
-    "vpt": 59,
-    "ven": 5186,
-    "peso": 681.3199999999999,
-    "faixa": "Clássico"
+    "ven": 0,
+    "peso": 760.0,
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Museu do Prado",
@@ -2834,17 +2721,19 @@
     "vpt": 655,
     "ven": 0,
     "peso": 655.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
-    "nome": "Mauritshuis",
-    "grafias": [],
+    "nome": "Museu Oscar Niemeyer",
+    "grafias": [
+     "MON"
+    ],
     "lang": "pt",
-    "titulo": "Mauritshuis",
-    "views": 3831,
-    "vpt": 213,
-    "ven": 3618,
-    "peso": 647.16,
+    "titulo": "Museu Oscar Niemeyer",
+    "views": 637,
+    "vpt": 637,
+    "ven": 0,
+    "peso": 637.0,
     "faixa": "Clássico"
    },
    {
@@ -2855,24 +2744,10 @@
     ],
     "lang": "pt",
     "titulo": "Museu Nacional de Belas Artes (Brasil)",
-    "views": 854,
+    "views": 484,
     "vpt": 484,
-    "ven": 370,
-    "peso": 528.4,
-    "faixa": "Clássico"
-   },
-   {
-    "nome": "Museu de Arte Moderna Louisiana",
-    "grafias": [
-     "Louisiana",
-     "Louisiana Museum of Modern Art"
-    ],
-    "lang": "en",
-    "titulo": "Louisiana Museum of Modern Art",
-    "views": 2780,
-    "vpt": 0,
-    "ven": 2780,
-    "peso": 500.4,
+    "ven": 0,
+    "peso": 484.0,
     "faixa": "Clássico"
    },
    {
@@ -2901,7 +2776,7 @@
     "vpt": 479,
     "ven": 0,
     "peso": 479.0,
-    "faixa": "Repertório"
+    "faixa": "Clássico"
    },
    {
     "nome": "Palácio Belvedere",
@@ -2914,7 +2789,33 @@
     "vpt": 438,
     "ven": 0,
     "peso": 438.0,
-    "faixa": "Repertório"
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "National Gallery",
+    "grafias": [
+     "National Gallery de Londres"
+    ],
+    "lang": "en",
+    "titulo": "National Gallery",
+    "views": 8523,
+    "vpt": 0,
+    "ven": 8523,
+    "peso": 426.15000000000003,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Galeria Nacional de Arte (Washington)",
+    "grafias": [
+     "National Gallery of Art"
+    ],
+    "lang": "en",
+    "titulo": "National Gallery of Art",
+    "views": 8439,
+    "vpt": 0,
+    "ven": 8439,
+    "peso": 421.95000000000005,
+    "faixa": "Clássico"
    },
    {
     "nome": "Museu Hermitage",
@@ -2928,7 +2829,7 @@
     "vpt": 377,
     "ven": 0,
     "peso": 377.0,
-    "faixa": "Repertório"
+    "faixa": "Clássico"
    },
    {
     "nome": "Museu de Orsay",
@@ -2942,7 +2843,7 @@
     "vpt": 373,
     "ven": 0,
     "peso": 373.0,
-    "faixa": "Repertório"
+    "faixa": "Clássico"
    },
    {
     "nome": "Museus Vaticanos",
@@ -2955,61 +2856,7 @@
     "vpt": 357,
     "ven": 0,
     "peso": 357.0,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Alte Pinakothek",
-    "grafias": [
-     "Antiga Pinacoteca"
-    ],
-    "lang": "pt",
-    "titulo": "Antiga Pinacoteca",
-    "views": 2401,
-    "vpt": 54,
-    "ven": 2347,
-    "peso": 335.64,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Museu Munch",
-    "grafias": [
-     "Munch",
-     "Munch Museum"
-    ],
-    "lang": "en",
-    "titulo": "Munch Museum",
-    "views": 1856,
-    "vpt": 0,
-    "ven": 1856,
-    "peso": 334.08,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Museu de Arte Kimbell",
-    "grafias": [
-     "Kimbell",
-     "Kimbell Art Museum"
-    ],
-    "lang": "en",
-    "titulo": "Kimbell Art Museum",
-    "views": 1854,
-    "vpt": 0,
-    "ven": 1854,
-    "peso": 333.71999999999997,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Museu Picasso de Barcelona",
-    "grafias": [
-     "Museu Picasso"
-    ],
-    "lang": "en",
-    "titulo": "Museu Picasso",
-    "views": 1792,
-    "vpt": 0,
-    "ven": 1792,
-    "peso": 322.56,
-    "faixa": "Repertório"
+    "faixa": "Clássico"
    },
    {
     "nome": "Museu Solomon R. Guggenheim",
@@ -3023,7 +2870,7 @@
     "vpt": 312,
     "ven": 0,
     "peso": 312.0,
-    "faixa": "Repertório"
+    "faixa": "Clássico"
    },
    {
     "nome": "Museu de Arte Moderna do Rio de Janeiro",
@@ -3036,42 +2883,7 @@
     "vpt": 305,
     "ven": 0,
     "peso": 305.0,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Neue Nationalgalerie",
-    "grafias": [],
-    "lang": "en",
-    "titulo": "Neue Nationalgalerie",
-    "views": 1663,
-    "vpt": 0,
-    "ven": 1663,
-    "peso": 299.34000000000003,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Stedelijk Museum Amsterdam",
-    "grafias": [
-     "Stedelijk"
-    ],
-    "lang": "en",
-    "titulo": "Stedelijk Museum Amsterdam",
-    "views": 1655,
-    "vpt": 0,
-    "ven": 1655,
-    "peso": 297.9,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "MAXXI",
-    "grafias": [],
-    "lang": "en",
-    "titulo": "MAXXI",
-    "views": 1611,
-    "vpt": 0,
-    "ven": 1611,
-    "peso": 289.98,
-    "faixa": "Repertório"
+    "faixa": "Clássico"
    },
    {
     "nome": "Museu Frida Kahlo",
@@ -3084,18 +2896,7 @@
     "vpt": 287,
     "ven": 0,
     "peso": 287.0,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Kunstmuseum Basel",
-    "grafias": [],
-    "lang": "en",
-    "titulo": "Kunstmuseum Basel",
-    "views": 1581,
-    "vpt": 0,
-    "ven": 1581,
-    "peso": 284.58,
-    "faixa": "Repertório"
+    "faixa": "Clássico"
    },
    {
     "nome": "Museu de Arte Moderna de Nova Iorque",
@@ -3112,19 +2913,6 @@
     "faixa": "Repertório"
    },
    {
-    "nome": "Museu Nacional de Arte Ocidental",
-    "grafias": [
-     "National Museum of Western Art"
-    ],
-    "lang": "en",
-    "titulo": "National Museum of Western Art",
-    "views": 1538,
-    "vpt": 0,
-    "ven": 1538,
-    "peso": 276.84000000000003,
-    "faixa": "Repertório"
-   },
-   {
     "nome": "Museu Nacional Centro de Arte Rainha Sofia",
     "grafias": [
      "Reina Sofía",
@@ -3137,7 +2925,7 @@
     "vpt": 266,
     "ven": 0,
     "peso": 266.0,
-    "faixa": "Arquivo"
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu de Arte Moderna de São Paulo",
@@ -3147,11 +2935,11 @@
     ],
     "lang": "pt",
     "titulo": "Museu de Arte Moderna de São Paulo",
-    "views": 373,
+    "views": 250,
     "vpt": 250,
-    "ven": 123,
-    "peso": 264.76,
-    "faixa": "Arquivo"
+    "ven": 0,
+    "peso": 250.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Centro Georges Pompidou",
@@ -3165,33 +2953,33 @@
     "vpt": 247,
     "ven": 0,
     "peso": 247.0,
-    "faixa": "Arquivo"
+    "faixa": "Repertório"
    },
    {
-    "nome": "Gemäldegalerie",
+    "nome": "Metropolitan Museum of Art",
     "grafias": [
-     "Gemaldegalerie"
+     "Met",
+     "Metropolitan",
+     "Museu Metropolitano de Arte"
     ],
     "lang": "pt",
-    "titulo": "Gemäldegalerie",
-    "views": 1703,
-    "vpt": 40,
-    "ven": 1663,
-    "peso": 239.56,
-    "faixa": "Arquivo"
+    "titulo": "Museu Metropolitano de Arte",
+    "views": 230,
+    "vpt": 230,
+    "ven": 0,
+    "peso": 230.0,
+    "faixa": "Repertório"
    },
    {
-    "nome": "Kunsthaus Zürich",
-    "grafias": [
-     "Kunsthaus"
-    ],
-    "lang": "en",
-    "titulo": "Kunsthaus Zürich",
-    "views": 1265,
-    "vpt": 0,
-    "ven": 1265,
-    "peso": 227.7,
-    "faixa": "Arquivo"
+    "nome": "Mauritshuis",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mauritshuis",
+    "views": 213,
+    "vpt": 213,
+    "ven": 0,
+    "peso": 213.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu de Arte Contemporânea da Universidade de São Paulo",
@@ -3200,22 +2988,11 @@
     ],
     "lang": "pt",
     "titulo": "Museu de Arte Contemporânea da Universidade de São Paulo",
-    "views": 348,
+    "views": 210,
     "vpt": 210,
-    "ven": 138,
-    "peso": 226.56,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Museu Afro Brasil",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Museu Afro Brasil",
-    "views": 313,
-    "vpt": 195,
-    "ven": 118,
-    "peso": 209.16,
-    "faixa": "Arquivo"
+    "ven": 0,
+    "peso": 210.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Galeria Borghese",
@@ -3229,7 +3006,18 @@
     "vpt": 206,
     "ven": 0,
     "peso": 206.0,
-    "faixa": "Arquivo"
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu Afro Brasil",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Museu Afro Brasil",
+    "views": 195,
+    "vpt": 195,
+    "ven": 0,
+    "peso": 195.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu de Arte do Rio",
@@ -3238,25 +3026,11 @@
     ],
     "lang": "pt",
     "titulo": "Museu de Arte do Rio",
-    "views": 290,
+    "views": 192,
     "vpt": 192,
-    "ven": 98,
-    "peso": 203.76,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Museu de Arte Chichu",
-    "grafias": [
-     "Chichu",
-     "Chichu Art Museum"
-    ],
-    "lang": "en",
-    "titulo": "Chichu Art Museum",
-    "views": 969,
-    "vpt": 0,
-    "ven": 969,
-    "peso": 174.42000000000002,
-    "faixa": "Arquivo"
+    "ven": 0,
+    "peso": 192.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu de Arte Contemporânea de Serralves",
@@ -3269,21 +3043,7 @@
     "vpt": 159,
     "ven": 0,
     "peso": 159.0,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Museu de Arte Contemporânea do Século XXI",
-    "grafias": [
-     "Kanazawa",
-     "21st Century Museum of Contemporary Art, Kanazawa"
-    ],
-    "lang": "en",
-    "titulo": "21st Century Museum of Contemporary Art, Kanazawa",
-    "views": 869,
-    "vpt": 0,
-    "ven": 869,
-    "peso": 156.42000000000002,
-    "faixa": "Arquivo"
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu Van Gogh",
@@ -3296,21 +3056,21 @@
     "vpt": 145,
     "ven": 0,
     "peso": 145.0,
-    "faixa": "Arquivo"
+    "faixa": "Repertório"
    },
    {
-    "nome": "Zeitz MOCAA",
+    "nome": "Museu de Arte Moderna Louisiana",
     "grafias": [
-     "Zeitz",
-     "Zeitz Museum of Contemporary Art Africa"
+     "Louisiana",
+     "Louisiana Museum of Modern Art"
     ],
     "lang": "en",
-    "titulo": "Zeitz Museum of Contemporary Art Africa",
-    "views": 794,
+    "titulo": "Louisiana Museum of Modern Art",
+    "views": 2780,
     "vpt": 0,
-    "ven": 794,
-    "peso": 142.92000000000002,
-    "faixa": "Arquivo"
+    "ven": 2780,
+    "peso": 139.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu de História da Arte de Viena",
@@ -3324,7 +3084,7 @@
     "vpt": 134,
     "ven": 0,
     "peso": 134.0,
-    "faixa": "Arquivo"
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu de Arte Latino-Americana de Buenos Aires",
@@ -3337,7 +3097,7 @@
     "vpt": 127,
     "ven": 0,
     "peso": 127.0,
-    "faixa": "Arquivo"
+    "faixa": "Repertório"
    },
    {
     "nome": "Instituto Tomie Ohtake",
@@ -3348,7 +3108,18 @@
     "vpt": 116,
     "ven": 0,
     "peso": 116.0,
-    "faixa": "Achado"
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Tate Modern",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tate Modern",
+    "views": 109,
+    "vpt": 109,
+    "ven": 0,
+    "peso": 109.0,
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu Soumaya",
@@ -3361,7 +3132,144 @@
     "vpt": 102,
     "ven": 0,
     "peso": 102.0,
-    "faixa": "Achado"
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Louvre Abu Dhabi",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Louvre Abu Dhabi",
+    "views": 96,
+    "vpt": 96,
+    "ven": 0,
+    "peso": 96.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu Munch",
+    "grafias": [
+     "Munch",
+     "Munch Museum"
+    ],
+    "lang": "en",
+    "titulo": "Munch Museum",
+    "views": 1856,
+    "vpt": 0,
+    "ven": 1856,
+    "peso": 92.80000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu de Arte Kimbell",
+    "grafias": [
+     "Kimbell",
+     "Kimbell Art Museum"
+    ],
+    "lang": "en",
+    "titulo": "Kimbell Art Museum",
+    "views": 1854,
+    "vpt": 0,
+    "ven": 1854,
+    "peso": 92.7,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Rijksmuseum",
+    "grafias": [
+     "Museu Estatal de Amesterdão"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Estatal de Amesterdão",
+    "views": 92,
+    "vpt": 92,
+    "ven": 0,
+    "peso": 92.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu Picasso de Barcelona",
+    "grafias": [
+     "Museu Picasso"
+    ],
+    "lang": "en",
+    "titulo": "Museu Picasso",
+    "views": 1792,
+    "vpt": 0,
+    "ven": 1792,
+    "peso": 89.60000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Getty Center",
+    "grafias": [
+     "Getty"
+    ],
+    "lang": "pt",
+    "titulo": "Getty Center",
+    "views": 84,
+    "vpt": 84,
+    "ven": 0,
+    "peso": 84.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Neue Nationalgalerie",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Neue Nationalgalerie",
+    "views": 1663,
+    "vpt": 0,
+    "ven": 1663,
+    "peso": 83.15,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Stedelijk Museum Amsterdam",
+    "grafias": [
+     "Stedelijk"
+    ],
+    "lang": "en",
+    "titulo": "Stedelijk Museum Amsterdam",
+    "views": 1655,
+    "vpt": 0,
+    "ven": 1655,
+    "peso": 82.75,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "MAXXI",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "MAXXI",
+    "views": 1611,
+    "vpt": 0,
+    "ven": 1611,
+    "peso": 80.55000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Kunstmuseum Basel",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Kunstmuseum Basel",
+    "views": 1581,
+    "vpt": 0,
+    "ven": 1581,
+    "peso": 79.05000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu Nacional de Arte Ocidental",
+    "grafias": [
+     "National Museum of Western Art"
+    ],
+    "lang": "en",
+    "titulo": "National Museum of Western Art",
+    "views": 1538,
+    "vpt": 0,
+    "ven": 1538,
+    "peso": 76.9,
+    "faixa": "Arquivo"
    },
    {
     "nome": "Instituto de Arte de Chicago",
@@ -3374,7 +3282,7 @@
     "vpt": 73,
     "ven": 0,
     "peso": 73.0,
-    "faixa": "Achado"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Pinacoteca de Brera",
@@ -3387,20 +3295,7 @@
     "vpt": 72,
     "ven": 0,
     "peso": 72.0,
-    "faixa": "Achado"
-   },
-   {
-    "nome": "Museu Botero",
-    "grafias": [
-     "Museo Botero"
-    ],
-    "lang": "en",
-    "titulo": "Museo Botero",
-    "views": 380,
-    "vpt": 0,
-    "ven": 380,
-    "peso": 68.4,
-    "faixa": "Achado"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Museu de Arte da Filadélfia",
@@ -3413,6 +3308,43 @@
     "vpt": 65,
     "ven": 0,
     "peso": 65.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Kunsthaus Zürich",
+    "grafias": [
+     "Kunsthaus"
+    ],
+    "lang": "en",
+    "titulo": "Kunsthaus Zürich",
+    "views": 1265,
+    "vpt": 0,
+    "ven": 1265,
+    "peso": 63.25,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Tate Britain",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tate Britain",
+    "views": 59,
+    "vpt": 59,
+    "ven": 0,
+    "peso": 59.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Alte Pinakothek",
+    "grafias": [
+     "Antiga Pinacoteca"
+    ],
+    "lang": "pt",
+    "titulo": "Antiga Pinacoteca",
+    "views": 54,
+    "vpt": 54,
+    "ven": 0,
+    "peso": 54.0,
     "faixa": "Achado"
    },
    {
@@ -3429,6 +3361,61 @@
     "faixa": "Achado"
    },
    {
+    "nome": "Museu de Arte Chichu",
+    "grafias": [
+     "Chichu",
+     "Chichu Art Museum"
+    ],
+    "lang": "en",
+    "titulo": "Chichu Art Museum",
+    "views": 969,
+    "vpt": 0,
+    "ven": 969,
+    "peso": 48.45,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Museu de Arte Contemporânea do Século XXI",
+    "grafias": [
+     "Kanazawa",
+     "21st Century Museum of Contemporary Art, Kanazawa"
+    ],
+    "lang": "en",
+    "titulo": "21st Century Museum of Contemporary Art, Kanazawa",
+    "views": 869,
+    "vpt": 0,
+    "ven": 869,
+    "peso": 43.45,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Gemäldegalerie",
+    "grafias": [
+     "Gemaldegalerie"
+    ],
+    "lang": "pt",
+    "titulo": "Gemäldegalerie",
+    "views": 40,
+    "vpt": 40,
+    "ven": 0,
+    "peso": 40.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Zeitz MOCAA",
+    "grafias": [
+     "Zeitz",
+     "Zeitz Museum of Contemporary Art Africa"
+    ],
+    "lang": "en",
+    "titulo": "Zeitz Museum of Contemporary Art Africa",
+    "views": 794,
+    "vpt": 0,
+    "ven": 794,
+    "peso": 39.7,
+    "faixa": "Achado"
+   },
+   {
     "nome": "Museu de Arte do Condado de Los Angeles",
     "grafias": [
      "LACMA"
@@ -3439,6 +3426,19 @@
     "vpt": 26,
     "ven": 0,
     "peso": 26.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Museu Botero",
+    "grafias": [
+     "Museo Botero"
+    ],
+    "lang": "en",
+    "titulo": "Museo Botero",
+    "views": 380,
+    "vpt": 0,
+    "ven": 380,
+    "peso": 19.0,
     "faixa": "Achado"
    },
    {
@@ -3466,10 +3466,10 @@
     ],
     "lang": "pt",
     "titulo": "Museu de Arte de São Paulo",
-    "views": 4522,
+    "views": 2491,
     "vpt": 2491,
-    "ven": 2031,
-    "peso": 2734.72,
+    "ven": 0,
+    "peso": 2491.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -3493,10 +3493,10 @@
     ],
     "lang": "pt",
     "titulo": "Pinacoteca de São Paulo",
-    "views": 1442,
+    "views": 1082,
     "vpt": 1082,
-    "ven": 360,
-    "peso": 1125.2,
+    "ven": 0,
+    "peso": 1082.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -3506,10 +3506,10 @@
     ],
     "lang": "pt",
     "titulo": "Museu de Arte Contemporânea de Niterói",
-    "views": 1660,
+    "views": 760,
     "vpt": 760,
-    "ven": 900,
-    "peso": 868.0,
+    "ven": 0,
+    "peso": 760.0,
     "faixa": "Cartão-postal"
    },
    {
@@ -3519,10 +3519,10 @@
     ],
     "lang": "pt",
     "titulo": "Museu Oscar Niemeyer",
-    "views": 1132,
+    "views": 637,
     "vpt": 637,
-    "ven": 495,
-    "peso": 696.4,
+    "ven": 0,
+    "peso": 637.0,
     "faixa": "Clássico"
    },
    {
@@ -3533,10 +3533,10 @@
     ],
     "lang": "pt",
     "titulo": "Museu Nacional de Belas Artes (Brasil)",
-    "views": 854,
+    "views": 484,
     "vpt": 484,
-    "ven": 370,
-    "peso": 528.4,
+    "ven": 0,
+    "peso": 484.0,
     "faixa": "Clássico"
    },
    {
@@ -3566,19 +3566,6 @@
     "faixa": "Clássico"
    },
    {
-    "nome": "Museu de Arte Moderna de São Paulo",
-    "grafias": [
-     "MAM SP"
-    ],
-    "lang": "pt",
-    "titulo": "Museu de Arte Moderna de São Paulo",
-    "views": 373,
-    "vpt": 250,
-    "ven": 123,
-    "peso": 264.76,
-    "faixa": "Clássico"
-   },
-   {
     "nome": "Museu de Arte Contemporânea do Ceará",
     "grafias": [
      "Dragão do Mar",
@@ -3590,6 +3577,19 @@
     "vpt": 255,
     "ven": 0,
     "peso": 255.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu de Arte Moderna de São Paulo",
+    "grafias": [
+     "MAM SP"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Moderna de São Paulo",
+    "views": 250,
+    "vpt": 250,
+    "ven": 0,
+    "peso": 250.0,
     "faixa": "Clássico"
    },
    {
@@ -3606,19 +3606,6 @@
     "faixa": "Clássico"
    },
    {
-    "nome": "Museu de Arte Contemporânea da Universidade de São Paulo",
-    "grafias": [
-     "MAC USP"
-    ],
-    "lang": "pt",
-    "titulo": "Museu de Arte Contemporânea da Universidade de São Paulo",
-    "views": 348,
-    "vpt": 210,
-    "ven": 138,
-    "peso": 226.56,
-    "faixa": "Clássico"
-   },
-   {
     "nome": "Museu Nacional (Brasília)",
     "grafias": [
      "Museu Nacional da República",
@@ -3630,6 +3617,19 @@
     "vpt": 214,
     "ven": 0,
     "peso": 214.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu de Arte Contemporânea da Universidade de São Paulo",
+    "grafias": [
+     "MAC USP"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Contemporânea da Universidade de São Paulo",
+    "views": 210,
+    "vpt": 210,
+    "ven": 0,
+    "peso": 210.0,
     "faixa": "Repertório"
    },
    {
@@ -3637,10 +3637,10 @@
     "grafias": [],
     "lang": "pt",
     "titulo": "Museu Afro Brasil",
-    "views": 313,
+    "views": 195,
     "vpt": 195,
-    "ven": 118,
-    "peso": 209.16,
+    "ven": 0,
+    "peso": 195.0,
     "faixa": "Repertório"
    },
    {
@@ -3650,10 +3650,10 @@
     ],
     "lang": "pt",
     "titulo": "Museu de Arte do Rio",
-    "views": 290,
+    "views": 192,
     "vpt": 192,
-    "ven": 98,
-    "peso": 203.76,
+    "ven": 0,
+    "peso": 192.0,
     "faixa": "Repertório"
    },
    {
@@ -3661,21 +3661,10 @@
     "grafias": [],
     "lang": "pt",
     "titulo": "Museu de Arte Sacra de São Paulo",
-    "views": 208,
+    "views": 157,
     "vpt": 157,
-    "ven": 51,
-    "peso": 163.12,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Museu Lasar Segall",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Museu Lasar Segall",
-    "views": 181,
-    "vpt": 139,
-    "ven": 42,
-    "peso": 144.04,
+    "ven": 0,
+    "peso": 157.0,
     "faixa": "Repertório"
    },
    {
@@ -3690,6 +3679,17 @@
     "vpt": 142,
     "ven": 0,
     "peso": 142.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu Lasar Segall",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Museu Lasar Segall",
+    "views": 139,
+    "vpt": 139,
+    "ven": 0,
+    "peso": 139.0,
     "faixa": "Repertório"
    },
    {
@@ -3754,33 +3754,6 @@
     "faixa": "Repertório"
    },
    {
-    "nome": "Museu Nacional de Arte (México)",
-    "grafias": [
-     "MUNAL",
-     "Museo Nacional de Arte"
-    ],
-    "lang": "en",
-    "titulo": "Museo Nacional de Arte",
-    "views": 602,
-    "vpt": 0,
-    "ven": 602,
-    "peso": 108.35999999999999,
-    "faixa": "Arquivo"
-   },
-   {
-    "nome": "Museu de Arte Moderna (Cidade do México)",
-    "grafias": [
-     "Museo de Arte Moderno"
-    ],
-    "lang": "en",
-    "titulo": "Museo de Arte Moderno",
-    "views": 592,
-    "vpt": 0,
-    "ven": 592,
-    "peso": 106.55999999999999,
-    "faixa": "Arquivo"
-   },
-   {
     "nome": "Museu Soumaya",
     "grafias": [
      "Soumaya"
@@ -3807,6 +3780,33 @@
     "faixa": "Arquivo"
    },
    {
+    "nome": "Museu Nacional de Arte (México)",
+    "grafias": [
+     "MUNAL",
+     "Museo Nacional de Arte"
+    ],
+    "lang": "en",
+    "titulo": "Museo Nacional de Arte",
+    "views": 602,
+    "vpt": 0,
+    "ven": 602,
+    "peso": 30.1,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu de Arte Moderna (Cidade do México)",
+    "grafias": [
+     "Museo de Arte Moderno"
+    ],
+    "lang": "en",
+    "titulo": "Museo de Arte Moderno",
+    "views": 592,
+    "vpt": 0,
+    "ven": 592,
+    "peso": 29.6,
+    "faixa": "Arquivo"
+   },
+   {
     "nome": "Museu Nacional de Belas Artes (Argentina)",
     "grafias": [
      "Bellas Artes de Buenos Aires",
@@ -3817,7 +3817,7 @@
     "views": 487,
     "vpt": 0,
     "ven": 487,
-    "peso": 87.66,
+    "peso": 24.35,
     "faixa": "Arquivo"
    },
    {
@@ -3830,7 +3830,7 @@
     "views": 450,
     "vpt": 0,
     "ven": 450,
-    "peso": 81.0,
+    "peso": 22.5,
     "faixa": "Arquivo"
    },
    {
@@ -3843,7 +3843,7 @@
     "views": 449,
     "vpt": 0,
     "ven": 449,
-    "peso": 80.82,
+    "peso": 22.450000000000003,
     "faixa": "Arquivo"
    },
    {
@@ -3856,7 +3856,7 @@
     "views": 380,
     "vpt": 0,
     "ven": 380,
-    "peso": 68.4,
+    "peso": 19.0,
     "faixa": "Arquivo"
    },
    {
@@ -3870,7 +3870,7 @@
     "views": 378,
     "vpt": 0,
     "ven": 378,
-    "peso": 68.03999999999999,
+    "peso": 18.900000000000002,
     "faixa": "Arquivo"
    },
    {
@@ -3884,7 +3884,7 @@
     "views": 364,
     "vpt": 0,
     "ven": 364,
-    "peso": 65.52,
+    "peso": 18.2,
     "faixa": "Arquivo"
    },
    {
@@ -3898,7 +3898,7 @@
     "views": 152,
     "vpt": 0,
     "ven": 152,
-    "peso": 27.36,
+    "peso": 7.6000000000000005,
     "faixa": "Achado"
    },
    {
@@ -3911,7 +3911,7 @@
     "views": 116,
     "vpt": 0,
     "ven": 116,
-    "peso": 20.88,
+    "peso": 5.800000000000001,
     "faixa": "Achado"
    },
    {
@@ -3925,7 +3925,7 @@
     "views": 81,
     "vpt": 0,
     "ven": 81,
-    "peso": 14.579999999999998,
+    "peso": 4.05,
     "faixa": "Achado"
    },
    {
@@ -3938,7 +3938,7 @@
     "views": 63,
     "vpt": 0,
     "ven": 63,
-    "peso": 11.34,
+    "peso": 3.1500000000000004,
     "faixa": "Achado"
    },
    {
@@ -3951,7 +3951,7 @@
     "views": 61,
     "vpt": 0,
     "ven": 61,
-    "peso": 10.979999999999999,
+    "peso": 3.0500000000000003,
     "faixa": "Achado"
    },
    {
@@ -3965,7 +3965,7 @@
     "views": 7,
     "vpt": 0,
     "ven": 7,
-    "peso": 1.26,
+    "peso": 0.35000000000000003,
     "faixa": "Achado"
    }
   ]

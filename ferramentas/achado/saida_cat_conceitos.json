@@ -1,0 +1,8384 @@
+{
+ "ach-031": {
+  "pergunta": "Um movimento ou estilo arquitetônico",
+  "linhas": [
+   {
+    "nome": "Bauhaus",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Bauhaus",
+    "views": 2202,
+    "vpt": 2202,
+    "ven": 0,
+    "peso": 2202.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Rococó",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Rococó",
+    "views": 1756,
+    "vpt": 1756,
+    "ven": 0,
+    "peso": 1756.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Art déco",
+    "grafias": [
+     "Art deco"
+    ],
+    "lang": "pt",
+    "titulo": "Art déco",
+    "views": 1460,
+    "vpt": 1460,
+    "ven": 0,
+    "peso": 1460.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Art nouveau",
+    "grafias": [
+     "Arte nova"
+    ],
+    "lang": "pt",
+    "titulo": "Art nouveau",
+    "views": 1365,
+    "vpt": 1365,
+    "ven": 0,
+    "peso": 1365.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Gótico",
+    "grafias": [
+     "Arquitetura gótica",
+     "Gótica"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura gótica",
+    "views": 1073,
+    "vpt": 1073,
+    "ven": 0,
+    "peso": 1073.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Brutalismo",
+    "grafias": [
+     "Brutalista",
+     "Arquitetura brutalista"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura brutalista",
+    "views": 1035,
+    "vpt": 1035,
+    "ven": 0,
+    "peso": 1035.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Manuelino",
+    "grafias": [
+     "Estilo manuelino"
+    ],
+    "lang": "pt",
+    "titulo": "Estilo manuelino",
+    "views": 811,
+    "vpt": 811,
+    "ven": 0,
+    "peso": 811.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Românico",
+    "grafias": [
+     "Românica",
+     "Arquitetura românica"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura românica",
+    "views": 777,
+    "vpt": 777,
+    "ven": 0,
+    "peso": 777.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Barroco",
+    "grafias": [
+     "Arquitetura barroca",
+     "Barroca"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura barroca",
+    "views": 739,
+    "vpt": 739,
+    "ven": 0,
+    "peso": 739.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Modernismo",
+    "grafias": [
+     "Arquitetura moderna",
+     "Moderno",
+     "Modernista"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura moderna",
+    "views": 575,
+    "vpt": 575,
+    "ven": 0,
+    "peso": 575.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Googie",
+    "grafias": [
+     "Googie architecture"
+    ],
+    "lang": "en",
+    "titulo": "Googie architecture",
+    "views": 9894,
+    "vpt": 0,
+    "ven": 9894,
+    "peso": 494.70000000000005,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Colonial",
+    "grafias": [
+     "Arquitetura colonial",
+     "Arquitetura colonial do Brasil"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura colonial do Brasil",
+    "views": 479,
+    "vpt": 479,
+    "ven": 0,
+    "peso": 479.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Neogótico",
+    "grafias": [
+     "Revivalismo gótico"
+    ],
+    "lang": "pt",
+    "titulo": "Neogótico",
+    "views": 433,
+    "vpt": 433,
+    "ven": 0,
+    "peso": 433.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Renascentista",
+    "grafias": [
+     "Renascimento",
+     "Arquitetura renascentista",
+     "Arquitetura do Renascimento"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura do Renascimento",
+    "views": 430,
+    "vpt": 430,
+    "ven": 0,
+    "peso": 430.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Streamline Moderne",
+    "grafias": [
+     "Streamline"
+    ],
+    "lang": "en",
+    "titulo": "Streamline Moderne",
+    "views": 8298,
+    "vpt": 0,
+    "ven": 8298,
+    "peso": 414.90000000000003,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Neoclássico",
+    "grafias": [
+     "Neoclassicismo",
+     "Neoclássica",
+     "Arquitetura neoclássica"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura neoclássica",
+    "views": 352,
+    "vpt": 352,
+    "ven": 0,
+    "peso": 352.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ecletismo",
+    "grafias": [
+     "Eclético"
+    ],
+    "lang": "pt",
+    "titulo": "Ecletismo",
+    "views": 327,
+    "vpt": 327,
+    "ven": 0,
+    "peso": 327.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arts and Crafts",
+    "grafias": [
+     "Arts & Crafts"
+    ],
+    "lang": "pt",
+    "titulo": "Arts & Crafts",
+    "views": 317,
+    "vpt": 317,
+    "ven": 0,
+    "peso": 317.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Tudor",
+    "grafias": [
+     "Estilo Tudor",
+     "Tudor architecture"
+    ],
+    "lang": "en",
+    "titulo": "Tudor architecture",
+    "views": 6206,
+    "vpt": 0,
+    "ven": 6206,
+    "peso": 310.3,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Bizantino",
+    "grafias": [
+     "Arquitetura bizantina"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura bizantina",
+    "views": 245,
+    "vpt": 245,
+    "ven": 0,
+    "peso": 245.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "De Stijl",
+    "grafias": [
+     "Neoplasticismo"
+    ],
+    "lang": "pt",
+    "titulo": "De Stijl",
+    "views": 202,
+    "vpt": 202,
+    "ven": 0,
+    "peso": 202.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mudéjar",
+    "grafias": [
+     "Mudejar",
+     "Arte mudéjar"
+    ],
+    "lang": "pt",
+    "titulo": "Arte mudéjar",
+    "views": 183,
+    "vpt": 183,
+    "ven": 0,
+    "peso": 183.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arquitetura vernacular",
+    "grafias": [
+     "Vernacular"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura vernacular",
+    "views": 170,
+    "vpt": 170,
+    "ven": 0,
+    "peso": 170.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Neomanuelino",
+    "grafias": [
+     "Estilo neomanuelino"
+    ],
+    "lang": "pt",
+    "titulo": "Estilo neomanuelino",
+    "views": 165,
+    "vpt": 165,
+    "ven": 0,
+    "peso": 165.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Secessão de Viena",
+    "grafias": [
+     "Secessão vienense",
+     "Jugendstil"
+    ],
+    "lang": "pt",
+    "titulo": "Secessão de Viena",
+    "views": 160,
+    "vpt": 160,
+    "ven": 0,
+    "peso": 160.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arquitetura islâmica",
+    "grafias": [
+     "Islâmica"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura islâmica",
+    "views": 153,
+    "vpt": 153,
+    "ven": 0,
+    "peso": 153.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Neofuturismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Neofuturismo",
+    "views": 144,
+    "vpt": 144,
+    "ven": 0,
+    "peso": 144.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Desconstrutivismo",
+    "grafias": [
+     "Desconstrução",
+     "Desconstrutivista",
+     "Arquitetura desconstrutivista"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura desconstrutivista",
+    "views": 126,
+    "vpt": 126,
+    "ven": 0,
+    "peso": 126.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pós-modernismo",
+    "grafias": [
+     "Pós-moderno",
+     "Pós-moderna",
+     "Arquitetura pós-moderna"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura pós-moderna",
+    "views": 124,
+    "vpt": 124,
+    "ven": 0,
+    "peso": 124.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Metabolismo",
+    "grafias": [
+     "Metabolista"
+    ],
+    "lang": "pt",
+    "titulo": "Metabolismo (arquitetura)",
+    "views": 112,
+    "vpt": 112,
+    "ven": 0,
+    "peso": 112.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Palladianismo",
+    "grafias": [
+     "Palladiano"
+    ],
+    "lang": "pt",
+    "titulo": "Palladianismo",
+    "views": 111,
+    "vpt": 111,
+    "ven": 0,
+    "peso": 111.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Arquitetura sustentável",
+    "grafias": [
+     "Sustentável"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura sustentável",
+    "views": 111,
+    "vpt": 111,
+    "ven": 0,
+    "peso": 111.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "High-tech",
+    "grafias": [
+     "Hi-tech",
+     "Arquitetura high-tech"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura high-tech",
+    "views": 109,
+    "vpt": 109,
+    "ven": 0,
+    "peso": 109.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Escola de Chicago",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Escola de Chicago (arquitetura)",
+    "views": 104,
+    "vpt": 104,
+    "ven": 0,
+    "peso": 104.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estilo internacional",
+    "grafias": [
+     "International Style"
+    ],
+    "lang": "pt",
+    "titulo": "Estilo internacional",
+    "views": 94,
+    "vpt": 94,
+    "ven": 0,
+    "peso": 94.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Neocolonial",
+    "grafias": [
+     "Neocolonial brasileiro",
+     "Arquitetura neocolonial"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura neocolonial",
+    "views": 91,
+    "vpt": 91,
+    "ven": 0,
+    "peso": 91.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Arquitetura neobarroca",
+    "grafias": [
+     "Neobarroco",
+     "Baroque Revival architecture"
+    ],
+    "lang": "en",
+    "titulo": "Baroque Revival architecture",
+    "views": 1792,
+    "vpt": 0,
+    "ven": 1792,
+    "peso": 89.60000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Arquitetura orgânica",
+    "grafias": [
+     "Orgânica"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura orgânica",
+    "views": 89,
+    "vpt": 89,
+    "ven": 0,
+    "peso": 89.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Futurismo",
+    "grafias": [
+     "Arquitetura futurista"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura futurista",
+    "views": 83,
+    "vpt": 83,
+    "ven": 0,
+    "peso": 83.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Regionalismo crítico",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Regionalismo crítico",
+    "views": 51,
+    "vpt": 51,
+    "ven": 0,
+    "peso": 51.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Plateresco",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Plateresco",
+    "views": 44,
+    "vpt": 44,
+    "ven": 0,
+    "peso": 44.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Expressionismo",
+    "grafias": [
+     "Expressionismo arquitetônico",
+     "Arquitetura expressionista"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura expressionista",
+    "views": 38,
+    "vpt": 38,
+    "ven": 0,
+    "peso": 38.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Minimalismo",
+    "grafias": [
+     "Minimalista",
+     "Arquitetura minimalista"
+    ],
+    "lang": "pt",
+    "titulo": "Arquitetura minimalista",
+    "views": 36,
+    "vpt": 36,
+    "ven": 0,
+    "peso": 36.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Churrigueresco",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Churrigueresco",
+    "views": 24,
+    "vpt": 24,
+    "ven": 0,
+    "peso": 24.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Parametricismo",
+    "grafias": [
+     "Arquitetura paramétrica"
+    ],
+    "lang": "pt",
+    "titulo": "Parametricismo",
+    "views": 7,
+    "vpt": 7,
+    "ven": 0,
+    "peso": 7.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-032": {
+  "pergunta": "Um movimento artístico do século 20",
+  "linhas": [
+   {
+    "nome": "Pop art",
+    "grafias": [
+     "Arte pop"
+    ],
+    "lang": "pt",
+    "titulo": "Pop art",
+    "views": 2867,
+    "vpt": 2867,
+    "ven": 0,
+    "peso": 2867.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Tropicália",
+    "grafias": [
+     "Tropicalismo"
+    ],
+    "lang": "pt",
+    "titulo": "Tropicália",
+    "views": 2615,
+    "vpt": 2615,
+    "ven": 0,
+    "peso": 2615.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Bauhaus",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Bauhaus",
+    "views": 2202,
+    "vpt": 2202,
+    "ven": 0,
+    "peso": 2202.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Antropofagia",
+    "grafias": [
+     "Movimento Antropofágico",
+     "Movimento antropofágico"
+    ],
+    "lang": "pt",
+    "titulo": "Movimento antropofágico",
+    "views": 2062,
+    "vpt": 2062,
+    "ven": 0,
+    "peso": 2062.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Dadaísmo",
+    "grafias": [
+     "Dada"
+    ],
+    "lang": "pt",
+    "titulo": "Dadaísmo",
+    "views": 1798,
+    "vpt": 1798,
+    "ven": 0,
+    "peso": 1798.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Surrealismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Surrealismo",
+    "views": 1733,
+    "vpt": 1733,
+    "ven": 0,
+    "peso": 1733.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Expressionismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Expressionismo",
+    "views": 1594,
+    "vpt": 1594,
+    "ven": 0,
+    "peso": 1594.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Art déco",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Art déco",
+    "views": 1460,
+    "vpt": 1460,
+    "ven": 0,
+    "peso": 1460.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cubismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cubismo",
+    "views": 1273,
+    "vpt": 1273,
+    "ven": 0,
+    "peso": 1273.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Abstracionismo",
+    "grafias": [
+     "Arte abstrata",
+     "Abstracionismo"
+    ],
+    "lang": "pt",
+    "titulo": "Arte abstrata",
+    "views": 1216,
+    "vpt": 1216,
+    "ven": 0,
+    "peso": 1216.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Futurismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Futurismo",
+    "views": 1174,
+    "vpt": 1174,
+    "ven": 0,
+    "peso": 1174.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Modernismo brasileiro",
+    "grafias": [
+     "Modernismo",
+     "Semana de 22",
+     "Modernismo no Brasil"
+    ],
+    "lang": "pt",
+    "titulo": "Modernismo no Brasil",
+    "views": 1109,
+    "vpt": 1109,
+    "ven": 0,
+    "peso": 1109.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Fauvismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Fauvismo",
+    "views": 992,
+    "vpt": 992,
+    "ven": 0,
+    "peso": 992.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Arte naïf",
+    "grafias": [
+     "Naïf",
+     "Naif"
+    ],
+    "lang": "pt",
+    "titulo": "Arte naïf",
+    "views": 481,
+    "vpt": 481,
+    "ven": 0,
+    "peso": 481.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Op art",
+    "grafias": [
+     "Arte óptica"
+    ],
+    "lang": "pt",
+    "titulo": "Op art",
+    "views": 427,
+    "vpt": 427,
+    "ven": 0,
+    "peso": 427.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Construtivismo",
+    "grafias": [
+     "Construtivismo russo"
+    ],
+    "lang": "pt",
+    "titulo": "Construtivismo russo",
+    "views": 373,
+    "vpt": 373,
+    "ven": 0,
+    "peso": 373.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Fluxus",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Fluxus",
+    "views": 366,
+    "vpt": 366,
+    "ven": 0,
+    "peso": 366.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Performance",
+    "grafias": [
+     "Performance art"
+    ],
+    "lang": "pt",
+    "titulo": "Performance (arte)",
+    "views": 343,
+    "vpt": 343,
+    "ven": 0,
+    "peso": 343.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Realismo socialista",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Realismo socialista",
+    "views": 298,
+    "vpt": 298,
+    "ven": 0,
+    "peso": 298.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Suprematismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Suprematismo",
+    "views": 262,
+    "vpt": 262,
+    "ven": 0,
+    "peso": 262.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Expressionismo abstrato",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Expressionismo abstrato",
+    "views": 228,
+    "vpt": 228,
+    "ven": 0,
+    "peso": 228.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Neoconcretismo",
+    "grafias": [
+     "Neoconcreto"
+    ],
+    "lang": "pt",
+    "titulo": "Neoconcretismo",
+    "views": 223,
+    "vpt": 223,
+    "ven": 0,
+    "peso": 223.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arte povera",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Arte povera",
+    "views": 214,
+    "vpt": 214,
+    "ven": 0,
+    "peso": 214.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Neoplasticismo",
+    "grafias": [
+     "De Stijl"
+    ],
+    "lang": "pt",
+    "titulo": "Neoplasticismo",
+    "views": 199,
+    "vpt": 199,
+    "ven": 0,
+    "peso": 199.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Body art",
+    "grafias": [
+     "Arte corporal"
+    ],
+    "lang": "pt",
+    "titulo": "Body art",
+    "views": 190,
+    "vpt": 190,
+    "ven": 0,
+    "peso": 190.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Young British Artists",
+    "grafias": [
+     "YBA"
+    ],
+    "lang": "en",
+    "titulo": "Young British Artists",
+    "views": 3662,
+    "vpt": 0,
+    "ven": 3662,
+    "peso": 183.10000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Concretismo",
+    "grafias": [
+     "Arte concreta"
+    ],
+    "lang": "pt",
+    "titulo": "Arte concreta",
+    "views": 147,
+    "vpt": 147,
+    "ven": 0,
+    "peso": 147.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arte conceitual",
+    "grafias": [
+     "Conceitualismo",
+     "Arte conceptual"
+    ],
+    "lang": "pt",
+    "titulo": "Arte conceptual",
+    "views": 146,
+    "vpt": 146,
+    "ven": 0,
+    "peso": 146.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arte cinética",
+    "grafias": [
+     "Cinetismo"
+    ],
+    "lang": "pt",
+    "titulo": "Arte cinética",
+    "views": 146,
+    "vpt": 146,
+    "ven": 0,
+    "peso": 146.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Hiper-realismo",
+    "grafias": [
+     "Hiperrealismo"
+    ],
+    "lang": "pt",
+    "titulo": "Hiper-realismo",
+    "views": 145,
+    "vpt": 145,
+    "ven": 0,
+    "peso": 145.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Color field",
+    "grafias": [
+     "Color field painting"
+    ],
+    "lang": "en",
+    "titulo": "Color field",
+    "views": 2560,
+    "vpt": 0,
+    "ven": 2560,
+    "peso": 128.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Muralismo mexicano",
+    "grafias": [
+     "Muralismo"
+    ],
+    "lang": "pt",
+    "titulo": "Muralismo mexicano",
+    "views": 127,
+    "vpt": 127,
+    "ven": 0,
+    "peso": 127.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Land art",
+    "grafias": [
+     "Arte da terra"
+    ],
+    "lang": "pt",
+    "titulo": "Land Art",
+    "views": 124,
+    "vpt": 124,
+    "ven": 0,
+    "peso": 124.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Videoarte",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Videoarte",
+    "views": 120,
+    "vpt": 120,
+    "ven": 0,
+    "peso": 120.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Instalação",
+    "grafias": [
+     "Arte de instalação"
+    ],
+    "lang": "pt",
+    "titulo": "Instalação (arte)",
+    "views": 112,
+    "vpt": 112,
+    "ven": 0,
+    "peso": 112.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Neo-dada",
+    "grafias": [
+     "Neodadá"
+    ],
+    "lang": "en",
+    "titulo": "Neo-Dada",
+    "views": 1929,
+    "vpt": 0,
+    "ven": 1929,
+    "peso": 96.45,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Grupo Ruptura",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Grupo Ruptura",
+    "views": 94,
+    "vpt": 94,
+    "ven": 0,
+    "peso": 94.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Nova Objetividade",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Nova Objetividade",
+    "views": 92,
+    "vpt": 92,
+    "ven": 0,
+    "peso": 92.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Grupo Frente",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Grupo Frente",
+    "views": 91,
+    "vpt": 91,
+    "ven": 0,
+    "peso": 91.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Grupo CoBrA",
+    "grafias": [
+     "CoBrA",
+     "COBRA"
+    ],
+    "lang": "pt",
+    "titulo": "COBRA",
+    "views": 76,
+    "vpt": 76,
+    "ven": 0,
+    "peso": 76.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Action painting",
+    "grafias": [
+     "Pintura de ação",
+     "Gestualismo"
+    ],
+    "lang": "pt",
+    "titulo": "Gestualismo (pintura)",
+    "views": 67,
+    "vpt": 67,
+    "ven": 0,
+    "peso": 67.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Street art",
+    "grafias": [
+     "Arte urbana",
+     "Grafite",
+     "Artista de rua"
+    ],
+    "lang": "pt",
+    "titulo": "Artista de rua",
+    "views": 54,
+    "vpt": 54,
+    "ven": 0,
+    "peso": 54.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Vorticismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vorticismo",
+    "views": 52,
+    "vpt": 52,
+    "ven": 0,
+    "peso": 52.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Nouveau réalisme",
+    "grafias": [
+     "Novo realismo"
+    ],
+    "lang": "pt",
+    "titulo": "Nouveau réalisme",
+    "views": 44,
+    "vpt": 44,
+    "ven": 0,
+    "peso": 44.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Transvanguarda",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Transvanguarda",
+    "views": 37,
+    "vpt": 37,
+    "ven": 0,
+    "peso": 37.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Neoexpressionismo",
+    "grafias": [
+     "Neoexpressionismo alemão"
+    ],
+    "lang": "pt",
+    "titulo": "Neoexpressionismo alemão",
+    "views": 28,
+    "vpt": 28,
+    "ven": 0,
+    "peso": 28.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Raionismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Raionismo",
+    "views": 21,
+    "vpt": 21,
+    "ven": 0,
+    "peso": 21.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-033": {
+  "pergunta": "Um estilo de coluna ou ordem clássica",
+  "linhas": [
+   {
+    "nome": "Coluna de Trajano",
+    "grafias": [
+     "Trajano"
+    ],
+    "lang": "pt",
+    "titulo": "Coluna de Trajano",
+    "views": 398,
+    "vpt": 398,
+    "ven": 0,
+    "peso": 398.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Coríntia",
+    "grafias": [
+     "Ordem coríntia",
+     "Coríntio"
+    ],
+    "lang": "pt",
+    "titulo": "Ordem coríntia",
+    "views": 384,
+    "vpt": 384,
+    "ven": 0,
+    "peso": 384.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cariátide",
+    "grafias": [
+     "Cariátides"
+    ],
+    "lang": "pt",
+    "titulo": "Cariátide",
+    "views": 359,
+    "vpt": 359,
+    "ven": 0,
+    "peso": 359.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Dórica",
+    "grafias": [
+     "Ordem dórica",
+     "Dórico"
+    ],
+    "lang": "pt",
+    "titulo": "Ordem dórica",
+    "views": 355,
+    "vpt": 355,
+    "ven": 0,
+    "peso": 355.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Jônica",
+    "grafias": [
+     "Ordem jônica",
+     "Jônico",
+     "Iônica"
+    ],
+    "lang": "pt",
+    "titulo": "Ordem jônica",
+    "views": 268,
+    "vpt": 268,
+    "ven": 0,
+    "peso": 268.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pilotis",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pilotis",
+    "views": 223,
+    "vpt": 223,
+    "ven": 0,
+    "peso": 223.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Herma",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Herma",
+    "views": 130,
+    "vpt": 130,
+    "ven": 0,
+    "peso": 130.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Salomônica",
+    "grafias": [
+     "Coluna salomônica",
+     "Torsa"
+    ],
+    "lang": "pt",
+    "titulo": "Coluna salomônica",
+    "views": 119,
+    "vpt": 119,
+    "ven": 0,
+    "peso": 119.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pilastra",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pilastra",
+    "views": 100,
+    "vpt": 100,
+    "ven": 0,
+    "peso": 100.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Toscana",
+    "grafias": [
+     "Ordem toscana",
+     "Toscano"
+    ],
+    "lang": "pt",
+    "titulo": "Ordem toscana",
+    "views": 72,
+    "vpt": 72,
+    "ven": 0,
+    "peso": 72.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Compósita",
+    "grafias": [
+     "Ordem compósita",
+     "Compósito"
+    ],
+    "lang": "pt",
+    "titulo": "Ordem compósita",
+    "views": 72,
+    "vpt": 72,
+    "ven": 0,
+    "peso": 72.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Atlante",
+    "grafias": [
+     "Atlas",
+     "Telamon"
+    ],
+    "lang": "pt",
+    "titulo": "Atlante (coluna)",
+    "views": 59,
+    "vpt": 59,
+    "ven": 0,
+    "peso": 59.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Coluna monumental",
+    "grafias": [
+     "Victory column"
+    ],
+    "lang": "en",
+    "titulo": "Victory column",
+    "views": 816,
+    "vpt": 0,
+    "ven": 816,
+    "peso": 40.800000000000004,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Coluna persa",
+    "grafias": [
+     "Persian column"
+    ],
+    "lang": "en",
+    "titulo": "Persian column",
+    "views": 608,
+    "vpt": 0,
+    "ven": 608,
+    "peso": 30.400000000000002,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Coluna rostral",
+    "grafias": [
+     "Rostral column"
+    ],
+    "lang": "en",
+    "titulo": "Rostral column",
+    "views": 195,
+    "vpt": 0,
+    "ven": 195,
+    "peso": 9.75,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-034": {
+  "pergunta": "Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",
+  "linhas": [
+   {
+    "nome": "A forma segue a função",
+    "grafias": [
+     "Form follows function"
+    ],
+    "lang": "en",
+    "titulo": "Form follows function",
+    "views": 4750,
+    "vpt": 0,
+    "ven": 4750,
+    "peso": 237.5,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Pilotis",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pilotis",
+    "views": 223,
+    "vpt": 223,
+    "ven": 0,
+    "peso": 223.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Raumplan",
+    "grafias": [
+     "Adolf Loos"
+    ],
+    "lang": "en",
+    "titulo": "Adolf Loos",
+    "views": 4022,
+    "vpt": 0,
+    "ven": 4022,
+    "peso": 201.10000000000002,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pele de vidro",
+    "grafias": [
+     "Curtain wall",
+     "Fachada cortina"
+    ],
+    "lang": "en",
+    "titulo": "Curtain wall (architecture)",
+    "views": 4015,
+    "vpt": 0,
+    "ven": 4015,
+    "peso": 200.75,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Carta de Atenas",
+    "grafias": [
+     "Carta de Atenas (1933)",
+     "Carta de Atenas de 1933"
+    ],
+    "lang": "pt",
+    "titulo": "Carta de Atenas de 1933",
+    "views": 188,
+    "vpt": 188,
+    "ven": 0,
+    "peso": 188.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Gesamtkunstwerk",
+    "grafias": [
+     "Obra de arte total"
+    ],
+    "lang": "pt",
+    "titulo": "Gesamtkunstwerk",
+    "views": 160,
+    "vpt": 160,
+    "ven": 0,
+    "peso": 160.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Menos é mais",
+    "grafias": [
+     "Less is more"
+    ],
+    "lang": "en",
+    "titulo": "Less is more",
+    "views": 2395,
+    "vpt": 0,
+    "ven": 2395,
+    "peso": 119.75,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Menos é chato",
+    "grafias": [
+     "Less is a bore",
+     "Robert Venturi"
+    ],
+    "lang": "en",
+    "titulo": "Robert Venturi",
+    "views": 2082,
+    "vpt": 0,
+    "ven": 2082,
+    "peso": 104.10000000000001,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Brise-soleil",
+    "grafias": [
+     "Brise",
+     "Quebra-sol"
+    ],
+    "lang": "pt",
+    "titulo": "Brise-soleil",
+    "views": 97,
+    "vpt": 97,
+    "ven": 0,
+    "peso": 97.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Modulor",
+    "grafias": [
+     "O Modulor"
+    ],
+    "lang": "pt",
+    "titulo": "Modulor",
+    "views": 80,
+    "vpt": 80,
+    "ven": 0,
+    "peso": 80.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Planta aberta",
+    "grafias": [
+     "Open plan"
+    ],
+    "lang": "en",
+    "titulo": "Open plan",
+    "views": 1208,
+    "vpt": 0,
+    "ven": 1208,
+    "peso": 60.400000000000006,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Janela em fita",
+    "grafias": [
+     "Fenêtre en longueur",
+     "Janela horizontal",
+     "Janelas em fita"
+    ],
+    "lang": "pt",
+    "titulo": "Janelas em fita",
+    "views": 35,
+    "vpt": 35,
+    "ven": 0,
+    "peso": 35.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Unidade de vizinhança",
+    "grafias": [
+     "Neighbourhood unit"
+    ],
+    "lang": "en",
+    "titulo": "Neighbourhood unit",
+    "views": 523,
+    "vpt": 0,
+    "ven": 523,
+    "peso": 26.150000000000002,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Terraço-jardim",
+    "grafias": [
+     "Teto-jardim",
+     "Cobertura-jardim",
+     "Terraço jardim"
+    ],
+    "lang": "pt",
+    "titulo": "Terraço-jardim",
+    "views": 21,
+    "vpt": 21,
+    "ven": 0,
+    "peso": 21.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Fachada livre",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Fachada livre",
+    "views": 20,
+    "vpt": 20,
+    "ven": 0,
+    "peso": 20.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Estrutura independente",
+    "grafias": [
+     "Dom-ino",
+     "Casa Dom-Ino",
+     "Dom-Ino House"
+    ],
+    "lang": "en",
+    "titulo": "Dom-Ino House",
+    "views": 383,
+    "vpt": 0,
+    "ven": 383,
+    "peso": 19.150000000000002,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Arquitetura falante",
+    "grafias": [
+     "Architecture parlante"
+    ],
+    "lang": "en",
+    "titulo": "Architecture parlante",
+    "views": 280,
+    "vpt": 0,
+    "ven": 280,
+    "peso": 14.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Promenade architecturale",
+    "grafias": [
+     "Passeio arquitetônico"
+    ],
+    "lang": "en",
+    "titulo": "Promenade architecturale",
+    "views": 209,
+    "vpt": 0,
+    "ven": 209,
+    "peso": 10.450000000000001,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Planta livre",
+    "grafias": [
+     "Plano livre"
+    ],
+    "lang": "pt",
+    "titulo": "Planta livre",
+    "views": 7,
+    "vpt": 7,
+    "ven": 0,
+    "peso": 7.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-035": {
+  "pergunta": "Uma escola ou faculdade de arquitetura famosa",
+  "linhas": [
+   {
+    "nome": "UFRJ",
+    "grafias": [
+     "FAU UFRJ",
+     "Universidade Federal do Rio de Janeiro"
+    ],
+    "lang": "pt",
+    "titulo": "Universidade Federal do Rio de Janeiro",
+    "views": 2804,
+    "vpt": 2804,
+    "ven": 0,
+    "peso": 2804.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "UFRGS",
+    "grafias": [
+     "Universidade Federal do Rio Grande do Sul"
+    ],
+    "lang": "pt",
+    "titulo": "Universidade Federal do Rio Grande do Sul",
+    "views": 2471,
+    "vpt": 2471,
+    "ven": 0,
+    "peso": 2471.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Mackenzie",
+    "grafias": [
+     "FAU Mackenzie",
+     "Universidade Presbiteriana Mackenzie"
+    ],
+    "lang": "pt",
+    "titulo": "Universidade Presbiteriana Mackenzie",
+    "views": 2379,
+    "vpt": 2379,
+    "ven": 0,
+    "peso": 2379.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Bauhaus",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Bauhaus",
+    "views": 2202,
+    "vpt": 2202,
+    "ven": 0,
+    "peso": 2202.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "UnB",
+    "grafias": [
+     "Universidade de Brasília"
+    ],
+    "lang": "pt",
+    "titulo": "Universidade de Brasília",
+    "views": 1588,
+    "vpt": 1588,
+    "ven": 0,
+    "peso": 1588.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "MIT",
+    "grafias": [
+     "Massachusetts Institute of Technology",
+     "Instituto de Tecnologia de Massachusetts"
+    ],
+    "lang": "pt",
+    "titulo": "Instituto de Tecnologia de Massachusetts",
+    "views": 1266,
+    "vpt": 1266,
+    "ven": 0,
+    "peso": 1266.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Escola Politécnica da USP",
+    "grafias": [
+     "Poli USP",
+     "Poli",
+     "Escola Politécnica da Universidade de São Paulo"
+    ],
+    "lang": "pt",
+    "titulo": "Escola Politécnica da Universidade de São Paulo",
+    "views": 576,
+    "vpt": 576,
+    "ven": 0,
+    "peso": 576.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Universidade da Pensilvânia",
+    "grafias": [
+     "UPenn",
+     "Penn"
+    ],
+    "lang": "pt",
+    "titulo": "Universidade da Pensilvânia",
+    "views": 574,
+    "vpt": 574,
+    "ven": 0,
+    "peso": 574.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Escola Nacional de Belas Artes (Brasil)",
+    "grafias": [
+     "ENBA",
+     "Academia Imperial de Belas Artes",
+     "Escola Nacional de Belas Artes"
+    ],
+    "lang": "pt",
+    "titulo": "Escola Nacional de Belas Artes",
+    "views": 399,
+    "vpt": 399,
+    "ven": 0,
+    "peso": 399.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "UNAM",
+    "grafias": [
+     "Universidade Nacional Autónoma do México",
+     "Universidade Nacional Autônoma do México"
+    ],
+    "lang": "pt",
+    "titulo": "Universidade Nacional Autônoma do México",
+    "views": 354,
+    "vpt": 354,
+    "ven": 0,
+    "peso": 354.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Academia de Belas Artes de Viena",
+    "grafias": [
+     "Akademie der bildenden Künste",
+     "Academy of Fine Arts Vienna"
+    ],
+    "lang": "en",
+    "titulo": "Academy of Fine Arts Vienna",
+    "views": 6372,
+    "vpt": 0,
+    "ven": 6372,
+    "peso": 318.6,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "FAU USP",
+    "grafias": [
+     "FAU-USP",
+     "FAU",
+     "FAUUSP",
+     "Faculdade de Arquitetura e Urbanismo e de Design da Universidade de São Paulo"
+    ],
+    "lang": "pt",
+    "titulo": "Faculdade de Arquitetura e Urbanismo e de Design da Universidade de São Paulo",
+    "views": 273,
+    "vpt": 273,
+    "ven": 0,
+    "peso": 273.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "ETH Zurique",
+    "grafias": [
+     "ETH",
+     "ETH Zürich",
+     "Instituto Federal de Tecnologia de Zurique"
+    ],
+    "lang": "pt",
+    "titulo": "Instituto Federal de Tecnologia de Zurique",
+    "views": 242,
+    "vpt": 242,
+    "ven": 0,
+    "peso": 242.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Escola de Glasgow",
+    "grafias": [
+     "Glasgow School of Art"
+    ],
+    "lang": "en",
+    "titulo": "Glasgow School of Art",
+    "views": 2428,
+    "vpt": 0,
+    "ven": 2428,
+    "peso": 121.4,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Universidade de Tóquio",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Universidade de Tóquio",
+    "views": 115,
+    "vpt": 115,
+    "ven": 0,
+    "peso": 115.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Vkhutemas",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vkhutemas",
+    "views": 111,
+    "vpt": 111,
+    "ven": 0,
+    "peso": 111.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "École des Beaux-Arts",
+    "grafias": [
+     "Beaux-Arts",
+     "Escola de Belas Artes de Paris"
+    ],
+    "lang": "pt",
+    "titulo": "École des Beaux-Arts",
+    "views": 109,
+    "vpt": 109,
+    "ven": 0,
+    "peso": 109.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "FAUP",
+    "grafias": [
+     "Escola do Porto",
+     "Faculdade de Arquitetura da Universidade do Porto"
+    ],
+    "lang": "pt",
+    "titulo": "Faculdade de Arquitetura da Universidade do Porto",
+    "views": 92,
+    "vpt": 92,
+    "ven": 0,
+    "peso": 92.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Architectural Association",
+    "grafias": [
+     "AA",
+     "AA School",
+     "Architectural Association School of Architecture"
+    ],
+    "lang": "en",
+    "titulo": "Architectural Association School of Architecture",
+    "views": 1609,
+    "vpt": 0,
+    "ven": 1609,
+    "peso": 80.45,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Politecnico di Milano",
+    "grafias": [
+     "Politécnico de Milão",
+     "Polimi"
+    ],
+    "lang": "pt",
+    "titulo": "Politecnico di Milano",
+    "views": 71,
+    "vpt": 71,
+    "ven": 0,
+    "peso": 71.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "TU Delft",
+    "grafias": [
+     "Delft",
+     "Universidade Técnica de Delft"
+    ],
+    "lang": "pt",
+    "titulo": "Universidade Técnica de Delft",
+    "views": 62,
+    "vpt": 62,
+    "ven": 0,
+    "peso": 62.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Harvard GSD",
+    "grafias": [
+     "Harvard Graduate School of Design",
+     "GSD"
+    ],
+    "lang": "en",
+    "titulo": "Harvard Graduate School of Design",
+    "views": 1136,
+    "vpt": 0,
+    "ven": 1136,
+    "peso": 56.800000000000004,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Escola de Ulm",
+    "grafias": [
+     "HfG Ulm",
+     "Hochschule für Gestaltung Ulm",
+     "Ulm School of Design"
+    ],
+    "lang": "en",
+    "titulo": "Ulm School of Design",
+    "views": 977,
+    "vpt": 0,
+    "ven": 977,
+    "peso": 48.85,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "ETSAM",
+    "grafias": [
+     "Escuela Técnica Superior de Arquitectura de Madrid",
+     "Technical University of Madrid"
+    ],
+    "lang": "en",
+    "titulo": "Technical University of Madrid",
+    "views": 895,
+    "vpt": 0,
+    "ven": 895,
+    "peso": 44.75,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Bartlett",
+    "grafias": [
+     "The Bartlett"
+    ],
+    "lang": "en",
+    "titulo": "The Bartlett",
+    "views": 861,
+    "vpt": 0,
+    "ven": 861,
+    "peso": 43.050000000000004,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Cooper Union",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cooper Union",
+    "views": 41,
+    "vpt": 41,
+    "ven": 0,
+    "peso": 41.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "SCI-Arc",
+    "grafias": [
+     "Southern California Institute of Architecture"
+    ],
+    "lang": "en",
+    "titulo": "Southern California Institute of Architecture",
+    "views": 816,
+    "vpt": 0,
+    "ven": 816,
+    "peso": 40.800000000000004,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Cranbrook",
+    "grafias": [
+     "Cranbrook Academy of Art"
+    ],
+    "lang": "en",
+    "titulo": "Cranbrook Academy of Art",
+    "views": 800,
+    "vpt": 0,
+    "ven": 800,
+    "peso": 40.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Yale School of Architecture",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Yale School of Architecture",
+    "views": 568,
+    "vpt": 0,
+    "ven": 568,
+    "peso": 28.400000000000002,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Black Mountain College",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Black Mountain College",
+    "views": 28,
+    "vpt": 28,
+    "ven": 0,
+    "peso": 28.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pratt Institute",
+    "grafias": [
+     "Pratt",
+     "Instituto Pratt"
+    ],
+    "lang": "pt",
+    "titulo": "Instituto Pratt",
+    "views": 19,
+    "vpt": 19,
+    "ven": 0,
+    "peso": 19.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Städelschule",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Städelschule",
+    "views": 302,
+    "vpt": 0,
+    "ven": 302,
+    "peso": 15.100000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Cornell AAP",
+    "grafias": [
+     "Cornell",
+     "Cornell University College of Architecture, Art, and Planning"
+    ],
+    "lang": "en",
+    "titulo": "Cornell University College of Architecture, Art, and Planning",
+    "views": 282,
+    "vpt": 0,
+    "ven": 282,
+    "peso": 14.100000000000001,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Columbia GSAPP",
+    "grafias": [
+     "GSAPP",
+     "Columbia University Graduate School of Architecture, Planning and Preservation"
+    ],
+    "lang": "en",
+    "titulo": "Columbia University Graduate School of Architecture, Planning and Preservation",
+    "views": 274,
+    "vpt": 0,
+    "ven": 274,
+    "peso": 13.700000000000001,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Princeton School of Architecture",
+    "grafias": [
+     "Princeton",
+     "Princeton University School of Architecture"
+    ],
+    "lang": "en",
+    "titulo": "Princeton University School of Architecture",
+    "views": 214,
+    "vpt": 0,
+    "ven": 214,
+    "peso": 10.700000000000001,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Instituto de Arquitetura Berlage",
+    "grafias": [
+     "Berlage Institute"
+    ],
+    "lang": "en",
+    "titulo": "Berlage Institute",
+    "views": 132,
+    "vpt": 0,
+    "ven": 132,
+    "peso": 6.6000000000000005,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Rhode Island School of Design",
+    "grafias": [
+     "RISD"
+    ],
+    "lang": "pt",
+    "titulo": "Rhode Island School of Design",
+    "views": 6,
+    "vpt": 6,
+    "ven": 0,
+    "peso": 6.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Escola da Cidade",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Escola da Cidade",
+    "views": 21,
+    "vpt": 0,
+    "ven": 21,
+    "peso": 1.05,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-036": {
+  "pergunta": "Um livro sobre arquitetura",
+  "linhas": [
+   {
+    "nome": "Do Espiritual na Arte",
+    "grafias": [
+     "Do Espiritual na Arte",
+     "Wassily Kandinsky"
+    ],
+    "lang": "en",
+    "titulo": "Wassily Kandinsky",
+    "views": 33392,
+    "vpt": 0,
+    "ven": 33392,
+    "peso": 1669.6000000000001,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Utopia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Utopia",
+    "views": 1165,
+    "vpt": 1165,
+    "ven": 0,
+    "peso": 1165.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "A Nascente",
+    "grafias": [
+     "The Fountainhead"
+    ],
+    "lang": "en",
+    "titulo": "The Fountainhead",
+    "views": 22536,
+    "vpt": 0,
+    "ven": 22536,
+    "peso": 1126.8,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Morte e Vida de Grandes Cidades",
+    "grafias": [
+     "The Death and Life of Great American Cities"
+    ],
+    "lang": "en",
+    "titulo": "The Death and Life of Great American Cities",
+    "views": 4208,
+    "vpt": 0,
+    "ven": 4208,
+    "peso": 210.4,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Uma Linguagem de Padrões",
+    "grafias": [
+     "A Pattern Language"
+    ],
+    "lang": "en",
+    "titulo": "A Pattern Language",
+    "views": 4159,
+    "vpt": 0,
+    "ven": 4159,
+    "peso": 207.95000000000002,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "De architectura",
+    "grafias": [
+     "Dez Livros de Arquitetura",
+     "Vitrúvio",
+     "Tratado de Vitrúvio"
+    ],
+    "lang": "pt",
+    "titulo": "De architectura",
+    "views": 154,
+    "vpt": 154,
+    "ven": 0,
+    "peso": 154.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "A Poética do Espaço",
+    "grafias": [
+     "La Poétique de l'espace",
+     "The Poetics of Space"
+    ],
+    "lang": "en",
+    "titulo": "The Poetics of Space",
+    "views": 3037,
+    "vpt": 0,
+    "ven": 3037,
+    "peso": 151.85,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Ornamento e Crime",
+    "grafias": [
+     "Ornament and Crime"
+    ],
+    "lang": "en",
+    "titulo": "Ornament and Crime",
+    "views": 2277,
+    "vpt": 0,
+    "ven": 2277,
+    "peso": 113.85000000000001,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Hypnerotomachia Poliphili",
+    "grafias": [
+     "Sonho de Polífilo"
+    ],
+    "lang": "pt",
+    "titulo": "Hypnerotomachia Poliphili",
+    "views": 101,
+    "vpt": 101,
+    "ven": 0,
+    "peso": 101.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cidade Radiosa",
+    "grafias": [
+     "Ville Radieuse",
+     "La Ville Radieuse"
+    ],
+    "lang": "en",
+    "titulo": "Ville Radieuse",
+    "views": 1662,
+    "vpt": 0,
+    "ven": 1662,
+    "peso": 83.10000000000001,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "A Imagem da Cidade",
+    "grafias": [
+     "The Image of the City"
+    ],
+    "lang": "en",
+    "titulo": "The Image of the City",
+    "views": 1634,
+    "vpt": 0,
+    "ven": 1634,
+    "peso": 81.7,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "As Pedras de Veneza",
+    "grafias": [
+     "The Stones of Venice"
+    ],
+    "lang": "en",
+    "titulo": "The Stones of Venice (book)",
+    "views": 1387,
+    "vpt": 0,
+    "ven": 1387,
+    "peso": 69.35000000000001,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "As Sete Lâmpadas da Arquitetura",
+    "grafias": [
+     "Seven Lamps",
+     "The Seven Lamps of Architecture"
+    ],
+    "lang": "en",
+    "titulo": "The Seven Lamps of Architecture",
+    "views": 1291,
+    "vpt": 0,
+    "ven": 1291,
+    "peso": 64.55,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Aprendendo com Las Vegas",
+    "grafias": [
+     "Learning from Las Vegas"
+    ],
+    "lang": "en",
+    "titulo": "Learning from Las Vegas",
+    "views": 1109,
+    "vpt": 0,
+    "ven": 1109,
+    "peso": 55.45,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Nova York Delirante",
+    "grafias": [
+     "Delirious New York"
+    ],
+    "lang": "en",
+    "titulo": "Delirious New York",
+    "views": 816,
+    "vpt": 0,
+    "ven": 816,
+    "peso": 40.800000000000004,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "De re aedificatoria",
+    "grafias": [
+     "De re ædificatoria"
+    ],
+    "lang": "pt",
+    "titulo": "De re ædificatoria",
+    "views": 40,
+    "vpt": 40,
+    "ven": 0,
+    "peso": 40.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "A Cidade na História",
+    "grafias": [
+     "The City in History"
+    ],
+    "lang": "en",
+    "titulo": "The City in History",
+    "views": 628,
+    "vpt": 0,
+    "ven": 628,
+    "peso": 31.400000000000002,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Os Quatro Livros da Arquitetura",
+    "grafias": [
+     "I quattro libri dell'architettura",
+     "Quatro Livros"
+    ],
+    "lang": "en",
+    "titulo": "I quattro libri dell'architettura",
+    "views": 623,
+    "vpt": 0,
+    "ven": 623,
+    "peso": 31.150000000000002,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "A Arquitetura da Felicidade",
+    "grafias": [
+     "The Architecture of Happiness"
+    ],
+    "lang": "en",
+    "titulo": "The Architecture of Happiness",
+    "views": 606,
+    "vpt": 0,
+    "ven": 606,
+    "peso": 30.3,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "S,M,L,XL",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "S,M,L,XL",
+    "views": 494,
+    "vpt": 0,
+    "ven": 494,
+    "peso": 24.700000000000003,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Por uma Arquitetura",
+    "grafias": [
+     "Vers une architecture",
+     "Towards a New Architecture",
+     "Por uma arquitetura",
+     "Toward an Architecture"
+    ],
+    "lang": "en",
+    "titulo": "Toward an Architecture",
+    "views": 449,
+    "vpt": 0,
+    "ven": 449,
+    "peso": 22.450000000000003,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Complexidade e Contradição em Arquitetura",
+    "grafias": [
+     "Complexity and Contradiction",
+     "Complexity and Contradiction in Architecture"
+    ],
+    "lang": "en",
+    "titulo": "Complexity and Contradiction in Architecture",
+    "views": 386,
+    "vpt": 0,
+    "ven": 386,
+    "peso": 19.3,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Espaço, Tempo e Arquitetura",
+    "grafias": [
+     "Space, Time and Architecture"
+    ],
+    "lang": "en",
+    "titulo": "Space, Time and Architecture",
+    "views": 300,
+    "vpt": 0,
+    "ven": 300,
+    "peso": 15.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Arquitetura Sem Arquitetos",
+    "grafias": [
+     "Architecture Without Architects"
+    ],
+    "lang": "en",
+    "titulo": "Architecture Without Architects",
+    "views": 293,
+    "vpt": 0,
+    "ven": 293,
+    "peso": 14.65,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "A Arquitetura da Cidade",
+    "grafias": [
+     "L'architettura della città",
+     "The Architecture of the City"
+    ],
+    "lang": "en",
+    "titulo": "The Architecture of the City",
+    "views": 272,
+    "vpt": 0,
+    "ven": 272,
+    "peso": 13.600000000000001,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "A Linguagem Clássica da Arquitetura",
+    "grafias": [
+     "The Classical Language of Architecture"
+    ],
+    "lang": "en",
+    "titulo": "The Classical Language of Architecture",
+    "views": 121,
+    "vpt": 0,
+    "ven": 121,
+    "peso": 6.050000000000001,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-037": {
+  "pergunta": "Um material de construção",
+  "linhas": [
+   {
+    "nome": "Pau a pique",
+    "grafias": [
+     "Taipa de mão"
+    ],
+    "lang": "pt",
+    "titulo": "Pau a pique",
+    "views": 1605,
+    "vpt": 1605,
+    "ven": 0,
+    "peso": 1605.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Cobre",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cobre",
+    "views": 1496,
+    "vpt": 1496,
+    "ven": 0,
+    "peso": 1496.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Granito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Granito",
+    "views": 1302,
+    "vpt": 1302,
+    "ven": 0,
+    "peso": 1302.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Madeira",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Madeira",
+    "views": 1230,
+    "vpt": 1230,
+    "ven": 0,
+    "peso": 1230.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Alumínio",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Alumínio",
+    "views": 1127,
+    "vpt": 1127,
+    "ven": 0,
+    "peso": 1127.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Cal",
+    "grafias": [
+     "Cal virgem"
+    ],
+    "lang": "pt",
+    "titulo": "Cal",
+    "views": 1115,
+    "vpt": 1115,
+    "ven": 0,
+    "peso": 1115.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Azulejo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Azulejo",
+    "views": 1068,
+    "vpt": 1068,
+    "ven": 0,
+    "peso": 1068.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Basalto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Basalto",
+    "views": 1011,
+    "vpt": 1011,
+    "ven": 0,
+    "peso": 1011.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Terracota",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Terracota",
+    "views": 995,
+    "vpt": 995,
+    "ven": 0,
+    "peso": 995.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Zinco",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Zinco",
+    "views": 940,
+    "vpt": 940,
+    "ven": 0,
+    "peso": 940.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Bambu",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Bambu",
+    "views": 885,
+    "vpt": 885,
+    "ven": 0,
+    "peso": 885.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Aço",
+    "grafias": [
+     "Aço estrutural"
+    ],
+    "lang": "pt",
+    "titulo": "Aço",
+    "views": 875,
+    "vpt": 875,
+    "ven": 0,
+    "peso": 875.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "PVC",
+    "grafias": [
+     "Policloreto de polivinila",
+     "Policloreto de vinila"
+    ],
+    "lang": "pt",
+    "titulo": "Policloreto de vinila",
+    "views": 864,
+    "vpt": 864,
+    "ven": 0,
+    "peso": 864.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Vidro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vidro",
+    "views": 815,
+    "vpt": 815,
+    "ven": 0,
+    "peso": 815.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Mármore",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mármore",
+    "views": 807,
+    "vpt": 807,
+    "ven": 0,
+    "peso": 807.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cerâmica",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cerâmica",
+    "views": 761,
+    "vpt": 761,
+    "ven": 0,
+    "peso": 761.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cimento",
+    "grafias": [
+     "Cimento Portland"
+    ],
+    "lang": "pt",
+    "titulo": "Cimento",
+    "views": 754,
+    "vpt": 754,
+    "ven": 0,
+    "peso": 754.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cobogó",
+    "grafias": [
+     "Elemento vazado"
+    ],
+    "lang": "pt",
+    "titulo": "Cobogó",
+    "views": 725,
+    "vpt": 725,
+    "ven": 0,
+    "peso": 725.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Gesso",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Gesso",
+    "views": 647,
+    "vpt": 647,
+    "ven": 0,
+    "peso": 647.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cortiça",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cortiça",
+    "views": 619,
+    "vpt": 619,
+    "ven": 0,
+    "peso": 619.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Isopor",
+    "grafias": [
+     "EPS",
+     "Poliestireno expandido",
+     "Poliestireno"
+    ],
+    "lang": "pt",
+    "titulo": "Poliestireno",
+    "views": 600,
+    "vpt": 600,
+    "ven": 0,
+    "peso": 600.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Concreto",
+    "grafias": [
+     "Betão",
+     "Concreto armado"
+    ],
+    "lang": "pt",
+    "titulo": "Concreto",
+    "views": 567,
+    "vpt": 567,
+    "ven": 0,
+    "peso": 567.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Travertino",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Travertino",
+    "views": 542,
+    "vpt": 542,
+    "ven": 0,
+    "peso": 542.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ardósia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ardósia",
+    "views": 515,
+    "vpt": 515,
+    "ven": 0,
+    "peso": 515.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Adobe",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Adobe",
+    "views": 480,
+    "vpt": 480,
+    "ven": 0,
+    "peso": 480.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Concreto armado",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Concreto armado",
+    "views": 448,
+    "vpt": 448,
+    "ven": 0,
+    "peso": 448.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Argamassa",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Argamassa",
+    "views": 445,
+    "vpt": 445,
+    "ven": 0,
+    "peso": 445.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Drywall",
+    "grafias": [
+     "Gesso acartonado",
+     "Placa de gesso"
+    ],
+    "lang": "pt",
+    "titulo": "Placa de gesso",
+    "views": 428,
+    "vpt": 428,
+    "ven": 0,
+    "peso": 428.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Asfalto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Asfalto",
+    "views": 420,
+    "vpt": 420,
+    "ven": 0,
+    "peso": 420.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Tijolo",
+    "grafias": [
+     "Tijolo cerâmico",
+     "Tijolinho"
+    ],
+    "lang": "pt",
+    "titulo": "Tijolo",
+    "views": 411,
+    "vpt": 411,
+    "ven": 0,
+    "peso": 411.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Aço corten",
+    "grafias": [
+     "Corten",
+     "Aço patinável"
+    ],
+    "lang": "pt",
+    "titulo": "Aço corten",
+    "views": 365,
+    "vpt": 365,
+    "ven": 0,
+    "peso": 365.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pedra-sabão",
+    "grafias": [
+     "Esteatito"
+    ],
+    "lang": "pt",
+    "titulo": "Esteatito",
+    "views": 347,
+    "vpt": 347,
+    "ven": 0,
+    "peso": 347.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ferro fundido",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ferro fundido",
+    "views": 307,
+    "vpt": 307,
+    "ven": 0,
+    "peso": 307.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Fibra de vidro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Fibra de vidro",
+    "views": 293,
+    "vpt": 293,
+    "ven": 0,
+    "peso": 293.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Policarbonato",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Policarbonato",
+    "views": 281,
+    "vpt": 281,
+    "ven": 0,
+    "peso": 281.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Ladrilho hidráulico",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ladrilho hidráulico",
+    "views": 165,
+    "vpt": 165,
+    "ven": 0,
+    "peso": 165.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lã de rocha",
+    "grafias": [
+     "Isolante_térmico"
+    ],
+    "lang": "pt",
+    "titulo": "Isolante_térmico",
+    "views": 153,
+    "vpt": 153,
+    "ven": 0,
+    "peso": 153.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Telha",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Telha",
+    "views": 137,
+    "vpt": 137,
+    "ven": 0,
+    "peso": 137.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "ETFE",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "ETFE",
+    "views": 2542,
+    "vpt": 0,
+    "ven": 2542,
+    "peso": 127.10000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Porcelanato",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Porcelanato",
+    "views": 91,
+    "vpt": 91,
+    "ven": 0,
+    "peso": 91.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Fibrocimento",
+    "grafias": [
+     "Amianto",
+     "Eternit",
+     "Asbesto-cimento"
+    ],
+    "lang": "pt",
+    "titulo": "Asbesto-cimento",
+    "views": 85,
+    "vpt": 85,
+    "ven": 0,
+    "peso": 85.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Steel frame",
+    "grafias": [
+     "Light steel framing"
+    ],
+    "lang": "en",
+    "titulo": "Steel frame",
+    "views": 1565,
+    "vpt": 0,
+    "ven": 1565,
+    "peso": 78.25,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Taipa",
+    "grafias": [
+     "Taipa de pilão",
+     "Construção de terra"
+    ],
+    "lang": "pt",
+    "titulo": "Construção de terra",
+    "views": 78,
+    "vpt": 78,
+    "ven": 0,
+    "peso": 78.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Concreto protendido",
+    "grafias": [
+     "Protendido",
+     "Betão pré-esforçado"
+    ],
+    "lang": "pt",
+    "titulo": "Betão pré-esforçado",
+    "views": 67,
+    "vpt": 67,
+    "ven": 0,
+    "peso": 67.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Madeira laminada cruzada",
+    "grafias": [
+     "CLT"
+    ],
+    "lang": "pt",
+    "titulo": "Madeira laminada cruzada",
+    "views": 64,
+    "vpt": 64,
+    "ven": 0,
+    "peso": 64.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Bloco de vidro",
+    "grafias": [
+     "Tijolo de vidro"
+    ],
+    "lang": "pt",
+    "titulo": "Tijolo de vidro",
+    "views": 21,
+    "vpt": 21,
+    "ven": 0,
+    "peso": 21.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Concreto aparente",
+    "grafias": [
+     "Betão aparente"
+    ],
+    "lang": "pt",
+    "titulo": "Betão aparente",
+    "views": 19,
+    "vpt": 19,
+    "ven": 0,
+    "peso": 19.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-038": {
+  "pergunta": "Um tipo de pedra usada em arquitetura",
+  "linhas": [
+   {
+    "nome": "Calcário",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Calcário",
+    "views": 1317,
+    "vpt": 1317,
+    "ven": 0,
+    "peso": 1317.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Granito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Granito",
+    "views": 1302,
+    "vpt": 1302,
+    "ven": 0,
+    "peso": 1302.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Basalto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Basalto",
+    "views": 1011,
+    "vpt": 1011,
+    "ven": 0,
+    "peso": 1011.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Calçada portuguesa",
+    "grafias": [
+     "Pedra portuguesa"
+    ],
+    "lang": "pt",
+    "titulo": "Calçada portuguesa",
+    "views": 903,
+    "vpt": 903,
+    "ven": 0,
+    "peso": 903.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Mármore",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mármore",
+    "views": 807,
+    "vpt": 807,
+    "ven": 0,
+    "peso": 807.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Xisto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Xisto",
+    "views": 751,
+    "vpt": 751,
+    "ven": 0,
+    "peso": 751.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Alabastro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Alabastro",
+    "views": 632,
+    "vpt": 632,
+    "ven": 0,
+    "peso": 632.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Sílex",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sílex",
+    "views": 588,
+    "vpt": 588,
+    "ven": 0,
+    "peso": 588.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Jaspe",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Jaspe",
+    "views": 557,
+    "vpt": 557,
+    "ven": 0,
+    "peso": 557.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Arenito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Arenito",
+    "views": 546,
+    "vpt": 546,
+    "ven": 0,
+    "peso": 546.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Travertino",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Travertino",
+    "views": 542,
+    "vpt": 542,
+    "ven": 0,
+    "peso": 542.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pedra-pomes",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pedra-pomes",
+    "views": 527,
+    "vpt": 527,
+    "ven": 0,
+    "peso": 527.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ardósia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ardósia",
+    "views": 515,
+    "vpt": 515,
+    "ven": 0,
+    "peso": 515.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ônix",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ónix",
+    "views": 505,
+    "vpt": 505,
+    "ven": 0,
+    "peso": 505.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Gnaisse",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Gnaisse",
+    "views": 477,
+    "vpt": 477,
+    "ven": 0,
+    "peso": 477.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cantaria",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cantaria",
+    "views": 393,
+    "vpt": 393,
+    "ven": 0,
+    "peso": 393.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pedra-sabão",
+    "grafias": [
+     "Esteatito"
+    ],
+    "lang": "pt",
+    "titulo": "Esteatito",
+    "views": 347,
+    "vpt": 347,
+    "ven": 0,
+    "peso": 347.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Seixo",
+    "grafias": [
+     "Seixo rolado"
+    ],
+    "lang": "pt",
+    "titulo": "Seixo",
+    "views": 304,
+    "vpt": 304,
+    "ven": 0,
+    "peso": 304.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lioz",
+    "grafias": [
+     "Pedra lioz"
+    ],
+    "lang": "pt",
+    "titulo": "Lioz",
+    "views": 255,
+    "vpt": 255,
+    "ven": 0,
+    "peso": 255.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Quartzito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Quartzito",
+    "views": 253,
+    "vpt": 253,
+    "ven": 0,
+    "peso": 253.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pedra-de-portland",
+    "grafias": [
+     "Portland stone"
+    ],
+    "lang": "en",
+    "titulo": "Portland stone",
+    "views": 4572,
+    "vpt": 0,
+    "ven": 4572,
+    "peso": 228.60000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Laterita",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Laterita",
+    "views": 170,
+    "vpt": 170,
+    "ven": 0,
+    "peso": 170.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Diorito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Diorito",
+    "views": 165,
+    "vpt": 165,
+    "ven": 0,
+    "peso": 165.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Arenito Botucatu",
+    "grafias": [
+     "Botucatu",
+     "Formação Botucatu"
+    ],
+    "lang": "pt",
+    "titulo": "Formação Botucatu",
+    "views": 151,
+    "vpt": 151,
+    "ven": 0,
+    "peso": 151.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Gabro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Gabro",
+    "views": 146,
+    "vpt": 146,
+    "ven": 0,
+    "peso": 146.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pórfiro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pórfiro",
+    "views": 108,
+    "vpt": 108,
+    "ven": 0,
+    "peso": 108.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Dolomito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Dolomito",
+    "views": 92,
+    "vpt": 92,
+    "ven": 0,
+    "peso": 92.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Serpentinito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Serpentinito",
+    "views": 76,
+    "vpt": 76,
+    "ven": 0,
+    "peso": 76.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Sienito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sienito",
+    "views": 72,
+    "vpt": 72,
+    "ven": 0,
+    "peso": 72.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pedra de Bath",
+    "grafias": [
+     "Bath stone"
+    ],
+    "lang": "en",
+    "titulo": "Bath stone",
+    "views": 1088,
+    "vpt": 0,
+    "ven": 1088,
+    "peso": 54.400000000000006,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mármore pentélico",
+    "grafias": [
+     "Pentélico",
+     "Mount_Pentelicus"
+    ],
+    "lang": "en",
+    "titulo": "Mount_Pentelicus",
+    "views": 800,
+    "vpt": 0,
+    "ven": 800,
+    "peso": 40.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Pedra São Tomé",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pedra São Tomé",
+    "views": 36,
+    "vpt": 36,
+    "ven": 0,
+    "peso": 36.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Pedra de Caen",
+    "grafias": [
+     "Caen stone"
+    ],
+    "lang": "en",
+    "titulo": "Caen stone",
+    "views": 470,
+    "vpt": 0,
+    "ven": 470,
+    "peso": 23.5,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Pedra-de-Istria",
+    "grafias": [
+     "Pedra de Ístria",
+     "Istrian stone"
+    ],
+    "lang": "en",
+    "titulo": "Istrian stone",
+    "views": 441,
+    "vpt": 0,
+    "ven": 441,
+    "peso": 22.05,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Peperino",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Peperino",
+    "views": 218,
+    "vpt": 0,
+    "ven": 218,
+    "peso": 10.9,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-039": {
+  "pergunta": "Um elemento de fachada",
+  "linhas": [
+   {
+    "nome": "Gárgula",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Gárgula",
+    "views": 1513,
+    "vpt": 1513,
+    "ven": 0,
+    "peso": 1513.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Azulejo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Azulejo",
+    "views": 1068,
+    "vpt": 1068,
+    "ven": 0,
+    "peso": 1068.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Cobogó",
+    "grafias": [
+     "Elemento vazado"
+    ],
+    "lang": "pt",
+    "titulo": "Cobogó",
+    "views": 725,
+    "vpt": 725,
+    "ven": 0,
+    "peso": 725.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Vitral",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vitral",
+    "views": 705,
+    "vpt": 705,
+    "ven": 0,
+    "peso": 705.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Platibanda",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Platibanda",
+    "views": 568,
+    "vpt": 568,
+    "ven": 0,
+    "peso": 568.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pórtico",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pórtico",
+    "views": 460,
+    "vpt": 460,
+    "ven": 0,
+    "peso": 460.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cornija",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cornija",
+    "views": 359,
+    "vpt": 359,
+    "ven": 0,
+    "peso": 359.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Treliça",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Treliça",
+    "views": 330,
+    "vpt": 330,
+    "ven": 0,
+    "peso": 330.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Balaústre",
+    "grafias": [
+     "Balaustrada"
+    ],
+    "lang": "pt",
+    "titulo": "Balaústre",
+    "views": 329,
+    "vpt": 329,
+    "ven": 0,
+    "peso": 329.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cunhal",
+    "grafias": [
+     "Lista de termos técnicos de engenharia civil"
+    ],
+    "lang": "pt",
+    "titulo": "Lista de termos técnicos de engenharia civil",
+    "views": 307,
+    "vpt": 307,
+    "ven": 0,
+    "peso": 307.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Muxarabi",
+    "grafias": [
+     "Muxarabiê",
+     "Mashrabiya"
+    ],
+    "lang": "pt",
+    "titulo": "Muxarabi",
+    "views": 300,
+    "vpt": 300,
+    "ven": 0,
+    "peso": 300.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Varanda",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Varanda",
+    "views": 249,
+    "vpt": 249,
+    "ven": 0,
+    "peso": 249.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pilotis",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pilotis",
+    "views": 223,
+    "vpt": 223,
+    "ven": 0,
+    "peso": 223.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mísula",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mísula",
+    "views": 191,
+    "vpt": 191,
+    "ven": 0,
+    "peso": 191.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Frontão",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Frontão",
+    "views": 188,
+    "vpt": 188,
+    "ven": 0,
+    "peso": 188.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Empena",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Empena",
+    "views": 178,
+    "vpt": 178,
+    "ven": 0,
+    "peso": 178.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Persiana",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Persiana",
+    "views": 170,
+    "vpt": 170,
+    "ven": 0,
+    "peso": 170.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Friso",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Friso",
+    "views": 147,
+    "vpt": 147,
+    "ven": 0,
+    "peso": 147.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Gelosia",
+    "grafias": [
+     "Rótula"
+    ],
+    "lang": "pt",
+    "titulo": "Gelosia",
+    "views": 138,
+    "vpt": 138,
+    "ven": 0,
+    "peso": 138.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Água-furtada",
+    "grafias": [
+     "Mansarda"
+    ],
+    "lang": "pt",
+    "titulo": "Água-furtada",
+    "views": 137,
+    "vpt": 137,
+    "ven": 0,
+    "peso": 137.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Alpendre",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Alpendre",
+    "views": 123,
+    "vpt": 123,
+    "ven": 0,
+    "peso": 123.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Frontispício",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Frontispício",
+    "views": 119,
+    "vpt": 119,
+    "ven": 0,
+    "peso": 119.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Entablamento",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Entablamento",
+    "views": 110,
+    "vpt": 110,
+    "ven": 0,
+    "peso": 110.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Arcada",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Arcada",
+    "views": 108,
+    "vpt": 108,
+    "ven": 0,
+    "peso": 108.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Veneziana",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Veneziana",
+    "views": 103,
+    "vpt": 103,
+    "ven": 0,
+    "peso": 103.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pilastra",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pilastra",
+    "views": 100,
+    "vpt": 100,
+    "ven": 0,
+    "peso": 100.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Brise-soleil",
+    "grafias": [
+     "Brise",
+     "Quebra-sol"
+    ],
+    "lang": "pt",
+    "titulo": "Brise-soleil",
+    "views": 97,
+    "vpt": 97,
+    "ven": 0,
+    "peso": 97.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Colunata",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Colunata",
+    "views": 95,
+    "vpt": 95,
+    "ven": 0,
+    "peso": 95.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lambrequim",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lambrequim",
+    "views": 92,
+    "vpt": 92,
+    "ven": 0,
+    "peso": 92.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Loggia",
+    "grafias": [
+     "Logia",
+     "Lógia"
+    ],
+    "lang": "pt",
+    "titulo": "Lógia",
+    "views": 91,
+    "vpt": 91,
+    "ven": 0,
+    "peso": 91.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Beiral",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Beiral",
+    "views": 88,
+    "vpt": 88,
+    "ven": 0,
+    "peso": 88.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Arquitrave",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Arquitrave",
+    "views": 83,
+    "vpt": 83,
+    "ven": 0,
+    "peso": 83.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Bay window",
+    "grafias": [
+     "Bow window"
+    ],
+    "lang": "pt",
+    "titulo": "Bay window",
+    "views": 72,
+    "vpt": 72,
+    "ven": 0,
+    "peso": 72.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Óculo",
+    "grafias": [
+     "Óculo"
+    ],
+    "lang": "pt",
+    "titulo": "óculo",
+    "views": 71,
+    "vpt": 71,
+    "ven": 0,
+    "peso": 71.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Moldura",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Moldura",
+    "views": 62,
+    "vpt": 62,
+    "ven": 0,
+    "peso": 62.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Cimalha",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cimalha",
+    "views": 61,
+    "vpt": 61,
+    "ven": 0,
+    "peso": 61.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Verga",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Verga",
+    "views": 59,
+    "vpt": 59,
+    "ven": 0,
+    "peso": 59.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Sacada",
+    "grafias": [
+     "Varanda"
+    ],
+    "lang": "pt",
+    "titulo": "Varanda (arquitetura)",
+    "views": 49,
+    "vpt": 49,
+    "ven": 0,
+    "peso": 49.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Bossagem",
+    "grafias": [
+     "Almofadado",
+     "Rústico"
+    ],
+    "lang": "pt",
+    "titulo": "Rústico",
+    "views": 43,
+    "vpt": 43,
+    "ven": 0,
+    "peso": 43.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Jardim vertical",
+    "grafias": [
+     "Parede verde",
+     "Fachada verde"
+    ],
+    "lang": "pt",
+    "titulo": "Jardim vertical",
+    "views": 22,
+    "vpt": 22,
+    "ven": 0,
+    "peso": 22.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Peitoril",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Peitoril",
+    "views": 21,
+    "vpt": 21,
+    "ven": 0,
+    "peso": 21.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-040": {
+  "pergunta": "Um tipo de telhado ou de cobertura",
+  "linhas": [
+   {
+    "nome": "Cúpula",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cúpula",
+    "views": 400,
+    "vpt": 400,
+    "ven": 0,
+    "peso": 400.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Sapê",
+    "grafias": [
+     "Telhado de palha",
+     "Colmo"
+    ],
+    "lang": "pt",
+    "titulo": "Sapê",
+    "views": 335,
+    "vpt": 335,
+    "ven": 0,
+    "peso": 335.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Claraboia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Claraboia",
+    "views": 293,
+    "vpt": 293,
+    "ven": 0,
+    "peso": 293.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cobertura em grelha",
+    "grafias": [
+     "Treliça espacial",
+     "Space frame"
+    ],
+    "lang": "en",
+    "titulo": "Space frame",
+    "views": 4122,
+    "vpt": 0,
+    "ven": 4122,
+    "peso": 206.10000000000002,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Telhado gambrel",
+    "grafias": [
+     "Gambrel"
+    ],
+    "lang": "en",
+    "titulo": "Gambrel",
+    "views": 3776,
+    "vpt": 0,
+    "ven": 3776,
+    "peso": 188.8,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Meia-água",
+    "grafias": [
+     "Uma água",
+     "Telhado de uma água",
+     "Telhado"
+    ],
+    "lang": "pt",
+    "titulo": "Telhado",
+    "views": 186,
+    "vpt": 186,
+    "ven": 0,
+    "peso": 186.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Mansarda",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mansarda",
+    "views": 186,
+    "vpt": 186,
+    "ven": 0,
+    "peso": 186.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Cobertura retrátil",
+    "grafias": [
+     "Teto retrátil",
+     "Retractable roof"
+    ],
+    "lang": "en",
+    "titulo": "Retractable roof",
+    "views": 3198,
+    "vpt": 0,
+    "ven": 3198,
+    "peso": 159.9,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Paraboloide hiperbólico",
+    "grafias": [
+     "Hipar",
+     "Paraboloide"
+    ],
+    "lang": "pt",
+    "titulo": "Paraboloide",
+    "views": 129,
+    "vpt": 129,
+    "ven": 0,
+    "peso": 129.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cúpula geodésica",
+    "grafias": [
+     "Domo geodésico",
+     "Geodésica"
+    ],
+    "lang": "pt",
+    "titulo": "Cúpula geodésica",
+    "views": 108,
+    "vpt": 108,
+    "ven": 0,
+    "peso": 108.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lanternim",
+    "grafias": [
+     "Lanterna"
+    ],
+    "lang": "pt",
+    "titulo": "Lanterna (arquitetura)",
+    "views": 107,
+    "vpt": 107,
+    "ven": 0,
+    "peso": 107.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Abóbada de berço",
+    "grafias": [
+     "Abóbada de canhão"
+    ],
+    "lang": "pt",
+    "titulo": "Abóbada de berço",
+    "views": 105,
+    "vpt": 105,
+    "ven": 0,
+    "peso": 105.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Abóbada de nervuras",
+    "grafias": [
+     "Abóbada de cruzaria",
+     "Abóbada em cruzaria"
+    ],
+    "lang": "pt",
+    "titulo": "Abóbada em cruzaria",
+    "views": 105,
+    "vpt": 105,
+    "ven": 0,
+    "peso": 105.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Telhado verde",
+    "grafias": [
+     "Teto verde",
+     "Cobertura verde"
+    ],
+    "lang": "pt",
+    "titulo": "Cobertura verde",
+    "views": 96,
+    "vpt": 96,
+    "ven": 0,
+    "peso": 96.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Coruchéu",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Coruchéu",
+    "views": 89,
+    "vpt": 89,
+    "ven": 0,
+    "peso": 89.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Zimbório",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Zimbório",
+    "views": 73,
+    "vpt": 73,
+    "ven": 0,
+    "peso": 73.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Quatro águas",
+    "grafias": [
+     "Telhado de quatro águas"
+    ],
+    "lang": "pt",
+    "titulo": "Telhado de quatro águas",
+    "views": 61,
+    "vpt": 61,
+    "ven": 0,
+    "peso": 61.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Abóbada de aresta",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Abóbada de aresta",
+    "views": 53,
+    "vpt": 53,
+    "ven": 0,
+    "peso": 53.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Telhado borboleta",
+    "grafias": [
+     "Butterfly",
+     "Butterfly roof"
+    ],
+    "lang": "en",
+    "titulo": "Butterfly roof",
+    "views": 750,
+    "vpt": 0,
+    "ven": 750,
+    "peso": 37.5,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Duas águas",
+    "grafias": [
+     "Telhado de duas águas",
+     "Telhado duas águas",
+     "Água de telhado"
+    ],
+    "lang": "pt",
+    "titulo": "Água de telhado",
+    "views": 30,
+    "vpt": 30,
+    "ven": 0,
+    "peso": 30.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Casca de concreto",
+    "grafias": [
+     "Casca",
+     "Shell"
+    ],
+    "lang": "en",
+    "titulo": "Shell (structure)",
+    "views": 535,
+    "vpt": 0,
+    "ven": 535,
+    "peso": 26.75,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Terraço-jardim",
+    "grafias": [
+     "Teto-jardim"
+    ],
+    "lang": "pt",
+    "titulo": "Terraço-jardim",
+    "views": 21,
+    "vpt": 21,
+    "ven": 0,
+    "peso": 21.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Telhado holandês",
+    "grafias": [
+     "Dutch gable roof"
+    ],
+    "lang": "en",
+    "titulo": "Dutch gable roof",
+    "views": 377,
+    "vpt": 0,
+    "ven": 377,
+    "peso": 18.85,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-041": {
+  "pergunta": "Uma parte de uma igreja",
+  "linhas": [
+   {
+    "nome": "Vitral",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vitral",
+    "views": 705,
+    "vpt": 705,
+    "ven": 0,
+    "peso": 705.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Púlpito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Púlpito",
+    "views": 620,
+    "vpt": 620,
+    "ven": 0,
+    "peso": 620.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Arco triunfal",
+    "grafias": [
+     "Arco do triunfo"
+    ],
+    "lang": "pt",
+    "titulo": "Arco do triunfo",
+    "views": 463,
+    "vpt": 463,
+    "ven": 0,
+    "peso": 463.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Cúpula",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cúpula",
+    "views": 400,
+    "vpt": 400,
+    "ven": 0,
+    "peso": 400.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Cripta",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cripta",
+    "views": 324,
+    "vpt": 324,
+    "ven": 0,
+    "peso": 324.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Campanário",
+    "grafias": [
+     "Torre sineira"
+    ],
+    "lang": "pt",
+    "titulo": "Campanário",
+    "views": 296,
+    "vpt": 296,
+    "ven": 0,
+    "peso": 296.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Retábulo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Retábulo",
+    "views": 285,
+    "vpt": 285,
+    "ven": 0,
+    "peso": 285.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Arcobotante",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Arcobotante",
+    "views": 255,
+    "vpt": 255,
+    "ven": 0,
+    "peso": 255.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Claustro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Claustro",
+    "views": 249,
+    "vpt": 249,
+    "ven": 0,
+    "peso": 249.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Sacrário",
+    "grafias": [
+     "Tabernáculo"
+    ],
+    "lang": "pt",
+    "titulo": "Sacrário",
+    "views": 225,
+    "vpt": 225,
+    "ven": 0,
+    "peso": 225.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Nave",
+    "grafias": [
+     "Nave central"
+    ],
+    "lang": "pt",
+    "titulo": "Nave (arquitetura)",
+    "views": 211,
+    "vpt": 211,
+    "ven": 0,
+    "peso": 211.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Altar",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Altar",
+    "views": 205,
+    "vpt": 205,
+    "ven": 0,
+    "peso": 205.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Abside",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Abside",
+    "views": 203,
+    "vpt": 203,
+    "ven": 0,
+    "peso": 203.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cadeira episcopal",
+    "grafias": [
+     "Cátedra"
+    ],
+    "lang": "pt",
+    "titulo": "Cátedra",
+    "views": 187,
+    "vpt": 187,
+    "ven": 0,
+    "peso": 187.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Baldaquino",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Baldaquino",
+    "views": 171,
+    "vpt": 171,
+    "ven": 0,
+    "peso": 171.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pináculo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pináculo",
+    "views": 166,
+    "vpt": 166,
+    "ven": 0,
+    "peso": 166.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Contraforte",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Contraforte",
+    "views": 152,
+    "vpt": 152,
+    "ven": 0,
+    "peso": 152.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Transepto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Transepto",
+    "views": 142,
+    "vpt": 142,
+    "ven": 0,
+    "peso": 142.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Presbitério",
+    "grafias": [
+     "Presbitério"
+    ],
+    "lang": "pt",
+    "titulo": "Presbitério",
+    "views": 126,
+    "vpt": 126,
+    "ven": 0,
+    "peso": 126.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Sacristia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sacristia",
+    "views": 123,
+    "vpt": 123,
+    "ven": 0,
+    "peso": 123.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Frontispício",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Frontispício",
+    "views": 119,
+    "vpt": 119,
+    "ven": 0,
+    "peso": 119.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Batistério",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Batistério",
+    "views": 117,
+    "vpt": 117,
+    "ven": 0,
+    "peso": 117.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Adro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Adro",
+    "views": 116,
+    "vpt": 116,
+    "ven": 0,
+    "peso": 116.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Clerestório",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Clerestório",
+    "views": 113,
+    "vpt": 113,
+    "ven": 0,
+    "peso": 113.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Confessionário",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Confessionário",
+    "views": 112,
+    "vpt": 112,
+    "ven": 0,
+    "peso": 112.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lanterna",
+    "grafias": [
+     "Lanternim"
+    ],
+    "lang": "pt",
+    "titulo": "Lanterna (arquitetura)",
+    "views": 107,
+    "vpt": 107,
+    "ven": 0,
+    "peso": 107.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Nártex",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Nártex",
+    "views": 105,
+    "vpt": 105,
+    "ven": 0,
+    "peso": 105.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Nicho",
+    "grafias": [
+     "Nicho"
+    ],
+    "lang": "pt",
+    "titulo": "Nicho (arquitetura)",
+    "views": 100,
+    "vpt": 100,
+    "ven": 0,
+    "peso": 100.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Capela-mor",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Capela-mor",
+    "views": 90,
+    "vpt": 90,
+    "ven": 0,
+    "peso": 90.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Iconóstase",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Iconóstase",
+    "views": 82,
+    "vpt": 82,
+    "ven": 0,
+    "peso": 82.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Galilé",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Galilé",
+    "views": 77,
+    "vpt": 77,
+    "ven": 0,
+    "peso": 77.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Coro",
+    "grafias": [
+     "Coro alto"
+    ],
+    "lang": "pt",
+    "titulo": "Coro (arquitetura)",
+    "views": 74,
+    "vpt": 74,
+    "ven": 0,
+    "peso": 74.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Zimbório",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Zimbório",
+    "views": 73,
+    "vpt": 73,
+    "ven": 0,
+    "peso": 73.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Deambulatório",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Deambulatório",
+    "views": 65,
+    "vpt": 65,
+    "ven": 0,
+    "peso": 65.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Pia batismal",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pia batismal",
+    "views": 63,
+    "vpt": 63,
+    "ven": 0,
+    "peso": 63.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Trifório",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Trifório",
+    "views": 61,
+    "vpt": 61,
+    "ven": 0,
+    "peso": 61.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Tribuna",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tribuna",
+    "views": 52,
+    "vpt": 52,
+    "ven": 0,
+    "peso": 52.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-042": {
+  "pergunta": "Um tipo de escada",
+  "linhas": [
+   {
+    "nome": "Escada de Jacó",
+    "grafias": [
+     "Escada de Jacob",
+     "Escadas de Jacó"
+    ],
+    "lang": "pt",
+    "titulo": "Escadas de Jacó",
+    "views": 450,
+    "vpt": 450,
+    "ven": 0,
+    "peso": 450.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Escada helicoidal",
+    "grafias": [
+     "Stairs"
+    ],
+    "lang": "en",
+    "titulo": "Stairs",
+    "views": 3922,
+    "vpt": 0,
+    "ven": 3922,
+    "peso": 196.10000000000002,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Escadaria",
+    "grafias": [
+     "escada"
+    ],
+    "lang": "pt",
+    "titulo": "escada",
+    "views": 186,
+    "vpt": 186,
+    "ven": 0,
+    "peso": 186.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Escada rolante",
+    "grafias": [
+     "Rolante"
+    ],
+    "lang": "pt",
+    "titulo": "Escada rolante",
+    "views": 133,
+    "vpt": 133,
+    "ven": 0,
+    "peso": 133.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Escada do Vaticano",
+    "grafias": [
+     "Escada de Bramante",
+     "Bramante Staircase"
+    ],
+    "lang": "en",
+    "titulo": "Bramante Staircase",
+    "views": 2603,
+    "vpt": 0,
+    "ven": 2603,
+    "peso": 130.15,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Escada Penrose",
+    "grafias": [
+     "Penrose",
+     "Escada impossível",
+     "Escada de Penrose"
+    ],
+    "lang": "pt",
+    "titulo": "Escada de Penrose",
+    "views": 127,
+    "vpt": 127,
+    "ven": 0,
+    "peso": 127.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Rampa",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Rampa",
+    "views": 47,
+    "vpt": 47,
+    "ven": 0,
+    "peso": 47.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Escada de mão",
+    "grafias": [
+     "Escada portátil"
+    ],
+    "lang": "pt",
+    "titulo": "Escada de mão",
+    "views": 32,
+    "vpt": 32,
+    "ven": 0,
+    "peso": 32.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Escada imperial",
+    "grafias": [
+     "Imperial",
+     "Imperial staircase"
+    ],
+    "lang": "en",
+    "titulo": "Imperial staircase",
+    "views": 582,
+    "vpt": 0,
+    "ven": 582,
+    "peso": 29.1,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-043": {
+  "pergunta": "Um instrumento de desenho",
+  "linhas": [
+   {
+    "nome": "Lápis",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lápis",
+    "views": 484,
+    "vpt": 484,
+    "ven": 0,
+    "peso": 484.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Caneta esferográfica",
+    "grafias": [
+     "Esferográfica",
+     "Bic"
+    ],
+    "lang": "pt",
+    "titulo": "Caneta esferográfica",
+    "views": 397,
+    "vpt": 397,
+    "ven": 0,
+    "peso": 397.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Aquarela",
+    "grafias": [
+     "Aguarela"
+    ],
+    "lang": "pt",
+    "titulo": "Aguarela",
+    "views": 338,
+    "vpt": 338,
+    "ven": 0,
+    "peso": 338.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Régua",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Régua",
+    "views": 316,
+    "vpt": 316,
+    "ven": 0,
+    "peso": 316.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Compasso",
+    "grafias": [
+     "Compasso"
+    ],
+    "lang": "pt",
+    "titulo": "Compasso (geometria)",
+    "views": 232,
+    "vpt": 232,
+    "ven": 0,
+    "peso": 232.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Transferidor",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Transferidor",
+    "views": 220,
+    "vpt": 220,
+    "ven": 0,
+    "peso": 220.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pastel",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Pastel",
+    "views": 4353,
+    "vpt": 0,
+    "ven": 4353,
+    "peso": 217.65,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Bico de pena",
+    "grafias": [
+     "Pena",
+     "Caneta tinteiro"
+    ],
+    "lang": "pt",
+    "titulo": "Bico de pena",
+    "views": 180,
+    "vpt": 180,
+    "ven": 0,
+    "peso": 180.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Papel manteiga",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Papel manteiga",
+    "views": 177,
+    "vpt": 177,
+    "ven": 0,
+    "peso": 177.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Esquadro",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Esquadro",
+    "views": 159,
+    "vpt": 159,
+    "ven": 0,
+    "peso": 159.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lapiseira",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lapiseira",
+    "views": 126,
+    "vpt": 126,
+    "ven": 0,
+    "peso": 126.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Papel vegetal",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Papel vegetal",
+    "views": 114,
+    "vpt": 114,
+    "ven": 0,
+    "peso": 114.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pincel",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pincel",
+    "views": 111,
+    "vpt": 111,
+    "ven": 0,
+    "peso": 111.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Lápis de cor",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lápis de cor",
+    "views": 107,
+    "vpt": 107,
+    "ven": 0,
+    "peso": 107.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Prancheta",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Prancheta",
+    "views": 102,
+    "vpt": 102,
+    "ven": 0,
+    "peso": 102.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pantógrafo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pantógrafo",
+    "views": 95,
+    "vpt": 95,
+    "ven": 0,
+    "peso": 95.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Mesa digitalizadora",
+    "grafias": [
+     "Tablet"
+    ],
+    "lang": "pt",
+    "titulo": "Mesa digitalizadora",
+    "views": 82,
+    "vpt": 82,
+    "ven": 0,
+    "peso": 82.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Escalímetro",
+    "grafias": [
+     "Escala"
+    ],
+    "lang": "pt",
+    "titulo": "Escalímetro",
+    "views": 69,
+    "vpt": 69,
+    "ven": 0,
+    "peso": 69.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Sanguínea",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sanguínea",
+    "views": 68,
+    "vpt": 68,
+    "ven": 0,
+    "peso": 68.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Normógrafo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Normógrafo",
+    "views": 47,
+    "vpt": 47,
+    "ven": 0,
+    "peso": 47.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Tira-linhas",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tira-linhas",
+    "views": 41,
+    "vpt": 41,
+    "ven": 0,
+    "peso": 41.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Esfuminho",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Esfuminho",
+    "views": 35,
+    "vpt": 35,
+    "ven": 0,
+    "peso": 35.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Mesa de luz",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mesa de luz",
+    "views": 18,
+    "vpt": 18,
+    "ven": 0,
+    "peso": 18.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Curva francesa",
+    "grafias": [
+     "Pistola"
+    ],
+    "lang": "pt",
+    "titulo": "Curva francesa",
+    "views": 17,
+    "vpt": 17,
+    "ven": 0,
+    "peso": 17.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Régua paralela",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Régua paralela",
+    "views": 12,
+    "vpt": 12,
+    "ven": 0,
+    "peso": 12.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-044": {
+  "pergunta": "Um software usado por arquitetos",
+  "linhas": [
+   {
+    "nome": "Canva",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Canva",
+    "views": 10219,
+    "vpt": 10219,
+    "ven": 0,
+    "peso": 10219.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Microsoft Excel",
+    "grafias": [
+     "Excel"
+    ],
+    "lang": "pt",
+    "titulo": "Microsoft Excel",
+    "views": 10098,
+    "vpt": 10098,
+    "ven": 0,
+    "peso": 10098.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Google Earth",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Google Earth",
+    "views": 3843,
+    "vpt": 3843,
+    "ven": 0,
+    "peso": 3843.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Twinmotion",
+    "grafias": [
+     "Epic Games"
+    ],
+    "lang": "en",
+    "titulo": "Epic Games",
+    "views": 52824,
+    "vpt": 0,
+    "ven": 52824,
+    "peso": 2641.2000000000003,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Adobe Photoshop",
+    "grafias": [
+     "Photoshop"
+    ],
+    "lang": "pt",
+    "titulo": "Adobe Photoshop",
+    "views": 928,
+    "vpt": 928,
+    "ven": 0,
+    "peso": 928.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Blender",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Blender",
+    "views": 903,
+    "vpt": 903,
+    "ven": 0,
+    "peso": 903.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "PowerPoint",
+    "grafias": [
+     "PowerPoint",
+     "Microsoft PowerPoint"
+    ],
+    "lang": "pt",
+    "titulo": "Microsoft PowerPoint",
+    "views": 715,
+    "vpt": 715,
+    "ven": 0,
+    "peso": 715.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "AutoCAD",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "AutoCAD",
+    "views": 588,
+    "vpt": 588,
+    "ven": 0,
+    "peso": 588.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Procreate",
+    "grafias": [
+     "Reproduction"
+    ],
+    "lang": "en",
+    "titulo": "Reproduction",
+    "views": 10690,
+    "vpt": 0,
+    "ven": 10690,
+    "peso": 534.5,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Unreal Engine",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Unreal Engine",
+    "views": 391,
+    "vpt": 391,
+    "ven": 0,
+    "peso": 391.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "QGIS",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "QGIS",
+    "views": 385,
+    "vpt": 385,
+    "ven": 0,
+    "peso": 385.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "SketchUp",
+    "grafias": [
+     "Sketchup"
+    ],
+    "lang": "pt",
+    "titulo": "SketchUp",
+    "views": 338,
+    "vpt": 338,
+    "ven": 0,
+    "peso": 338.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Midjourney",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Midjourney",
+    "views": 214,
+    "vpt": 214,
+    "ven": 0,
+    "peso": 214.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "CATIA",
+    "grafias": [
+     "Catia"
+    ],
+    "lang": "en",
+    "titulo": "CATIA",
+    "views": 4176,
+    "vpt": 0,
+    "ven": 4176,
+    "peso": 208.8,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Adobe Illustrator",
+    "grafias": [
+     "Illustrator"
+    ],
+    "lang": "pt",
+    "titulo": "Adobe Illustrator",
+    "views": 206,
+    "vpt": 206,
+    "ven": 0,
+    "peso": 206.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Solidworks",
+    "grafias": [
+     "SolidWorks"
+    ],
+    "lang": "pt",
+    "titulo": "SolidWorks",
+    "views": 202,
+    "vpt": 202,
+    "ven": 0,
+    "peso": 202.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Figma",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Figma",
+    "views": 176,
+    "vpt": 176,
+    "ven": 0,
+    "peso": 176.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Affinity Designer",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Affinity Designer",
+    "views": 3294,
+    "vpt": 0,
+    "ven": 3294,
+    "peso": 164.70000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Fusion 360",
+    "grafias": [
+     "Autodesk Fusion"
+    ],
+    "lang": "en",
+    "titulo": "Autodesk Fusion",
+    "views": 3042,
+    "vpt": 0,
+    "ven": 3042,
+    "peso": 152.1,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Revit",
+    "grafias": [
+     "Autodesk Revit"
+    ],
+    "lang": "pt",
+    "titulo": "Revit",
+    "views": 146,
+    "vpt": 146,
+    "ven": 0,
+    "peso": 146.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "3ds Max",
+    "grafias": [
+     "3D Studio Max",
+     "Max"
+    ],
+    "lang": "pt",
+    "titulo": "3ds Max",
+    "views": 119,
+    "vpt": 119,
+    "ven": 0,
+    "peso": 119.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Autodesk Maya",
+    "grafias": [
+     "Maya"
+    ],
+    "lang": "pt",
+    "titulo": "Autodesk Maya",
+    "views": 109,
+    "vpt": 109,
+    "ven": 0,
+    "peso": 109.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Rhinoceros 3D",
+    "grafias": [
+     "Rhino",
+     "Rhinoceros"
+    ],
+    "lang": "pt",
+    "titulo": "Rhinoceros 3D",
+    "views": 101,
+    "vpt": 101,
+    "ven": 0,
+    "peso": 101.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cinema 4D",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cinema 4D",
+    "views": 97,
+    "vpt": 97,
+    "ven": 0,
+    "peso": 97.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "ArchiCAD",
+    "grafias": [
+     "Archicad"
+    ],
+    "lang": "pt",
+    "titulo": "Archicad",
+    "views": 77,
+    "vpt": 77,
+    "ven": 0,
+    "peso": 77.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "BricsCAD",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "BricsCAD",
+    "views": 1465,
+    "vpt": 0,
+    "ven": 1465,
+    "peso": 73.25,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Adobe InDesign",
+    "grafias": [
+     "InDesign"
+    ],
+    "lang": "pt",
+    "titulo": "Adobe InDesign",
+    "views": 44,
+    "vpt": 44,
+    "ven": 0,
+    "peso": 44.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "ArcGIS",
+    "grafias": [
+     "ESRI"
+    ],
+    "lang": "pt",
+    "titulo": "ESRI",
+    "views": 40,
+    "vpt": 40,
+    "ven": 0,
+    "peso": 40.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Navisworks",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Navisworks",
+    "views": 617,
+    "vpt": 0,
+    "ven": 617,
+    "peso": 30.85,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Tekla Structures",
+    "grafias": [
+     "Tekla"
+    ],
+    "lang": "en",
+    "titulo": "Tekla Structures",
+    "views": 600,
+    "vpt": 0,
+    "ven": 600,
+    "peso": 30.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Vectorworks",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Vectorworks",
+    "views": 524,
+    "vpt": 0,
+    "ven": 524,
+    "peso": 26.200000000000003,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Enscape",
+    "grafias": [
+     "Enscape"
+    ],
+    "lang": "en",
+    "titulo": "Enscape",
+    "views": 361,
+    "vpt": 0,
+    "ven": 361,
+    "peso": 18.05,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Grasshopper",
+    "grafias": [
+     "Grasshopper",
+     "Grasshopper 3D"
+    ],
+    "lang": "pt",
+    "titulo": "Grasshopper 3D",
+    "views": 16,
+    "vpt": 16,
+    "ven": 0,
+    "peso": 16.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "V-Ray",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "V-Ray",
+    "views": 16,
+    "vpt": 16,
+    "ven": 0,
+    "peso": 16.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "MicroStation",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "MicroStation",
+    "views": 16,
+    "vpt": 16,
+    "ven": 0,
+    "peso": 16.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Chief Architect",
+    "grafias": [
+     "Chief Architect Software"
+    ],
+    "lang": "en",
+    "titulo": "Chief Architect Software",
+    "views": 269,
+    "vpt": 0,
+    "ven": 269,
+    "peso": 13.450000000000001,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "EnergyPlus",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "EnergyPlus",
+    "views": 162,
+    "vpt": 0,
+    "ven": 162,
+    "peso": 8.1,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Corona Renderer",
+    "grafias": [
+     "Corona",
+     "Chaos Corona"
+    ],
+    "lang": "en",
+    "titulo": "Chaos Corona",
+    "views": 150,
+    "vpt": 0,
+    "ven": 150,
+    "peso": 7.5,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-045": {
+  "pergunta": "Um tipo de janela",
+  "linhas": [
+   {
+    "nome": "Vitral",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vitral",
+    "views": 705,
+    "vpt": 705,
+    "ven": 0,
+    "peso": 705.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Janela panorâmica",
+    "grafias": [
+     "Panorâmica",
+     "Window"
+    ],
+    "lang": "en",
+    "titulo": "Window",
+    "views": 7961,
+    "vpt": 0,
+    "ven": 7961,
+    "peso": 398.05,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Muxarabi",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Muxarabi",
+    "views": 300,
+    "vpt": 300,
+    "ven": 0,
+    "peso": 300.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Claraboia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Claraboia",
+    "views": 293,
+    "vpt": 293,
+    "ven": 0,
+    "peso": 293.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Persiana",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Persiana",
+    "views": 170,
+    "vpt": 170,
+    "ven": 0,
+    "peso": 170.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Janela geminada",
+    "grafias": [
+     "Janela geminada",
+     "Mainel",
+     "Mullion"
+    ],
+    "lang": "en",
+    "titulo": "Mullion",
+    "views": 2928,
+    "vpt": 0,
+    "ven": 2928,
+    "peso": 146.4,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Gelosia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Gelosia",
+    "views": 138,
+    "vpt": 138,
+    "ven": 0,
+    "peso": 138.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Água-furtada",
+    "grafias": [
+     "Mansarda",
+     "Lucarna"
+    ],
+    "lang": "pt",
+    "titulo": "Água-furtada",
+    "views": 137,
+    "vpt": 137,
+    "ven": 0,
+    "peso": 137.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Clerestório",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Clerestório",
+    "views": 113,
+    "vpt": 113,
+    "ven": 0,
+    "peso": 113.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Veneziana",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Veneziana",
+    "views": 103,
+    "vpt": 103,
+    "ven": 0,
+    "peso": 103.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Óculo de boi",
+    "grafias": [
+     "Olho de boi",
+     "Oeil-de-boeuf",
+     "Oculus"
+    ],
+    "lang": "en",
+    "titulo": "Oculus (architecture)",
+    "views": 2014,
+    "vpt": 0,
+    "ven": 2014,
+    "peso": 100.7,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ogival",
+    "grafias": [
+     "Janela ogival",
+     "Ogiva",
+     "Arco quebrado"
+    ],
+    "lang": "pt",
+    "titulo": "Arco quebrado",
+    "views": 88,
+    "vpt": 88,
+    "ven": 0,
+    "peso": 88.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Seteira",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Seteira",
+    "views": 82,
+    "vpt": 82,
+    "ven": 0,
+    "peso": 82.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Bay window",
+    "grafias": [
+     "Bow window"
+    ],
+    "lang": "pt",
+    "titulo": "Bay window",
+    "views": 72,
+    "vpt": 72,
+    "ven": 0,
+    "peso": 72.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Óculo",
+    "grafias": [
+     "Óculo"
+    ],
+    "lang": "pt",
+    "titulo": "óculo",
+    "views": 71,
+    "vpt": 71,
+    "ven": 0,
+    "peso": 71.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lucarna",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lucarna",
+    "views": 62,
+    "vpt": 62,
+    "ven": 0,
+    "peso": 62.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Lancet",
+    "grafias": [
+     "Janela lanceta",
+     "Lancet window"
+    ],
+    "lang": "en",
+    "titulo": "Lancet window",
+    "views": 1106,
+    "vpt": 0,
+    "ven": 1106,
+    "peso": 55.300000000000004,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Janela de sacada",
+    "grafias": [
+     "Sacada",
+     "Varanda"
+    ],
+    "lang": "pt",
+    "titulo": "Varanda (arquitetura)",
+    "views": 49,
+    "vpt": 49,
+    "ven": 0,
+    "peso": 49.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Janela em fita",
+    "grafias": [
+     "Janelas em fita"
+    ],
+    "lang": "pt",
+    "titulo": "Janelas em fita",
+    "views": 35,
+    "vpt": 35,
+    "ven": 0,
+    "peso": 35.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Janela Chicago",
+    "grafias": [
+     "Janela de Chicago",
+     "Chicago window"
+    ],
+    "lang": "en",
+    "titulo": "Chicago window",
+    "views": 451,
+    "vpt": 0,
+    "ven": 451,
+    "peso": 22.55,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Janela termal",
+    "grafias": [
+     "Janela termal",
+     "Janela diocleciana",
+     "Diocletian window"
+    ],
+    "lang": "en",
+    "titulo": "Diocletian window",
+    "views": 365,
+    "vpt": 0,
+    "ven": 365,
+    "peso": 18.25,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ajimez",
+    "grafias": [
+     "Ajimez",
+     "bifora"
+    ],
+    "lang": "en",
+    "titulo": "bifora (architecture)",
+    "views": 248,
+    "vpt": 0,
+    "ven": 248,
+    "peso": 12.4,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Serliana",
+    "grafias": [
+     "Janela palladiana",
+     "Janela serliana",
+     "Serliano"
+    ],
+    "lang": "pt",
+    "titulo": "Serliano",
+    "views": 9,
+    "vpt": 9,
+    "ven": 0,
+    "peso": 9.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-046": {
+  "pergunta": "Uma pintura famosa",
+  "linhas": [
+   {
+    "nome": "A Noite Estrelada",
+    "grafias": [
+     "Noite Estrelada",
+     "The Starry Night"
+    ],
+    "lang": "pt",
+    "titulo": "A Noite Estrelada",
+    "views": 13617,
+    "vpt": 13617,
+    "ven": 0,
+    "peso": 13617.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Mona Lisa",
+    "grafias": [
+     "Gioconda",
+     "La Gioconda"
+    ],
+    "lang": "pt",
+    "titulo": "Mona Lisa",
+    "views": 12518,
+    "vpt": 12518,
+    "ven": 0,
+    "peso": 12518.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Abaporu",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Abaporu",
+    "views": 11987,
+    "vpt": 11987,
+    "ven": 0,
+    "peso": 11987.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "O Grito",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "O Grito",
+    "views": 5623,
+    "vpt": 5623,
+    "ven": 0,
+    "peso": 5623.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Independência ou Morte (pintura)",
+    "grafias": [
+     "Independência ou Morte",
+     "O Grito do Ipiranga"
+    ],
+    "lang": "pt",
+    "titulo": "Independência ou Morte (Pedro Américo)",
+    "views": 4146,
+    "vpt": 4146,
+    "ven": 0,
+    "peso": 4146.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "A Escola de Atenas",
+    "grafias": [
+     "Escola de Atenas"
+    ],
+    "lang": "pt",
+    "titulo": "Escola de Atenas",
+    "views": 3956,
+    "vpt": 3956,
+    "ven": 0,
+    "peso": 3956.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "O Nascimento de Vênus",
+    "grafias": [
+     "Nascimento de Vênus"
+    ],
+    "lang": "pt",
+    "titulo": "O Nascimento de Vênus",
+    "views": 3668,
+    "vpt": 3668,
+    "ven": 0,
+    "peso": 3668.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "A Criação de Adão",
+    "grafias": [
+     "Criação de Adão"
+    ],
+    "lang": "pt",
+    "titulo": "A Criação de Adão",
+    "views": 3516,
+    "vpt": 3516,
+    "ven": 0,
+    "peso": 3516.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "A Liberdade Guiando o Povo",
+    "grafias": [
+     "Liberdade Guiando o Povo"
+    ],
+    "lang": "pt",
+    "titulo": "A Liberdade guiando o povo",
+    "views": 3381,
+    "vpt": 3381,
+    "ven": 0,
+    "peso": 3381.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Moça com Brinco de Pérola",
+    "grafias": [
+     "Garota com Brinco de Pérola",
+     "Moça com o Brinco de Pérola",
+     "Meisje met de parel"
+    ],
+    "lang": "pt",
+    "titulo": "Meisje met de parel",
+    "views": 3244,
+    "vpt": 3244,
+    "ven": 0,
+    "peso": 3244.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "O Jardim das Delícias Terrenas",
+    "grafias": [
+     "Jardim das Delícias"
+    ],
+    "lang": "pt",
+    "titulo": "O Jardim das Delícias Terrenas",
+    "views": 3234,
+    "vpt": 3234,
+    "ven": 0,
+    "peso": 3234.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "A Persistência da Memória",
+    "grafias": [
+     "Persistência da Memória",
+     "Relógios derretidos"
+    ],
+    "lang": "pt",
+    "titulo": "A Persistência da Memória",
+    "views": 2674,
+    "vpt": 2674,
+    "ven": 0,
+    "peso": 2674.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "A Grande Onda de Kanagawa",
+    "grafias": [
+     "Grande Onda",
+     "A Onda"
+    ],
+    "lang": "pt",
+    "titulo": "A Grande Onda de Kanagawa",
+    "views": 2464,
+    "vpt": 2464,
+    "ven": 0,
+    "peso": 2464.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Primeira Missa no Brasil",
+    "grafias": [
+     "A Primeira Missa no Brasil"
+    ],
+    "lang": "pt",
+    "titulo": "Primeira Missa no Brasil (Victor Meirelles)",
+    "views": 1324,
+    "vpt": 1324,
+    "ven": 0,
+    "peso": 1324.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Quarto em Arles",
+    "grafias": [
+     "O Quarto"
+    ],
+    "lang": "pt",
+    "titulo": "Quarto em Arles",
+    "views": 1314,
+    "vpt": 1314,
+    "ven": 0,
+    "peso": 1314.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "A Última Ceia",
+    "grafias": [
+     "Última Ceia",
+     "Santa Ceia"
+    ],
+    "lang": "pt",
+    "titulo": "Última Ceia",
+    "views": 1249,
+    "vpt": 1249,
+    "ven": 0,
+    "peso": 1249.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Les Demoiselles d'Avignon",
+    "grafias": [
+     "As Senhoritas de Avignon"
+    ],
+    "lang": "pt",
+    "titulo": "Les demoiselles d'Avignon",
+    "views": 1168,
+    "vpt": 1168,
+    "ven": 0,
+    "peso": 1168.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "A Primavera (Botticelli)",
+    "grafias": [
+     "Primavera",
+     "A Primavera"
+    ],
+    "lang": "pt",
+    "titulo": "A Primavera (Botticelli)",
+    "views": 1145,
+    "vpt": 1145,
+    "ven": 0,
+    "peso": 1145.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "A Balsa da Medusa",
+    "grafias": [
+     "Jangada da Medusa"
+    ],
+    "lang": "pt",
+    "titulo": "A Balsa da Medusa",
+    "views": 1135,
+    "vpt": 1135,
+    "ven": 0,
+    "peso": 1135.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "O Casal Arnolfini",
+    "grafias": [
+     "Retrato de Giovanni Arnolfini e sua esposa"
+    ],
+    "lang": "pt",
+    "titulo": "O Casal Arnolfini",
+    "views": 1029,
+    "vpt": 1029,
+    "ven": 0,
+    "peso": 1029.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "A Ronda Noturna",
+    "grafias": [
+     "Ronda Noturna"
+    ],
+    "lang": "pt",
+    "titulo": "A Ronda Noturna",
+    "views": 966,
+    "vpt": 966,
+    "ven": 0,
+    "peso": 966.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Uma Tarde de Domingo na Ilha de Grande Jatte",
+    "grafias": [
+     "Grande Jatte",
+     "Tarde de Domingo"
+    ],
+    "lang": "pt",
+    "titulo": "Uma Tarde de Domingo na Ilha de Grande Jatte",
+    "views": 720,
+    "vpt": 720,
+    "ven": 0,
+    "peso": 720.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "O Lavrador de Café",
+    "grafias": [
+     "Lavrador de Café"
+    ],
+    "lang": "pt",
+    "titulo": "O Lavrador de Café",
+    "views": 595,
+    "vpt": 595,
+    "ven": 0,
+    "peso": 595.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Tiradentes Esquartejado",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tiradentes Esquartejado",
+    "views": 564,
+    "vpt": 564,
+    "ven": 0,
+    "peso": 564.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Terraço do Café à Noite",
+    "grafias": [
+     "Terraço do café"
+    ],
+    "lang": "pt",
+    "titulo": "Terraço do Café à Noite",
+    "views": 523,
+    "vpt": 523,
+    "ven": 0,
+    "peso": 523.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Os Comedores de Batata",
+    "grafias": [
+     "Comedores de Batata"
+    ],
+    "lang": "pt",
+    "titulo": "Os Comedores de Batata",
+    "views": 498,
+    "vpt": 498,
+    "ven": 0,
+    "peso": 498.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "A Traição das Imagens",
+    "grafias": [
+     "Isto não é um cachimbo",
+     "Ceci n'est pas une pipe"
+    ],
+    "lang": "pt",
+    "titulo": "A Traição das Imagens",
+    "views": 495,
+    "vpt": 495,
+    "ven": 0,
+    "peso": 495.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "O Filho do Homem",
+    "grafias": [
+     "Filho do Homem"
+    ],
+    "lang": "pt",
+    "titulo": "O Filho do Homem",
+    "views": 482,
+    "vpt": 482,
+    "ven": 0,
+    "peso": 482.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Retrato de Adele Bloch-Bauer I",
+    "grafias": [
+     "Adele Bloch-Bauer",
+     "Dama Dourada"
+    ],
+    "lang": "pt",
+    "titulo": "Retrato de Adele Bloch-Bauer I",
+    "views": 458,
+    "vpt": 458,
+    "ven": 0,
+    "peso": 458.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Guernica",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Guernica",
+    "views": 9059,
+    "vpt": 0,
+    "ven": 9059,
+    "peso": 452.95000000000005,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "American Gothic",
+    "grafias": [
+     "Gótico Americano"
+    ],
+    "lang": "pt",
+    "titulo": "American Gothic",
+    "views": 443,
+    "vpt": 443,
+    "ven": 0,
+    "peso": 443.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Latas de Sopa Campbell",
+    "grafias": [
+     "Campbell's Soup Cans",
+     "Sopa Campbell"
+    ],
+    "lang": "pt",
+    "titulo": "Latas de Sopa Campbell",
+    "views": 392,
+    "vpt": 392,
+    "ven": 0,
+    "peso": 392.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Vênus de Urbino",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vênus de Urbino",
+    "views": 392,
+    "vpt": 392,
+    "ven": 0,
+    "peso": 392.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Composição com Vermelho, Amarelo e Azul",
+    "grafias": [
+     "Composição em vermelho, amarelo e azul",
+     "Composition with Red, Blue and Yellow"
+    ],
+    "lang": "en",
+    "titulo": "Composition with Red, Blue and Yellow",
+    "views": 6913,
+    "vpt": 0,
+    "ven": 6913,
+    "peso": 345.65000000000003,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Lírios (Van Gogh)",
+    "grafias": [
+     "Íris",
+     "Lírios",
+     "Irises"
+    ],
+    "lang": "en",
+    "titulo": "Irises (painting)",
+    "views": 6829,
+    "vpt": 0,
+    "ven": 6829,
+    "peso": 341.45000000000005,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Batalha do Avaí",
+    "grafias": [
+     "Batalha de Avaí"
+    ],
+    "lang": "pt",
+    "titulo": "Batalha de Avaí",
+    "views": 340,
+    "vpt": 340,
+    "ven": 0,
+    "peso": 340.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "A Carroça de Feno",
+    "grafias": [
+     "The Hay Wain"
+    ],
+    "lang": "en",
+    "titulo": "The Hay Wain",
+    "views": 6723,
+    "vpt": 0,
+    "ven": 6723,
+    "peso": 336.15000000000003,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Bal du moulin de la Galette",
+    "grafias": [
+     "Baile no Moulin de la Galette"
+    ],
+    "lang": "en",
+    "titulo": "Bal du moulin de la Galette",
+    "views": 6144,
+    "vpt": 0,
+    "ven": 6144,
+    "peso": 307.20000000000005,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-047": {
+  "pergunta": "Uma obra de arte brasileira famosa",
+  "linhas": [
+   {
+    "nome": "Abaporu",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Abaporu",
+    "views": 11987,
+    "vpt": 11987,
+    "ven": 0,
+    "peso": 11987.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Cristo Redentor",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cristo Redentor",
+    "views": 8542,
+    "vpt": 8542,
+    "ven": 0,
+    "peso": 8542.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Independência ou Morte (pintura)",
+    "grafias": [
+     "Independência ou Morte",
+     "O Grito do Ipiranga"
+    ],
+    "lang": "pt",
+    "titulo": "Independência ou Morte (Pedro Américo)",
+    "views": 4146,
+    "vpt": 4146,
+    "ven": 0,
+    "peso": 4146.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Monumento às Bandeiras",
+    "grafias": [
+     "Empurra-empurra",
+     "Deixa que eu empurro"
+    ],
+    "lang": "pt",
+    "titulo": "Monumento às Bandeiras",
+    "views": 1693,
+    "vpt": 1693,
+    "ven": 0,
+    "peso": 1693.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Primeira Missa no Brasil",
+    "grafias": [
+     "A Primeira Missa no Brasil"
+    ],
+    "lang": "pt",
+    "titulo": "Primeira Missa no Brasil (Victor Meirelles)",
+    "views": 1324,
+    "vpt": 1324,
+    "ven": 0,
+    "peso": 1324.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "O Lavrador de Café",
+    "grafias": [
+     "Lavrador de Café"
+    ],
+    "lang": "pt",
+    "titulo": "O Lavrador de Café",
+    "views": 595,
+    "vpt": 595,
+    "ven": 0,
+    "peso": 595.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Tiradentes Esquartejado",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tiradentes Esquartejado",
+    "views": 564,
+    "vpt": 564,
+    "ven": 0,
+    "peso": 564.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Os Guerreiros",
+    "grafias": [
+     "Os Candangos",
+     "Os Guerreiros"
+    ],
+    "lang": "pt",
+    "titulo": "Os Candangos",
+    "views": 485,
+    "vpt": 485,
+    "ven": 0,
+    "peso": 485.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Batalha do Avaí",
+    "grafias": [
+     "Batalha de Avaí"
+    ],
+    "lang": "pt",
+    "titulo": "Batalha de Avaí",
+    "views": 340,
+    "vpt": 340,
+    "ven": 0,
+    "peso": 340.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Moema (pintura)",
+    "grafias": [
+     "Moema"
+    ],
+    "lang": "pt",
+    "titulo": "Moema (Victor Meirelles)",
+    "views": 290,
+    "vpt": 290,
+    "ven": 0,
+    "peso": 290.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Cinco Moças de Guaratinguetá",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Cinco Moças de Guaratinguetá",
+    "views": 196,
+    "vpt": 196,
+    "ven": 0,
+    "peso": 196.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "O Violeiro",
+    "grafias": [
+     "Urias Magalhães"
+    ],
+    "lang": "pt",
+    "titulo": "Urias Magalhães",
+    "views": 105,
+    "vpt": 105,
+    "ven": 0,
+    "peso": 105.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "A Cuca (Tarsila do Amaral)",
+    "grafias": [
+     "A Cuca"
+    ],
+    "lang": "en",
+    "titulo": "A Cuca",
+    "views": 200,
+    "vpt": 0,
+    "ven": 200,
+    "peso": 10.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-049": {
+  "pergunta": "Uma cor com nome próprio",
+  "linhas": [
+   {
+    "nome": "Lápis-lazúli",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Lápis-lazúli",
+    "views": 1328,
+    "vpt": 1328,
+    "ven": 0,
+    "peso": 1328.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Verde esmeralda",
+    "grafias": [
+     "Esmeralda",
+     "Shades of green"
+    ],
+    "lang": "en",
+    "titulo": "Shades of green",
+    "views": 24855,
+    "vpt": 0,
+    "ven": 24855,
+    "peso": 1242.75,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Magenta",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Magenta",
+    "views": 1119,
+    "vpt": 1119,
+    "ven": 0,
+    "peso": 1119.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Púrpura de Tiro",
+    "grafias": [
+     "Tyrian purple"
+    ],
+    "lang": "en",
+    "titulo": "Tyrian purple",
+    "views": 18924,
+    "vpt": 0,
+    "ven": 18924,
+    "peso": 946.2,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Rosa choque",
+    "grafias": [
+     "Rosa Schiaparelli",
+     "Shocking pink",
+     "Shades of pink"
+    ],
+    "lang": "en",
+    "titulo": "Shades of pink",
+    "views": 18561,
+    "vpt": 0,
+    "ven": 18561,
+    "peso": 928.0500000000001,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Vermelho chinês",
+    "grafias": [
+     "Vermelhão",
+     "Vermilion"
+    ],
+    "lang": "en",
+    "titulo": "Vermilion",
+    "views": 16980,
+    "vpt": 0,
+    "ven": 16980,
+    "peso": 849.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Azul Klein",
+    "grafias": [
+     "International Klein Blue",
+     "IKB",
+     "Azul Yves Klein"
+    ],
+    "lang": "en",
+    "titulo": "International Klein Blue",
+    "views": 14210,
+    "vpt": 0,
+    "ven": 14210,
+    "peso": 710.5,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Verde-oliva",
+    "grafias": [
+     "Oliva"
+    ],
+    "lang": "pt",
+    "titulo": "Verde-oliva",
+    "views": 694,
+    "vpt": 694,
+    "ven": 0,
+    "peso": 694.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Bordô",
+    "grafias": [
+     "Bordeaux",
+     "Borgonha"
+    ],
+    "lang": "pt",
+    "titulo": "Bordô",
+    "views": 463,
+    "vpt": 463,
+    "ven": 0,
+    "peso": 463.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Turquesa",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Turquesa",
+    "views": 358,
+    "vpt": 358,
+    "ven": 0,
+    "peso": 358.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Azul da Prússia",
+    "grafias": [
+     "Azul prussiano"
+    ],
+    "lang": "pt",
+    "titulo": "Azul da prússia",
+    "views": 307,
+    "vpt": 307,
+    "ven": 0,
+    "peso": 307.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Verde Scheele",
+    "grafias": [
+     "Scheele",
+     "Scheele's green"
+    ],
+    "lang": "en",
+    "titulo": "Scheele's green",
+    "views": 5777,
+    "vpt": 0,
+    "ven": 5777,
+    "peso": 288.85,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Ocre",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ocre",
+    "views": 243,
+    "vpt": 243,
+    "ven": 0,
+    "peso": 243.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Fúcsia",
+    "grafias": [
+     "Fucsia",
+     "Fuchsia"
+    ],
+    "lang": "pt",
+    "titulo": "Fuchsia",
+    "views": 231,
+    "vpt": 231,
+    "ven": 0,
+    "peso": 231.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Azul Egípcio",
+    "grafias": [
+     "Egyptian blue"
+    ],
+    "lang": "en",
+    "titulo": "Egyptian blue",
+    "views": 3936,
+    "vpt": 0,
+    "ven": 3936,
+    "peso": 196.8,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Verde Paris",
+    "grafias": [
+     "Paris green"
+    ],
+    "lang": "en",
+    "titulo": "Paris green",
+    "views": 3742,
+    "vpt": 0,
+    "ven": 3742,
+    "peso": 187.10000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Verde Veronese",
+    "grafias": [
+     "Viridian"
+    ],
+    "lang": "en",
+    "titulo": "Viridian",
+    "views": 3382,
+    "vpt": 0,
+    "ven": 3382,
+    "peso": 169.10000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Siena queimada",
+    "grafias": [
+     "Terra de Siena queimada",
+     "Siena",
+     "Sienna"
+    ],
+    "lang": "en",
+    "titulo": "Sienna",
+    "views": 3367,
+    "vpt": 0,
+    "ven": 3367,
+    "peso": 168.35000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Azul Tiffany",
+    "grafias": [
+     "Tiffany Blue"
+    ],
+    "lang": "en",
+    "titulo": "Tiffany Blue",
+    "views": 3295,
+    "vpt": 0,
+    "ven": 3295,
+    "peso": 164.75,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Azul Bondi",
+    "grafias": [
+     "Bondi blue",
+     "Blue-green"
+    ],
+    "lang": "en",
+    "titulo": "Blue-green",
+    "views": 3286,
+    "vpt": 0,
+    "ven": 3286,
+    "peso": 164.3,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Sombra queimada",
+    "grafias": [
+     "Terra de sombra",
+     "Umber"
+    ],
+    "lang": "en",
+    "titulo": "Umber",
+    "views": 3149,
+    "vpt": 0,
+    "ven": 3149,
+    "peso": 157.45000000000002,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Vermelho cádmio",
+    "grafias": [
+     "Cádmio",
+     "Cadmium pigments"
+    ],
+    "lang": "en",
+    "titulo": "Cadmium pigments",
+    "views": 2354,
+    "vpt": 0,
+    "ven": 2354,
+    "peso": 117.7,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Rosso corsa",
+    "grafias": [
+     "Vermelho Ferrari"
+    ],
+    "lang": "en",
+    "titulo": "Rosso corsa",
+    "views": 1977,
+    "vpt": 0,
+    "ven": 1977,
+    "peso": 98.85000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Azul Maia",
+    "grafias": [
+     "Maya blue"
+    ],
+    "lang": "en",
+    "titulo": "Maya blue",
+    "views": 1875,
+    "vpt": 0,
+    "ven": 1875,
+    "peso": 93.75,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Azul cobalto",
+    "grafias": [
+     "Azul-cobalto"
+    ],
+    "lang": "pt",
+    "titulo": "Azul-cobalto",
+    "views": 91,
+    "vpt": 91,
+    "ven": 0,
+    "peso": 91.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Amarelo Indiano",
+    "grafias": [
+     "Indian yellow"
+    ],
+    "lang": "en",
+    "titulo": "Indian yellow",
+    "views": 1213,
+    "vpt": 0,
+    "ven": 1213,
+    "peso": 60.650000000000006,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Amarelo cromo",
+    "grafias": [
+     "Chrome yellow"
+    ],
+    "lang": "en",
+    "titulo": "Chrome yellow",
+    "views": 1168,
+    "vpt": 0,
+    "ven": 1168,
+    "peso": 58.400000000000006,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Cinza de Payne",
+    "grafias": [
+     "Payne's grey",
+     "Payne"
+    ],
+    "lang": "en",
+    "titulo": "Payne's grey",
+    "views": 1117,
+    "vpt": 0,
+    "ven": 1117,
+    "peso": 55.85,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Azul Majorelle",
+    "grafias": [
+     "Majorelle",
+     "Majorelle Blue"
+    ],
+    "lang": "en",
+    "titulo": "Majorelle Blue",
+    "views": 1070,
+    "vpt": 0,
+    "ven": 1070,
+    "peso": 53.5,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Branco de titânio",
+    "grafias": [
+     "Titanium white"
+    ],
+    "lang": "en",
+    "titulo": "Titanium white",
+    "views": 909,
+    "vpt": 0,
+    "ven": 909,
+    "peso": 45.45,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Vermelho veneziano",
+    "grafias": [
+     "Venetian red"
+    ],
+    "lang": "en",
+    "titulo": "Venetian red",
+    "views": 762,
+    "vpt": 0,
+    "ven": 762,
+    "peso": 38.1,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Amarelo de Nápoles",
+    "grafias": [
+     "Naples yellow"
+    ],
+    "lang": "en",
+    "titulo": "Naples yellow",
+    "views": 656,
+    "vpt": 0,
+    "ven": 656,
+    "peso": 32.800000000000004,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Marrom Van Dyke",
+    "grafias": [
+     "Van Dyke brown",
+     "Van Dyke"
+    ],
+    "lang": "en",
+    "titulo": "Van Dyke brown",
+    "views": 601,
+    "vpt": 0,
+    "ven": 601,
+    "peso": 30.05,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Vermelho Turco",
+    "grafias": [
+     "Turkey red"
+    ],
+    "lang": "en",
+    "titulo": "Turkey red",
+    "views": 595,
+    "vpt": 0,
+    "ven": 595,
+    "peso": 29.75,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Azul Yale",
+    "grafias": [
+     "Yale Blue"
+    ],
+    "lang": "en",
+    "titulo": "Yale Blue",
+    "views": 290,
+    "vpt": 0,
+    "ven": 290,
+    "peso": 14.5,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Vermelho pompeiano",
+    "grafias": [
+     "Vermelho Pompeia",
+     "Pompeian red"
+    ],
+    "lang": "en",
+    "titulo": "Pompeian red",
+    "views": 278,
+    "vpt": 0,
+    "ven": 278,
+    "peso": 13.9,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-050": {
+  "pergunta": "Uma técnica de pintura ou de gravura",
+  "linhas": [
+   {
+    "nome": "Xilogravura",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Xilogravura",
+    "views": 1455,
+    "vpt": 1455,
+    "ven": 0,
+    "peso": 1455.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Azulejaria",
+    "grafias": [
+     "Azulejo"
+    ],
+    "lang": "pt",
+    "titulo": "Azulejo",
+    "views": 1068,
+    "vpt": 1068,
+    "ven": 0,
+    "peso": 1068.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Nanquim",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Nanquim",
+    "views": 798,
+    "vpt": 798,
+    "ven": 0,
+    "peso": 798.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Litografia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Litografia",
+    "views": 722,
+    "vpt": 722,
+    "ven": 0,
+    "peso": 722.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Vitral",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Vitral",
+    "views": 705,
+    "vpt": 705,
+    "ven": 0,
+    "peso": 705.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pontilhismo",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Pontilhismo",
+    "views": 624,
+    "vpt": 624,
+    "ven": 0,
+    "peso": 624.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Serigrafia",
+    "grafias": [
+     "Silk screen",
+     "Silkscreen"
+    ],
+    "lang": "pt",
+    "titulo": "Serigrafia",
+    "views": 611,
+    "vpt": 611,
+    "ven": 0,
+    "peso": 611.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Pintura a óleo",
+    "grafias": [
+     "Óleo",
+     "Óleo sobre tela"
+    ],
+    "lang": "pt",
+    "titulo": "Pintura a óleo",
+    "views": 606,
+    "vpt": 606,
+    "ven": 0,
+    "peso": 606.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Afresco",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Afresco",
+    "views": 603,
+    "vpt": 603,
+    "ven": 0,
+    "peso": 603.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Claro-escuro",
+    "grafias": [
+     "Chiaroscuro"
+    ],
+    "lang": "pt",
+    "titulo": "Chiaroscuro",
+    "views": 515,
+    "vpt": 515,
+    "ven": 0,
+    "peso": 515.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Iluminura",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Iluminura",
+    "views": 449,
+    "vpt": 449,
+    "ven": 0,
+    "peso": 449.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Grafite",
+    "grafias": [
+     "Grafitti",
+     "Graffiti",
+     "Grafito"
+    ],
+    "lang": "pt",
+    "titulo": "Grafito",
+    "views": 440,
+    "vpt": 440,
+    "ven": 0,
+    "peso": 440.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Gravura",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Gravura",
+    "views": 427,
+    "vpt": 427,
+    "ven": 0,
+    "peso": 427.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mosaico",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mosaico",
+    "views": 426,
+    "vpt": 426,
+    "ven": 0,
+    "peso": 426.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Trompe-l'oeil",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Trompe-l'oeil",
+    "views": 389,
+    "vpt": 389,
+    "ven": 0,
+    "peso": 389.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Aquarela",
+    "grafias": [
+     "Aguarela"
+    ],
+    "lang": "pt",
+    "titulo": "Aguarela",
+    "views": 338,
+    "vpt": 338,
+    "ven": 0,
+    "peso": 338.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Água-forte",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Água-forte",
+    "views": 297,
+    "vpt": 297,
+    "ven": 0,
+    "peso": 297.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Buril",
+    "grafias": [
+     "Cinzel"
+    ],
+    "lang": "pt",
+    "titulo": "Cinzel",
+    "views": 276,
+    "vpt": 276,
+    "ven": 0,
+    "peso": 276.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Tinta acrílica",
+    "grafias": [
+     "Acrílica"
+    ],
+    "lang": "pt",
+    "titulo": "Tinta acrílica",
+    "views": 228,
+    "vpt": 228,
+    "ven": 0,
+    "peso": 228.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Pastel",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Pastel",
+    "views": 4353,
+    "vpt": 0,
+    "ven": 4353,
+    "peso": 217.65,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Frottage",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Frottage",
+    "views": 210,
+    "vpt": 210,
+    "ven": 0,
+    "peso": 210.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Estêncil",
+    "grafias": [
+     "Stencil",
+     "Pochoir"
+    ],
+    "lang": "pt",
+    "titulo": "Estêncil",
+    "views": 207,
+    "vpt": 207,
+    "ven": 0,
+    "peso": 207.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Gravura em metal",
+    "grafias": [
+     "Calcografia"
+    ],
+    "lang": "pt",
+    "titulo": "Gravura em metal",
+    "views": 200,
+    "vpt": 200,
+    "ven": 0,
+    "peso": 200.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Colagem",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Colagem",
+    "views": 196,
+    "vpt": 196,
+    "ven": 0,
+    "peso": 196.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Sfumato",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sfumato",
+    "views": 175,
+    "vpt": 175,
+    "ven": 0,
+    "peso": 175.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Cianotipia",
+    "grafias": [
+     "Cianótipo"
+    ],
+    "lang": "pt",
+    "titulo": "Cianótipo",
+    "views": 157,
+    "vpt": 157,
+    "ven": 0,
+    "peso": 157.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Guache",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Guache",
+    "views": 137,
+    "vpt": 137,
+    "ven": 0,
+    "peso": 137.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Marmorização",
+    "grafias": [
+     "Papel marmorizado",
+     "Paper marbling"
+    ],
+    "lang": "en",
+    "titulo": "Paper marbling",
+    "views": 2694,
+    "vpt": 0,
+    "ven": 2694,
+    "peso": 134.70000000000002,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Sumi-e",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Sumi-ê",
+    "views": 110,
+    "vpt": 110,
+    "ven": 0,
+    "peso": 110.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Batik",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Batik",
+    "views": 101,
+    "vpt": 101,
+    "ven": 0,
+    "peso": 101.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Decalcomania",
+    "grafias": [
+     "Decalque"
+    ],
+    "lang": "pt",
+    "titulo": "Decalque",
+    "views": 96,
+    "vpt": 96,
+    "ven": 0,
+    "peso": 96.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Linoleogravura",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Linoleogravura",
+    "views": 80,
+    "vpt": 80,
+    "ven": 0,
+    "peso": 80.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Monotipia",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Monotipia",
+    "views": 79,
+    "vpt": 79,
+    "ven": 0,
+    "peso": 79.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Action painting",
+    "grafias": [
+     "Pintura de ação",
+     "Gestualismo"
+    ],
+    "lang": "pt",
+    "titulo": "Gestualismo (pintura)",
+    "views": 67,
+    "vpt": 67,
+    "ven": 0,
+    "peso": 67.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Aerografia",
+    "grafias": [
+     "Aerógrafo"
+    ],
+    "lang": "pt",
+    "titulo": "Aerografia",
+    "views": 59,
+    "vpt": 59,
+    "ven": 0,
+    "peso": 59.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Encáustica",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Encáustica",
+    "views": 53,
+    "vpt": 53,
+    "ven": 0,
+    "peso": 53.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Impasto",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Impasto",
+    "views": 47,
+    "vpt": 47,
+    "ven": 0,
+    "peso": 47.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Ponta-seca",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Ponta-seca",
+    "views": 43,
+    "vpt": 43,
+    "ven": 0,
+    "peso": 43.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Pintura digital",
+    "grafias": [
+     "Arte digital"
+    ],
+    "lang": "pt",
+    "titulo": "Pintura digital",
+    "views": 43,
+    "vpt": 43,
+    "ven": 0,
+    "peso": 43.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Tachismo",
+    "grafias": [
+     "Tachisme"
+    ],
+    "lang": "pt",
+    "titulo": "Tachismo",
+    "views": 40,
+    "vpt": 40,
+    "ven": 0,
+    "peso": 40.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Grisaille",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Grisaille",
+    "views": 37,
+    "vpt": 37,
+    "ven": 0,
+    "peso": 37.0,
+    "faixa": "Achado"
+   }
+  ]
+ },
+ "ach-048": {
+  "pergunta": "Um museu que guarda uma obra famosa (diga o museu)",
+  "linhas": [
+   {
+    "nome": "Museu de Arte de São Paulo",
+    "grafias": [
+     "MASP"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte de São Paulo",
+    "views": 2491,
+    "vpt": 2491,
+    "ven": 0,
+    "peso": 2491.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Instituto Inhotim",
+    "grafias": [
+     "Inhotim"
+    ],
+    "lang": "pt",
+    "titulo": "Instituto Inhotim",
+    "views": 1922,
+    "vpt": 1922,
+    "ven": 0,
+    "peso": 1922.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Museu do Louvre",
+    "grafias": [
+     "Louvre"
+    ],
+    "lang": "pt",
+    "titulo": "Museu do Louvre",
+    "views": 1778,
+    "vpt": 1778,
+    "ven": 0,
+    "peso": 1778.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Pinacoteca do Estado de São Paulo",
+    "grafias": [
+     "Pinacoteca",
+     "Pinacoteca de São Paulo"
+    ],
+    "lang": "pt",
+    "titulo": "Pinacoteca de São Paulo",
+    "views": 1082,
+    "vpt": 1082,
+    "ven": 0,
+    "peso": 1082.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Museu de Arte Contemporânea de Niterói",
+    "grafias": [
+     "MAC Niterói"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Contemporânea de Niterói",
+    "views": 760,
+    "vpt": 760,
+    "ven": 0,
+    "peso": 760.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Museu do Prado",
+    "grafias": [
+     "Prado"
+    ],
+    "lang": "pt",
+    "titulo": "Museu do Prado",
+    "views": 655,
+    "vpt": 655,
+    "ven": 0,
+    "peso": 655.0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Museu Oscar Niemeyer",
+    "grafias": [
+     "MON"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Oscar Niemeyer",
+    "views": 637,
+    "vpt": 637,
+    "ven": 0,
+    "peso": 637.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu Nacional de Belas Artes (Brasil)",
+    "grafias": [
+     "Museu Nacional de Belas Artes",
+     "MNBA"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Nacional de Belas Artes (Brasil)",
+    "views": 484,
+    "vpt": 484,
+    "ven": 0,
+    "peso": 484.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu Guggenheim de Bilbau",
+    "grafias": [
+     "Guggenheim Bilbao",
+     "Museu Guggenheim Bilbao"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Guggenheim Bilbao",
+    "views": 480,
+    "vpt": 480,
+    "ven": 0,
+    "peso": 480.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Galeria Uffizi",
+    "grafias": [
+     "Uffizi",
+     "Galleria degli Uffizi"
+    ],
+    "lang": "pt",
+    "titulo": "Galleria degli Uffizi",
+    "views": 479,
+    "vpt": 479,
+    "ven": 0,
+    "peso": 479.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Palácio Belvedere",
+    "grafias": [
+     "Belvedere"
+    ],
+    "lang": "pt",
+    "titulo": "Palácio Belvedere",
+    "views": 438,
+    "vpt": 438,
+    "ven": 0,
+    "peso": 438.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "National Gallery",
+    "grafias": [
+     "National Gallery de Londres"
+    ],
+    "lang": "en",
+    "titulo": "National Gallery",
+    "views": 8523,
+    "vpt": 0,
+    "ven": 8523,
+    "peso": 426.15000000000003,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Galeria Nacional de Arte (Washington)",
+    "grafias": [
+     "National Gallery of Art"
+    ],
+    "lang": "en",
+    "titulo": "National Gallery of Art",
+    "views": 8439,
+    "vpt": 0,
+    "ven": 8439,
+    "peso": 421.95000000000005,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu Hermitage",
+    "grafias": [
+     "Hermitage",
+     "Ermitage"
+    ],
+    "lang": "pt",
+    "titulo": "Hermitage",
+    "views": 377,
+    "vpt": 377,
+    "ven": 0,
+    "peso": 377.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu de Orsay",
+    "grafias": [
+     "Orsay",
+     "Musée d'Orsay"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Orsay",
+    "views": 373,
+    "vpt": 373,
+    "ven": 0,
+    "peso": 373.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museus Vaticanos",
+    "grafias": [
+     "Museus do Vaticano"
+    ],
+    "lang": "pt",
+    "titulo": "Museus Vaticanos",
+    "views": 357,
+    "vpt": 357,
+    "ven": 0,
+    "peso": 357.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu Solomon R. Guggenheim",
+    "grafias": [
+     "Guggenheim de Nova York",
+     "Guggenheim"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Solomon R. Guggenheim",
+    "views": 312,
+    "vpt": 312,
+    "ven": 0,
+    "peso": 312.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu de Arte Moderna do Rio de Janeiro",
+    "grafias": [
+     "MAM Rio"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Moderna do Rio de Janeiro",
+    "views": 305,
+    "vpt": 305,
+    "ven": 0,
+    "peso": 305.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu Frida Kahlo",
+    "grafias": [
+     "Casa Azul"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Frida Kahlo",
+    "views": 287,
+    "vpt": 287,
+    "ven": 0,
+    "peso": 287.0,
+    "faixa": "Clássico"
+   },
+   {
+    "nome": "Museu de Arte Moderna de Nova Iorque",
+    "grafias": [
+     "MoMA",
+     "Museu de Arte Moderna"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Moderna (Nova Iorque)",
+    "views": 278,
+    "vpt": 278,
+    "ven": 0,
+    "peso": 278.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu Nacional Centro de Arte Rainha Sofia",
+    "grafias": [
+     "Reina Sofía",
+     "Museo Reina Sofia",
+     "Museu Nacional Centro de Arte Reina Sofia"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Nacional Centro de Arte Reina Sofia",
+    "views": 266,
+    "vpt": 266,
+    "ven": 0,
+    "peso": 266.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu de Arte Moderna de São Paulo",
+    "grafias": [
+     "MAM SP",
+     "MAM"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Moderna de São Paulo",
+    "views": 250,
+    "vpt": 250,
+    "ven": 0,
+    "peso": 250.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Centro Georges Pompidou",
+    "grafias": [
+     "Pompidou",
+     "Beaubourg"
+    ],
+    "lang": "pt",
+    "titulo": "Centro Georges Pompidou",
+    "views": 247,
+    "vpt": 247,
+    "ven": 0,
+    "peso": 247.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Metropolitan Museum of Art",
+    "grafias": [
+     "Met",
+     "Metropolitan",
+     "Museu Metropolitano de Arte"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Metropolitano de Arte",
+    "views": 230,
+    "vpt": 230,
+    "ven": 0,
+    "peso": 230.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Mauritshuis",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Mauritshuis",
+    "views": 213,
+    "vpt": 213,
+    "ven": 0,
+    "peso": 213.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu de Arte Contemporânea da Universidade de São Paulo",
+    "grafias": [
+     "MAC USP"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Contemporânea da Universidade de São Paulo",
+    "views": 210,
+    "vpt": 210,
+    "ven": 0,
+    "peso": 210.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Galeria Borghese",
+    "grafias": [
+     "Borghese",
+     "Galleria Borghese"
+    ],
+    "lang": "pt",
+    "titulo": "Galleria Borghese",
+    "views": 206,
+    "vpt": 206,
+    "ven": 0,
+    "peso": 206.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu Afro Brasil",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Museu Afro Brasil",
+    "views": 195,
+    "vpt": 195,
+    "ven": 0,
+    "peso": 195.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu de Arte do Rio",
+    "grafias": [
+     "MAR"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte do Rio",
+    "views": 192,
+    "vpt": 192,
+    "ven": 0,
+    "peso": 192.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu de Arte Contemporânea de Serralves",
+    "grafias": [
+     "Serralves"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Contemporânea de Serralves",
+    "views": 159,
+    "vpt": 159,
+    "ven": 0,
+    "peso": 159.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu Van Gogh",
+    "grafias": [
+     "Van Gogh Museum"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Van Gogh",
+    "views": 145,
+    "vpt": 145,
+    "ven": 0,
+    "peso": 145.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu de Arte Moderna Louisiana",
+    "grafias": [
+     "Louisiana",
+     "Louisiana Museum of Modern Art"
+    ],
+    "lang": "en",
+    "titulo": "Louisiana Museum of Modern Art",
+    "views": 2780,
+    "vpt": 0,
+    "ven": 2780,
+    "peso": 139.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu de História da Arte de Viena",
+    "grafias": [
+     "Kunsthistorisches Museum",
+     "Museu de História da Arte em Viena"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de História da Arte em Viena",
+    "views": 134,
+    "vpt": 134,
+    "ven": 0,
+    "peso": 134.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu de Arte Latino-Americana de Buenos Aires",
+    "grafias": [
+     "MALBA"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte Latino-Americana de Buenos Aires",
+    "views": 127,
+    "vpt": 127,
+    "ven": 0,
+    "peso": 127.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Instituto Tomie Ohtake",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Instituto Tomie Ohtake",
+    "views": 116,
+    "vpt": 116,
+    "ven": 0,
+    "peso": 116.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Tate Modern",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tate Modern",
+    "views": 109,
+    "vpt": 109,
+    "ven": 0,
+    "peso": 109.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Museu Soumaya",
+    "grafias": [
+     "Soumaya"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Soumaya",
+    "views": 102,
+    "vpt": 102,
+    "ven": 0,
+    "peso": 102.0,
+    "faixa": "Repertório"
+   },
+   {
+    "nome": "Louvre Abu Dhabi",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Louvre Abu Dhabi",
+    "views": 96,
+    "vpt": 96,
+    "ven": 0,
+    "peso": 96.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu Munch",
+    "grafias": [
+     "Munch",
+     "Munch Museum"
+    ],
+    "lang": "en",
+    "titulo": "Munch Museum",
+    "views": 1856,
+    "vpt": 0,
+    "ven": 1856,
+    "peso": 92.80000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu de Arte Kimbell",
+    "grafias": [
+     "Kimbell",
+     "Kimbell Art Museum"
+    ],
+    "lang": "en",
+    "titulo": "Kimbell Art Museum",
+    "views": 1854,
+    "vpt": 0,
+    "ven": 1854,
+    "peso": 92.7,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Rijksmuseum",
+    "grafias": [
+     "Museu Estatal de Amesterdão"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Estatal de Amesterdão",
+    "views": 92,
+    "vpt": 92,
+    "ven": 0,
+    "peso": 92.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu Picasso de Barcelona",
+    "grafias": [
+     "Museu Picasso"
+    ],
+    "lang": "en",
+    "titulo": "Museu Picasso",
+    "views": 1792,
+    "vpt": 0,
+    "ven": 1792,
+    "peso": 89.60000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Getty Center",
+    "grafias": [
+     "Getty"
+    ],
+    "lang": "pt",
+    "titulo": "Getty Center",
+    "views": 84,
+    "vpt": 84,
+    "ven": 0,
+    "peso": 84.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Neue Nationalgalerie",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Neue Nationalgalerie",
+    "views": 1663,
+    "vpt": 0,
+    "ven": 1663,
+    "peso": 83.15,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Stedelijk Museum Amsterdam",
+    "grafias": [
+     "Stedelijk"
+    ],
+    "lang": "en",
+    "titulo": "Stedelijk Museum Amsterdam",
+    "views": 1655,
+    "vpt": 0,
+    "ven": 1655,
+    "peso": 82.75,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "MAXXI",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "MAXXI",
+    "views": 1611,
+    "vpt": 0,
+    "ven": 1611,
+    "peso": 80.55000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Kunstmuseum Basel",
+    "grafias": [],
+    "lang": "en",
+    "titulo": "Kunstmuseum Basel",
+    "views": 1581,
+    "vpt": 0,
+    "ven": 1581,
+    "peso": 79.05000000000001,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu Nacional de Arte Ocidental",
+    "grafias": [
+     "National Museum of Western Art"
+    ],
+    "lang": "en",
+    "titulo": "National Museum of Western Art",
+    "views": 1538,
+    "vpt": 0,
+    "ven": 1538,
+    "peso": 76.9,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Instituto de Arte de Chicago",
+    "grafias": [
+     "Art Institute of Chicago"
+    ],
+    "lang": "pt",
+    "titulo": "Art Institute of Chicago",
+    "views": 73,
+    "vpt": 73,
+    "ven": 0,
+    "peso": 73.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Pinacoteca de Brera",
+    "grafias": [
+     "Brera"
+    ],
+    "lang": "pt",
+    "titulo": "Pinacoteca de Brera",
+    "views": 72,
+    "vpt": 72,
+    "ven": 0,
+    "peso": 72.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Museu de Arte da Filadélfia",
+    "grafias": [
+     "Philadelphia Museum of Art"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte da Filadélfia",
+    "views": 65,
+    "vpt": 65,
+    "ven": 0,
+    "peso": 65.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Kunsthaus Zürich",
+    "grafias": [
+     "Kunsthaus"
+    ],
+    "lang": "en",
+    "titulo": "Kunsthaus Zürich",
+    "views": 1265,
+    "vpt": 0,
+    "ven": 1265,
+    "peso": 63.25,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Tate Britain",
+    "grafias": [],
+    "lang": "pt",
+    "titulo": "Tate Britain",
+    "views": 59,
+    "vpt": 59,
+    "ven": 0,
+    "peso": 59.0,
+    "faixa": "Arquivo"
+   },
+   {
+    "nome": "Alte Pinakothek",
+    "grafias": [
+     "Antiga Pinacoteca"
+    ],
+    "lang": "pt",
+    "titulo": "Antiga Pinacoteca",
+    "views": 54,
+    "vpt": 54,
+    "ven": 0,
+    "peso": 54.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Museu Kröller-Müller",
+    "grafias": [
+     "Kröller-Müller"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Kröller-Müller",
+    "views": 54,
+    "vpt": 54,
+    "ven": 0,
+    "peso": 54.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Museu de Arte Chichu",
+    "grafias": [
+     "Chichu",
+     "Chichu Art Museum"
+    ],
+    "lang": "en",
+    "titulo": "Chichu Art Museum",
+    "views": 969,
+    "vpt": 0,
+    "ven": 969,
+    "peso": 48.45,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Museu de Arte Contemporânea do Século XXI",
+    "grafias": [
+     "Kanazawa",
+     "21st Century Museum of Contemporary Art, Kanazawa"
+    ],
+    "lang": "en",
+    "titulo": "21st Century Museum of Contemporary Art, Kanazawa",
+    "views": 869,
+    "vpt": 0,
+    "ven": 869,
+    "peso": 43.45,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Gemäldegalerie",
+    "grafias": [
+     "Gemaldegalerie"
+    ],
+    "lang": "pt",
+    "titulo": "Gemäldegalerie",
+    "views": 40,
+    "vpt": 40,
+    "ven": 0,
+    "peso": 40.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Zeitz MOCAA",
+    "grafias": [
+     "Zeitz",
+     "Zeitz Museum of Contemporary Art Africa"
+    ],
+    "lang": "en",
+    "titulo": "Zeitz Museum of Contemporary Art Africa",
+    "views": 794,
+    "vpt": 0,
+    "ven": 794,
+    "peso": 39.7,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Museu de Arte do Condado de Los Angeles",
+    "grafias": [
+     "LACMA"
+    ],
+    "lang": "pt",
+    "titulo": "Museu de Arte do Condado de Los Angeles",
+    "views": 26,
+    "vpt": 26,
+    "ven": 0,
+    "peso": 26.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Museu Botero",
+    "grafias": [
+     "Museo Botero"
+    ],
+    "lang": "en",
+    "titulo": "Museo Botero",
+    "views": 380,
+    "vpt": 0,
+    "ven": 380,
+    "peso": 19.0,
+    "faixa": "Achado"
+   },
+   {
+    "nome": "Museu Whitney de Arte Americana",
+    "grafias": [
+     "Whitney"
+    ],
+    "lang": "pt",
+    "titulo": "Museu Whitney de Arte Americana",
+    "views": 19,
+    "vpt": 19,
+    "ven": 0,
+    "peso": 19.0,
+    "faixa": "Achado"
+   }
+  ]
+ }
+}
