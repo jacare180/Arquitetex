@@ -1,0 +1,3277 @@
+[
+ {
+  "id": "masp",
+  "nome": "Museu de Arte de São Paulo (MASP)",
+  "arquitetos": "Lina Bo Bardi",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1968,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Brutalismo",
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_de_Arte_de_São_Paulo",
+  "views_key": [
+   "masp.pt",
+   "masp.en"
+  ]
+ },
+ {
+  "id": "copan",
+  "nome": "Edifício Copan",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1966,
+  "altura": 115.0,
+  "area": null,
+  "andares": 35,
+  "movimento": "Modernismo",
+  "tipo": "Edifício residencial",
+  "fonte": "https://pt.wikipedia.org/wiki/Edifício_Copan",
+  "views_key": [
+   "copan.pt",
+   "copan.en"
+  ]
+ },
+ {
+  "id": "catedral-brasilia",
+  "nome": "Catedral de Brasília",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 1970,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://pt.wikipedia.org/wiki/Catedral_Metropolitana_de_Brasília",
+  "views_key": [
+   "catedral-brasilia.pt",
+   "catedral-brasilia.en"
+  ]
+ },
+ {
+  "id": "planalto",
+  "nome": "Palácio do Planalto",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 1960,
+  "altura": 20.0,
+  "area": 36000,
+  "andares": 4,
+  "movimento": "Modernismo",
+  "tipo": "Edifício público",
+  "fonte": "https://pt.wikipedia.org/wiki/Palácio_do_Planalto",
+  "views_key": [
+   "planalto.pt",
+   "planalto.en"
+  ]
+ },
+ {
+  "id": "congresso",
+  "nome": "Congresso Nacional",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 1960,
+  "altura": 100.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Edifício público",
+  "fonte": "https://pt.wikipedia.org/wiki/Palácio_do_Congresso_Nacional",
+  "views_key": [
+   "congresso.pt",
+   "congresso.en"
+  ]
+ },
+ {
+  "id": "alvorada",
+  "nome": "Palácio da Alvorada",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 1958,
+  "altura": 10.0,
+  "area": 7300,
+  "andares": 2,
+  "movimento": "Modernismo",
+  "tipo": "Edifício público",
+  "fonte": "https://pt.wikipedia.org/wiki/Palácio_da_Alvorada",
+  "views_key": [
+   "alvorada.pt",
+   "alvorada.en"
+  ]
+ },
+ {
+  "id": "itamaraty",
+  "nome": "Palácio Itamaraty",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 1970,
+  "altura": 15.0,
+  "area": null,
+  "andares": 3,
+  "movimento": "Modernismo",
+  "tipo": "Edifício público",
+  "fonte": "https://pt.wikipedia.org/wiki/Palácio_Itamaraty",
+  "views_key": [
+   "itamaraty.pt",
+   "itamaraty.en"
+  ]
+ },
+ {
+  "id": "museu-republica",
+  "nome": "Museu Nacional da República",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 2006,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_Nacional_Honestino_Guimarães",
+  "views_key": [
+   "museu-republica.pt"
+  ]
+ },
+ {
+  "id": "torre-tv-brasilia",
+  "nome": "Torre de TV de Brasília",
+  "arquitetos": "Lúcio Costa",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 1965,
+  "altura": 224.0,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Torre",
+  "fonte": "https://pt.wikipedia.org/wiki/Torre_de_TV_de_Brasília",
+  "views_key": [
+   "torre-tv-brasilia.pt",
+   "torre-tv-brasilia.en"
+  ]
+ },
+ {
+  "id": "ponte-jk",
+  "nome": "Ponte JK",
+  "arquitetos": "Alexandre Chan",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 2002,
+  "altura": 60,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Ponte",
+  "fonte": "https://pt.wikipedia.org/wiki/Ponte_Juscelino_Kubitschek",
+  "views_key": [
+   "ponte-jk.pt",
+   "ponte-jk.en"
+  ]
+ },
+ {
+  "id": "dom-bosco",
+  "nome": "Santuário Dom Bosco",
+  "arquitetos": "Carlos Alberto Naves",
+  "cidade": "Brasília",
+  "pais": "Brasil",
+  "ano": 1963,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://pt.wikipedia.org/wiki/Santuário_Dom_Bosco",
+  "views_key": [
+   "dom-bosco.pt"
+  ]
+ },
+ {
+  "id": "pampulha",
+  "nome": "Igreja da Pampulha",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Belo Horizonte",
+  "pais": "Brasil",
+  "ano": 1943,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://pt.wikipedia.org/wiki/Igreja_São_Francisco_de_Assis_(Belo_Horizonte)",
+  "views_key": [
+   "pampulha.pt"
+  ]
+ },
+ {
+  "id": "mac-niteroi",
+  "nome": "Museu de Arte Contemporânea de Niterói",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Niterói",
+  "pais": "Brasil",
+  "ano": 1996,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_de_Niterói",
+  "views_key": [
+   "mac-niteroi.pt",
+   "mac-niteroi.en"
+  ]
+ },
+ {
+  "id": "mon",
+  "nome": "Museu Oscar Niemeyer",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Curitiba",
+  "pais": "Brasil",
+  "ano": 2002,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_Oscar_Niemeyer",
+  "views_key": [
+   "mon.pt",
+   "mon.en"
+  ]
+ },
+ {
+  "id": "opera-arame",
+  "nome": "Ópera de Arame",
+  "arquitetos": "Domingos Bongestabs",
+  "cidade": "Curitiba",
+  "pais": "Brasil",
+  "ano": 1992,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Teatro",
+  "fonte": "https://pt.wikipedia.org/wiki/Ópera_de_Arame",
+  "views_key": [
+   "opera-arame.pt",
+   "opera-arame.en"
+  ]
+ },
+ {
+  "id": "italia",
+  "nome": "Edifício Itália",
+  "arquitetos": "Franz Heep",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1965,
+  "altura": 165.0,
+  "area": 52000,
+  "andares": 46,
+  "movimento": "Modernismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://pt.wikipedia.org/wiki/Edifício_Itália",
+  "views_key": [
+   "italia.pt",
+   "italia.en"
+  ]
+ },
+ {
+  "id": "martinelli",
+  "nome": "Edifício Martinelli",
+  "arquitetos": "Vilmos Fillinger",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1929,
+  "altura": 105.0,
+  "area": null,
+  "andares": 30,
+  "movimento": "Ecletismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://pt.wikipedia.org/wiki/Edifício_Martinelli",
+  "views_key": [
+   "martinelli.pt",
+   "martinelli.en"
+  ]
+ },
+ {
+  "id": "altino-arantes",
+  "nome": "Edifício Altino Arantes (Farol Santander)",
+  "arquitetos": "Plínio Botelho do Amaral",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1947,
+  "altura": 161.2,
+  "area": 17951,
+  "andares": 35,
+  "movimento": "Art déco",
+  "tipo": "Arranha-céu",
+  "fonte": "https://pt.wikipedia.org/wiki/Edifício_Altino_Arantes",
+  "views_key": [
+   "altino-arantes.pt",
+   "altino-arantes.en"
+  ]
+ },
+ {
+  "id": "mirante-vale",
+  "nome": "Edifício Mirante do Vale",
+  "arquitetos": "Waldomiro Zarzur",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1966,
+  "altura": 170.0,
+  "area": 75000,
+  "andares": 51,
+  "movimento": "Estilo internacional",
+  "tipo": "Arranha-céu",
+  "fonte": "https://pt.wikipedia.org/wiki/Edifício_Mirante_do_Vale",
+  "views_key": [
+   "mirante-vale.pt",
+   "mirante-vale.en"
+  ]
+ },
+ {
+  "id": "platina",
+  "nome": "Platina 220",
+  "arquitetos": "Königsberger Vannucchi",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 2022,
+  "altura": null,
+  "area": null,
+  "andares": 50,
+  "movimento": "Estilo internacional",
+  "tipo": "Arranha-céu",
+  "fonte": "https://pt.wikipedia.org/wiki/Platina_220",
+  "views_key": [
+   "platina.pt",
+   "platina.en"
+  ]
+ },
+ {
+  "id": "esther",
+  "nome": "Edifício Esther",
+  "arquitetos": "Álvaro Vital Brazil e Adhemar Marinho",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1938,
+  "altura": null,
+  "area": null,
+  "andares": 10,
+  "movimento": "Estilo internacional",
+  "tipo": "Edifício residencial",
+  "fonte": "https://pt.wikipedia.org/wiki/Edifício_Esther",
+  "views_key": [
+   "esther.pt"
+  ]
+ },
+ {
+  "id": "sesc-pompeia",
+  "nome": "Sesc Pompeia",
+  "arquitetos": "Lina Bo Bardi",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1982,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Centro cultural",
+  "fonte": "https://pt.wikipedia.org/wiki/SESC_Pompeia",
+  "views_key": [
+   "sesc-pompeia.pt"
+  ]
+ },
+ {
+  "id": "casa-vidro",
+  "nome": "Casa de Vidro",
+  "arquitetos": "Lina Bo Bardi",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1951,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Residência",
+  "fonte": "https://pt.wikipedia.org/wiki/Casa_de_Vidro_(São_Paulo)",
+  "views_key": [
+   "casa-vidro.pt"
+  ]
+ },
+ {
+  "id": "mube",
+  "nome": "Museu Brasileiro da Escultura (MuBE)",
+  "arquitetos": "Paulo Mendes da Rocha",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1995,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_Brasileiro_da_Escultura_e_Ecologia",
+  "views_key": [
+   "mube.pt"
+  ]
+ },
+ {
+  "id": "pinacoteca",
+  "nome": "Pinacoteca de São Paulo",
+  "arquitetos": "Ramos de Azevedo; Paulo Mendes da Rocha (reforma)",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1900,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Pinacoteca_do_Estado_de_São_Paulo",
+  "views_key": [
+   "pinacoteca.pt",
+   "pinacoteca.en"
+  ]
+ },
+ {
+  "id": "estacao-luz",
+  "nome": "Estação da Luz",
+  "arquitetos": "Charles Henry Driver",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1867,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Estação",
+  "fonte": "https://pt.wikipedia.org/wiki/Estação_da_Luz",
+  "views_key": [
+   "estacao-luz.pt",
+   "estacao-luz.en"
+  ]
+ },
+ {
+  "id": "municipal-sp",
+  "nome": "Theatro Municipal de São Paulo",
+  "arquitetos": "Ramos de Azevedo, Claudio Rossi e Domiziano Rossi",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1911,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Ecletismo",
+  "tipo": "Teatro",
+  "fonte": "https://pt.wikipedia.org/wiki/Theatro_Municipal_de_São_Paulo",
+  "views_key": [
+   "municipal-sp.pt",
+   "municipal-sp.en"
+  ]
+ },
+ {
+  "id": "auditorio-ibirapuera",
+  "nome": "Auditório Ibirapuera",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 2005,
+  "altura": 24.0,
+  "area": 650,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Teatro",
+  "fonte": "https://pt.wikipedia.org/wiki/Auditório_Ibirapuera",
+  "views_key": [
+   "auditorio-ibirapuera.pt",
+   "auditorio-ibirapuera.en"
+  ]
+ },
+ {
+  "id": "bienal",
+  "nome": "Pavilhão da Bienal",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1954,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Pavilhão",
+  "fonte": "https://pt.wikipedia.org/wiki/Fundação_Bienal_de_São_Paulo",
+  "views_key": [
+   "bienal.pt"
+  ]
+ },
+ {
+  "id": "memorial-al",
+  "nome": "Memorial da América Latina",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1989,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Centro cultural",
+  "fonte": "https://pt.wikipedia.org/wiki/Memorial_da_América_Latina",
+  "views_key": [
+   "memorial-al.pt",
+   "memorial-al.en"
+  ]
+ },
+ {
+  "id": "teatro-oficina",
+  "nome": "Teatro Oficina",
+  "arquitetos": "Lina Bo Bardi e Edson Elito",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1994,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Teatro",
+  "fonte": "https://pt.wikipedia.org/wiki/Teatro_Oficina",
+  "views_key": [
+   "teatro-oficina.pt",
+   "teatro-oficina.en"
+  ]
+ },
+ {
+  "id": "se-sp",
+  "nome": "Catedral da Sé de São Paulo",
+  "arquitetos": "Maximilian Emil Hehl",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1954,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Neogótico",
+  "tipo": "Templo religioso",
+  "fonte": "https://pt.wikipedia.org/wiki/Catedral_Metropolitana_de_São_Paulo",
+  "views_key": [
+   "se-sp.pt",
+   "se-sp.en"
+  ]
+ },
+ {
+  "id": "museu-ipiranga",
+  "nome": "Museu do Ipiranga",
+  "arquitetos": "Tommaso Gaudenzio Bezzi",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 1895,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_Paulista",
+  "views_key": [
+   "museu-ipiranga.pt",
+   "museu-ipiranga.en"
+  ]
+ },
+ {
+  "id": "ponte-estaiada",
+  "nome": "Ponte Estaiada",
+  "arquitetos": "João Valente Filho",
+  "cidade": "São Paulo",
+  "pais": "Brasil",
+  "ano": 2008,
+  "altura": 138.0,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Ponte",
+  "fonte": "https://pt.wikipedia.org/wiki/Ponte_Octávio_Frias_de_Oliveira",
+  "views_key": [
+   "ponte-estaiada.pt",
+   "ponte-estaiada.en"
+  ]
+ },
+ {
+  "id": "capanema",
+  "nome": "Palácio Gustavo Capanema",
+  "arquitetos": "Lúcio Costa, Oscar Niemeyer, Affonso Eduardo Reidy, Carlos Leão, Jorge Moreira e Ernani Vasconcellos",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1945,
+  "altura": null,
+  "area": null,
+  "andares": 16,
+  "movimento": "Modernismo",
+  "tipo": "Edifício público",
+  "fonte": "https://pt.wikipedia.org/wiki/Palácio_Gustavo_Capanema",
+  "views_key": [
+   "capanema.pt",
+   "capanema.en"
+  ]
+ },
+ {
+  "id": "mam-rio",
+  "nome": "Museu de Arte Moderna do Rio de Janeiro",
+  "arquitetos": "Affonso Eduardo Reidy",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1958,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_do_Rio_de_Janeiro",
+  "views_key": [
+   "mam-rio.pt",
+   "mam-rio.en"
+  ]
+ },
+ {
+  "id": "museu-amanha",
+  "nome": "Museu do Amanhã",
+  "arquitetos": "Santiago Calatrava",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 2015,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_do_Amanhã",
+  "views_key": [
+   "museu-amanha.pt",
+   "museu-amanha.en"
+  ]
+ },
+ {
+  "id": "mar-rio",
+  "nome": "Museu de Arte do Rio",
+  "arquitetos": "Bernardes + Jacobsen",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 2013,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_de_Arte_do_Rio",
+  "views_key": [
+   "mar-rio.pt"
+  ]
+ },
+ {
+  "id": "municipal-rio",
+  "nome": "Theatro Municipal do Rio de Janeiro",
+  "arquitetos": "Francisco de Oliveira Passos",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1909,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Ecletismo",
+  "tipo": "Teatro",
+  "fonte": "https://pt.wikipedia.org/wiki/Theatro_Municipal_do_Rio_de_Janeiro",
+  "views_key": [
+   "municipal-rio.pt",
+   "municipal-rio.en"
+  ]
+ },
+ {
+  "id": "cristo",
+  "nome": "Cristo Redentor",
+  "arquitetos": "Heitor da Silva Costa; Paul Landowski (escultura)",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1931,
+  "altura": 38,
+  "area": null,
+  "andares": null,
+  "movimento": "Art déco",
+  "tipo": "Monumento",
+  "fonte": "https://pt.wikipedia.org/wiki/Cristo_Redentor",
+  "views_key": [
+   "cristo.pt",
+   "cristo.en"
+  ]
+ },
+ {
+  "id": "pedregulho",
+  "nome": "Conjunto Residencial Pedregulho",
+  "arquitetos": "Affonso Eduardo Reidy",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1952,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Edifício residencial",
+  "fonte": "https://pt.wikipedia.org/wiki/Conjunto_Residencial_Prefeito_Mendes_de_Moraes",
+  "views_key": [
+   "pedregulho.pt"
+  ]
+ },
+ {
+  "id": "canoas",
+  "nome": "Casa das Canoas",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1953,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Residência",
+  "fonte": "https://pt.wikipedia.org/wiki/Casa_das_Canoas",
+  "views_key": [
+   "canoas.pt"
+  ]
+ },
+ {
+  "id": "catedral-rio",
+  "nome": "Catedral de São Sebastião do Rio de Janeiro",
+  "arquitetos": "Edgar Fonseca",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1979,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_Cathedral",
+  "views_key": [
+   "catedral-rio.en"
+  ]
+ },
+ {
+  "id": "real-gabinete",
+  "nome": "Real Gabinete Português de Leitura",
+  "arquitetos": "Rafael da Silva e Castro",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1887,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Neomanuelino",
+  "tipo": "Biblioteca",
+  "fonte": "https://pt.wikipedia.org/wiki/Real_Gabinete_Português_de_Leitura",
+  "views_key": [
+   "real-gabinete.pt",
+   "real-gabinete.en"
+  ]
+ },
+ {
+  "id": "paco-imperial",
+  "nome": "Paço Imperial",
+  "arquitetos": "José Fernandes Pinto Alpoim",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1743,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Colonial",
+  "tipo": "Edifício público",
+  "fonte": "https://pt.wikipedia.org/wiki/Paço_Imperial",
+  "views_key": [
+   "paco-imperial.pt",
+   "paco-imperial.en"
+  ]
+ },
+ {
+  "id": "maracana",
+  "nome": "Estádio do Maracanã",
+  "arquitetos": "Miguel Feldman, Waldir Ramos, Raphael Galvão, Oscar Valdetaro, Pedro Paulo Bernardes Bastos, Orlando Azevedo e Antônio Dias Carneiro",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1950,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Estádio",
+  "fonte": "https://pt.wikipedia.org/wiki/Estádio_do_Maracanã",
+  "views_key": [
+   "maracana.pt",
+   "maracana.en"
+  ]
+ },
+ {
+  "id": "sambodromo",
+  "nome": "Sambódromo da Marquês de Sapucaí",
+  "arquitetos": "Oscar Niemeyer",
+  "cidade": "Rio de Janeiro",
+  "pais": "Brasil",
+  "ano": 1984,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Equipamento urbano",
+  "fonte": "https://pt.wikipedia.org/wiki/Sambódromo_da_Marquês_de_Sapucaí",
+  "views_key": [
+   "sambodromo.pt",
+   "sambodromo.en"
+  ]
+ },
+ {
+  "id": "teatro-amazonas",
+  "nome": "Teatro Amazonas",
+  "arquitetos": "Celestial Sacardim",
+  "cidade": "Manaus",
+  "pais": "Brasil",
+  "ano": 1896,
+  "altura": null,
+  "area": null,
+  "andares": 3,
+  "movimento": "Ecletismo",
+  "tipo": "Teatro",
+  "fonte": "https://pt.wikipedia.org/wiki/Teatro_Amazonas",
+  "views_key": [
+   "teatro-amazonas.pt",
+   "teatro-amazonas.en"
+  ]
+ },
+ {
+  "id": "sao-francisco-op",
+  "nome": "Igreja de São Francisco de Assis de Ouro Preto",
+  "arquitetos": "Aleijadinho",
+  "cidade": "Ouro Preto",
+  "pais": "Brasil",
+  "ano": 1890,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Barroco",
+  "tipo": "Templo religioso",
+  "fonte": "https://pt.wikipedia.org/wiki/Igreja_de_São_Francisco_de_Assis_(Ouro_Preto)",
+  "views_key": [
+   "sao-francisco-op.pt",
+   "sao-francisco-op.en"
+  ]
+ },
+ {
+  "id": "casa-barragan",
+  "nome": "Casa Luis Barragán",
+  "arquitetos": "Luis Barragán",
+  "cidade": "Cidade do México",
+  "pais": "México",
+  "ano": 1947,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Luis_Barragán_House_and_Studio",
+  "views_key": [
+   "casa-barragan.en"
+  ]
+ },
+ {
+  "id": "torres-satelite",
+  "nome": "Torres de Satélite",
+  "arquitetos": "Luis Barragán e Mathias Goeritz",
+  "cidade": "Naucalpan",
+  "pais": "México",
+  "ano": 1958,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Monumento",
+  "fonte": "https://en.wikipedia.org/wiki/Torres_de_Satélite",
+  "views_key": [
+   "torres-satelite.en"
+  ]
+ },
+ {
+  "id": "soumaya",
+  "nome": "Museu Soumaya",
+  "arquitetos": "Fernando Romero",
+  "cidade": "Cidade do México",
+  "pais": "México",
+  "ano": 2011,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Museo_Soumaya",
+  "views_key": [
+   "soumaya.pt",
+   "soumaya.en"
+  ]
+ },
+ {
+  "id": "vasconcelos",
+  "nome": "Biblioteca Vasconcelos",
+  "arquitetos": "Alberto Kalach",
+  "cidade": "Cidade do México",
+  "pais": "México",
+  "ano": 2006,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Biblioteca",
+  "fonte": "https://en.wikipedia.org/wiki/Biblioteca_Vasconcelos",
+  "views_key": [
+   "vasconcelos.pt",
+   "vasconcelos.en"
+  ]
+ },
+ {
+  "id": "biblioteca-unam",
+  "nome": "Biblioteca Central da UNAM",
+  "arquitetos": "Juan O'Gorman",
+  "cidade": "Cidade do México",
+  "pais": "México",
+  "ano": 1956,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Biblioteca",
+  "fonte": "https://en.wikipedia.org/wiki/Central_Library_(UNAM)",
+  "views_key": [
+   "biblioteca-unam.en"
+  ]
+ },
+ {
+  "id": "bellas-artes",
+  "nome": "Palácio de Belas Artes",
+  "arquitetos": "Adamo Boari e Federico Mariscal",
+  "cidade": "Cidade do México",
+  "pais": "México",
+  "ano": 1934,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Art déco",
+  "tipo": "Teatro",
+  "fonte": "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes",
+  "views_key": [
+   "bellas-artes.en"
+  ]
+ },
+ {
+  "id": "antropologia",
+  "nome": "Museu Nacional de Antropologia",
+  "arquitetos": "Pedro Ramírez Vázquez",
+  "cidade": "Cidade do México",
+  "pais": "México",
+  "ano": 1964,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)",
+  "views_key": [
+   "antropologia.pt",
+   "antropologia.en"
+  ]
+ },
+ {
+  "id": "torre-latino",
+  "nome": "Torre Latinoamericana",
+  "arquitetos": "Augusto H. Álvarez",
+  "cidade": "Cidade do México",
+  "pais": "México",
+  "ano": 1956,
+  "altura": 166.0,
+  "area": 27727,
+  "andares": 44,
+  "movimento": "Estilo internacional",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Torre_Latinoamericana",
+  "views_key": [
+   "torre-latino.pt",
+   "torre-latino.en"
+  ]
+ },
+ {
+  "id": "costanera",
+  "nome": "Gran Torre Santiago",
+  "arquitetos": "César Pelli",
+  "cidade": "Santiago",
+  "pais": "Chile",
+  "ano": 2013,
+  "altura": 300.0,
+  "area": 107125,
+  "andares": 62,
+  "movimento": "Pós-modernismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Gran_Torre_Santiago",
+  "views_key": [
+   "costanera.pt",
+   "costanera.en"
+  ]
+ },
+ {
+  "id": "kavanagh",
+  "nome": "Edifício Kavanagh",
+  "arquitetos": "Gregorio Sánchez, Ernesto Lagos e Luis María de la Torre",
+  "cidade": "Buenos Aires",
+  "pais": "Argentina",
+  "ano": 1936,
+  "altura": 120,
+  "area": 28000,
+  "andares": 31,
+  "movimento": "Art déco",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Kavanagh_building",
+  "views_key": [
+   "kavanagh.pt",
+   "kavanagh.en"
+  ]
+ },
+ {
+  "id": "barolo",
+  "nome": "Palácio Barolo",
+  "arquitetos": "Mario Palanti",
+  "cidade": "Buenos Aires",
+  "pais": "Argentina",
+  "ano": 1923,
+  "altura": 100.0,
+  "area": null,
+  "andares": 22,
+  "movimento": "Art déco",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Palacio_Barolo",
+  "views_key": [
+   "barolo.pt",
+   "barolo.en"
+  ]
+ },
+ {
+  "id": "colon",
+  "nome": "Teatro Colón",
+  "arquitetos": "Francesco Tamburini, Vittorio Meano e Julio Dormal",
+  "cidade": "Buenos Aires",
+  "pais": "Argentina",
+  "ano": 1908,
+  "altura": 28.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Ecletismo",
+  "tipo": "Teatro",
+  "fonte": "https://en.wikipedia.org/wiki/Teatro_Colón",
+  "views_key": [
+   "colon.pt",
+   "colon.en"
+  ]
+ },
+ {
+  "id": "salvo",
+  "nome": "Palácio Salvo",
+  "arquitetos": "Mario Palanti",
+  "cidade": "Montevidéu",
+  "pais": "Uruguai",
+  "ano": 1928,
+  "altura": 101.0,
+  "area": null,
+  "andares": 27,
+  "movimento": "Ecletismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Palacio_Salvo",
+  "views_key": [
+   "salvo.pt",
+   "salvo.en"
+  ]
+ },
+ {
+  "id": "atlantida",
+  "nome": "Igreja de Atlántida",
+  "arquitetos": "Eladio Dieste",
+  "cidade": "Atlántida",
+  "pais": "Uruguai",
+  "ano": 1960,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Iglesia_de_Cristo_Obrero_y_Nuestra_Señora_de_Lourdes",
+  "views_key": [
+   "atlantida.en"
+  ]
+ },
+ {
+  "id": "fallingwater",
+  "nome": "Casa da Cascata",
+  "arquitetos": "Frank Lloyd Wright",
+  "cidade": "Mill Run",
+  "pais": "Estados Unidos",
+  "ano": 1937,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Arquitetura orgânica",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Fallingwater",
+  "views_key": [
+   "fallingwater.pt",
+   "fallingwater.en"
+  ]
+ },
+ {
+  "id": "guggenheim-ny",
+  "nome": "Museu Solomon R. Guggenheim",
+  "arquitetos": "Frank Lloyd Wright",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 1959,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum",
+  "views_key": [
+   "guggenheim-ny.pt",
+   "guggenheim-ny.en"
+  ]
+ },
+ {
+  "id": "seagram",
+  "nome": "Edifício Seagram",
+  "arquitetos": "Ludwig Mies van der Rohe e Philip Johnson",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 1958,
+  "altura": 157.3,
+  "area": 78876,
+  "andares": 38,
+  "movimento": "Estilo internacional",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Seagram_Building",
+  "views_key": [
+   "seagram.pt",
+   "seagram.en"
+  ]
+ },
+ {
+  "id": "empire-state",
+  "nome": "Empire State Building",
+  "arquitetos": "Shreve, Lamb & Harmon",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 1931,
+  "altura": 381.0,
+  "area": 208879,
+  "andares": 102,
+  "movimento": "Art déco",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Empire_State_Building",
+  "views_key": [
+   "empire-state.pt",
+   "empire-state.en"
+  ]
+ },
+ {
+  "id": "chrysler",
+  "nome": "Edifício Chrysler",
+  "arquitetos": "William Van Alen",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 1930,
+  "altura": 281.9,
+  "area": 111201,
+  "andares": 77,
+  "movimento": "Art déco",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Chrysler_Building",
+  "views_key": [
+   "chrysler.pt",
+   "chrysler.en"
+  ]
+ },
+ {
+  "id": "flatiron",
+  "nome": "Edifício Flatiron",
+  "arquitetos": "Daniel Burnham",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 1902,
+  "altura": 93.6,
+  "area": 23690,
+  "andares": 22,
+  "movimento": "Neorrenascimento",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Flatiron_Building",
+  "views_key": [
+   "flatiron.pt",
+   "flatiron.en"
+  ]
+ },
+ {
+  "id": "one-wtc",
+  "nome": "One World Trade Center",
+  "arquitetos": "David Childs (Skidmore, Owings & Merrill)",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 2014,
+  "altura": 541.3,
+  "area": 325279,
+  "andares": 94,
+  "movimento": "Modernismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/One_World_Trade_Center",
+  "views_key": [
+   "one-wtc.pt",
+   "one-wtc.en"
+  ]
+ },
+ {
+  "id": "432-park",
+  "nome": "432 Park Avenue",
+  "arquitetos": "Rafael Viñoly",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 2015,
+  "altura": 425.5,
+  "area": 38335,
+  "andares": 85,
+  "movimento": "Contemporâneo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/432_Park_Avenue",
+  "views_key": [
+   "432-park.pt",
+   "432-park.en"
+  ]
+ },
+ {
+  "id": "central-park-tower",
+  "nome": "Central Park Tower",
+  "arquitetos": "Adrian Smith + Gordon Gill Architecture",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 2020,
+  "altura": 472.4,
+  "area": 119409,
+  "andares": 98,
+  "movimento": "Modernismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Central_Park_Tower",
+  "views_key": [
+   "central-park-tower.pt",
+   "central-park-tower.en"
+  ]
+ },
+ {
+  "id": "lever",
+  "nome": "Lever House",
+  "arquitetos": "Gordon Bunshaft e Natalie de Blois (Skidmore, Owings & Merrill)",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 1952,
+  "altura": 93.6,
+  "area": null,
+  "andares": 21,
+  "movimento": "Estilo internacional",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Lever_House",
+  "views_key": [
+   "lever.en"
+  ]
+ },
+ {
+  "id": "twa",
+  "nome": "Terminal da TWA",
+  "arquitetos": "Eero Saarinen",
+  "cidade": "Nova York",
+  "pais": "Estados Unidos",
+  "ano": 1962,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Neofuturismo",
+  "tipo": "Aeroporto",
+  "fonte": "https://en.wikipedia.org/wiki/TWA_Flight_Center",
+  "views_key": [
+   "twa.en"
+  ]
+ },
+ {
+  "id": "willis",
+  "nome": "Willis Tower",
+  "arquitetos": "Skidmore, Owings & Merrill (Bruce Graham e Fazlur Khan)",
+  "cidade": "Chicago",
+  "pais": "Estados Unidos",
+  "ano": 1974,
+  "altura": 442.3,
+  "area": 416001,
+  "andares": 110,
+  "movimento": "Estilo internacional",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Willis_Tower",
+  "views_key": [
+   "willis.pt",
+   "willis.en"
+  ]
+ },
+ {
+  "id": "hancock",
+  "nome": "875 North Michigan Avenue (John Hancock Center)",
+  "arquitetos": "Skidmore, Owings & Merrill (Bruce Graham e Fazlur Khan)",
+  "cidade": "Chicago",
+  "pais": "Estados Unidos",
+  "ano": 1969,
+  "altura": 343.8,
+  "area": 260126,
+  "andares": 100,
+  "movimento": "Expressionismo estrutural",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/875_North_Michigan_Avenue",
+  "views_key": [
+   "hancock.pt",
+   "hancock.en"
+  ]
+ },
+ {
+  "id": "robie",
+  "nome": "Casa Robie",
+  "arquitetos": "Frank Lloyd Wright",
+  "cidade": "Chicago",
+  "pais": "Estados Unidos",
+  "ano": 1909,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Prairie School",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Frederick_C._Robie_House",
+  "views_key": [
+   "robie.en"
+  ]
+ },
+ {
+  "id": "crown-hall",
+  "nome": "S. R. Crown Hall",
+  "arquitetos": "Ludwig Mies van der Rohe",
+  "cidade": "Chicago",
+  "pais": "Estados Unidos",
+  "ano": 1956,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Estilo internacional",
+  "tipo": "Edifício educacional",
+  "fonte": "https://en.wikipedia.org/wiki/S._R._Crown_Hall",
+  "views_key": [
+   "crown-hall.en"
+  ]
+ },
+ {
+  "id": "farnsworth",
+  "nome": "Casa Farnsworth",
+  "arquitetos": "Ludwig Mies van der Rohe",
+  "cidade": "Plano",
+  "pais": "Estados Unidos",
+  "ano": 1950,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Estilo internacional",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Farnsworth_House",
+  "views_key": [
+   "farnsworth.pt",
+   "farnsworth.en"
+  ]
+ },
+ {
+  "id": "glass-house",
+  "nome": "Glass House",
+  "arquitetos": "Philip Johnson",
+  "cidade": "New Canaan",
+  "pais": "Estados Unidos",
+  "ano": 1949,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Glass_House",
+  "views_key": [
+   "glass-house.pt",
+   "glass-house.en"
+  ]
+ },
+ {
+  "id": "vanna-venturi",
+  "nome": "Casa Vanna Venturi",
+  "arquitetos": "Robert Venturi",
+  "cidade": "Filadélfia",
+  "pais": "Estados Unidos",
+  "ano": 1964,
+  "altura": null,
+  "area": null,
+  "andares": 2,
+  "movimento": "Pós-modernismo",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Vanna_Venturi_House",
+  "views_key": [
+   "vanna-venturi.en"
+  ]
+ },
+ {
+  "id": "salk",
+  "nome": "Instituto Salk",
+  "arquitetos": "Louis Kahn",
+  "cidade": "La Jolla",
+  "pais": "Estados Unidos",
+  "ano": 1963,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Brutalismo",
+  "tipo": "Edifício de pesquisa",
+  "fonte": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies",
+  "views_key": [
+   "salk.pt",
+   "salk.en"
+  ]
+ },
+ {
+  "id": "kimbell",
+  "nome": "Museu de Arte Kimbell",
+  "arquitetos": "Louis Kahn",
+  "cidade": "Fort Worth",
+  "pais": "Estados Unidos",
+  "ano": 1972,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Kimbell_Art_Museum",
+  "views_key": [
+   "kimbell.en"
+  ]
+ },
+ {
+  "id": "disney-hall",
+  "nome": "Walt Disney Concert Hall",
+  "arquitetos": "Frank Gehry",
+  "cidade": "Los Angeles",
+  "pais": "Estados Unidos",
+  "ano": 2003,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Desconstrutivismo",
+  "tipo": "Sala de concertos",
+  "fonte": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+  "views_key": [
+   "disney-hall.pt",
+   "disney-hall.en"
+  ]
+ },
+ {
+  "id": "getty",
+  "nome": "Getty Center",
+  "arquitetos": "Richard Meier",
+  "cidade": "Los Angeles",
+  "pais": "Estados Unidos",
+  "ano": 1997,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Getty_Center",
+  "views_key": [
+   "getty.pt",
+   "getty.en"
+  ]
+ },
+ {
+  "id": "eames",
+  "nome": "Casa Eames",
+  "arquitetos": "Charles e Ray Eames",
+  "cidade": "Los Angeles",
+  "pais": "Estados Unidos",
+  "ano": 1949,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Eames_House",
+  "views_key": [
+   "eames.pt",
+   "eames.en"
+  ]
+ },
+ {
+  "id": "transamerica",
+  "nome": "Transamerica Pyramid",
+  "arquitetos": "William Pereira",
+  "cidade": "São Francisco",
+  "pais": "Estados Unidos",
+  "ano": 1972,
+  "altura": 260.0,
+  "area": 46359,
+  "andares": 48,
+  "movimento": null,
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Transamerica_Pyramid",
+  "views_key": [
+   "transamerica.pt",
+   "transamerica.en"
+  ]
+ },
+ {
+  "id": "gateway-arch",
+  "nome": "Gateway Arch",
+  "arquitetos": "Eero Saarinen",
+  "cidade": "St. Louis",
+  "pais": "Estados Unidos",
+  "ano": 1965,
+  "altura": 192.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Expressionismo estrutural",
+  "tipo": "Monumento",
+  "fonte": "https://en.wikipedia.org/wiki/Gateway_Arch",
+  "views_key": [
+   "gateway-arch.pt",
+   "gateway-arch.en"
+  ]
+ },
+ {
+  "id": "habitat-67",
+  "nome": "Habitat 67",
+  "arquitetos": "Moshe Safdie",
+  "cidade": "Montreal",
+  "pais": "Canadá",
+  "ano": 1967,
+  "altura": null,
+  "area": 29700,
+  "andares": 12,
+  "movimento": "Brutalismo",
+  "tipo": "Edifício residencial",
+  "fonte": "https://en.wikipedia.org/wiki/Habitat_67",
+  "views_key": [
+   "habitat-67.pt",
+   "habitat-67.en"
+  ]
+ },
+ {
+  "id": "cn-tower",
+  "nome": "CN Tower",
+  "arquitetos": "WZMH Architects; John Andrews",
+  "cidade": "Toronto",
+  "pais": "Canadá",
+  "ano": 1976,
+  "altura": 553.3,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Torre",
+  "fonte": "https://en.wikipedia.org/wiki/CN_Tower",
+  "views_key": [
+   "cn-tower.pt",
+   "cn-tower.en"
+  ]
+ },
+ {
+  "id": "savoye",
+  "nome": "Villa Savoye",
+  "arquitetos": "Le Corbusier e Pierre Jeanneret",
+  "cidade": "Poissy",
+  "pais": "França",
+  "ano": 1931,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Estilo internacional",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Villa_Savoye",
+  "views_key": [
+   "savoye.pt",
+   "savoye.en"
+  ]
+ },
+ {
+  "id": "unite",
+  "nome": "Unité d'Habitation de Marselha",
+  "arquitetos": "Le Corbusier",
+  "cidade": "Marselha",
+  "pais": "França",
+  "ano": 1952,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Brutalismo",
+  "tipo": "Edifício residencial",
+  "fonte": "https://pt.wikipedia.org/wiki/Unité_d'Habitation",
+  "views_key": [
+   "unite.pt"
+  ]
+ },
+ {
+  "id": "ronchamp",
+  "nome": "Capela de Notre-Dame-du-Haut",
+  "arquitetos": "Le Corbusier",
+  "cidade": "Ronchamp",
+  "pais": "França",
+  "ano": 1955,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Notre_Dame_du_Haut",
+  "views_key": [
+   "ronchamp.pt",
+   "ronchamp.en"
+  ]
+ },
+ {
+  "id": "la-tourette",
+  "nome": "Convento de La Tourette",
+  "arquitetos": "Le Corbusier",
+  "cidade": "Éveux",
+  "pais": "França",
+  "ano": 1960,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Brutalismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Sainte_Marie_de_La_Tourette",
+  "views_key": [
+   "la-tourette.en"
+  ]
+ },
+ {
+  "id": "pompidou",
+  "nome": "Centro Georges Pompidou",
+  "arquitetos": "Renzo Piano, Richard Rogers e Gianfranco Franchini",
+  "cidade": "Paris",
+  "pais": "França",
+  "ano": 1977,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "High-tech",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Centre_Pompidou",
+  "views_key": [
+   "pompidou.pt",
+   "pompidou.en"
+  ]
+ },
+ {
+  "id": "piramide-louvre",
+  "nome": "Pirâmide do Louvre",
+  "arquitetos": "I. M. Pei",
+  "cidade": "Paris",
+  "pais": "França",
+  "ano": 1989,
+  "altura": 21.6,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Louvre_Pyramid",
+  "views_key": [
+   "piramide-louvre.pt",
+   "piramide-louvre.en"
+  ]
+ },
+ {
+  "id": "eiffel",
+  "nome": "Torre Eiffel",
+  "arquitetos": "Gustave Eiffel (empresa); Maurice Koechlin, Émile Nouguier e Stephen Sauvestre",
+  "cidade": "Paris",
+  "pais": "França",
+  "ano": 1889,
+  "altura": 300.0,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Torre",
+  "fonte": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "views_key": [
+   "eiffel.pt",
+   "eiffel.en"
+  ]
+ },
+ {
+  "id": "notre-dame",
+  "nome": "Catedral de Notre-Dame de Paris",
+  "arquitetos": "",
+  "cidade": "Paris",
+  "pais": "França",
+  "ano": 1345,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Gótico",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+  "views_key": [
+   "notre-dame.pt",
+   "notre-dame.en"
+  ]
+ },
+ {
+  "id": "louis-vuitton",
+  "nome": "Fundação Louis Vuitton",
+  "arquitetos": "Frank Gehry",
+  "cidade": "Paris",
+  "pais": "França",
+  "ano": 2014,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Desconstrutivismo",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Fondation_Louis_Vuitton",
+  "views_key": [
+   "louis-vuitton.en"
+  ]
+ },
+ {
+  "id": "mundo-arabe",
+  "nome": "Instituto do Mundo Árabe",
+  "arquitetos": "Jean Nouvel",
+  "cidade": "Paris",
+  "pais": "França",
+  "ano": 1987,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Centro cultural",
+  "fonte": "https://en.wikipedia.org/wiki/Arab_World_Institute",
+  "views_key": [
+   "mundo-arabe.pt",
+   "mundo-arabe.en"
+  ]
+ },
+ {
+  "id": "versalhes",
+  "nome": "Palácio de Versalhes",
+  "arquitetos": "Louis Le Vau e Jules Hardouin-Mansart",
+  "cidade": "Versalhes",
+  "pais": "França",
+  "ano": null,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Classicismo",
+  "tipo": "Palácio",
+  "fonte": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+  "views_key": [
+   "versalhes.pt",
+   "versalhes.en"
+  ]
+ },
+ {
+  "id": "chartres",
+  "nome": "Catedral de Chartres",
+  "arquitetos": "",
+  "cidade": "Chartres",
+  "pais": "França",
+  "ano": 1252,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Gótico",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Chartres_Cathedral",
+  "views_key": [
+   "chartres.pt",
+   "chartres.en"
+  ]
+ },
+ {
+  "id": "pavilhao-barcelona",
+  "nome": "Pavilhão de Barcelona",
+  "arquitetos": "Ludwig Mies van der Rohe e Lilly Reich",
+  "cidade": "Barcelona",
+  "pais": "Espanha",
+  "ano": 1929,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Pavilhão",
+  "fonte": "https://en.wikipedia.org/wiki/Barcelona_Pavilion",
+  "views_key": [
+   "pavilhao-barcelona.pt",
+   "pavilhao-barcelona.en"
+  ]
+ },
+ {
+  "id": "sagrada-familia",
+  "nome": "Sagrada Família",
+  "arquitetos": "Antoni Gaudí",
+  "cidade": "Barcelona",
+  "pais": "Espanha",
+  "ano": null,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo catalão",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Sagrada_Família",
+  "views_key": [
+   "sagrada-familia.pt",
+   "sagrada-familia.en"
+  ]
+ },
+ {
+  "id": "batllo",
+  "nome": "Casa Batlló",
+  "arquitetos": "Antoni Gaudí",
+  "cidade": "Barcelona",
+  "pais": "Espanha",
+  "ano": 1906,
+  "altura": null,
+  "area": 3100,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Casa_Batlló",
+  "views_key": [
+   "batllo.pt",
+   "batllo.en"
+  ]
+ },
+ {
+  "id": "mila",
+  "nome": "Casa Milà",
+  "arquitetos": "Antoni Gaudí",
+  "cidade": "Barcelona",
+  "pais": "Espanha",
+  "ano": 1912,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo catalão",
+  "tipo": "Edifício residencial",
+  "fonte": "https://en.wikipedia.org/wiki/Casa_Milà",
+  "views_key": [
+   "mila.pt",
+   "mila.en"
+  ]
+ },
+ {
+  "id": "guggenheim-bilbao",
+  "nome": "Museu Guggenheim Bilbao",
+  "arquitetos": "Frank Gehry",
+  "cidade": "Bilbao",
+  "pais": "Espanha",
+  "ano": 1997,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Desconstrutivismo",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
+  "views_key": [
+   "guggenheim-bilbao.pt",
+   "guggenheim-bilbao.en"
+  ]
+ },
+ {
+  "id": "valencia",
+  "nome": "Cidade das Artes e das Ciências",
+  "arquitetos": "Santiago Calatrava e Félix Candela",
+  "cidade": "Valência",
+  "pais": "Espanha",
+  "ano": 2009,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Centro cultural",
+  "fonte": "https://en.wikipedia.org/wiki/City_of_Arts_and_Sciences",
+  "views_key": [
+   "valencia.pt",
+   "valencia.en"
+  ]
+ },
+ {
+  "id": "alhambra",
+  "nome": "Alhambra",
+  "arquitetos": "",
+  "cidade": "Granada",
+  "pais": "Espanha",
+  "ano": 1354,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Arquitetura islâmica",
+  "tipo": "Palácio",
+  "fonte": "https://en.wikipedia.org/wiki/Alhambra",
+  "views_key": [
+   "alhambra.pt",
+   "alhambra.en"
+  ]
+ },
+ {
+  "id": "bauhaus",
+  "nome": "Edifício da Bauhaus em Dessau",
+  "arquitetos": "Walter Gropius",
+  "cidade": "Dessau",
+  "pais": "Alemanha",
+  "ano": 1926,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Edifício educacional",
+  "fonte": "https://en.wikipedia.org/wiki/Bauhaus_Dessau",
+  "views_key": [
+   "bauhaus.en"
+  ]
+ },
+ {
+  "id": "neue-nationalgalerie",
+  "nome": "Neue Nationalgalerie",
+  "arquitetos": "Ludwig Mies van der Rohe",
+  "cidade": "Berlim",
+  "pais": "Alemanha",
+  "ano": 1968,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Neue_Nationalgalerie",
+  "views_key": [
+   "neue-nationalgalerie.en"
+  ]
+ },
+ {
+  "id": "philharmonie",
+  "nome": "Filarmônica de Berlim",
+  "arquitetos": "Hans Scharoun",
+  "cidade": "Berlim",
+  "pais": "Alemanha",
+  "ano": 1963,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Sala de concertos",
+  "fonte": "https://en.wikipedia.org/wiki/Berliner_Philharmonie",
+  "views_key": [
+   "philharmonie.en"
+  ]
+ },
+ {
+  "id": "reichstag",
+  "nome": "Edifício do Reichstag",
+  "arquitetos": "Paul Wallot; Norman Foster (reforma de 1999)",
+  "cidade": "Berlim",
+  "pais": "Alemanha",
+  "ano": 1894,
+  "altura": 47.0,
+  "area": 61166,
+  "andares": 6,
+  "movimento": null,
+  "tipo": "Edifício público",
+  "fonte": "https://en.wikipedia.org/wiki/Reichstag_building",
+  "views_key": [
+   "reichstag.en"
+  ]
+ },
+ {
+  "id": "museu-judaico",
+  "nome": "Museu Judaico de Berlim",
+  "arquitetos": "Daniel Libeskind",
+  "cidade": "Berlim",
+  "pais": "Alemanha",
+  "ano": 2001,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Desconstrutivismo",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Jewish_Museum_Berlin",
+  "views_key": [
+   "museu-judaico.pt",
+   "museu-judaico.en"
+  ]
+ },
+ {
+  "id": "elbphilharmonie",
+  "nome": "Elbphilharmonie",
+  "arquitetos": "Herzog & de Meuron",
+  "cidade": "Hamburgo",
+  "pais": "Alemanha",
+  "ano": 2017,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Sala de concertos",
+  "fonte": "https://en.wikipedia.org/wiki/Elbphilharmonie",
+  "views_key": [
+   "elbphilharmonie.pt",
+   "elbphilharmonie.en"
+  ]
+ },
+ {
+  "id": "torre-einstein",
+  "nome": "Torre Einstein",
+  "arquitetos": "Erich Mendelsohn",
+  "cidade": "Potsdam",
+  "pais": "Alemanha",
+  "ano": 1921,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Expressionismo",
+  "tipo": "Edifício de pesquisa",
+  "fonte": "https://en.wikipedia.org/wiki/Einstein_Tower",
+  "views_key": [
+   "torre-einstein.pt",
+   "torre-einstein.en"
+  ]
+ },
+ {
+  "id": "vitra",
+  "nome": "Corpo de bombeiros da Vitra",
+  "arquitetos": "Zaha Hadid",
+  "cidade": "Weil am Rhein",
+  "pais": "Alemanha",
+  "ano": 1993,
+  "altura": null,
+  "area": 852,
+  "andares": null,
+  "movimento": "Desconstrutivismo",
+  "tipo": "Edifício público",
+  "fonte": "https://en.wikipedia.org/wiki/Vitra_Fire_Station",
+  "views_key": [
+   "vitra.en"
+  ]
+ },
+ {
+  "id": "colonia",
+  "nome": "Catedral de Colônia",
+  "arquitetos": "",
+  "cidade": "Colônia",
+  "pais": "Alemanha",
+  "ano": 1880,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Neogótico",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+  "views_key": [
+   "colonia.pt",
+   "colonia.en"
+  ]
+ },
+ {
+  "id": "kunsthaus-graz",
+  "nome": "Kunsthaus Graz",
+  "arquitetos": "Peter Cook e Colin Fournier",
+  "cidade": "Graz",
+  "pais": "Áustria",
+  "ano": 2003,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Arquitetura blob",
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Kunsthaus_Graz",
+  "views_key": [
+   "kunsthaus-graz.pt",
+   "kunsthaus-graz.en"
+  ]
+ },
+ {
+  "id": "vals",
+  "nome": "Termas de Vals",
+  "arquitetos": "Peter Zumthor",
+  "cidade": "Vals",
+  "pais": "Suíça",
+  "ano": 1996,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Minimalismo",
+  "tipo": "Termas",
+  "fonte": "https://en.wikipedia.org/wiki/Therme_Vals",
+  "views_key": [
+   "vals.en"
+  ]
+ },
+ {
+  "id": "tugendhat",
+  "nome": "Villa Tugendhat",
+  "arquitetos": "Ludwig Mies van der Rohe e Lilly Reich",
+  "cidade": "Brno",
+  "pais": "Tchéquia",
+  "ano": 1930,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Villa_Tugendhat",
+  "views_key": [
+   "tugendhat.en"
+  ]
+ },
+ {
+  "id": "schroder",
+  "nome": "Casa Rietveld Schröder",
+  "arquitetos": "Gerrit Rietveld",
+  "cidade": "Utrecht",
+  "pais": "Países Baixos",
+  "ano": 1924,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "De Stijl",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Rietveld_Schröder_House",
+  "views_key": [
+   "schroder.pt",
+   "schroder.en"
+  ]
+ },
+ {
+  "id": "atomium",
+  "nome": "Atomium",
+  "arquitetos": "André Waterkeyn; André e Jean Polak",
+  "cidade": "Bruxelas",
+  "pais": "Bélgica",
+  "ano": 1958,
+  "altura": 102.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Monumento",
+  "fonte": "https://en.wikipedia.org/wiki/Atomium",
+  "views_key": [
+   "atomium.pt",
+   "atomium.en"
+  ]
+ },
+ {
+  "id": "stoclet",
+  "nome": "Palácio Stoclet",
+  "arquitetos": "Josef Hoffmann",
+  "cidade": "Bruxelas",
+  "pais": "Bélgica",
+  "ano": 1911,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Secessão vienense",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Stoclet_Palace",
+  "views_key": [
+   "stoclet.pt",
+   "stoclet.en"
+  ]
+ },
+ {
+  "id": "tassel",
+  "nome": "Hôtel Tassel",
+  "arquitetos": "Victor Horta",
+  "cidade": "Bruxelas",
+  "pais": "Bélgica",
+  "ano": 1893,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Art nouveau",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Hôtel_Tassel",
+  "views_key": [
+   "tassel.en"
+  ]
+ },
+ {
+  "id": "casa-fascio",
+  "nome": "Casa del Fascio",
+  "arquitetos": "Giuseppe Terragni",
+  "cidade": "Como",
+  "pais": "Itália",
+  "ano": 1936,
+  "altura": null,
+  "area": 1101,
+  "andares": 4,
+  "movimento": "Racionalismo",
+  "tipo": "Edifício público",
+  "fonte": "https://en.wikipedia.org/wiki/Casa_del_Fascio_(Como)",
+  "views_key": [
+   "casa-fascio.pt",
+   "casa-fascio.en"
+  ]
+ },
+ {
+  "id": "pantheon",
+  "nome": "Panteão de Roma",
+  "arquitetos": "",
+  "cidade": "Roma",
+  "pais": "Itália",
+  "ano": 126,
+  "altura": 58.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Arquitetura romana",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+  "views_key": [
+   "pantheon.pt",
+   "pantheon.en"
+  ]
+ },
+ {
+  "id": "coliseu",
+  "nome": "Coliseu",
+  "arquitetos": "",
+  "cidade": "Roma",
+  "pais": "Itália",
+  "ano": 80,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Arquitetura romana",
+  "tipo": "Estádio",
+  "fonte": "https://en.wikipedia.org/wiki/Colosseum",
+  "views_key": [
+   "coliseu.pt",
+   "coliseu.en"
+  ]
+ },
+ {
+  "id": "sao-pedro",
+  "nome": "Basílica de São Pedro",
+  "arquitetos": "Donato Bramante, Michelangelo, Carlo Maderno e Gian Lorenzo Bernini",
+  "cidade": "Vaticano",
+  "pais": "Vaticano",
+  "ano": 1626,
+  "altura": 136.6,
+  "area": null,
+  "andares": null,
+  "movimento": "Renascimento",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+  "views_key": [
+   "sao-pedro.pt",
+   "sao-pedro.en"
+  ]
+ },
+ {
+  "id": "duomo-florenca",
+  "nome": "Catedral de Florença",
+  "arquitetos": "Arnolfo di Cambio e Filippo Brunelleschi",
+  "cidade": "Florença",
+  "pais": "Itália",
+  "ano": 1436,
+  "altura": 114.5,
+  "area": null,
+  "andares": null,
+  "movimento": "Gótico",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+  "views_key": [
+   "duomo-florenca.pt",
+   "duomo-florenca.en"
+  ]
+ },
+ {
+  "id": "pisa",
+  "nome": "Torre de Pisa",
+  "arquitetos": "Bonanno Pisano (atribuído)",
+  "cidade": "Pisa",
+  "pais": "Itália",
+  "ano": 1372,
+  "altura": 55.9,
+  "area": null,
+  "andares": null,
+  "movimento": "Românico",
+  "tipo": "Torre",
+  "fonte": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+  "views_key": [
+   "pisa.pt",
+   "pisa.en"
+  ]
+ },
+ {
+  "id": "rotonda",
+  "nome": "Villa La Rotonda",
+  "arquitetos": "Andrea Palladio",
+  "cidade": "Vicenza",
+  "pais": "Itália",
+  "ano": 1605,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Villa_La_Rotonda",
+  "views_key": [
+   "rotonda.pt",
+   "rotonda.en"
+  ]
+ },
+ {
+  "id": "bosco-verticale",
+  "nome": "Bosco Verticale",
+  "arquitetos": "Stefano Boeri (Boeri Studio)",
+  "cidade": "Milão",
+  "pais": "Itália",
+  "ano": 2014,
+  "altura": 116,
+  "area": 360000,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Edifício residencial",
+  "fonte": "https://en.wikipedia.org/wiki/Bosco_Verticale",
+  "views_key": [
+   "bosco-verticale.en"
+  ]
+ },
+ {
+  "id": "pirelli",
+  "nome": "Torre Pirelli",
+  "arquitetos": "Gio Ponti e Pier Luigi Nervi",
+  "cidade": "Milão",
+  "pais": "Itália",
+  "ano": 1958,
+  "altura": 124.0,
+  "area": 24000,
+  "andares": 32,
+  "movimento": "Modernismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Pirelli_Tower",
+  "views_key": [
+   "pirelli.en"
+  ]
+ },
+ {
+  "id": "maxxi",
+  "nome": "MAXXI",
+  "arquitetos": "Zaha Hadid",
+  "cidade": "Roma",
+  "pais": "Itália",
+  "ano": 2010,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/MAXXI",
+  "views_key": [
+   "maxxi.en"
+  ]
+ },
+ {
+  "id": "partenon",
+  "nome": "Partenon",
+  "arquitetos": "Ictino e Calícrates",
+  "cidade": "Atenas",
+  "pais": "Grécia",
+  "ano": -432,
+  "altura": 13.72,
+  "area": null,
+  "andares": null,
+  "movimento": "Clássico grego",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Parthenon",
+  "views_key": [
+   "partenon.pt",
+   "partenon.en"
+  ]
+ },
+ {
+  "id": "santa-sofia",
+  "nome": "Santa Sofia",
+  "arquitetos": "Isidoro de Mileto e Antêmio de Trales",
+  "cidade": "Istambul",
+  "pais": "Turquia",
+  "ano": 537,
+  "altura": 55.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Bizantino",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+  "views_key": [
+   "santa-sofia.pt",
+   "santa-sofia.en"
+  ]
+ },
+ {
+  "id": "tate-modern",
+  "nome": "Tate Modern",
+  "arquitetos": "Herzog & de Meuron (conversão); Giles Gilbert Scott (usina)",
+  "cidade": "Londres",
+  "pais": "Reino Unido",
+  "ano": 2000,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Tate_Modern",
+  "views_key": [
+   "tate-modern.pt",
+   "tate-modern.en"
+  ]
+ },
+ {
+  "id": "shard",
+  "nome": "The Shard",
+  "arquitetos": "Renzo Piano",
+  "cidade": "Londres",
+  "pais": "Reino Unido",
+  "ano": 2012,
+  "altura": 309.6,
+  "area": 127071,
+  "andares": 95,
+  "movimento": null,
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/The_Shard",
+  "views_key": [
+   "shard.pt",
+   "shard.en"
+  ]
+ },
+ {
+  "id": "gherkin",
+  "nome": "30 St Mary Axe",
+  "arquitetos": "Foster + Partners (Norman Foster)",
+  "cidade": "Londres",
+  "pais": "Reino Unido",
+  "ano": 2003,
+  "altura": 180.0,
+  "area": 64470,
+  "andares": 41,
+  "movimento": "High-tech",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/30_St_Mary_Axe",
+  "views_key": [
+   "gherkin.pt",
+   "gherkin.en"
+  ]
+ },
+ {
+  "id": "lloyds",
+  "nome": "Lloyd's Building",
+  "arquitetos": "Richard Rogers",
+  "cidade": "Londres",
+  "pais": "Reino Unido",
+  "ano": 1986,
+  "altura": 88.0,
+  "area": null,
+  "andares": 14,
+  "movimento": "High-tech",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Lloyd's_building",
+  "views_key": [
+   "lloyds.en"
+  ]
+ },
+ {
+  "id": "barbican",
+  "nome": "Barbican Estate",
+  "arquitetos": "Chamberlin, Powell and Bon",
+  "cidade": "Londres",
+  "pais": "Reino Unido",
+  "ano": 1976,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Brutalismo",
+  "tipo": "Edifício residencial",
+  "fonte": "https://en.wikipedia.org/wiki/Barbican_Estate",
+  "views_key": [
+   "barbican.en"
+  ]
+ },
+ {
+  "id": "serralves",
+  "nome": "Museu de Serralves",
+  "arquitetos": "Álvaro Siza",
+  "cidade": "Porto",
+  "pais": "Portugal",
+  "ano": 1999,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_de_Serralves",
+  "views_key": [
+   "serralves.pt",
+   "serralves.en"
+  ]
+ },
+ {
+  "id": "casa-musica",
+  "nome": "Casa da Música",
+  "arquitetos": "Rem Koolhaas (OMA)",
+  "cidade": "Porto",
+  "pais": "Portugal",
+  "ano": 2005,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Sala de concertos",
+  "fonte": "https://pt.wikipedia.org/wiki/Casa_da_Música",
+  "views_key": [
+   "casa-musica.pt",
+   "casa-musica.en"
+  ]
+ },
+ {
+  "id": "piscinas-mares",
+  "nome": "Piscinas das Marés",
+  "arquitetos": "Álvaro Siza",
+  "cidade": "Leça da Palmeira",
+  "pais": "Portugal",
+  "ano": 1966,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Equipamento urbano",
+  "fonte": "https://pt.wikipedia.org/wiki/Piscinas_de_Marés_de_Leça_da_Palmeira",
+  "views_key": [
+   "piscinas-mares.pt"
+  ]
+ },
+ {
+  "id": "paimio",
+  "nome": "Sanatório de Paimio",
+  "arquitetos": "Alvar Aalto",
+  "cidade": "Paimio",
+  "pais": "Finlândia",
+  "ano": 1932,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Hospital",
+  "fonte": "https://en.wikipedia.org/wiki/Paimio_Sanatorium",
+  "views_key": [
+   "paimio.pt",
+   "paimio.en"
+  ]
+ },
+ {
+  "id": "mairea",
+  "nome": "Villa Mairea",
+  "arquitetos": "Alvar Aalto",
+  "cidade": "Noormarkku",
+  "pais": "Finlândia",
+  "ano": 1939,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Residência",
+  "fonte": "https://en.wikipedia.org/wiki/Villa_Mairea",
+  "views_key": [
+   "mairea.en"
+  ]
+ },
+ {
+  "id": "grundtvig",
+  "nome": "Igreja de Grundtvig",
+  "arquitetos": "Peder Vilhelm Jensen-Klint",
+  "cidade": "Copenhague",
+  "pais": "Dinamarca",
+  "ano": 1940,
+  "altura": 49.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Expressionismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Grundtvig's_Church",
+  "views_key": [
+   "grundtvig.en"
+  ]
+ },
+ {
+  "id": "turning-torso",
+  "nome": "Turning Torso",
+  "arquitetos": "Santiago Calatrava",
+  "cidade": "Malmö",
+  "pais": "Suécia",
+  "ano": 2005,
+  "altura": 190.0,
+  "area": 27500,
+  "andares": 54,
+  "movimento": "Neofuturismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Turning_Torso",
+  "views_key": [
+   "turning-torso.pt",
+   "turning-torso.en"
+  ]
+ },
+ {
+  "id": "opera-oslo",
+  "nome": "Ópera de Oslo",
+  "arquitetos": "Snøhetta",
+  "cidade": "Oslo",
+  "pais": "Noruega",
+  "ano": 2007,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Contemporâneo",
+  "tipo": "Teatro",
+  "fonte": "https://en.wikipedia.org/wiki/Oslo_Opera_House",
+  "views_key": [
+   "opera-oslo.pt",
+   "opera-oslo.en"
+  ]
+ },
+ {
+  "id": "skogskyrkogarden",
+  "nome": "Cemitério do Bosque (Skogskyrkogården)",
+  "arquitetos": "Gunnar Asplund e Sigurd Lewerentz",
+  "cidade": "Estocolmo",
+  "pais": "Suécia",
+  "ano": 1920,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Classicismo nórdico",
+  "tipo": "Cemitério",
+  "fonte": "https://en.wikipedia.org/wiki/Skogskyrkogården",
+  "views_key": [
+   "skogskyrkogarden.en"
+  ]
+ },
+ {
+  "id": "sao-basilio",
+  "nome": "Catedral de São Basílio",
+  "arquitetos": "Ivan Barma e Postnik Yakovlev",
+  "cidade": "Moscou",
+  "pais": "Rússia",
+  "ano": 1561,
+  "altura": 47.5,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+  "views_key": [
+   "sao-basilio.pt",
+   "sao-basilio.en"
+  ]
+ },
+ {
+  "id": "opera-sydney",
+  "nome": "Ópera de Sydney",
+  "arquitetos": "Jørn Utzon",
+  "cidade": "Sydney",
+  "pais": "Austrália",
+  "ano": 1973,
+  "altura": 65.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Expressionismo",
+  "tipo": "Teatro",
+  "fonte": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+  "views_key": [
+   "opera-sydney.pt",
+   "opera-sydney.en"
+  ]
+ },
+ {
+  "id": "burj-khalifa",
+  "nome": "Burj Khalifa",
+  "arquitetos": "Adrian Smith",
+  "cidade": "Dubai",
+  "pais": "Emirados Árabes Unidos",
+  "ano": 2009,
+  "altura": 828.0,
+  "area": 309473,
+  "andares": 154,
+  "movimento": "Neofuturismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+  "views_key": [
+   "burj-khalifa.pt",
+   "burj-khalifa.en"
+  ]
+ },
+ {
+  "id": "burj-al-arab",
+  "nome": "Burj Al Arab",
+  "arquitetos": "Tom Wright (WKA)",
+  "cidade": "Dubai",
+  "pais": "Emirados Árabes Unidos",
+  "ano": 1999,
+  "altura": 321.0,
+  "area": 111500,
+  "andares": 56,
+  "movimento": "Expressionismo estrutural",
+  "tipo": "Hotel",
+  "fonte": "https://en.wikipedia.org/wiki/Burj_Al_Arab",
+  "views_key": [
+   "burj-al-arab.pt",
+   "burj-al-arab.en"
+  ]
+ },
+ {
+  "id": "louvre-abu-dhabi",
+  "nome": "Louvre Abu Dhabi",
+  "arquitetos": "Jean Nouvel",
+  "cidade": "Abu Dhabi",
+  "pais": "Emirados Árabes Unidos",
+  "ano": 2017,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Louvre_Abu_Dhabi",
+  "views_key": [
+   "louvre-abu-dhabi.pt",
+   "louvre-abu-dhabi.en"
+  ]
+ },
+ {
+  "id": "arte-islamica",
+  "nome": "Museu de Arte Islâmica de Doha",
+  "arquitetos": "I. M. Pei",
+  "cidade": "Doha",
+  "pais": "Catar",
+  "ano": 2008,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Doha",
+  "views_key": [
+   "arte-islamica.en"
+  ]
+ },
+ {
+  "id": "abraj-al-bait",
+  "nome": "Abraj Al Bait",
+  "arquitetos": "Dar Al-Handasah",
+  "cidade": "Meca",
+  "pais": "Arábia Saudita",
+  "ano": 2011,
+  "altura": 601.0,
+  "area": 310638,
+  "andares": 120,
+  "movimento": "Pós-modernismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Abraj_Al_Bait",
+  "views_key": [
+   "abraj-al-bait.pt",
+   "abraj-al-bait.en"
+  ]
+ },
+ {
+  "id": "kuwait-towers",
+  "nome": "Kuwait Towers",
+  "arquitetos": "Sune Lindström e Malene Bjørn",
+  "cidade": "Cidade do Kuwait",
+  "pais": "Kuwait",
+  "ano": 1976,
+  "altura": 187.0,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Torre",
+  "fonte": "https://en.wikipedia.org/wiki/Kuwait_Towers",
+  "views_key": [
+   "kuwait-towers.en"
+  ]
+ },
+ {
+  "id": "heydar-aliyev",
+  "nome": "Centro Heydar Aliyev",
+  "arquitetos": "Zaha Hadid",
+  "cidade": "Baku",
+  "pais": "Azerbaijão",
+  "ano": 2012,
+  "altura": 74.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Neofuturismo",
+  "tipo": "Centro cultural",
+  "fonte": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center",
+  "views_key": [
+   "heydar-aliyev.en"
+  ]
+ },
+ {
+  "id": "taj-mahal",
+  "nome": "Taj Mahal",
+  "arquitetos": "Ustad Ahmad Lahori",
+  "cidade": "Agra",
+  "pais": "Índia",
+  "ano": 1653,
+  "altura": 73.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Arquitetura mogol",
+  "tipo": "Mausoléu",
+  "fonte": "https://en.wikipedia.org/wiki/Taj_Mahal",
+  "views_key": [
+   "taj-mahal.pt",
+   "taj-mahal.en"
+  ]
+ },
+ {
+  "id": "lotus",
+  "nome": "Templo de Lótus",
+  "arquitetos": "Fariborz Sahba",
+  "cidade": "Nova Délhi",
+  "pais": "Índia",
+  "ano": 1986,
+  "altura": 40.8,
+  "area": null,
+  "andares": null,
+  "movimento": "Expressionismo",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Lotus_Temple",
+  "views_key": [
+   "lotus.pt",
+   "lotus.en"
+  ]
+ },
+ {
+  "id": "chandigarh",
+  "nome": "Complexo do Capitólio de Chandigarh",
+  "arquitetos": "Le Corbusier",
+  "cidade": "Chandigarh",
+  "pais": "Índia",
+  "ano": null,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Edifício público",
+  "fonte": "https://en.wikipedia.org/wiki/Capitol_Complex,_Chandigarh",
+  "views_key": [
+   "chandigarh.en"
+  ]
+ },
+ {
+  "id": "dhaka",
+  "nome": "Parlamento de Bangladesh (Jatiya Sangsad Bhaban)",
+  "arquitetos": "Louis Kahn",
+  "cidade": "Daca",
+  "pais": "Bangladesh",
+  "ano": 1982,
+  "altura": 47.0,
+  "area": 840000,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Edifício público",
+  "fonte": "https://en.wikipedia.org/wiki/Jatiya_Sangsad_Bhaban",
+  "views_key": [
+   "dhaka.pt",
+   "dhaka.en"
+  ]
+ },
+ {
+  "id": "petronas",
+  "nome": "Torres Petronas",
+  "arquitetos": "César Pelli",
+  "cidade": "Kuala Lumpur",
+  "pais": "Malásia",
+  "ano": 1999,
+  "altura": 451.9,
+  "area": 395000,
+  "andares": 88,
+  "movimento": "Pós-modernismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Petronas_Towers",
+  "views_key": [
+   "petronas.pt",
+   "petronas.en"
+  ]
+ },
+ {
+  "id": "merdeka-118",
+  "nome": "Merdeka 118",
+  "arquitetos": "Fender Katsalidis",
+  "cidade": "Kuala Lumpur",
+  "pais": "Malásia",
+  "ano": 2023,
+  "altura": 678.9,
+  "area": 292000,
+  "andares": 118,
+  "movimento": "Neofuturismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Merdeka_118",
+  "views_key": [
+   "merdeka-118.pt",
+   "merdeka-118.en"
+  ]
+ },
+ {
+  "id": "marina-bay",
+  "nome": "Marina Bay Sands",
+  "arquitetos": "Moshe Safdie",
+  "cidade": "Singapura",
+  "pais": "Singapura",
+  "ano": 2010,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Hotel",
+  "fonte": "https://en.wikipedia.org/wiki/Marina_Bay_Sands",
+  "views_key": [
+   "marina-bay.pt",
+   "marina-bay.en"
+  ]
+ },
+ {
+  "id": "taipei-101",
+  "nome": "Taipei 101",
+  "arquitetos": "C. Y. Lee",
+  "cidade": "Taipé",
+  "pais": "Taiwan",
+  "ano": 2004,
+  "altura": 508.2,
+  "area": 412500,
+  "andares": 101,
+  "movimento": "Neofuturismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Taipei_101",
+  "views_key": [
+   "taipei-101.pt",
+   "taipei-101.en"
+  ]
+ },
+ {
+  "id": "shanghai-tower",
+  "nome": "Shanghai Tower",
+  "arquitetos": "Gensler (Marshall Strabala e Jun Xia)",
+  "cidade": "Xangai",
+  "pais": "China",
+  "ano": 2014,
+  "altura": 632.0,
+  "area": 380000,
+  "andares": 128,
+  "movimento": "Pós-modernismo",
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Shanghai_Tower",
+  "views_key": [
+   "shanghai-tower.pt",
+   "shanghai-tower.en"
+  ]
+ },
+ {
+  "id": "cctv",
+  "nome": "Sede da CCTV",
+  "arquitetos": "OMA (Office for Metropolitan Architecture)",
+  "cidade": "Pequim",
+  "pais": "China",
+  "ano": 2012,
+  "altura": 234.0,
+  "area": 389079,
+  "andares": 51,
+  "movimento": null,
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/CCTV_Headquarters",
+  "views_key": [
+   "cctv.en"
+  ]
+ },
+ {
+  "id": "ninho",
+  "nome": "Estádio Nacional de Pequim (Ninho de Pássaro)",
+  "arquitetos": "Herzog & de Meuron",
+  "cidade": "Pequim",
+  "pais": "China",
+  "ano": 2008,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Estádio",
+  "fonte": "https://en.wikipedia.org/wiki/Beijing_National_Stadium",
+  "views_key": [
+   "ninho.pt",
+   "ninho.en"
+  ]
+ },
+ {
+  "id": "cidade-proibida",
+  "nome": "Cidade Proibida",
+  "arquitetos": "Kuai Xiang",
+  "cidade": "Pequim",
+  "pais": "China",
+  "ano": 1420,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Palácio",
+  "fonte": "https://en.wikipedia.org/wiki/Forbidden_City",
+  "views_key": [
+   "cidade-proibida.pt",
+   "cidade-proibida.en"
+  ]
+ },
+ {
+  "id": "lotte",
+  "nome": "Lotte World Tower",
+  "arquitetos": "Kohn Pedersen Fox",
+  "cidade": "Seul",
+  "pais": "Coreia do Sul",
+  "ano": 2016,
+  "altura": 555.0,
+  "area": 304081,
+  "andares": 123,
+  "movimento": null,
+  "tipo": "Arranha-céu",
+  "fonte": "https://en.wikipedia.org/wiki/Lotte_World_Tower",
+  "views_key": [
+   "lotte.pt",
+   "lotte.en"
+  ]
+ },
+ {
+  "id": "igreja-luz",
+  "nome": "Igreja da Luz",
+  "arquitetos": "Tadao Ando",
+  "cidade": "Ibaraki",
+  "pais": "Japão",
+  "ano": 1989,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Church_of_the_Light",
+  "views_key": [
+   "igreja-luz.pt",
+   "igreja-luz.en"
+  ]
+ },
+ {
+  "id": "chichu",
+  "nome": "Museu de Arte Chichu",
+  "arquitetos": "Tadao Ando",
+  "cidade": "Naoshima",
+  "pais": "Japão",
+  "ano": 2004,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Chichu_Art_Museum",
+  "views_key": [
+   "chichu.en"
+  ]
+ },
+ {
+  "id": "teshima",
+  "nome": "Museu de Arte de Teshima",
+  "arquitetos": "Ryue Nishizawa",
+  "cidade": "Teshima",
+  "pais": "Japão",
+  "ano": 2010,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Teshima_Art_Museum",
+  "views_key": [
+   "teshima.en"
+  ]
+ },
+ {
+  "id": "kanazawa",
+  "nome": "Museu de Arte Contemporânea do Século 21 de Kanazawa",
+  "arquitetos": "SANAA (Kazuyo Sejima e Ryue Nishizawa)",
+  "cidade": "Kanazawa",
+  "pais": "Japão",
+  "ano": 2004,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/21st_Century_Museum_of_Contemporary_Art,_Kanazawa",
+  "views_key": [
+   "kanazawa.en"
+  ]
+ },
+ {
+  "id": "skytree",
+  "nome": "Tokyo Skytree",
+  "arquitetos": "Nikken Sekkei",
+  "cidade": "Tóquio",
+  "pais": "Japão",
+  "ano": 2012,
+  "altura": 495.2,
+  "area": null,
+  "andares": null,
+  "movimento": "Neofuturismo",
+  "tipo": "Torre",
+  "fonte": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
+  "views_key": [
+   "skytree.pt",
+   "skytree.en"
+  ]
+ },
+ {
+  "id": "nakagin",
+  "nome": "Nakagin Capsule Tower",
+  "arquitetos": "Kisho Kurokawa",
+  "cidade": "Tóquio",
+  "pais": "Japão",
+  "ano": 1972,
+  "altura": null,
+  "area": null,
+  "andares": 13,
+  "movimento": "Metabolismo",
+  "tipo": "Edifício residencial",
+  "fonte": "https://en.wikipedia.org/wiki/Nakagin_Capsule_Tower",
+  "views_key": [
+   "nakagin.en"
+  ]
+ },
+ {
+  "id": "yoyogi",
+  "nome": "Ginásio Nacional de Yoyogi",
+  "arquitetos": "Kenzo Tange",
+  "cidade": "Tóquio",
+  "pais": "Japão",
+  "ano": 1964,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": "Modernismo",
+  "tipo": "Estádio",
+  "fonte": "https://en.wikipedia.org/wiki/Yoyogi_National_Gymnasium",
+  "views_key": [
+   "yoyogi.en"
+  ]
+ },
+ {
+  "id": "angkor",
+  "nome": "Angkor Wat",
+  "arquitetos": "",
+  "cidade": "Angkor",
+  "pais": "Camboja",
+  "ano": 1150,
+  "altura": 65.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Arquitetura khmer",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Angkor_Wat",
+  "views_key": [
+   "angkor.pt",
+   "angkor.en"
+  ]
+ },
+ {
+  "id": "giza",
+  "nome": "Grande Pirâmide de Gizé",
+  "arquitetos": "Hemiunu (atribuído)",
+  "cidade": "Gizé",
+  "pais": "Egito",
+  "ano": -2560,
+  "altura": 146.6,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Mausoléu",
+  "fonte": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+  "views_key": [
+   "giza.pt",
+   "giza.en"
+  ]
+ },
+ {
+  "id": "djenne",
+  "nome": "Grande Mesquita de Djenné",
+  "arquitetos": "",
+  "cidade": "Djenné",
+  "pais": "Mali",
+  "ano": 1907,
+  "altura": 16.0,
+  "area": null,
+  "andares": null,
+  "movimento": "Arquitetura sudano-saheliana",
+  "tipo": "Templo religioso",
+  "fonte": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenné",
+  "views_key": [
+   "djenne.pt",
+   "djenne.en"
+  ]
+ },
+ {
+  "id": "eastgate",
+  "nome": "Eastgate Centre",
+  "arquitetos": "Mick Pearce",
+  "cidade": "Harare",
+  "pais": "Zimbábue",
+  "ano": 1996,
+  "altura": null,
+  "area": 55000,
+  "andares": 9,
+  "movimento": null,
+  "tipo": "Edifício comercial",
+  "fonte": "https://en.wikipedia.org/wiki/Eastgate_Centre,_Harare",
+  "views_key": [
+   "eastgate.en"
+  ]
+ },
+ {
+  "id": "zeitz",
+  "nome": "Zeitz MOCAA",
+  "arquitetos": "Thomas Heatherwick",
+  "cidade": "Cidade do Cabo",
+  "pais": "África do Sul",
+  "ano": 2017,
+  "altura": null,
+  "area": null,
+  "andares": null,
+  "movimento": null,
+  "tipo": "Museu",
+  "fonte": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa",
+  "views_key": [
+   "zeitz.en"
+  ]
+ }
+]
