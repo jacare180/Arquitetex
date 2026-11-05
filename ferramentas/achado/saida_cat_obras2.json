@@ -41,7 +41,7 @@
     "vpt": 3661,
     "ven": 0,
     "peso": 3661.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Mosteiro dos Jerónimos",
@@ -55,7 +55,7 @@
     "vpt": 2777,
     "ven": 0,
     "peso": 2777.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Catedral de Notre-Dame de Paris",
@@ -82,7 +82,7 @@
     "vpt": 2333,
     "ven": 0,
     "peso": 2333.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Santa Sofia",
@@ -177,7 +177,7 @@
     "vpt": 0,
     "ven": 35074,
     "peso": 1753.7,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Santuário do Bom Jesus de Matosinhos",
@@ -450,7 +450,7 @@
     "vpt": 298,
     "ven": 0,
     "peso": 298.0,
-    "faixa": "Arquivo"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Catedral de Reims",
@@ -741,7 +741,7 @@
     "vpt": 0,
     "ven": 14350,
     "peso": 717.5,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Sala São Paulo",
@@ -1284,7 +1284,7 @@
     "vpt": 0,
     "ven": 19891,
     "peso": 994.5500000000001,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Casa Batlló",
@@ -1311,7 +1311,7 @@
     "vpt": 0,
     "ven": 10195,
     "peso": 509.75,
-    "faixa": "Cartão-postal"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Casa Milà",
@@ -1338,7 +1338,7 @@
     "vpt": 0,
     "ven": 5647,
     "peso": 282.35,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Casa Robie",
@@ -1365,7 +1365,7 @@
     "vpt": 261,
     "ven": 0,
     "peso": 261.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Casa Kaufmann (Palm Springs)",
@@ -1378,7 +1378,7 @@
     "vpt": 0,
     "ven": 4893,
     "peso": 244.65,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Casa Hollyhock",
@@ -1392,7 +1392,7 @@
     "vpt": 0,
     "ven": 3719,
     "peso": 185.95000000000002,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Casa Eames",
@@ -1431,7 +1431,7 @@
     "vpt": 134,
     "ven": 0,
     "peso": 134.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Hôtel Tassel",
@@ -1794,7 +1794,7 @@
     "vpt": 3270,
     "ven": 0,
     "peso": 3270.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Ponte 25 de Abril",
@@ -1807,7 +1807,7 @@
     "vpt": 3244,
     "ven": 0,
     "peso": 3244.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Ponte Sheikh Zayed",
@@ -1820,7 +1820,7 @@
     "vpt": 0,
     "ven": 32686,
     "peso": 1634.3000000000002,
-    "faixa": "Cartão-postal"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Ponte Golden Gate",
@@ -1833,7 +1833,7 @@
     "vpt": 1599,
     "ven": 0,
     "peso": 1599.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Ponte Rio Negro",
@@ -1844,7 +1844,7 @@
     "vpt": 1562,
     "ven": 0,
     "peso": 1562.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Ponte Hercílio Luz",
@@ -1870,7 +1870,7 @@
     "vpt": 1328,
     "ven": 0,
     "peso": 1328.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Ponte Estaiada",
@@ -1898,7 +1898,7 @@
     "vpt": 0,
     "ven": 16300,
     "peso": 815.0,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Ponte JK",
@@ -1923,7 +1923,7 @@
     "vpt": 701,
     "ven": 0,
     "peso": 701.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Ponte Mackinac",
@@ -1950,7 +1950,7 @@
     "vpt": 644,
     "ven": 0,
     "peso": 644.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Ponte Sunshine Skyway",
@@ -2014,7 +2014,7 @@
     "vpt": 442,
     "ven": 0,
     "peso": 442.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Ponte Carlos",
@@ -2364,7 +2364,7 @@
     "vpt": 4666,
     "ven": 0,
     "peso": 4666.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Estádio São Januário",
@@ -2459,7 +2459,7 @@
     "vpt": 0,
     "ven": 45913,
     "peso": 2295.65,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Estádio Vila Belmiro",
@@ -3021,7 +3021,7 @@
     "vpt": 3544,
     "ven": 0,
     "peso": 3544.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Teatro Amazonas",

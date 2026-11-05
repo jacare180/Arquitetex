@@ -448,7 +448,6 @@ Baldaquino
 Ambão
 """)
 C["ach-042"] = dict(pergunta="Um tipo de escada", tipo="termo", verifica=r"escada|stair|degrau", lead=True, so_pt=True, respostas="""
-Escada em caracol|Caracol;Escada caracol;Helicoidal
 Escada rolante|Rolante
 Escada de marinheiro|Marinheiro
 Escada em L|Em L
@@ -460,7 +459,7 @@ Escada de mão|Escada portátil
 Escada Santos Dumont=@en:Alternating tread stair|Passo alternado;Santos Dumont
 Escadaria
 Escada imperial=@en:Imperial staircase|Imperial
-Escada helicoidal=@en:Spiral staircase
+Escada em caracol=@en:Spiral staircase|Caracol;Escada caracol;Escada helicoidal;Helicoidal
 Escada escamoteável|Escada retrátil;Escada sótão
 Escada Penrose=Escada de Penrose|Penrose;Escada impossível
 Escada de Jacó|Escada de Jacob
@@ -471,7 +470,6 @@ Escada Potemkin=Escadaria Potemkin|Potemkin
 Rampa
 """)
 C["ach-043"] = dict(pergunta="Um instrumento de desenho", tipo="termo", verifica=r"desenh|draw|instrument|regua|papel|tinta|grafite|escrita|escrever", lead=True, so_pt=True, respostas="""
-Régua T=Régua tê|Régua tê;Régua T
 Esquadro
 Compasso=Compasso (geometria)|Compasso
 Escalímetro|Escala
@@ -553,10 +551,7 @@ Solidworks|SolidWorks
 CATIA|Catia
 """)
 C["ach-045"] = dict(pergunta="Um tipo de janela", tipo="termo", verifica=r"janela|window|vao|abertura|esquadria", lead=True, so_pt=True, respostas="""
-Guilhotina=Janela de guilhotina|Janela guilhotina
-Basculante|Janela basculante
 Pivotante|Janela pivotante
-De correr=Janela de correr|Janela de correr
 Maxim-ar
 Veneziana
 Janela em fita
@@ -780,3 +775,12 @@ C["ach-048"] = dict(pergunta="Um museu que guarda uma obra famosa (diga o museu)
 import cat_obras as _o
 C["ach-048"]["respostas"] = _o.C["ach-020"]["respostas"]
 C["ach-048"].pop("copiar", None)
+
+C["ach-045"]["extras"] = [
+  dict(nome="Guilhotina", grafias=["Janela de guilhotina", "Janela guilhotina"], faixa="Cartão-postal", lang="pt", titulo="Janela", termo="guilhotina"),
+  dict(nome="Basculante", grafias=["Janela basculante"], faixa="Cartão-postal", lang="pt", titulo="Janela", termo="basculante"),
+  dict(nome="De correr", grafias=["Janela de correr", "Correr"], faixa="Cartão-postal", lang="en", titulo="Window", termo="sliding"),
+]
+C["ach-043"]["extras"] = [
+  dict(nome="Régua T", grafias=["Régua tê", "Regua T"], faixa="Cartão-postal", lang="pt", titulo="Desenho técnico", termo="régua T"),
+]

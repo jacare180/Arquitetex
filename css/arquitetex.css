@@ -165,3 +165,27 @@ h1, h2 { text-wrap: balance; }
   .camada-tinta path, .espiral-tinta, .botao, .botao-texto { transition: none; }
   .resultado { animation: none; }
 }
+
+/* Escalímetro: a régua de escala que mostra a distância até a resposta */
+.escalimetro { margin: var(--espaco-1) 0 0; width: 100%; max-width: 34rem; display: grid; gap: var(--espaco-1); }
+.escalimetro-legenda { display: flex; justify-content: space-between; gap: var(--espaco-2); flex-wrap: wrap; font-size: var(--texto-1); }
+.escalimetro-legenda strong { font-weight: 500; }
+.regua { position: relative; height: 4.25rem; }
+.regua-corpo {
+  position: absolute; left: 2%; right: 2%; top: 0.5rem; height: 1.75rem; border-radius: 3px;
+  box-shadow: inset 1px 1px 0 var(--color-sombra), inset -1px -1px 0 var(--color-luz), 1px 1px 0 var(--color-luz), -1px -1px 0 var(--color-sombra);
+}
+.regua-marca, .regua-miuda, .regua-certo, .regua-chute { position: absolute; transform: translateX(-50%); }
+.regua-marca { top: 0.5rem; width: 1px; height: 1.1rem; background: var(--color-linha); }
+.regua-miuda { top: 0.5rem; width: 1px; height: 0.5rem; background: var(--color-relevo); }
+.regua-numero { position: absolute; top: 2.6rem; transform: translateX(-50%); font-size: 0.75rem; line-height: 1; }
+.regua-tinta {
+  position: absolute; top: 1.15rem; height: 0.45rem; background: var(--color-tinta);
+  transform-origin: left center; animation: corre 700ms var(--curva) both;
+}
+.regua-tinta.para-esquerda { transform-origin: right center; }
+.regua-certo { top: 0; width: 2px; height: 2.75rem; background: var(--color-tinta); }
+.regua-chute { top: 0.85rem; width: 0.7rem; height: 1rem; border-radius: 1px; background: var(--color-papel); border: 1.5px solid var(--color-tinta); }
+.escalimetro-nota { font-size: 0.8125rem; font-style: italic; text-align: center; }
+@keyframes corre { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@media (prefers-reduced-motion: reduce) { .regua-tinta { animation: none; } }

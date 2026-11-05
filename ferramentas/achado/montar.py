@@ -46,14 +46,30 @@ def montar(cid, d):
         if wiki.fold(titulo) != wiki.fold(nome) and titulo not in grafias: grafias.append(titulo)
         linhas.append(dict(nome=nome, grafias=grafias, lang=lang, titulo=p["title"], views=v, vpt=vpt, ven=ven, peso=peso))
     linhas.sort(key=lambda x: -x["peso"])
+    extras = []
+    for e in d.get("extras", []):
+        p = wiki.page(e["lang"], e["titulo"])
+        if p and wiki.fold(e["termo"]) in wiki.fold(p["text"]):
+            extras.append(dict(nome=e["nome"], grafias=e["grafias"], lang=e["lang"], titulo=p["title"], views=0, vpt=0, ven=0, peso=0, faixa_fixa=e["faixa"]))
+        else:
+            falhas.append((e["nome"], "extra sem termo na fonte"))
     n = len(linhas)
     for i, x in enumerate(linhas):
         frac = (i + 0.5) / n
         x["faixa"] = next(f for lim, f in FAIXAS if frac < lim)
+    import revisao
+    rev = revisao.REV.get(cid, {})
+    linhas = [x for x in linhas if x["nome"] not in rev.get("remover", [])]
+    fixar = dict(d.get("fixar", {})); fixar.update(rev.get("fixar", {}))
+    nomes = {x["nome"] for x in linhas}
+    for f in fixar:
+        if f not in nomes and f not in rev.get("remover", []): print("  REVISAO sem resposta:", cid, f)
+    d = dict(d, fixar=fixar)
     for f in d.get("fixar", {}):
         for x in linhas:
             if x["nome"] == f: x["faixa"] = d["fixar"][f]
-    return linhas, falhas
+    for x in extras: x["faixa"] = x.pop("faixa_fixa")
+    return linhas + extras, falhas
 
 if __name__ == "__main__":
     mod = importlib.import_module(sys.argv[1])

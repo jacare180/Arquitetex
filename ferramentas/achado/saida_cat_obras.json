@@ -66,7 +66,7 @@
     "vpt": 2678,
     "ven": 0,
     "peso": 2678.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Panteão da Pátria e da Liberdade Tancredo Neves",
@@ -93,7 +93,7 @@
     "vpt": 1698,
     "ven": 0,
     "peso": 1698.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Palácio Itamaraty",
@@ -509,7 +509,7 @@
     "vpt": 134,
     "ven": 0,
     "peso": 134.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Complexo do Capitólio de Chandigarh",
@@ -838,7 +838,7 @@
     "vpt": 0,
     "ven": 10195,
     "peso": 509.75,
-    "faixa": "Cartão-postal"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Taliesin",
@@ -1150,7 +1150,7 @@
     "vpt": 0,
     "ven": 32686,
     "peso": 1634.3000000000002,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Aeroporto Internacional de Pequim-Daxing",
@@ -1165,7 +1165,7 @@
     "vpt": 0,
     "ven": 11436,
     "peso": 571.8000000000001,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Centro Heydar Aliyev",
@@ -1575,7 +1575,7 @@
     "vpt": 2678,
     "ven": 0,
     "peso": 2678.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Panteão da Pátria e da Liberdade Tancredo Neves",
@@ -1602,7 +1602,7 @@
     "vpt": 1698,
     "ven": 0,
     "peso": 1698.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Estádio Nacional de Brasília Mané Garrincha",
@@ -2145,7 +2145,7 @@
     "vpt": 0,
     "ven": 15211,
     "peso": 760.5500000000001,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Shanghai Tower",
@@ -2167,7 +2167,7 @@
     "vpt": 0,
     "ven": 10415,
     "peso": 520.75,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Landmark 81",
@@ -2178,7 +2178,7 @@
     "vpt": 0,
     "ven": 8504,
     "peso": 425.20000000000005,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Torres Petronas",
@@ -2192,7 +2192,7 @@
     "vpt": 390,
     "ven": 0,
     "peso": 390.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Taipei 101",
@@ -2203,7 +2203,7 @@
     "vpt": 339,
     "ven": 0,
     "peso": 339.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "The Shard",
@@ -2243,7 +2243,7 @@
     "vpt": 0,
     "ven": 5614,
     "peso": 280.7,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "China Zun",
@@ -2708,7 +2708,7 @@
     "vpt": 760,
     "ven": 0,
     "peso": 760.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Museu do Prado",
@@ -2789,7 +2789,7 @@
     "vpt": 438,
     "ven": 0,
     "peso": 438.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "National Gallery",
@@ -2815,7 +2815,7 @@
     "vpt": 0,
     "ven": 8439,
     "peso": 421.95000000000005,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu Hermitage",
@@ -2843,7 +2843,7 @@
     "vpt": 373,
     "ven": 0,
     "peso": 373.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Museus Vaticanos",
@@ -2910,7 +2910,7 @@
     "vpt": 278,
     "ven": 0,
     "peso": 278.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Museu Nacional Centro de Arte Rainha Sofia",
@@ -3577,7 +3577,7 @@
     "vpt": 255,
     "ven": 0,
     "peso": 255.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu de Arte Moderna de São Paulo",
@@ -3617,7 +3617,7 @@
     "vpt": 214,
     "ven": 0,
     "peso": 214.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu de Arte Contemporânea da Universidade de São Paulo",

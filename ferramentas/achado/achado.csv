@@ -34,7 +34,7 @@ ach-001,Um arquiteto ou arquiteta brasileira modernista,,Abelardo de Souza,,Acha
 ach-002,"Uma arquiteta mulher, de qualquer época",,Zaha Hadid,Zaha,Cartão-postal,,,https://pt.wikipedia.org/wiki/Zaha_Hadid,pt 682; en 32686
 ach-002,"Uma arquiteta mulher, de qualquer época",,Lina Bo Bardi,Lina,Cartão-postal,,,https://pt.wikipedia.org/wiki/Lina_Bo_Bardi,pt 2401; en 1777
 ach-002,"Uma arquiteta mulher, de qualquer época",,Neri Oxman,,Arquivo,,,https://en.wikipedia.org/wiki/Neri_Oxman,pt 0; en 16654
-ach-002,"Uma arquiteta mulher, de qualquer época",,Eileen Gray,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Eileen_Gray,pt 51; en 5020
+ach-002,"Uma arquiteta mulher, de qualquer época",,Eileen Gray,,Clássico,,,https://pt.wikipedia.org/wiki/Eileen_Gray,pt 51; en 5020
 ach-002,"Uma arquiteta mulher, de qualquer época",,Julia Morgan,,Clássico,,,https://pt.wikipedia.org/wiki/Julia_Morgan,pt 17; en 4808
 ach-002,"Uma arquiteta mulher, de qualquer época",,Jeanne Gang,,Clássico,,,https://pt.wikipedia.org/wiki/Jeanne_Gang,pt 19; en 3233
 ach-002,"Uma arquiteta mulher, de qualquer época",,Charlotte Perriand,Perriand,Clássico,,,https://pt.wikipedia.org/wiki/Charlotte_Perriand,pt 40; en 1690
@@ -75,7 +75,7 @@ ach-002,"Uma arquiteta mulher, de qualquer época",,Carla Juaçaba,,Achado,,,htt
 ach-002,"Uma arquiteta mulher, de qualquer época",,Lotte Stam-Beese,,Achado,,,https://en.wikipedia.org/wiki/Lotte_Stam-Beese,pt 0; en 48
 ach-003,Um vencedor do Prêmio Pritzker,,Oscar Niemeyer,Niemeyer,Cartão-postal,,,https://pt.wikipedia.org/wiki/Oscar_Niemeyer,pt 7918; en 9713
 ach-003,Um vencedor do Prêmio Pritzker,,Zaha Hadid,Zaha; Hadid,Cartão-postal,,,https://pt.wikipedia.org/wiki/Zaha_Hadid,pt 682; en 32686
-ach-003,Um vencedor do Prêmio Pritzker,,Eduardo Souto de Moura,Souto de Moura; Souto Moura,Cartão-postal,,,https://pt.wikipedia.org/wiki/Eduardo_Souto_de_Moura,pt 4416; en 996
+ach-003,Um vencedor do Prêmio Pritzker,,Eduardo Souto de Moura,Souto de Moura; Souto Moura,Repertório,,,https://pt.wikipedia.org/wiki/Eduardo_Souto_de_Moura,pt 4416; en 996
 ach-003,Um vencedor do Prêmio Pritzker,,Frank Gehry,Gehry,Cartão-postal,,,https://pt.wikipedia.org/wiki/Frank_Gehry,pt 417; en 27340
 ach-003,Um vencedor do Prêmio Pritzker,,Álvaro Siza,Siza; Alvaro Siza Vieira; Álvaro Siza Vieira,Clássico,,,https://pt.wikipedia.org/wiki/Álvaro_Siza_Vieira,pt 2154; en 1538
 ach-003,Um vencedor do Prêmio Pritzker,,Norman Foster,Foster,Clássico,,,https://pt.wikipedia.org/wiki/Norman_Foster,pt 303; en 12879
@@ -145,8 +145,8 @@ ach-004,Um arquiteto japonês,,Sutemi Horiguchi,,Achado,,,https://en.wikipedia.o
 ach-004,Um arquiteto japonês,,Hiroshi Hara,,Achado,,,https://en.wikipedia.org/wiki/Hiroshi_Hara,pt 0; en 4
 ach-005,Um arquiteto latino-americano que não seja brasileiro,,Luis Barragán,Barragan; Barragán,Cartão-postal,,,https://pt.wikipedia.org/wiki/Luis_Barragán,pt 125; en 3004
 ach-005,Um arquiteto latino-americano que não seja brasileiro,,César Pelli,Pelli; Cesar Pelli,Cartão-postal,,,https://pt.wikipedia.org/wiki/César_Pelli,pt 42; en 3564
-ach-005,Um arquiteto latino-americano que não seja brasileiro,,Rafael Viñoly,Vinoly; Viñoly,Cartão-postal,,,https://pt.wikipedia.org/wiki/Rafael_Viñoly,pt 30; en 2487
-ach-005,Um arquiteto latino-americano que não seja brasileiro,,Juan O'Gorman,O'Gorman,Cartão-postal,,,https://pt.wikipedia.org/wiki/Juan_O'Gorman,pt 36; en 1067
+ach-005,Um arquiteto latino-americano que não seja brasileiro,,Rafael Viñoly,Vinoly; Viñoly,Repertório,,,https://pt.wikipedia.org/wiki/Rafael_Viñoly,pt 30; en 2487
+ach-005,Um arquiteto latino-americano que não seja brasileiro,,Juan O'Gorman,O'Gorman,Repertório,,,https://pt.wikipedia.org/wiki/Juan_O'Gorman,pt 36; en 1067
 ach-005,Um arquiteto latino-americano que não seja brasileiro,,Alejandro Aravena,Aravena,Clássico,,,https://pt.wikipedia.org/wiki/Alejandro_Aravena,pt 61; en 673
 ach-005,Um arquiteto latino-americano que não seja brasileiro,,Ricardo Legorreta,Legorreta,Clássico,,,https://pt.wikipedia.org/wiki/Ricardo_Legorreta,pt 17; en 663
 ach-005,Um arquiteto latino-americano que não seja brasileiro,,Félix Candela,Candela,Clássico,,,https://pt.wikipedia.org/wiki/Félix_Candela,pt 17; en 619
@@ -184,9 +184,9 @@ ach-005,Um arquiteto latino-americano que não seja brasileiro,,Mario Roberto Á
 ach-005,Um arquiteto latino-americano que não seja brasileiro,,Fernando Romero,,Achado,,,https://en.wikipedia.org/wiki/Fernando_Romero,pt 0; en 45
 ach-005,Um arquiteto latino-americano que não seja brasileiro,,Emilio Duhart,Duhart,Achado,,,https://en.wikipedia.org/wiki/Emilio_Duhart,pt 0; en 43
 ach-006,Um pintor impressionista,,Claude Monet,Monet,Cartão-postal,,,https://pt.wikipedia.org/wiki/Claude_Monet,pt 3758; en 55815
-ach-006,Um pintor impressionista,,Paul Cézanne,Cézanne; Cezanne,Cartão-postal,,,https://pt.wikipedia.org/wiki/Paul_Cézanne,pt 1111; en 26751
+ach-006,Um pintor impressionista,,Paul Cézanne,Cézanne; Cezanne,Clássico,,,https://pt.wikipedia.org/wiki/Paul_Cézanne,pt 1111; en 26751
 ach-006,Um pintor impressionista,,Pierre-Auguste Renoir,Renoir,Cartão-postal,,,https://pt.wikipedia.org/wiki/Pierre-Auguste_Renoir,pt 1087; en 26556
-ach-006,Um pintor impressionista,,Edgar Degas,Degas,Clássico,,,https://pt.wikipedia.org/wiki/Edgar_Degas,pt 1457; en 19307
+ach-006,Um pintor impressionista,,Edgar Degas,Degas,Cartão-postal,,,https://pt.wikipedia.org/wiki/Edgar_Degas,pt 1457; en 19307
 ach-006,Um pintor impressionista,,Édouard Manet,Manet; Edouard Manet,Clássico,,,https://pt.wikipedia.org/wiki/Édouard_Manet,pt 775; en 19258
 ach-006,Um pintor impressionista,,Mary Cassatt,Cassatt,Clássico,,,https://pt.wikipedia.org/wiki/Mary_Cassatt,pt 334; en 16547
 ach-006,Um pintor impressionista,,Camille Pissarro,Pissarro,Clássico,,,https://pt.wikipedia.org/wiki/Camille_Pissarro,pt 365; en 10952
@@ -219,9 +219,9 @@ ach-006,Um pintor impressionista,,Stanislas Lépine,,Achado,,,https://en.wikiped
 ach-006,Um pintor impressionista,,Henri Rouart,,Achado,,,https://en.wikipedia.org/wiki/Henri_Rouart,pt 0; en 101
 ach-007,Um artista do Renascimento,,Leonardo da Vinci,Leonardo; Da Vinci,Cartão-postal,,,https://pt.wikipedia.org/wiki/Leonardo_da_Vinci,pt 12381; en 162472
 ach-007,Um artista do Renascimento,,Michelangelo,Michelangelo Buonarroti; Miguel Ângelo,Cartão-postal,,,https://pt.wikipedia.org/wiki/Michelangelo,pt 5724; en 89010
-ach-007,Um artista do Renascimento,,Hieronymus Bosch,Bosch,Cartão-postal,,,https://pt.wikipedia.org/wiki/Hieronymus_Bosch,pt 1444; en 57901
+ach-007,Um artista do Renascimento,,Hieronymus Bosch,Bosch,Clássico,,,https://pt.wikipedia.org/wiki/Hieronymus_Bosch,pt 1444; en 57901
 ach-007,Um artista do Renascimento,,Rafael Sanzio,Rafael; Raffaello; Raphael,Cartão-postal,,,https://pt.wikipedia.org/wiki/Rafael,pt 2066; en 40861
-ach-007,Um artista do Renascimento,,Sandro Botticelli,Botticelli,Clássico,,,https://pt.wikipedia.org/wiki/Sandro_Botticelli,pt 1562; en 20695
+ach-007,Um artista do Renascimento,,Sandro Botticelli,Botticelli,Cartão-postal,,,https://pt.wikipedia.org/wiki/Sandro_Botticelli,pt 1562; en 20695
 ach-007,Um artista do Renascimento,,Albrecht Dürer,Dürer; Durer,Clássico,,,https://pt.wikipedia.org/wiki/Albrecht_Dürer,pt 831; en 25670
 ach-007,Um artista do Renascimento,,Jan van Eyck,Van Eyck,Clássico,,,https://pt.wikipedia.org/wiki/Jan_van_Eyck,pt 644; en 22535
 ach-007,Um artista do Renascimento,,Donatello,,Clássico,,,https://pt.wikipedia.org/wiki/Donatello,pt 966; en 15490
@@ -264,8 +264,8 @@ ach-007,Um artista do Renascimento,,Jacopo della Quercia,,Achado,,,https://pt.wi
 ach-008,Um artista brasileiro do século 20,,Tarsila do Amaral,Tarsila,Cartão-postal,,,https://pt.wikipedia.org/wiki/Tarsila_do_Amaral,pt 13343; en 1607
 ach-008,Um artista brasileiro do século 20,,Candido Portinari,Portinari; Cândido Portinari,Cartão-postal,,,https://pt.wikipedia.org/wiki/Candido_Portinari,pt 4893; en 989
 ach-008,Um artista brasileiro do século 20,,Anita Malfatti,Malfatti,Cartão-postal,,,https://pt.wikipedia.org/wiki/Anita_Malfatti,pt 3428; en 431
-ach-008,Um artista brasileiro do século 20,,Sebastião Salgado,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Sebastião_Salgado,pt 2201; en 3503
-ach-008,Um artista brasileiro do século 20,,Burle Marx,Roberto Burle Marx,Cartão-postal,,,https://pt.wikipedia.org/wiki/Roberto_Burle_Marx,pt 2036; en 2188
+ach-008,Um artista brasileiro do século 20,,Sebastião Salgado,,Clássico,,,https://pt.wikipedia.org/wiki/Sebastião_Salgado,pt 2201; en 3503
+ach-008,Um artista brasileiro do século 20,,Burle Marx,Roberto Burle Marx,Clássico,,,https://pt.wikipedia.org/wiki/Roberto_Burle_Marx,pt 2036; en 2188
 ach-008,Um artista brasileiro do século 20,,Di Cavalcanti,Emiliano Di Cavalcanti,Cartão-postal,,,https://pt.wikipedia.org/wiki/Di_Cavalcanti,pt 2038; en 346
 ach-008,Um artista brasileiro do século 20,,Vik Muniz,,Clássico,,,https://pt.wikipedia.org/wiki/Vik_Muniz,pt 1918; en 1164
 ach-008,Um artista brasileiro do século 20,,Hélio Oiticica,Oiticica; Helio Oiticica,Clássico,,,https://pt.wikipedia.org/wiki/Hélio_Oiticica,pt 1665; en 652
@@ -325,14 +325,14 @@ ach-008,Um artista brasileiro do século 20,,Maria Leontina,Maria Leontina da Co
 ach-008,Um artista brasileiro do século 20,,Willys de Castro,,Achado,,,https://pt.wikipedia.org/wiki/Willys_de_Castro,pt 45; en 41
 ach-008,Um artista brasileiro do século 20,,Lothar Charoux,,Achado,,,https://pt.wikipedia.org/wiki/Lothar_Charoux,pt 24; en 0
 ach-008,Um artista brasileiro do século 20,,Hércules Barsotti,,Achado,,,https://pt.wikipedia.org/wiki/Hércules_Barsotti,pt 18; en 25
-ach-009,"Um escultor, de qualquer época",,Pablo Picasso,Picasso,Cartão-postal,,,https://pt.wikipedia.org/wiki/Pablo_Picasso,pt 7857; en 144316
+ach-009,"Um escultor, de qualquer época",,Pablo Picasso,Picasso,Clássico,,,https://pt.wikipedia.org/wiki/Pablo_Picasso,pt 7857; en 144316
 ach-009,"Um escultor, de qualquer época",,Michelangelo,Michelangelo Buonarroti,Cartão-postal,,,https://pt.wikipedia.org/wiki/Michelangelo,pt 5724; en 89010
-ach-009,"Um escultor, de qualquer época",,Yayoi Kusama,Kusama,Cartão-postal,,,https://pt.wikipedia.org/wiki/Yayoi_Kusama,pt 2291; en 51614
+ach-009,"Um escultor, de qualquer época",,Yayoi Kusama,Kusama,Repertório,,,https://pt.wikipedia.org/wiki/Yayoi_Kusama,pt 2291; en 51614
 ach-009,"Um escultor, de qualquer época",,Aleijadinho,Antônio Francisco Lisboa,Cartão-postal,,,https://pt.wikipedia.org/wiki/Aleijadinho,pt 5718; en 769
-ach-009,"Um escultor, de qualquer época",,Edgar Degas,Degas,Cartão-postal,,,https://pt.wikipedia.org/wiki/Edgar_Degas,pt 1457; en 19307
+ach-009,"Um escultor, de qualquer época",,Edgar Degas,Degas,Arquivo,,,https://pt.wikipedia.org/wiki/Edgar_Degas,pt 1457; en 19307
 ach-009,"Um escultor, de qualquer época",,Gian Lorenzo Bernini,Bernini,Clássico,,,https://pt.wikipedia.org/wiki/Gian_Lorenzo_Bernini,pt 1150; en 16983
 ach-009,"Um escultor, de qualquer época",,Donatello,,Clássico,,,https://pt.wikipedia.org/wiki/Donatello,pt 966; en 15490
-ach-009,"Um escultor, de qualquer época",,Auguste Rodin,Rodin,Clássico,,,https://pt.wikipedia.org/wiki/Auguste_Rodin,pt 807; en 16207
+ach-009,"Um escultor, de qualquer época",,Auguste Rodin,Rodin,Cartão-postal,,,https://pt.wikipedia.org/wiki/Auguste_Rodin,pt 807; en 16207
 ach-009,"Um escultor, de qualquer época",,Anish Kapoor,Kapoor,Clássico,,,https://pt.wikipedia.org/wiki/Anish_Kapoor,pt 132; en 19200
 ach-009,"Um escultor, de qualquer época",,Jeff Koons,Koons,Clássico,,,https://pt.wikipedia.org/wiki/Jeff_Koons,pt 255; en 15091
 ach-009,"Um escultor, de qualquer época",,Camille Claudel,,Clássico,,,https://pt.wikipedia.org/wiki/Camille_Claudel,pt 739; en 8630
@@ -423,8 +423,8 @@ ach-010,Um designer de cadeira famosa,,Poul Kjærholm,,Achado,,,https://en.wikip
 ach-010,Um designer de cadeira famosa,,Jorge Zalszupin,Zalszupin,Achado,,,https://en.wikipedia.org/wiki/Jorge_Zalszupin,pt 0; en 104
 ach-011,Um paisagista,,Roberto Burle Marx,Burle Marx,Cartão-postal,,,https://pt.wikipedia.org/wiki/Roberto_Burle_Marx,pt 2036; en 2188
 ach-011,Um paisagista,,Frederick Law Olmsted,Olmsted,Cartão-postal,,,https://pt.wikipedia.org/wiki/Frederick_Law_Olmsted,pt 37; en 12547
-ach-011,Um paisagista,,Capability Brown,Lancelot Brown; Brown,Cartão-postal,,,https://pt.wikipedia.org/wiki/Lancelot_Brown,pt 23; en 7448
-ach-011,Um paisagista,,Luis Barragán,Barragán,Clássico,,,https://pt.wikipedia.org/wiki/Luis_Barragán,pt 125; en 3004
+ach-011,Um paisagista,,Capability Brown,Lancelot Brown; Brown,Clássico,,,https://pt.wikipedia.org/wiki/Lancelot_Brown,pt 23; en 7448
+ach-011,Um paisagista,,Luis Barragán,Barragán,Repertório,,,https://pt.wikipedia.org/wiki/Luis_Barragán,pt 125; en 3004
 ach-011,Um paisagista,,Mestre Valentim,,Clássico,,,https://pt.wikipedia.org/wiki/Mestre_Valentim,pt 365; en 25
 ach-011,Um paisagista,,André Le Nôtre,Le Nôtre; Le Notre,Clássico,,,https://pt.wikipedia.org/wiki/André_Le_Nôtre,pt 71; en 1649
 ach-011,Um paisagista,,William Kent,,Clássico,,,https://pt.wikipedia.org/wiki/William_Kent,pt 34; en 1795
@@ -453,10 +453,10 @@ ach-011,Um paisagista,,Adolphe Alphand,Alphand,Achado,,,https://en.wikipedia.org
 ach-011,Um paisagista,,Kathryn Gustafson,,Achado,,,https://en.wikipedia.org/wiki/Kathryn_Gustafson,pt 0; en 205
 ach-011,Um paisagista,,Jean-Claude Nicolas Forestier,Forestier,Achado,,,https://en.wikipedia.org/wiki/Jean-Claude_Nicolas_Forestier,pt 0; en 133
 ach-012,Um fotógrafo de arquitetura ou de arte,,Ansel Adams,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ansel_Adams,pt 258; en 2366270
-ach-012,Um fotógrafo de arquitetura ou de arte,,Robert Mapplethorpe,Mapplethorpe,Cartão-postal,,,https://pt.wikipedia.org/wiki/Robert_Mapplethorpe,pt 471; en 32231
+ach-012,Um fotógrafo de arquitetura ou de arte,,Robert Mapplethorpe,Mapplethorpe,Clássico,,,https://pt.wikipedia.org/wiki/Robert_Mapplethorpe,pt 471; en 32231
 ach-012,Um fotógrafo de arquitetura ou de arte,,Man Ray,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Man_Ray,pt 257; en 26692
 ach-012,Um fotógrafo de arquitetura ou de arte,,Annie Leibovitz,Leibovitz,Cartão-postal,,,https://pt.wikipedia.org/wiki/Annie_Leibovitz,pt 309; en 20900
-ach-012,Um fotógrafo de arquitetura ou de arte,,Sebastião Salgado,Salgado,Clássico,,,https://pt.wikipedia.org/wiki/Sebastião_Salgado,pt 2201; en 3503
+ach-012,Um fotógrafo de arquitetura ou de arte,,Sebastião Salgado,Salgado,Cartão-postal,,,https://pt.wikipedia.org/wiki/Sebastião_Salgado,pt 2201; en 3503
 ach-012,Um fotógrafo de arquitetura ou de arte,,Vik Muniz,,Clássico,,,https://pt.wikipedia.org/wiki/Vik_Muniz,pt 1918; en 1164
 ach-012,Um fotógrafo de arquitetura ou de arte,,Diane Arbus,Arbus,Clássico,,,https://pt.wikipedia.org/wiki/Diane_Arbus,pt 138; en 10769
 ach-012,Um fotógrafo de arquitetura ou de arte,,Cindy Sherman,,Clássico,,,https://pt.wikipedia.org/wiki/Cindy_Sherman,pt 143; en 9530
@@ -498,9 +498,9 @@ ach-013,Uma obra de Oscar Niemeyer,,Palácio da Alvorada,Alvorada,Cartão-postal
 ach-013,Uma obra de Oscar Niemeyer,,Palácio do Planalto,Planalto,Cartão-postal,,planalto,https://pt.wikipedia.org/wiki/Palácio_do_Planalto,pt 4961; en 0
 ach-013,Uma obra de Oscar Niemeyer,,Palácio do Jaburu,Jaburu,Arquivo,,,https://pt.wikipedia.org/wiki/Palácio_do_Jaburu,pt 4665; en 0
 ach-013,Uma obra de Oscar Niemeyer,,Edifício Copan,Copan,Cartão-postal,,copan,https://pt.wikipedia.org/wiki/Edifício_Copan,pt 3947; en 0
-ach-013,Uma obra de Oscar Niemeyer,,Congresso Nacional,Congresso; Palácio do Congresso Nacional,Clássico,,congresso,https://pt.wikipedia.org/wiki/Palácio_do_Congresso_Nacional,pt 2678; en 0
+ach-013,Uma obra de Oscar Niemeyer,,Congresso Nacional,Congresso; Palácio do Congresso Nacional,Cartão-postal,,congresso,https://pt.wikipedia.org/wiki/Palácio_do_Congresso_Nacional,pt 2678; en 0
 ach-013,Uma obra de Oscar Niemeyer,,Panteão da Pátria e da Liberdade Tancredo Neves,Panteão da Pátria,Repertório,,,https://pt.wikipedia.org/wiki/Panteão_da_Pátria_e_da_Liberdade_Tancredo_Neves,pt 2402; en 0
-ach-013,Uma obra de Oscar Niemeyer,,Catedral de Brasília,Catedral Metropolitana; Catedral Metropolitana de Brasília,Clássico,,catedral-brasilia,https://pt.wikipedia.org/wiki/Catedral_Metropolitana_de_Brasília,pt 1698; en 0
+ach-013,Uma obra de Oscar Niemeyer,,Catedral de Brasília,Catedral Metropolitana; Catedral Metropolitana de Brasília,Cartão-postal,,catedral-brasilia,https://pt.wikipedia.org/wiki/Catedral_Metropolitana_de_Brasília,pt 1698; en 0
 ach-013,Uma obra de Oscar Niemeyer,,Palácio Itamaraty,Itamaraty,Clássico,,itamaraty,https://pt.wikipedia.org/wiki/Palácio_Itamaraty,pt 1435; en 0
 ach-013,Uma obra de Oscar Niemeyer,,Parque Ibirapuera,Ibirapuera,Clássico,,,https://pt.wikipedia.org/wiki/Parque_Ibirapuera,pt 1407; en 0
 ach-013,Uma obra de Oscar Niemeyer,,Igreja da Pampulha,Igreja de São Francisco de Assis; Igrejinha da Pampulha,Clássico,,,https://pt.wikipedia.org/wiki/Igreja_de_São_Francisco_de_Assis_(Belo_Horizonte),pt 995; en 0
@@ -532,7 +532,7 @@ ach-013,Uma obra de Oscar Niemeyer,,Edifício Montreal,,Achado,,,https://pt.wiki
 ach-013,Uma obra de Oscar Niemeyer,,Universidade de Constantine,Universidade de Constantina; University of Constantine 1,Achado,,,https://en.wikipedia.org/wiki/University_of_Constantine_1,pt 0; en 200
 ach-014,Uma obra de Le Corbusier,,Palácio Gustavo Capanema,Capanema; MEC; Edifício Gustavo Capanema,Cartão-postal,,,https://pt.wikipedia.org/wiki/Edifício_Gustavo_Capanema,pt 1121; en 0
 ach-014,Uma obra de Le Corbusier,,Unité d'Habitation de Marselha,Unité d'Habitation; Cidade Radiosa; Cité Radieuse; Unité d'habitation,Cartão-postal,,,https://en.wikipedia.org/wiki/Unité_d'habitation,pt 0; en 2800
-ach-014,Uma obra de Le Corbusier,,Villa Savoye,Savoye,Clássico,,savoye,https://pt.wikipedia.org/wiki/Villa_Savoye,pt 134; en 0
+ach-014,Uma obra de Le Corbusier,,Villa Savoye,Savoye,Cartão-postal,,savoye,https://pt.wikipedia.org/wiki/Villa_Savoye,pt 134; en 0
 ach-014,Uma obra de Le Corbusier,,Complexo do Capitólio de Chandigarh,Chandigarh; Capitólio de Chandigarh; Chandigarh Capitol Complex,Clássico,,,https://en.wikipedia.org/wiki/Chandigarh_Capitol_Complex,pt 0; en 1936
 ach-014,Uma obra de Le Corbusier,,Capela de Ronchamp,Notre-Dame-du-Haut; Ronchamp; Notre-Dame du Haut,Clássico,,,https://en.wikipedia.org/wiki/Notre-Dame_du_Haut,pt 0; en 1935
 ach-014,Uma obra de Le Corbusier,,Museu Nacional de Arte Ocidental,Museu de Arte Ocidental de Tóquio; National Museum of Western Art,Clássico,,,https://en.wikipedia.org/wiki/National_Museum_of_Western_Art,pt 0; en 1538
@@ -556,7 +556,7 @@ ach-014,Uma obra de Le Corbusier,,Villa Stein,Villa Stein-de Monzie; Villa Garch
 ach-014,Uma obra de Le Corbusier,,Villa Cook,,Achado,,,https://en.wikipedia.org/wiki/Villa_Cook,pt 0; en 74
 ach-015,Uma obra de Frank Lloyd Wright,,Casa da Cascata,Fallingwater,Cartão-postal,,fallingwater,https://en.wikipedia.org/wiki/Fallingwater,pt 0; en 35786
 ach-015,Uma obra de Frank Lloyd Wright,,Museu Guggenheim de Nova York,Guggenheim; Guggenheim de Nova York; Solomon R. Guggenheim Museum,Cartão-postal,,guggenheim-ny,https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum,pt 0; en 16750
-ach-015,Uma obra de Frank Lloyd Wright,,Ennis House,,Cartão-postal,,,https://en.wikipedia.org/wiki/Ennis_House,pt 0; en 10195
+ach-015,Uma obra de Frank Lloyd Wright,,Ennis House,,Arquivo,,,https://en.wikipedia.org/wiki/Ennis_House,pt 0; en 10195
 ach-015,Uma obra de Frank Lloyd Wright,,Taliesin,,Clássico,,,https://en.wikipedia.org/wiki/Taliesin_(studio),pt 0; en 9637
 ach-015,Uma obra de Frank Lloyd Wright,,Taliesin West,,Clássico,,,https://en.wikipedia.org/wiki/Taliesin_West,pt 0; en 7580
 ach-015,Uma obra de Frank Lloyd Wright,,Hotel Imperial de Tóquio,"Imperial Hotel; Imperial Hotel, Tokyo",Clássico,,,"https://en.wikipedia.org/wiki/Imperial_Hotel,_Tokyo",pt 0; en 6338
@@ -580,8 +580,8 @@ ach-015,Uma obra de Frank Lloyd Wright,,Casa Pope-Leighey,Pope-Leighey House; Po
 ach-015,Uma obra de Frank Lloyd Wright,,Casa Zimmerman,Zimmerman House,Achado,,,"https://en.wikipedia.org/wiki/Zimmerman_House_(Manchester,_New_Hampshire)",pt 0; en 333
 ach-015,Uma obra de Frank Lloyd Wright,,Casa Westcott,Westcott House,Achado,,,"https://en.wikipedia.org/wiki/Westcott_House_(Springfield,_Ohio)",pt 0; en 252
 ach-015,Uma obra de Frank Lloyd Wright,,Casa Gordon,Gordon House,Achado,,,https://en.wikipedia.org/wiki/Gordon_House,pt 0; en 18
-ach-016,Uma obra de Zaha Hadid,,Ponte Sheikh Zayed,Zaha Hadid,Cartão-postal,,,https://en.wikipedia.org/wiki/Zaha_Hadid,pt 0; en 32686
-ach-016,Uma obra de Zaha Hadid,,Aeroporto Internacional de Pequim-Daxing,Aeroporto de Daxing; Daxing; Beijing Daxing International Airport,Cartão-postal,,,https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport,pt 0; en 11436
+ach-016,Uma obra de Zaha Hadid,,Ponte Sheikh Zayed,Zaha Hadid,Repertório,,,https://en.wikipedia.org/wiki/Zaha_Hadid,pt 0; en 32686
+ach-016,Uma obra de Zaha Hadid,,Aeroporto Internacional de Pequim-Daxing,Aeroporto de Daxing; Daxing; Beijing Daxing International Airport,Repertório,,,https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport,pt 0; en 11436
 ach-016,Uma obra de Zaha Hadid,,Centro Heydar Aliyev,Heydar Aliyev; Heydar Aliyev Center,Cartão-postal,,heydar-aliyev,https://en.wikipedia.org/wiki/Heydar_Aliyev_Center,pt 0; en 3986
 ach-016,Uma obra de Zaha Hadid,,Dongdaemun Design Plaza,DDP,Clássico,,,https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza,pt 0; en 2399
 ach-016,Uma obra de Zaha Hadid,,Riverside Museum,,Clássico,,,https://en.wikipedia.org/wiki/Riverside_Museum,pt 0; en 2171
@@ -612,9 +612,9 @@ ach-016,Uma obra de Zaha Hadid,,Evelyn Grace Academy,Ark Evelyn Grace Academy,Ac
 ach-017,Um edifício em Brasília,,Palácio da Alvorada,Alvorada,Cartão-postal,,alvorada,https://pt.wikipedia.org/wiki/Palácio_da_Alvorada,pt 13261; en 0
 ach-017,Um edifício em Brasília,,Palácio do Planalto,Planalto,Cartão-postal,,planalto,https://pt.wikipedia.org/wiki/Palácio_do_Planalto,pt 4961; en 0
 ach-017,Um edifício em Brasília,,Palácio do Jaburu,Jaburu,Repertório,,,https://pt.wikipedia.org/wiki/Palácio_do_Jaburu,pt 4665; en 0
-ach-017,Um edifício em Brasília,,Congresso Nacional,Congresso; Palácio do Congresso Nacional,Clássico,,congresso,https://pt.wikipedia.org/wiki/Palácio_do_Congresso_Nacional,pt 2678; en 0
+ach-017,Um edifício em Brasília,,Congresso Nacional,Congresso; Palácio do Congresso Nacional,Cartão-postal,,congresso,https://pt.wikipedia.org/wiki/Palácio_do_Congresso_Nacional,pt 2678; en 0
 ach-017,Um edifício em Brasília,,Panteão da Pátria e da Liberdade Tancredo Neves,Panteão da Pátria,Repertório,,,https://pt.wikipedia.org/wiki/Panteão_da_Pátria_e_da_Liberdade_Tancredo_Neves,pt 2402; en 0
-ach-017,Um edifício em Brasília,,Catedral de Brasília,Catedral Metropolitana; Catedral Metropolitana de Brasília,Clássico,,catedral-brasilia,https://pt.wikipedia.org/wiki/Catedral_Metropolitana_de_Brasília,pt 1698; en 0
+ach-017,Um edifício em Brasília,,Catedral de Brasília,Catedral Metropolitana; Catedral Metropolitana de Brasília,Cartão-postal,,catedral-brasilia,https://pt.wikipedia.org/wiki/Catedral_Metropolitana_de_Brasília,pt 1698; en 0
 ach-017,Um edifício em Brasília,,Estádio Nacional de Brasília Mané Garrincha,Mané Garrincha; Estádio Mané Garrincha,Clássico,,,https://pt.wikipedia.org/wiki/Estádio_Nacional_de_Brasília_Mané_Garrincha,pt 1620; en 0
 ach-017,Um edifício em Brasília,,Palácio Itamaraty,Itamaraty; Palácio dos Arcos,Clássico,,itamaraty,https://pt.wikipedia.org/wiki/Palácio_Itamaraty,pt 1435; en 0
 ach-017,Um edifício em Brasília,,Palácio do Supremo Tribunal Federal,STF; Supremo,Clássico,,,https://pt.wikipedia.org/wiki/Palácio_do_Supremo_Tribunal_Federal,pt 774; en 0
@@ -657,15 +657,15 @@ ach-019,Um arranha-céu com mais de 300 m,,Burj Khalifa,,Cartão-postal,,burj-kh
 ach-019,Um arranha-céu com mais de 300 m,,Chrysler Building,Edifício Chrysler; Chrysler,Cartão-postal,,chrysler,https://en.wikipedia.org/wiki/Chrysler_Building,pt 0; en 35519
 ach-019,Um arranha-céu com mais de 300 m,,Empire State Building,Empire State,Cartão-postal,,empire-state,https://pt.wikipedia.org/wiki/Empire_State_Building,pt 1275; en 0
 ach-019,Um arranha-céu com mais de 300 m,,One World Trade Center,Freedom Tower; One WTC,Cartão-postal,,one-wtc,https://pt.wikipedia.org/wiki/One_World_Trade_Center,pt 788; en 0
-ach-019,Um arranha-céu com mais de 300 m,,111 West 57th Street,Steinway Tower,Clássico,,,https://en.wikipedia.org/wiki/111_West_57th_Street,pt 0; en 15211
+ach-019,Um arranha-céu com mais de 300 m,,111 West 57th Street,Steinway Tower,Repertório,,,https://en.wikipedia.org/wiki/111_West_57th_Street,pt 0; en 15211
 ach-019,Um arranha-céu com mais de 300 m,,Shanghai Tower,,Clássico,,shanghai-tower,https://pt.wikipedia.org/wiki/Shanghai_Tower,pt 521; en 0
-ach-019,Um arranha-céu com mais de 300 m,,One Vanderbilt,,Clássico,,,https://en.wikipedia.org/wiki/One_Vanderbilt,pt 0; en 10415
-ach-019,Um arranha-céu com mais de 300 m,,Landmark 81,,Clássico,,,https://en.wikipedia.org/wiki/Landmark_81,pt 0; en 8504
-ach-019,Um arranha-céu com mais de 300 m,,Torres Petronas,Petronas; Petronas Twin Towers,Clássico,,,https://pt.wikipedia.org/wiki/Petronas_Twin_Towers,pt 390; en 0
-ach-019,Um arranha-céu com mais de 300 m,,Taipei 101,,Clássico,,taipei-101,https://pt.wikipedia.org/wiki/Taipei_101,pt 339; en 0
+ach-019,Um arranha-céu com mais de 300 m,,One Vanderbilt,,Repertório,,,https://en.wikipedia.org/wiki/One_Vanderbilt,pt 0; en 10415
+ach-019,Um arranha-céu com mais de 300 m,,Landmark 81,,Repertório,,,https://en.wikipedia.org/wiki/Landmark_81,pt 0; en 8504
+ach-019,Um arranha-céu com mais de 300 m,,Torres Petronas,Petronas; Petronas Twin Towers,Cartão-postal,,,https://pt.wikipedia.org/wiki/Petronas_Twin_Towers,pt 390; en 0
+ach-019,Um arranha-céu com mais de 300 m,,Taipei 101,,Cartão-postal,,taipei-101,https://pt.wikipedia.org/wiki/Taipei_101,pt 339; en 0
 ach-019,Um arranha-céu com mais de 300 m,,The Shard,Shard,Clássico,,shard,https://pt.wikipedia.org/wiki/The_Shard,pt 290; en 0
 ach-019,Um arranha-céu com mais de 300 m,,Willis Tower,Sears Tower,Clássico,,willis,https://pt.wikipedia.org/wiki/Willis_Tower,pt 289; en 0
-ach-019,Um arranha-céu com mais de 300 m,,Ping An Finance Center,Ping An; Ping An Finance Centre,Clássico,,,https://en.wikipedia.org/wiki/Ping_An_Finance_Centre,pt 0; en 5614
+ach-019,Um arranha-céu com mais de 300 m,,Ping An Finance Center,Ping An; Ping An Finance Centre,Repertório,,,https://en.wikipedia.org/wiki/Ping_An_Finance_Centre,pt 0; en 5614
 ach-019,Um arranha-céu com mais de 300 m,,China Zun,CITIC Tower,Repertório,,,https://en.wikipedia.org/wiki/China_Zun,pt 0; en 5120
 ach-019,Um arranha-céu com mais de 300 m,,Burj Al Arab,,Repertório,,burj-al-arab,https://pt.wikipedia.org/wiki/Burj_Al_Arab,pt 234; en 0
 ach-019,Um arranha-céu com mais de 300 m,,Merdeka 118,,Repertório,,merdeka-118,https://pt.wikipedia.org/wiki/Merdeka_118,pt 227; en 0
@@ -702,22 +702,22 @@ ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Arte de São Pa
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Instituto Inhotim,Inhotim,Cartão-postal,,,https://pt.wikipedia.org/wiki/Instituto_Inhotim,pt 1922; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu do Louvre,Louvre,Cartão-postal,,,https://pt.wikipedia.org/wiki/Museu_do_Louvre,pt 1778; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Pinacoteca do Estado de São Paulo,Pinacoteca; Pinacoteca de São Paulo,Cartão-postal,,,https://pt.wikipedia.org/wiki/Pinacoteca_de_São_Paulo,pt 1082; en 0
-ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Arte Contemporânea de Niterói,MAC Niterói,Cartão-postal,,mac-niteroi,https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_de_Niterói,pt 760; en 0
+ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Arte Contemporânea de Niterói,MAC Niterói,Clássico,,mac-niteroi,https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_de_Niterói,pt 760; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu do Prado,Prado,Cartão-postal,,,https://pt.wikipedia.org/wiki/Museu_do_Prado,pt 655; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu Oscar Niemeyer,MON,Clássico,,mon,https://pt.wikipedia.org/wiki/Museu_Oscar_Niemeyer,pt 637; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu Nacional de Belas Artes (Brasil),Museu Nacional de Belas Artes; MNBA,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Nacional_de_Belas_Artes_(Brasil),pt 484; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu Guggenheim de Bilbau,Guggenheim Bilbao; Museu Guggenheim Bilbao,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Guggenheim_Bilbao,pt 480; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Galeria Uffizi,Uffizi; Galleria degli Uffizi,Clássico,,,https://pt.wikipedia.org/wiki/Galleria_degli_Uffizi,pt 479; en 0
-ach-020,"Um museu de arte, em qualquer lugar do mundo",,Palácio Belvedere,Belvedere,Clássico,,,https://pt.wikipedia.org/wiki/Palácio_Belvedere,pt 438; en 0
+ach-020,"Um museu de arte, em qualquer lugar do mundo",,Palácio Belvedere,Belvedere,Repertório,,,https://pt.wikipedia.org/wiki/Palácio_Belvedere,pt 438; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,National Gallery,National Gallery de Londres,Clássico,,,https://en.wikipedia.org/wiki/National_Gallery,pt 0; en 8523
-ach-020,"Um museu de arte, em qualquer lugar do mundo",,Galeria Nacional de Arte (Washington),National Gallery of Art,Clássico,,,https://en.wikipedia.org/wiki/National_Gallery_of_Art,pt 0; en 8439
+ach-020,"Um museu de arte, em qualquer lugar do mundo",,Galeria Nacional de Arte (Washington),National Gallery of Art,Repertório,,,https://en.wikipedia.org/wiki/National_Gallery_of_Art,pt 0; en 8439
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu Hermitage,Hermitage; Ermitage,Clássico,,,https://pt.wikipedia.org/wiki/Hermitage,pt 377; en 0
-ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Orsay,Orsay; Musée d'Orsay,Clássico,,,https://pt.wikipedia.org/wiki/Museu_de_Orsay,pt 373; en 0
+ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Orsay,Orsay; Musée d'Orsay,Cartão-postal,,,https://pt.wikipedia.org/wiki/Museu_de_Orsay,pt 373; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museus Vaticanos,Museus do Vaticano,Clássico,,,https://pt.wikipedia.org/wiki/Museus_Vaticanos,pt 357; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu Solomon R. Guggenheim,Guggenheim de Nova York; Guggenheim,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Solomon_R._Guggenheim,pt 312; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Arte Moderna do Rio de Janeiro,MAM Rio,Clássico,,mam-rio,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_do_Rio_de_Janeiro,pt 305; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu Frida Kahlo,Casa Azul,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Frida_Kahlo,pt 287; en 0
-ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Arte Moderna de Nova Iorque,MoMA; Museu de Arte Moderna,Repertório,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_(Nova_Iorque),pt 278; en 0
+ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Arte Moderna de Nova Iorque,MoMA; Museu de Arte Moderna,Cartão-postal,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_(Nova_Iorque),pt 278; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu Nacional Centro de Arte Rainha Sofia,Reina Sofía; Museo Reina Sofia; Museu Nacional Centro de Arte Reina Sofia,Repertório,,,https://pt.wikipedia.org/wiki/Museu_Nacional_Centro_de_Arte_Reina_Sofia,pt 266; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Museu de Arte Moderna de São Paulo,MAM SP; MAM,Repertório,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_de_São_Paulo,pt 250; en 0
 ach-020,"Um museu de arte, em qualquer lugar do mundo",,Centro Georges Pompidou,Pompidou; Beaubourg,Repertório,,,https://pt.wikipedia.org/wiki/Centro_Georges_Pompidou,pt 247; en 0
@@ -768,10 +768,10 @@ ach-021,Um museu de arte da América Latina,,Museu Oscar Niemeyer,MON,Clássico,
 ach-021,Um museu de arte da América Latina,,Museu Nacional de Belas Artes (Brasil),MNBA; Museu Nacional de Belas Artes,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Nacional_de_Belas_Artes_(Brasil),pt 484; en 0
 ach-021,Um museu de arte da América Latina,,Museu de Arte Moderna do Rio de Janeiro,MAM Rio,Clássico,,mam-rio,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_do_Rio_de_Janeiro,pt 305; en 0
 ach-021,Um museu de arte da América Latina,,Museu Frida Kahlo,Casa Azul,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Frida_Kahlo,pt 287; en 0
-ach-021,Um museu de arte da América Latina,,Museu de Arte Contemporânea do Ceará,Dragão do Mar; Centro Dragão do Mar de Arte e Cultura,Clássico,,,https://pt.wikipedia.org/wiki/Centro_Dragão_do_Mar_de_Arte_e_Cultura,pt 255; en 0
+ach-021,Um museu de arte da América Latina,,Museu de Arte Contemporânea do Ceará,Dragão do Mar; Centro Dragão do Mar de Arte e Cultura,Repertório,,,https://pt.wikipedia.org/wiki/Centro_Dragão_do_Mar_de_Arte_e_Cultura,pt 255; en 0
 ach-021,Um museu de arte da América Latina,,Museu de Arte Moderna de São Paulo,MAM SP,Clássico,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_de_São_Paulo,pt 250; en 0
 ach-021,Um museu de arte da América Latina,,Fundação Iberê Camargo,Iberê Camargo,Clássico,,,https://pt.wikipedia.org/wiki/Fundação_Iberê_Camargo,pt 229; en 0
-ach-021,Um museu de arte da América Latina,,Museu Nacional (Brasília),Museu Nacional da República; Museu Nacional Honestino Guimarães,Clássico,,museu-republica,https://pt.wikipedia.org/wiki/Museu_Nacional_Honestino_Guimarães,pt 214; en 0
+ach-021,Um museu de arte da América Latina,,Museu Nacional (Brasília),Museu Nacional da República; Museu Nacional Honestino Guimarães,Repertório,,museu-republica,https://pt.wikipedia.org/wiki/Museu_Nacional_Honestino_Guimarães,pt 214; en 0
 ach-021,Um museu de arte da América Latina,,Museu de Arte Contemporânea da Universidade de São Paulo,MAC USP,Repertório,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_da_Universidade_de_São_Paulo,pt 210; en 0
 ach-021,Um museu de arte da América Latina,,Museu Afro Brasil,,Repertório,,,https://pt.wikipedia.org/wiki/Museu_Afro_Brasil,pt 195; en 0
 ach-021,Um museu de arte da América Latina,,Museu de Arte do Rio,MAR,Repertório,,mar-rio,https://pt.wikipedia.org/wiki/Museu_de_Arte_do_Rio,pt 192; en 0
@@ -801,17 +801,17 @@ ach-021,Um museu de arte da América Latina,,Museu Torres García,Museo Torres G
 ach-021,Um museu de arte da América Latina,,Museu Tamayo,Tamayo; Museo Rufino Tamayo,Achado,,,https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo,pt 0; en 7
 ach-022,Uma igreja ou catedral famosa,,Basílica de Nossa Senhora Aparecida,Aparecida; Basílica de Aparecida; Catedral Basílica de Nossa Senhora Aparecida,Cartão-postal,,,https://pt.wikipedia.org/wiki/Catedral_Basílica_de_Nossa_Senhora_Aparecida,pt 9399; en 0
 ach-022,Uma igreja ou catedral famosa,,Basílica de São Pedro,São Pedro,Cartão-postal,,,https://pt.wikipedia.org/wiki/Basílica_de_São_Pedro,pt 3781; en 0
-ach-022,Uma igreja ou catedral famosa,,Panteão de Roma,Panteão,Cartão-postal,,,https://pt.wikipedia.org/wiki/Panteão_(Roma),pt 3661; en 0
-ach-022,Uma igreja ou catedral famosa,,Mosteiro dos Jerónimos,Jerónimos; Jeronimos,Cartão-postal,,,https://pt.wikipedia.org/wiki/Mosteiro_dos_Jerónimos,pt 2777; en 0
+ach-022,Uma igreja ou catedral famosa,,Panteão de Roma,Panteão,Clássico,,,https://pt.wikipedia.org/wiki/Panteão_(Roma),pt 3661; en 0
+ach-022,Uma igreja ou catedral famosa,,Mosteiro dos Jerónimos,Jerónimos; Jeronimos,Clássico,,,https://pt.wikipedia.org/wiki/Mosteiro_dos_Jerónimos,pt 2777; en 0
 ach-022,Uma igreja ou catedral famosa,,Catedral de Notre-Dame de Paris,Notre-Dame; Notre Dame,Cartão-postal,,,https://pt.wikipedia.org/wiki/Catedral_de_Notre-Dame_de_Paris,pt 2537; en 0
-ach-022,Uma igreja ou catedral famosa,,Capela Sistina,Sistina,Clássico,,,https://pt.wikipedia.org/wiki/Capela_Sistina,pt 2333; en 0
+ach-022,Uma igreja ou catedral famosa,,Capela Sistina,Sistina,Cartão-postal,,,https://pt.wikipedia.org/wiki/Capela_Sistina,pt 2333; en 0
 ach-022,Uma igreja ou catedral famosa,,Santa Sofia,Hagia Sophia,Clássico,,,https://pt.wikipedia.org/wiki/Santa_Sofia,pt 2313; en 0
 ach-022,Uma igreja ou catedral famosa,,Catedral de Colônia,Colônia,Clássico,,,https://pt.wikipedia.org/wiki/Catedral_de_Colônia,pt 2239; en 0
 ach-022,Uma igreja ou catedral famosa,,Catedral da Sé de São Paulo,Sé; Catedral da Sé; Catedral Metropolitana de São Paulo,Clássico,,se-sp,https://pt.wikipedia.org/wiki/Catedral_Metropolitana_de_São_Paulo,pt 2075; en 0
 ach-022,Uma igreja ou catedral famosa,,Igreja de São Francisco de Assis (Ouro Preto),São Francisco de Ouro Preto; Igreja de São Francisco de Assis,Clássico,,sao-francisco-op,https://pt.wikipedia.org/wiki/Igreja_de_São_Francisco_de_Assis_(Ouro_Preto),pt 1824; en 0
 ach-022,Uma igreja ou catedral famosa,,Igreja do Santo Sepulcro,Santo Sepulcro,Clássico,,,https://pt.wikipedia.org/wiki/Santo_Sepulcro,pt 1822; en 0
 ach-022,Uma igreja ou catedral famosa,,Catedral de Milão,Duomo de Milão,Clássico,,,https://pt.wikipedia.org/wiki/Catedral_de_Milão,pt 1758; en 0
-ach-022,Uma igreja ou catedral famosa,,Catedral de São Paulo (Londres),St Paul's; St Paul's Cathedral,Clássico,,,https://en.wikipedia.org/wiki/St_Paul's_Cathedral,pt 0; en 35074
+ach-022,Uma igreja ou catedral famosa,,Catedral de São Paulo (Londres),St Paul's; St Paul's Cathedral,Repertório,,,https://en.wikipedia.org/wiki/St_Paul's_Cathedral,pt 0; en 35074
 ach-022,Uma igreja ou catedral famosa,,Santuário do Bom Jesus de Matosinhos,Bom Jesus de Matosinhos; Congonhas,Clássico,,,https://pt.wikipedia.org/wiki/Santuário_do_Bom_Jesus_de_Matosinhos,pt 1715; en 0
 ach-022,Uma igreja ou catedral famosa,,Catedral de Brasília,Catedral Metropolitana de Brasília,Cartão-postal,,catedral-brasilia,https://pt.wikipedia.org/wiki/Catedral_Metropolitana_de_Brasília,pt 1698; en 0
 ach-022,Uma igreja ou catedral famosa,,Mosteiro de São Bento (São Paulo),Mosteiro de São Bento,Repertório,,,https://pt.wikipedia.org/wiki/Mosteiro_de_São_Bento_(São_Paulo),pt 1298; en 0
@@ -832,7 +832,7 @@ ach-022,Uma igreja ou catedral famosa,,Catedral de Las Lajas,Las Lajas; Santuár
 ach-022,Uma igreja ou catedral famosa,,Catedral de Toledo,,Repertório,,,https://pt.wikipedia.org/wiki/Catedral_de_Toledo,pt 386; en 0
 ach-022,Uma igreja ou catedral famosa,,Mesquita-Catedral de Córdova,Mesquita de Córdoba,Arquivo,,,https://pt.wikipedia.org/wiki/Mesquita-Catedral_de_Córdova,pt 362; en 0
 ach-022,Uma igreja ou catedral famosa,,Sainte-Chapelle,,Arquivo,,,https://pt.wikipedia.org/wiki/Sainte-Chapelle,pt 344; en 0
-ach-022,Uma igreja ou catedral famosa,,Sagrada Família,,Arquivo,,sagrada-familia,https://pt.wikipedia.org/wiki/Sagrada_Família,pt 298; en 0
+ach-022,Uma igreja ou catedral famosa,,Sagrada Família,,Cartão-postal,,sagrada-familia,https://pt.wikipedia.org/wiki/Sagrada_Família,pt 298; en 0
 ach-022,Uma igreja ou catedral famosa,,Catedral de Reims,Reims,Arquivo,,,https://pt.wikipedia.org/wiki/Catedral_de_Reims,pt 294; en 0
 ach-022,Uma igreja ou catedral famosa,,Santuário Dom Bosco,Dom Bosco,Arquivo,,dom-bosco,https://pt.wikipedia.org/wiki/Santuário_Dom_Bosco,pt 271; en 0
 ach-022,Uma igreja ou catedral famosa,,Catedral de Amiens,Amiens; Catedral de Notre-Dame de Amiens,Arquivo,,,https://pt.wikipedia.org/wiki/Catedral_de_Notre-Dame_de_Amiens,pt 231; en 0
@@ -854,7 +854,7 @@ ach-023,Um teatro ou casa de ópera,,Teatro Amazonas,,Cartão-postal,,teatro-ama
 ach-023,Um teatro ou casa de ópera,,Theatro Municipal de São Paulo,Municipal de São Paulo,Cartão-postal,,municipal-sp,https://pt.wikipedia.org/wiki/Theatro_Municipal_de_São_Paulo,pt 1097; en 0
 ach-023,Um teatro ou casa de ópera,,Ópera de Sydney,Sydney Opera House,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ópera_de_Sydney,pt 1023; en 0
 ach-023,Um teatro ou casa de ópera,,Theatro Municipal do Rio de Janeiro,Municipal do Rio,Cartão-postal,,municipal-rio,https://pt.wikipedia.org/wiki/Theatro_Municipal_do_Rio_de_Janeiro,pt 926; en 0
-ach-023,Um teatro ou casa de ópera,,Kennedy Center,,Clássico,,,https://en.wikipedia.org/wiki/Kennedy_Center,pt 0; en 14350
+ach-023,Um teatro ou casa de ópera,,Kennedy Center,,Arquivo,,,https://en.wikipedia.org/wiki/Kennedy_Center,pt 0; en 14350
 ach-023,Um teatro ou casa de ópera,,Sala São Paulo,,Clássico,,,https://pt.wikipedia.org/wiki/Sala_São_Paulo,pt 594; en 0
 ach-023,Um teatro ou casa de ópera,,Theatro da Paz,Teatro da Paz,Clássico,,,https://pt.wikipedia.org/wiki/Theatro_da_Paz,pt 573; en 0
 ach-023,Um teatro ou casa de ópera,,Teatro Oficina,,Clássico,,teatro-oficina,https://pt.wikipedia.org/wiki/Teatro_Oficina,pt 570; en 0
@@ -896,18 +896,18 @@ ach-023,Um teatro ou casa de ópera,,Dubai Opera,,Achado,,,https://en.wikipedia.
 ach-023,Um teatro ou casa de ópera,,Ópera de Lyon,Opéra de Lyon,Achado,,,https://en.wikipedia.org/wiki/Opéra_de_Lyon,pt 0; en 427
 ach-023,Um teatro ou casa de ópera,,Teatro de Taichung,Taichung Opera House; National Taichung Theater,Achado,,,https://en.wikipedia.org/wiki/National_Taichung_Theater,pt 0; en 360
 ach-024,Uma casa projetada por um arquiteto famoso,,Casa da Cascata,Fallingwater,Cartão-postal,,fallingwater,https://en.wikipedia.org/wiki/Fallingwater,pt 0; en 35786
-ach-024,Uma casa projetada por um arquiteto famoso,,Casa Stahl,Case Study House 22; Stahl House,Cartão-postal,,,https://en.wikipedia.org/wiki/Stahl_House,pt 0; en 19891
+ach-024,Uma casa projetada por um arquiteto famoso,,Casa Stahl,Case Study House 22; Stahl House,Repertório,,,https://en.wikipedia.org/wiki/Stahl_House,pt 0; en 19891
 ach-024,Uma casa projetada por um arquiteto famoso,,Casa Batlló,Batlló,Cartão-postal,,batllo,https://pt.wikipedia.org/wiki/Casa_Batlló,pt 737; en 0
-ach-024,Uma casa projetada por um arquiteto famoso,,Casa Ennis,Ennis; Ennis House,Cartão-postal,,,https://en.wikipedia.org/wiki/Ennis_House,pt 0; en 10195
+ach-024,Uma casa projetada por um arquiteto famoso,,Casa Ennis,Ennis; Ennis House,Arquivo,,,https://en.wikipedia.org/wiki/Ennis_House,pt 0; en 10195
 ach-024,Uma casa projetada por um arquiteto famoso,,Casa Milà,La Pedrera; Pedrera,Clássico,,mila,https://pt.wikipedia.org/wiki/Casa_Milà,pt 388; en 0
-ach-024,Uma casa projetada por um arquiteto famoso,,Casa Farnsworth,Farnsworth House,Clássico,,farnsworth,https://en.wikipedia.org/wiki/Farnsworth_House,pt 0; en 5647
+ach-024,Uma casa projetada por um arquiteto famoso,,Casa Farnsworth,Farnsworth House,Cartão-postal,,farnsworth,https://en.wikipedia.org/wiki/Farnsworth_House,pt 0; en 5647
 ach-024,Uma casa projetada por um arquiteto famoso,,Casa Robie,Robie House,Clássico,,,https://en.wikipedia.org/wiki/Robie_House,pt 0; en 5241
-ach-024,Uma casa projetada por um arquiteto famoso,,Casa de Vidro (São Paulo),Casa de Vidro; Casa de Vidro da Lina,Clássico,,casa-vidro,https://pt.wikipedia.org/wiki/Casa_de_Vidro_(São_Paulo),pt 261; en 0
-ach-024,Uma casa projetada por um arquiteto famoso,,Casa Kaufmann (Palm Springs),Kaufmann Desert House,Clássico,,,https://en.wikipedia.org/wiki/Kaufmann_Desert_House,pt 0; en 4893
-ach-024,Uma casa projetada por um arquiteto famoso,,Casa Hollyhock,Hollyhock; Hollyhock House,Clássico,,,https://en.wikipedia.org/wiki/Hollyhock_House,pt 0; en 3719
+ach-024,Uma casa projetada por um arquiteto famoso,,Casa de Vidro (São Paulo),Casa de Vidro; Casa de Vidro da Lina,Cartão-postal,,casa-vidro,https://pt.wikipedia.org/wiki/Casa_de_Vidro_(São_Paulo),pt 261; en 0
+ach-024,Uma casa projetada por um arquiteto famoso,,Casa Kaufmann (Palm Springs),Kaufmann Desert House,Arquivo,,,https://en.wikipedia.org/wiki/Kaufmann_Desert_House,pt 0; en 4893
+ach-024,Uma casa projetada por um arquiteto famoso,,Casa Hollyhock,Hollyhock; Hollyhock House,Repertório,,,https://en.wikipedia.org/wiki/Hollyhock_House,pt 0; en 3719
 ach-024,Uma casa projetada por um arquiteto famoso,,Casa Eames,Eames House,Clássico,,eames,https://en.wikipedia.org/wiki/Eames_House,pt 0; en 3438
 ach-024,Uma casa projetada por um arquiteto famoso,,Casa das Canoas,Canoas,Repertório,,canoas,https://pt.wikipedia.org/wiki/Casa_das_Canoas,pt 150; en 0
-ach-024,Uma casa projetada por um arquiteto famoso,,Villa Savoye,Savoye,Repertório,,savoye,https://pt.wikipedia.org/wiki/Villa_Savoye,pt 134; en 0
+ach-024,Uma casa projetada por um arquiteto famoso,,Villa Savoye,Savoye,Cartão-postal,,savoye,https://pt.wikipedia.org/wiki/Villa_Savoye,pt 134; en 0
 ach-024,Uma casa projetada por um arquiteto famoso,,Hôtel Tassel,Tassel,Repertório,,tassel,https://en.wikipedia.org/wiki/Hôtel_Tassel,pt 0; en 2582
 ach-024,Uma casa projetada por um arquiteto famoso,,Casa E-1027,E-1027,Repertório,,,https://en.wikipedia.org/wiki/E-1027,pt 0; en 2402
 ach-024,Uma casa projetada por um arquiteto famoso,,Villa Tugendhat,Tugendhat,Repertório,,tugendhat,https://en.wikipedia.org/wiki/Villa_Tugendhat,pt 0; en 2212
@@ -934,24 +934,24 @@ ach-024,Uma casa projetada por um arquiteto famoso,,Casa Curutchet,Curutchet; Cu
 ach-024,Uma casa projetada por um arquiteto famoso,,Villa Stein,Garches,Achado,,,https://en.wikipedia.org/wiki/Villa_Stein,pt 0; en 182
 ach-024,Uma casa projetada por um arquiteto famoso,,Casa Douglas,Douglas House,Achado,,,"https://en.wikipedia.org/wiki/Douglas_House_(Harbor_Springs,_Michigan)",pt 0; en 126
 ach-025,Uma ponte famosa,,Ponte Rio-Niterói,Rio-Niterói; Ponte Costa e Silva,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ponte_Rio-Niterói,pt 3567; en 0
-ach-025,Uma ponte famosa,,Ponte Vasco da Gama,Vasco da Gama,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ponte_Vasco_da_Gama,pt 3270; en 0
-ach-025,Uma ponte famosa,,Ponte 25 de Abril,25 de Abril,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ponte_25_de_Abril,pt 3244; en 0
-ach-025,Uma ponte famosa,,Ponte Sheikh Zayed,Zaha Hadid,Cartão-postal,,,https://en.wikipedia.org/wiki/Zaha_Hadid,pt 0; en 32686
-ach-025,Uma ponte famosa,,Ponte Golden Gate,Golden Gate,Clássico,,,https://pt.wikipedia.org/wiki/Ponte_Golden_Gate,pt 1599; en 0
-ach-025,Uma ponte famosa,,Ponte Rio Negro,,Clássico,,,https://pt.wikipedia.org/wiki/Ponte_Rio_Negro,pt 1562; en 0
+ach-025,Uma ponte famosa,,Ponte Vasco da Gama,Vasco da Gama,Clássico,,,https://pt.wikipedia.org/wiki/Ponte_Vasco_da_Gama,pt 3270; en 0
+ach-025,Uma ponte famosa,,Ponte 25 de Abril,25 de Abril,Clássico,,,https://pt.wikipedia.org/wiki/Ponte_25_de_Abril,pt 3244; en 0
+ach-025,Uma ponte famosa,,Ponte Sheikh Zayed,Zaha Hadid,Arquivo,,,https://en.wikipedia.org/wiki/Zaha_Hadid,pt 0; en 32686
+ach-025,Uma ponte famosa,,Ponte Golden Gate,Golden Gate,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ponte_Golden_Gate,pt 1599; en 0
+ach-025,Uma ponte famosa,,Ponte Rio Negro,,Repertório,,,https://pt.wikipedia.org/wiki/Ponte_Rio_Negro,pt 1562; en 0
 ach-025,Uma ponte famosa,,Ponte Hercílio Luz,Hercílio Luz,Clássico,,,https://pt.wikipedia.org/wiki/Ponte_Hercílio_Luz,pt 1432; en 0
-ach-025,Uma ponte famosa,,Ponte Maria Pia,Ponte de D. Maria Pia,Clássico,,,https://pt.wikipedia.org/wiki/Ponte_de_D._Maria_Pia,pt 1328; en 0
+ach-025,Uma ponte famosa,,Ponte Maria Pia,Ponte de D. Maria Pia,Repertório,,,https://pt.wikipedia.org/wiki/Ponte_de_D._Maria_Pia,pt 1328; en 0
 ach-025,Uma ponte famosa,,Ponte Estaiada,Octávio Frias de Oliveira; Ponte Octávio Frias de Oliveira,Clássico,,ponte-estaiada,https://pt.wikipedia.org/wiki/Ponte_Octávio_Frias_de_Oliveira,pt 1133; en 0
-ach-025,Uma ponte famosa,,Ponte Verrazzano,Verrazzano; Verrazzano–Narrows Bridge,Clássico,,,https://en.wikipedia.org/wiki/Verrazzano–Narrows_Bridge,pt 0; en 16300
+ach-025,Uma ponte famosa,,Ponte Verrazzano,Verrazzano; Verrazzano–Narrows Bridge,Arquivo,,,https://en.wikipedia.org/wiki/Verrazzano–Narrows_Bridge,pt 0; en 16300
 ach-025,Uma ponte famosa,,Ponte JK,Juscelino Kubitschek; Ponte Juscelino Kubitschek,Clássico,,ponte-jk,https://pt.wikipedia.org/wiki/Ponte_Juscelino_Kubitschek,pt 737; en 0
-ach-025,Uma ponte famosa,,Ponte Newton Navarro,,Clássico,,,https://pt.wikipedia.org/wiki/Ponte_Newton_Navarro,pt 701; en 0
+ach-025,Uma ponte famosa,,Ponte Newton Navarro,,Repertório,,,https://pt.wikipedia.org/wiki/Ponte_Newton_Navarro,pt 701; en 0
 ach-025,Uma ponte famosa,,Ponte Mackinac,Mackinac Bridge,Repertório,,,https://en.wikipedia.org/wiki/Mackinac_Bridge,pt 0; en 13464
-ach-025,Uma ponte famosa,,Ponte do Brooklyn,Brooklyn Bridge; Brooklyn,Repertório,,,https://pt.wikipedia.org/wiki/Ponte_do_Brooklyn,pt 644; en 0
+ach-025,Uma ponte famosa,,Ponte do Brooklyn,Brooklyn Bridge; Brooklyn,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ponte_do_Brooklyn,pt 644; en 0
 ach-025,Uma ponte famosa,,Ponte Sunshine Skyway,Sunshine Skyway Bridge,Repertório,,,https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge,pt 0; en 11608
 ach-025,Uma ponte famosa,,Ponte Hong Kong-Zhuhai-Macau,HZMB; Hong Kong–Zhuhai–Macau Bridge,Repertório,,,https://en.wikipedia.org/wiki/Hong_Kong–Zhuhai–Macau_Bridge,pt 0; en 11126
 ach-025,Uma ponte famosa,,Ponte Danyang-Kunshan,Danyang–Kunshan Grand Bridge,Repertório,,,https://en.wikipedia.org/wiki/Danyang–Kunshan_Grand_Bridge,pt 0; en 10298
 ach-025,Uma ponte famosa,,Ponte Vecchio,,Repertório,,,https://pt.wikipedia.org/wiki/Ponte_Vecchio,pt 451; en 0
-ach-025,Uma ponte famosa,,Tower Bridge,Ponte da Torre,Repertório,,,https://pt.wikipedia.org/wiki/Ponte_da_Torre,pt 442; en 0
+ach-025,Uma ponte famosa,,Tower Bridge,Ponte da Torre,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ponte_da_Torre,pt 442; en 0
 ach-025,Uma ponte famosa,,Ponte Carlos,Ponte Carlos de Praga; Charles Bridge,Repertório,,,https://pt.wikipedia.org/wiki/Ponte_Carlos,pt 432; en 0
 ach-025,Uma ponte famosa,,Viaduto de Millau,Millau,Repertório,,,https://pt.wikipedia.org/wiki/Viaduto_de_Millau,pt 339; en 0
 ach-025,Uma ponte famosa,,Ponte das Correntes,Ponte das Correntes; Széchenyi; Széchenyi Chain Bridge,Repertório,,,https://en.wikipedia.org/wiki/Széchenyi_Chain_Bridge,pt 0; en 5078
@@ -977,14 +977,14 @@ ach-026,Um estádio,,Coliseu,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Col
 ach-026,Um estádio,,Allianz Parque,Palestra Itália; Nubank Parque,Cartão-postal,,,https://pt.wikipedia.org/wiki/Nubank_Parque,pt 6403; en 0
 ach-026,Um estádio,,Estádio do Maracanã,Maracanã; Estádio Jornalista Mário Filho,Cartão-postal,,,https://pt.wikipedia.org/wiki/Estádio_Jornalista_Mário_Filho,pt 5108; en 0
 ach-026,Um estádio,,Estádio do Morumbi,Morumbi; MorumBIS,Cartão-postal,,,https://pt.wikipedia.org/wiki/Estádio_do_Morumbi,pt 4924; en 0
-ach-026,Um estádio,,Estádio Centenário,Centenário,Cartão-postal,,,https://pt.wikipedia.org/wiki/Estádio_Centenario,pt 4666; en 0
+ach-026,Um estádio,,Estádio Centenário,Centenário,Clássico,,,https://pt.wikipedia.org/wiki/Estádio_Centenario,pt 4666; en 0
 ach-026,Um estádio,,Estádio São Januário,São Januário; Estádio Vasco da Gama,Clássico,,,https://pt.wikipedia.org/wiki/Estádio_Vasco_da_Gama,pt 3760; en 0
 ach-026,Um estádio,,Estádio Engenhão,Nilton Santos; Engenhão; Estádio Olímpico Nilton Santos,Clássico,,,https://pt.wikipedia.org/wiki/Estádio_Olímpico_Nilton_Santos,pt 3529; en 0
 ach-026,Um estádio,,La Bombonera,Bombonera,Clássico,,,https://pt.wikipedia.org/wiki/La_Bombonera,pt 3179; en 0
 ach-026,Um estádio,,Estádio San Siro,San Siro; Giuseppe Meazza; Estádio Giuseppe Meazza,Clássico,,,https://pt.wikipedia.org/wiki/Estádio_Giuseppe_Meazza,pt 2691; en 0
 ach-026,Um estádio,,Arena Corinthians,Neo Química Arena; Itaquerão,Clássico,,,https://pt.wikipedia.org/wiki/Neo_Química_Arena,pt 2598; en 0
 ach-026,Um estádio,,Estádio da Luz,Luz,Clássico,,,https://pt.wikipedia.org/wiki/Estádio_da_Luz,pt 2400; en 0
-ach-026,Um estádio,,SoFi Stadium,,Clássico,,,https://en.wikipedia.org/wiki/SoFi_Stadium,pt 0; en 45913
+ach-026,Um estádio,,SoFi Stadium,,Arquivo,,,https://en.wikipedia.org/wiki/SoFi_Stadium,pt 0; en 45913
 ach-026,Um estádio,,Estádio Vila Belmiro,Vila Belmiro; Estádio Urbano Caldeira,Clássico,,,https://pt.wikipedia.org/wiki/Estádio_Urbano_Caldeira,pt 2247; en 0
 ach-026,Um estádio,,Arena do Grêmio,,Clássico,,,https://pt.wikipedia.org/wiki/Arena_do_Grêmio,pt 2140; en 0
 ach-026,Um estádio,,Camp Nou,Spotify Camp Nou,Clássico,,,https://pt.wikipedia.org/wiki/Camp_Nou,pt 2058; en 0
@@ -1027,7 +1027,7 @@ ach-026,Um estádio,,Ginásio Nacional de Yoyogi,Yoyogi; Yoyogi National Stadium
 ach-027,Uma obra tombada pelo Iphan,,Cristo Redentor,,Cartão-postal,,cristo,https://pt.wikipedia.org/wiki/Cristo_Redentor,pt 8542; en 0
 ach-027,Uma obra tombada pelo Iphan,,Estádio do Maracanã,Maracanã; Estádio Jornalista Mário Filho,Cartão-postal,,,https://pt.wikipedia.org/wiki/Estádio_Jornalista_Mário_Filho,pt 5108; en 0
 ach-027,Uma obra tombada pelo Iphan,,Edifício Copan,Copan,Cartão-postal,,copan,https://pt.wikipedia.org/wiki/Edifício_Copan,pt 3947; en 0
-ach-027,Uma obra tombada pelo Iphan,,Palácio do Catete,Catete,Cartão-postal,,,https://pt.wikipedia.org/wiki/Palácio_do_Catete,pt 3544; en 0
+ach-027,Uma obra tombada pelo Iphan,,Palácio do Catete,Catete,Clássico,,,https://pt.wikipedia.org/wiki/Palácio_do_Catete,pt 3544; en 0
 ach-027,Uma obra tombada pelo Iphan,,Teatro Amazonas,,Clássico,,teatro-amazonas,https://pt.wikipedia.org/wiki/Teatro_Amazonas,pt 3256; en 0
 ach-027,Uma obra tombada pelo Iphan,,Museu Paulista,Museu do Ipiranga,Clássico,,,https://pt.wikipedia.org/wiki/Museu_do_Ipiranga,pt 2642; en 0
 ach-027,Uma obra tombada pelo Iphan,,Museu de Arte de São Paulo,MASP,Clássico,,masp,https://pt.wikipedia.org/wiki/Museu_de_Arte_de_São_Paulo,pt 2491; en 0
@@ -1132,16 +1132,16 @@ ach-030,Um pavilhão de exposição ou de feira mundial,,Galerie des machines,Ga
 ach-030,Um pavilhão de exposição ou de feira mundial,,Pavilhão de Glass (Werkbund),Glass Pavilion; Pavilhão de Vidro,Achado,,,https://en.wikipedia.org/wiki/Glass_Pavilion,pt 0; en 539
 ach-030,Um pavilhão de exposição ou de feira mundial,,Pavilhão do Esprit Nouveau,Esprit Nouveau; Pavillon de l'Esprit Nouveau,Achado,,,https://en.wikipedia.org/wiki/Pavillon_de_l'Esprit_Nouveau,pt 0; en 414
 ach-031,Um movimento ou estilo arquitetônico,,Bauhaus,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Bauhaus,pt 2202; en 0
-ach-031,Um movimento ou estilo arquitetônico,,Rococó,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Rococó,pt 1756; en 0
+ach-031,Um movimento ou estilo arquitetônico,,Rococó,,Clássico,,,https://pt.wikipedia.org/wiki/Rococó,pt 1756; en 0
 ach-031,Um movimento ou estilo arquitetônico,,Art déco,Art deco,Cartão-postal,,,https://pt.wikipedia.org/wiki/Art_déco,pt 1460; en 0
 ach-031,Um movimento ou estilo arquitetônico,,Art nouveau,Arte nova,Cartão-postal,,,https://pt.wikipedia.org/wiki/Art_nouveau,pt 1365; en 0
-ach-031,Um movimento ou estilo arquitetônico,,Gótico,Arquitetura gótica; Gótica,Clássico,,,https://pt.wikipedia.org/wiki/Arquitetura_gótica,pt 1073; en 0
+ach-031,Um movimento ou estilo arquitetônico,,Gótico,Arquitetura gótica; Gótica,Cartão-postal,,,https://pt.wikipedia.org/wiki/Arquitetura_gótica,pt 1073; en 0
 ach-031,Um movimento ou estilo arquitetônico,,Brutalismo,Brutalista; Arquitetura brutalista,Clássico,,,https://pt.wikipedia.org/wiki/Arquitetura_brutalista,pt 1035; en 0
-ach-031,Um movimento ou estilo arquitetônico,,Manuelino,Estilo manuelino,Clássico,,,https://pt.wikipedia.org/wiki/Estilo_manuelino,pt 811; en 0
+ach-031,Um movimento ou estilo arquitetônico,,Manuelino,Estilo manuelino,Repertório,,,https://pt.wikipedia.org/wiki/Estilo_manuelino,pt 811; en 0
 ach-031,Um movimento ou estilo arquitetônico,,Românico,Românica; Arquitetura românica,Clássico,,,https://pt.wikipedia.org/wiki/Arquitetura_românica,pt 777; en 0
-ach-031,Um movimento ou estilo arquitetônico,,Barroco,Arquitetura barroca; Barroca,Clássico,,,https://pt.wikipedia.org/wiki/Arquitetura_barroca,pt 739; en 0
-ach-031,Um movimento ou estilo arquitetônico,,Modernismo,Arquitetura moderna; Moderno; Modernista,Clássico,,,https://pt.wikipedia.org/wiki/Arquitetura_moderna,pt 575; en 0
-ach-031,Um movimento ou estilo arquitetônico,,Googie,Googie architecture,Clássico,,,https://en.wikipedia.org/wiki/Googie_architecture,pt 0; en 9894
+ach-031,Um movimento ou estilo arquitetônico,,Barroco,Arquitetura barroca; Barroca,Cartão-postal,,,https://pt.wikipedia.org/wiki/Arquitetura_barroca,pt 739; en 0
+ach-031,Um movimento ou estilo arquitetônico,,Modernismo,Arquitetura moderna; Moderno; Modernista,Cartão-postal,,,https://pt.wikipedia.org/wiki/Arquitetura_moderna,pt 575; en 0
+ach-031,Um movimento ou estilo arquitetônico,,Googie,Googie architecture,Arquivo,,,https://en.wikipedia.org/wiki/Googie_architecture,pt 0; en 9894
 ach-031,Um movimento ou estilo arquitetônico,,Colonial,Arquitetura colonial; Arquitetura colonial do Brasil,Clássico,,,https://pt.wikipedia.org/wiki/Arquitetura_colonial_do_Brasil,pt 479; en 0
 ach-031,Um movimento ou estilo arquitetônico,,Neogótico,Revivalismo gótico,Clássico,,,https://pt.wikipedia.org/wiki/Neogótico,pt 433; en 0
 ach-031,Um movimento ou estilo arquitetônico,,Renascentista,Renascimento; Arquitetura renascentista; Arquitetura do Renascimento,Repertório,,,https://pt.wikipedia.org/wiki/Arquitetura_do_Renascimento,pt 430; en 0
@@ -1177,19 +1177,19 @@ ach-031,Um movimento ou estilo arquitetônico,,Minimalismo,Minimalista; Arquitet
 ach-031,Um movimento ou estilo arquitetônico,,Churrigueresco,,Achado,,,https://pt.wikipedia.org/wiki/Churrigueresco,pt 24; en 0
 ach-031,Um movimento ou estilo arquitetônico,,Parametricismo,Arquitetura paramétrica,Achado,,,https://pt.wikipedia.org/wiki/Parametricismo,pt 7; en 0
 ach-032,Um movimento artístico do século 20,,Pop art,Arte pop,Cartão-postal,,,https://pt.wikipedia.org/wiki/Pop_art,pt 2867; en 0
-ach-032,Um movimento artístico do século 20,,Tropicália,Tropicalismo,Cartão-postal,,,https://pt.wikipedia.org/wiki/Tropicália,pt 2615; en 0
-ach-032,Um movimento artístico do século 20,,Bauhaus,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Bauhaus,pt 2202; en 0
+ach-032,Um movimento artístico do século 20,,Tropicália,Tropicalismo,Clássico,,,https://pt.wikipedia.org/wiki/Tropicália,pt 2615; en 0
+ach-032,Um movimento artístico do século 20,,Bauhaus,,Clássico,,,https://pt.wikipedia.org/wiki/Bauhaus,pt 2202; en 0
 ach-032,Um movimento artístico do século 20,,Antropofagia,Movimento Antropofágico; Movimento antropofágico,Cartão-postal,,,https://pt.wikipedia.org/wiki/Movimento_antropofágico,pt 2062; en 0
 ach-032,Um movimento artístico do século 20,,Dadaísmo,Dada,Cartão-postal,,,https://pt.wikipedia.org/wiki/Dadaísmo,pt 1798; en 0
-ach-032,Um movimento artístico do século 20,,Surrealismo,,Clássico,,,https://pt.wikipedia.org/wiki/Surrealismo,pt 1733; en 0
+ach-032,Um movimento artístico do século 20,,Surrealismo,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Surrealismo,pt 1733; en 0
 ach-032,Um movimento artístico do século 20,,Expressionismo,,Clássico,,,https://pt.wikipedia.org/wiki/Expressionismo,pt 1594; en 0
 ach-032,Um movimento artístico do século 20,,Art déco,,Clássico,,,https://pt.wikipedia.org/wiki/Art_déco,pt 1460; en 0
-ach-032,Um movimento artístico do século 20,,Cubismo,,Clássico,,,https://pt.wikipedia.org/wiki/Cubismo,pt 1273; en 0
+ach-032,Um movimento artístico do século 20,,Cubismo,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Cubismo,pt 1273; en 0
 ach-032,Um movimento artístico do século 20,,Abstracionismo,Arte abstrata; Abstracionismo,Clássico,,,https://pt.wikipedia.org/wiki/Arte_abstrata,pt 1216; en 0
 ach-032,Um movimento artístico do século 20,,Futurismo,,Clássico,,,https://pt.wikipedia.org/wiki/Futurismo,pt 1174; en 0
 ach-032,Um movimento artístico do século 20,,Modernismo brasileiro,Modernismo; Semana de 22; Modernismo no Brasil,Clássico,,,https://pt.wikipedia.org/wiki/Modernismo_no_Brasil,pt 1109; en 0
 ach-032,Um movimento artístico do século 20,,Fauvismo,,Clássico,,,https://pt.wikipedia.org/wiki/Fauvismo,pt 992; en 0
-ach-032,Um movimento artístico do século 20,,Arte naïf,Naïf; Naif,Clássico,,,https://pt.wikipedia.org/wiki/Arte_naïf,pt 481; en 0
+ach-032,Um movimento artístico do século 20,,Arte naïf,Naïf; Naif,Repertório,,,https://pt.wikipedia.org/wiki/Arte_naïf,pt 481; en 0
 ach-032,Um movimento artístico do século 20,,Op art,Arte óptica,Repertório,,,https://pt.wikipedia.org/wiki/Op_art,pt 427; en 0
 ach-032,Um movimento artístico do século 20,,Construtivismo,Construtivismo russo,Repertório,,,https://pt.wikipedia.org/wiki/Construtivismo_russo,pt 373; en 0
 ach-032,Um movimento artístico do século 20,,Fluxus,,Repertório,,,https://pt.wikipedia.org/wiki/Fluxus,pt 366; en 0
@@ -1223,12 +1223,10 @@ ach-032,Um movimento artístico do século 20,,Nouveau réalisme,Novo realismo,A
 ach-032,Um movimento artístico do século 20,,Transvanguarda,,Achado,,,https://pt.wikipedia.org/wiki/Transvanguarda,pt 37; en 0
 ach-032,Um movimento artístico do século 20,,Neoexpressionismo,Neoexpressionismo alemão,Achado,,,https://pt.wikipedia.org/wiki/Neoexpressionismo_alemão,pt 28; en 0
 ach-032,Um movimento artístico do século 20,,Raionismo,,Achado,,,https://pt.wikipedia.org/wiki/Raionismo,pt 21; en 0
-ach-033,Um estilo de coluna ou ordem clássica,,Coluna de Trajano,Trajano,Cartão-postal,,,https://pt.wikipedia.org/wiki/Coluna_de_Trajano,pt 398; en 0
-ach-033,Um estilo de coluna ou ordem clássica,,Coríntia,Ordem coríntia; Coríntio,Clássico,,,https://pt.wikipedia.org/wiki/Ordem_coríntia,pt 384; en 0
+ach-033,Um estilo de coluna ou ordem clássica,,Coríntia,Ordem coríntia; Coríntio,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ordem_coríntia,pt 384; en 0
 ach-033,Um estilo de coluna ou ordem clássica,,Cariátide,Cariátides,Clássico,,,https://pt.wikipedia.org/wiki/Cariátide,pt 359; en 0
-ach-033,Um estilo de coluna ou ordem clássica,,Dórica,Ordem dórica; Dórico,Clássico,,,https://pt.wikipedia.org/wiki/Ordem_dórica,pt 355; en 0
-ach-033,Um estilo de coluna ou ordem clássica,,Jônica,Ordem jônica; Jônico; Iônica,Repertório,,,https://pt.wikipedia.org/wiki/Ordem_jônica,pt 268; en 0
-ach-033,Um estilo de coluna ou ordem clássica,,Pilotis,,Repertório,,,https://pt.wikipedia.org/wiki/Pilotis,pt 223; en 0
+ach-033,Um estilo de coluna ou ordem clássica,,Dórica,Ordem dórica; Dórico,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ordem_dórica,pt 355; en 0
+ach-033,Um estilo de coluna ou ordem clássica,,Jônica,Ordem jônica; Jônico; Iônica,Cartão-postal,,,https://pt.wikipedia.org/wiki/Ordem_jônica,pt 268; en 0
 ach-033,Um estilo de coluna ou ordem clássica,,Herma,,Repertório,,,https://pt.wikipedia.org/wiki/Herma,pt 130; en 0
 ach-033,Um estilo de coluna ou ordem clássica,,Salomônica,Coluna salomônica; Torsa,Repertório,,,https://pt.wikipedia.org/wiki/Coluna_salomônica,pt 119; en 0
 ach-033,Um estilo de coluna ou ordem clássica,,Pilastra,,Repertório,,,https://pt.wikipedia.org/wiki/Pilastra,pt 100; en 0
@@ -1240,35 +1238,34 @@ ach-033,Um estilo de coluna ou ordem clássica,,Coluna persa,Persian column,Acha
 ach-033,Um estilo de coluna ou ordem clássica,,Coluna rostral,Rostral column,Achado,,,https://en.wikipedia.org/wiki/Rostral_column,pt 0; en 195
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,A forma segue a função,Form follows function,Cartão-postal,,,https://en.wikipedia.org/wiki/Form_follows_function,pt 0; en 4750
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Pilotis,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Pilotis,pt 223; en 0
-ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Raumplan,Adolf Loos,Clássico,,,https://en.wikipedia.org/wiki/Adolf_Loos,pt 0; en 4022
+ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Raumplan,Adolf Loos,Arquivo,,,https://en.wikipedia.org/wiki/Adolf_Loos,pt 0; en 4022
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Pele de vidro,Curtain wall; Fachada cortina,Clássico,,,https://en.wikipedia.org/wiki/Curtain_wall_(architecture),pt 0; en 4015
-ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Carta de Atenas,Carta de Atenas (1933); Carta de Atenas de 1933,Clássico,,,https://pt.wikipedia.org/wiki/Carta_de_Atenas_de_1933,pt 188; en 0
-ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Gesamtkunstwerk,Obra de arte total,Clássico,,,https://pt.wikipedia.org/wiki/Gesamtkunstwerk,pt 160; en 0
+ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Carta de Atenas,Carta de Atenas (1933); Carta de Atenas de 1933,Repertório,,,https://pt.wikipedia.org/wiki/Carta_de_Atenas_de_1933,pt 188; en 0
+ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Gesamtkunstwerk,Obra de arte total,Arquivo,,,https://pt.wikipedia.org/wiki/Gesamtkunstwerk,pt 160; en 0
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Menos é mais,Less is more,Repertório,,,https://en.wikipedia.org/wiki/Less_is_more,pt 0; en 2395
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Menos é chato,Less is a bore; Robert Venturi,Repertório,,,https://en.wikipedia.org/wiki/Robert_Venturi,pt 0; en 2082
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Brise-soleil,Brise; Quebra-sol,Repertório,,,https://pt.wikipedia.org/wiki/Brise-soleil,pt 97; en 0
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Modulor,O Modulor,Repertório,,,https://pt.wikipedia.org/wiki/Modulor,pt 80; en 0
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Planta aberta,Open plan,Repertório,,,https://en.wikipedia.org/wiki/Open_plan,pt 0; en 1208
-ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Janela em fita,Fenêtre en longueur; Janela horizontal; Janelas em fita,Arquivo,,,https://pt.wikipedia.org/wiki/Janelas_em_fita,pt 35; en 0
+ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Janela em fita,Fenêtre en longueur; Janela horizontal; Janelas em fita,Clássico,,,https://pt.wikipedia.org/wiki/Janelas_em_fita,pt 35; en 0
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Unidade de vizinhança,Neighbourhood unit,Arquivo,,,https://en.wikipedia.org/wiki/Neighbourhood_unit,pt 0; en 523
-ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Terraço-jardim,Teto-jardim; Cobertura-jardim; Terraço jardim,Arquivo,,,https://pt.wikipedia.org/wiki/Terraço-jardim,pt 21; en 0
-ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Fachada livre,,Arquivo,,,https://pt.wikipedia.org/wiki/Fachada_livre,pt 20; en 0
+ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Terraço-jardim,Teto-jardim; Cobertura-jardim; Terraço jardim,Clássico,,,https://pt.wikipedia.org/wiki/Terraço-jardim,pt 21; en 0
+ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Fachada livre,,Clássico,,,https://pt.wikipedia.org/wiki/Fachada_livre,pt 20; en 0
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Estrutura independente,Dom-ino; Casa Dom-Ino; Dom-Ino House,Arquivo,,,https://en.wikipedia.org/wiki/Dom-Ino_House,pt 0; en 383
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Arquitetura falante,Architecture parlante,Achado,,,https://en.wikipedia.org/wiki/Architecture_parlante,pt 0; en 280
 ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Promenade architecturale,Passeio arquitetônico,Achado,,,https://en.wikipedia.org/wiki/Promenade_architecturale,pt 0; en 209
-ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Planta livre,Plano livre,Achado,,,https://pt.wikipedia.org/wiki/Planta_livre,pt 7; en 0
-ach-035,Uma escola ou faculdade de arquitetura famosa,,UFRJ,FAU UFRJ; Universidade Federal do Rio de Janeiro,Cartão-postal,,,https://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_de_Janeiro,pt 2804; en 0
-ach-035,Uma escola ou faculdade de arquitetura famosa,,UFRGS,Universidade Federal do Rio Grande do Sul,Cartão-postal,,,https://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_Grande_do_Sul,pt 2471; en 0
-ach-035,Uma escola ou faculdade de arquitetura famosa,,Mackenzie,FAU Mackenzie; Universidade Presbiteriana Mackenzie,Cartão-postal,,,https://pt.wikipedia.org/wiki/Universidade_Presbiteriana_Mackenzie,pt 2379; en 0
+ach-034,"Um dos cinco pontos da arquitetura moderna, ou uma ideia parecida",,Planta livre,Plano livre,Cartão-postal,,,https://pt.wikipedia.org/wiki/Planta_livre,pt 7; en 0
+ach-035,Uma escola ou faculdade de arquitetura famosa,,UFRJ,FAU UFRJ; Universidade Federal do Rio de Janeiro,Clássico,,,https://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_de_Janeiro,pt 2804; en 0
+ach-035,Uma escola ou faculdade de arquitetura famosa,,UFRGS,Universidade Federal do Rio Grande do Sul,Clássico,,,https://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_Grande_do_Sul,pt 2471; en 0
+ach-035,Uma escola ou faculdade de arquitetura famosa,,Mackenzie,FAU Mackenzie; Universidade Presbiteriana Mackenzie,Clássico,,,https://pt.wikipedia.org/wiki/Universidade_Presbiteriana_Mackenzie,pt 2379; en 0
 ach-035,Uma escola ou faculdade de arquitetura famosa,,Bauhaus,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Bauhaus,pt 2202; en 0
 ach-035,Uma escola ou faculdade de arquitetura famosa,,UnB,Universidade de Brasília,Clássico,,,https://pt.wikipedia.org/wiki/Universidade_de_Brasília,pt 1588; en 0
 ach-035,Uma escola ou faculdade de arquitetura famosa,,MIT,Massachusetts Institute of Technology; Instituto de Tecnologia de Massachusetts,Clássico,,,https://pt.wikipedia.org/wiki/Instituto_de_Tecnologia_de_Massachusetts,pt 1266; en 0
-ach-035,Uma escola ou faculdade de arquitetura famosa,,Escola Politécnica da USP,Poli USP; Poli; Escola Politécnica da Universidade de São Paulo,Clássico,,,https://pt.wikipedia.org/wiki/Escola_Politécnica_da_Universidade_de_São_Paulo,pt 576; en 0
-ach-035,Uma escola ou faculdade de arquitetura famosa,,Universidade da Pensilvânia,UPenn; Penn,Clássico,,,https://pt.wikipedia.org/wiki/Universidade_da_Pensilvânia,pt 574; en 0
+ach-035,Uma escola ou faculdade de arquitetura famosa,,Universidade da Pensilvânia,UPenn; Penn,Repertório,,,https://pt.wikipedia.org/wiki/Universidade_da_Pensilvânia,pt 574; en 0
 ach-035,Uma escola ou faculdade de arquitetura famosa,,Escola Nacional de Belas Artes (Brasil),ENBA; Academia Imperial de Belas Artes; Escola Nacional de Belas Artes,Clássico,,,https://pt.wikipedia.org/wiki/Escola_Nacional_de_Belas_Artes,pt 399; en 0
 ach-035,Uma escola ou faculdade de arquitetura famosa,,UNAM,Universidade Nacional Autónoma do México; Universidade Nacional Autônoma do México,Clássico,,,https://pt.wikipedia.org/wiki/Universidade_Nacional_Autônoma_do_México,pt 354; en 0
-ach-035,Uma escola ou faculdade de arquitetura famosa,,Academia de Belas Artes de Viena,Akademie der bildenden Künste; Academy of Fine Arts Vienna,Clássico,,,https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_Vienna,pt 0; en 6372
-ach-035,Uma escola ou faculdade de arquitetura famosa,,FAU USP,FAU-USP; FAU; FAUUSP; Faculdade de Arquitetura e Urbanismo e de Design da Universidade de São Paulo,Repertório,,,https://pt.wikipedia.org/wiki/Faculdade_de_Arquitetura_e_Urbanismo_e_de_Design_da_Universidade_de_São_Paulo,pt 273; en 0
+ach-035,Uma escola ou faculdade de arquitetura famosa,,Academia de Belas Artes de Viena,Akademie der bildenden Künste; Academy of Fine Arts Vienna,Repertório,,,https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_Vienna,pt 0; en 6372
+ach-035,Uma escola ou faculdade de arquitetura famosa,,FAU USP,FAU-USP; FAU; FAUUSP; Faculdade de Arquitetura e Urbanismo e de Design da Universidade de São Paulo,Cartão-postal,,,https://pt.wikipedia.org/wiki/Faculdade_de_Arquitetura_e_Urbanismo_e_de_Design_da_Universidade_de_São_Paulo,pt 273; en 0
 ach-035,Uma escola ou faculdade de arquitetura famosa,,ETH Zurique,ETH; ETH Zürich; Instituto Federal de Tecnologia de Zurique,Repertório,,,https://pt.wikipedia.org/wiki/Instituto_Federal_de_Tecnologia_de_Zurique,pt 242; en 0
 ach-035,Uma escola ou faculdade de arquitetura famosa,,Escola de Glasgow,Glasgow School of Art,Repertório,,,https://en.wikipedia.org/wiki/Glasgow_School_of_Art,pt 0; en 2428
 ach-035,Uma escola ou faculdade de arquitetura famosa,,Universidade de Tóquio,,Repertório,,,https://pt.wikipedia.org/wiki/Universidade_de_Tóquio,pt 115; en 0
@@ -1295,15 +1292,13 @@ ach-035,Uma escola ou faculdade de arquitetura famosa,,Princeton School of Archi
 ach-035,Uma escola ou faculdade de arquitetura famosa,,Instituto de Arquitetura Berlage,Berlage Institute,Achado,,,https://en.wikipedia.org/wiki/Berlage_Institute,pt 0; en 132
 ach-035,Uma escola ou faculdade de arquitetura famosa,,Rhode Island School of Design,RISD,Achado,,,https://pt.wikipedia.org/wiki/Rhode_Island_School_of_Design,pt 6; en 0
 ach-035,Uma escola ou faculdade de arquitetura famosa,,Escola da Cidade,,Achado,,,https://en.wikipedia.org/wiki/Escola_da_Cidade,pt 0; en 21
-ach-036,Um livro sobre arquitetura,,Do Espiritual na Arte,Do Espiritual na Arte; Wassily Kandinsky,Cartão-postal,,,https://en.wikipedia.org/wiki/Wassily_Kandinsky,pt 0; en 33392
-ach-036,Um livro sobre arquitetura,,Utopia,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Utopia,pt 1165; en 0
-ach-036,Um livro sobre arquitetura,,A Nascente,The Fountainhead,Cartão-postal,,,https://en.wikipedia.org/wiki/The_Fountainhead,pt 0; en 22536
-ach-036,Um livro sobre arquitetura,,Morte e Vida de Grandes Cidades,The Death and Life of Great American Cities,Clássico,,,https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities,pt 0; en 4208
+ach-036,Um livro sobre arquitetura,,A Nascente,The Fountainhead,Clássico,,,https://en.wikipedia.org/wiki/The_Fountainhead,pt 0; en 22536
+ach-036,Um livro sobre arquitetura,,Morte e Vida de Grandes Cidades,The Death and Life of Great American Cities,Cartão-postal,,,https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities,pt 0; en 4208
 ach-036,Um livro sobre arquitetura,,Uma Linguagem de Padrões,A Pattern Language,Clássico,,,https://en.wikipedia.org/wiki/A_Pattern_Language,pt 0; en 4159
-ach-036,Um livro sobre arquitetura,,De architectura,Dez Livros de Arquitetura; Vitrúvio; Tratado de Vitrúvio,Clássico,,,https://pt.wikipedia.org/wiki/De_architectura,pt 154; en 0
+ach-036,Um livro sobre arquitetura,,De architectura,Dez Livros de Arquitetura; Vitrúvio; Tratado de Vitrúvio,Cartão-postal,,,https://pt.wikipedia.org/wiki/De_architectura,pt 154; en 0
 ach-036,Um livro sobre arquitetura,,A Poética do Espaço,La Poétique de l'espace; The Poetics of Space,Clássico,,,https://en.wikipedia.org/wiki/The_Poetics_of_Space,pt 0; en 3037
 ach-036,Um livro sobre arquitetura,,Ornamento e Crime,Ornament and Crime,Clássico,,,https://en.wikipedia.org/wiki/Ornament_and_Crime,pt 0; en 2277
-ach-036,Um livro sobre arquitetura,,Hypnerotomachia Poliphili,Sonho de Polífilo,Repertório,,,https://pt.wikipedia.org/wiki/Hypnerotomachia_Poliphili,pt 101; en 0
+ach-036,Um livro sobre arquitetura,,Hypnerotomachia Poliphili,Sonho de Polífilo,Arquivo,,,https://pt.wikipedia.org/wiki/Hypnerotomachia_Poliphili,pt 101; en 0
 ach-036,Um livro sobre arquitetura,,Cidade Radiosa,Ville Radieuse; La Ville Radieuse,Repertório,,,https://en.wikipedia.org/wiki/Ville_Radieuse,pt 0; en 1662
 ach-036,Um livro sobre arquitetura,,A Imagem da Cidade,The Image of the City,Repertório,,,https://en.wikipedia.org/wiki/The_Image_of_the_City,pt 0; en 1634
 ach-036,Um livro sobre arquitetura,,As Pedras de Veneza,The Stones of Venice,Repertório,,,https://en.wikipedia.org/wiki/The_Stones_of_Venice_(book),pt 0; en 1387
@@ -1315,26 +1310,26 @@ ach-036,Um livro sobre arquitetura,,A Cidade na História,The City in History,Ar
 ach-036,Um livro sobre arquitetura,,Os Quatro Livros da Arquitetura,I quattro libri dell'architettura; Quatro Livros,Arquivo,,,https://en.wikipedia.org/wiki/I_quattro_libri_dell'architettura,pt 0; en 623
 ach-036,Um livro sobre arquitetura,,A Arquitetura da Felicidade,The Architecture of Happiness,Arquivo,,,https://en.wikipedia.org/wiki/The_Architecture_of_Happiness,pt 0; en 606
 ach-036,Um livro sobre arquitetura,,"S,M,L,XL",,Arquivo,,,"https://en.wikipedia.org/wiki/S,M,L,XL",pt 0; en 494
-ach-036,Um livro sobre arquitetura,,Por uma Arquitetura,Vers une architecture; Towards a New Architecture; Por uma arquitetura; Toward an Architecture,Arquivo,,,https://en.wikipedia.org/wiki/Toward_an_Architecture,pt 0; en 449
+ach-036,Um livro sobre arquitetura,,Por uma Arquitetura,Vers une architecture; Towards a New Architecture; Por uma arquitetura; Toward an Architecture,Cartão-postal,,,https://en.wikipedia.org/wiki/Toward_an_Architecture,pt 0; en 449
 ach-036,Um livro sobre arquitetura,,Complexidade e Contradição em Arquitetura,Complexity and Contradiction; Complexity and Contradiction in Architecture,Arquivo,,,https://en.wikipedia.org/wiki/Complexity_and_Contradiction_in_Architecture,pt 0; en 386
 ach-036,Um livro sobre arquitetura,,"Espaço, Tempo e Arquitetura","Space, Time and Architecture",Achado,,,"https://en.wikipedia.org/wiki/Space,_Time_and_Architecture",pt 0; en 300
 ach-036,Um livro sobre arquitetura,,Arquitetura Sem Arquitetos,Architecture Without Architects,Achado,,,https://en.wikipedia.org/wiki/Architecture_Without_Architects,pt 0; en 293
 ach-036,Um livro sobre arquitetura,,A Arquitetura da Cidade,L'architettura della città; The Architecture of the City,Achado,,,https://en.wikipedia.org/wiki/The_Architecture_of_the_City,pt 0; en 272
 ach-036,Um livro sobre arquitetura,,A Linguagem Clássica da Arquitetura,The Classical Language of Architecture,Achado,,,https://en.wikipedia.org/wiki/The_Classical_Language_of_Architecture,pt 0; en 121
-ach-037,Um material de construção,,Pau a pique,Taipa de mão,Cartão-postal,,,https://pt.wikipedia.org/wiki/Pau_a_pique,pt 1605; en 0
-ach-037,Um material de construção,,Cobre,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Cobre,pt 1496; en 0
+ach-037,Um material de construção,,Pau a pique,Taipa de mão,Clássico,,,https://pt.wikipedia.org/wiki/Pau_a_pique,pt 1605; en 0
+ach-037,Um material de construção,,Cobre,,Repertório,,,https://pt.wikipedia.org/wiki/Cobre,pt 1496; en 0
 ach-037,Um material de construção,,Granito,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Granito,pt 1302; en 0
 ach-037,Um material de construção,,Madeira,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Madeira,pt 1230; en 0
-ach-037,Um material de construção,,Alumínio,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Alumínio,pt 1127; en 0
+ach-037,Um material de construção,,Alumínio,,Repertório,,,https://pt.wikipedia.org/wiki/Alumínio,pt 1127; en 0
 ach-037,Um material de construção,,Cal,Cal virgem,Clássico,,,https://pt.wikipedia.org/wiki/Cal,pt 1115; en 0
 ach-037,Um material de construção,,Azulejo,,Clássico,,,https://pt.wikipedia.org/wiki/Azulejo,pt 1068; en 0
 ach-037,Um material de construção,,Basalto,,Clássico,,,https://pt.wikipedia.org/wiki/Basalto,pt 1011; en 0
 ach-037,Um material de construção,,Terracota,,Clássico,,,https://pt.wikipedia.org/wiki/Terracota,pt 995; en 0
 ach-037,Um material de construção,,Zinco,,Clássico,,,https://pt.wikipedia.org/wiki/Zinco,pt 940; en 0
 ach-037,Um material de construção,,Bambu,,Clássico,,,https://pt.wikipedia.org/wiki/Bambu,pt 885; en 0
-ach-037,Um material de construção,,Aço,Aço estrutural,Clássico,,,https://pt.wikipedia.org/wiki/Aço,pt 875; en 0
+ach-037,Um material de construção,,Aço,Aço estrutural,Cartão-postal,,,https://pt.wikipedia.org/wiki/Aço,pt 875; en 0
 ach-037,Um material de construção,,PVC,Policloreto de polivinila; Policloreto de vinila,Clássico,,,https://pt.wikipedia.org/wiki/Policloreto_de_vinila,pt 864; en 0
-ach-037,Um material de construção,,Vidro,,Clássico,,,https://pt.wikipedia.org/wiki/Vidro,pt 815; en 0
+ach-037,Um material de construção,,Vidro,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Vidro,pt 815; en 0
 ach-037,Um material de construção,,Mármore,,Repertório,,,https://pt.wikipedia.org/wiki/Mármore,pt 807; en 0
 ach-037,Um material de construção,,Cerâmica,,Repertório,,,https://pt.wikipedia.org/wiki/Cerâmica,pt 761; en 0
 ach-037,Um material de construção,,Cimento,Cimento Portland,Repertório,,,https://pt.wikipedia.org/wiki/Cimento,pt 754; en 0
@@ -1342,7 +1337,7 @@ ach-037,Um material de construção,,Cobogó,Elemento vazado,Repertório,,,https
 ach-037,Um material de construção,,Gesso,,Repertório,,,https://pt.wikipedia.org/wiki/Gesso,pt 647; en 0
 ach-037,Um material de construção,,Cortiça,,Repertório,,,https://pt.wikipedia.org/wiki/Cortiça,pt 619; en 0
 ach-037,Um material de construção,,Isopor,EPS; Poliestireno expandido; Poliestireno,Repertório,,,https://pt.wikipedia.org/wiki/Poliestireno,pt 600; en 0
-ach-037,Um material de construção,,Concreto,Betão; Concreto armado,Repertório,,,https://pt.wikipedia.org/wiki/Concreto,pt 567; en 0
+ach-037,Um material de construção,,Concreto,Betão; Concreto armado,Cartão-postal,,,https://pt.wikipedia.org/wiki/Concreto,pt 567; en 0
 ach-037,Um material de construção,,Travertino,,Repertório,,,https://pt.wikipedia.org/wiki/Travertino,pt 542; en 0
 ach-037,Um material de construção,,Ardósia,,Repertório,,,https://pt.wikipedia.org/wiki/Ardósia,pt 515; en 0
 ach-037,Um material de construção,,Adobe,,Repertório,,,https://pt.wikipedia.org/wiki/Adobe,pt 480; en 0
@@ -1350,7 +1345,7 @@ ach-037,Um material de construção,,Concreto armado,,Repertório,,,https://pt.w
 ach-037,Um material de construção,,Argamassa,,Repertório,,,https://pt.wikipedia.org/wiki/Argamassa,pt 445; en 0
 ach-037,Um material de construção,,Drywall,Gesso acartonado; Placa de gesso,Repertório,,,https://pt.wikipedia.org/wiki/Placa_de_gesso,pt 428; en 0
 ach-037,Um material de construção,,Asfalto,,Arquivo,,,https://pt.wikipedia.org/wiki/Asfalto,pt 420; en 0
-ach-037,Um material de construção,,Tijolo,Tijolo cerâmico; Tijolinho,Arquivo,,,https://pt.wikipedia.org/wiki/Tijolo,pt 411; en 0
+ach-037,Um material de construção,,Tijolo,Tijolo cerâmico; Tijolinho,Cartão-postal,,,https://pt.wikipedia.org/wiki/Tijolo,pt 411; en 0
 ach-037,Um material de construção,,Aço corten,Corten; Aço patinável,Arquivo,,,https://pt.wikipedia.org/wiki/Aço_corten,pt 365; en 0
 ach-037,Um material de construção,,Pedra-sabão,Esteatito,Arquivo,,,https://pt.wikipedia.org/wiki/Esteatito,pt 347; en 0
 ach-037,Um material de construção,,Ferro fundido,,Arquivo,,,https://pt.wikipedia.org/wiki/Ferro_fundido,pt 307; en 0
@@ -1368,15 +1363,15 @@ ach-037,Um material de construção,,Concreto protendido,Protendido; Betão pré
 ach-037,Um material de construção,,Madeira laminada cruzada,CLT,Achado,,,https://pt.wikipedia.org/wiki/Madeira_laminada_cruzada,pt 64; en 0
 ach-037,Um material de construção,,Bloco de vidro,Tijolo de vidro,Achado,,,https://pt.wikipedia.org/wiki/Tijolo_de_vidro,pt 21; en 0
 ach-037,Um material de construção,,Concreto aparente,Betão aparente,Achado,,,https://pt.wikipedia.org/wiki/Betão_aparente,pt 19; en 0
-ach-038,Um tipo de pedra usada em arquitetura,,Calcário,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Calcário,pt 1317; en 0
+ach-038,Um tipo de pedra usada em arquitetura,,Calcário,,Clássico,,,https://pt.wikipedia.org/wiki/Calcário,pt 1317; en 0
 ach-038,Um tipo de pedra usada em arquitetura,,Granito,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Granito,pt 1302; en 0
 ach-038,Um tipo de pedra usada em arquitetura,,Basalto,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Basalto,pt 1011; en 0
 ach-038,Um tipo de pedra usada em arquitetura,,Calçada portuguesa,Pedra portuguesa,Clássico,,,https://pt.wikipedia.org/wiki/Calçada_portuguesa,pt 903; en 0
-ach-038,Um tipo de pedra usada em arquitetura,,Mármore,,Clássico,,,https://pt.wikipedia.org/wiki/Mármore,pt 807; en 0
-ach-038,Um tipo de pedra usada em arquitetura,,Xisto,,Clássico,,,https://pt.wikipedia.org/wiki/Xisto,pt 751; en 0
+ach-038,Um tipo de pedra usada em arquitetura,,Mármore,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Mármore,pt 807; en 0
+ach-038,Um tipo de pedra usada em arquitetura,,Xisto,,Repertório,,,https://pt.wikipedia.org/wiki/Xisto,pt 751; en 0
 ach-038,Um tipo de pedra usada em arquitetura,,Alabastro,,Clássico,,,https://pt.wikipedia.org/wiki/Alabastro,pt 632; en 0
-ach-038,Um tipo de pedra usada em arquitetura,,Sílex,,Clássico,,,https://pt.wikipedia.org/wiki/Sílex,pt 588; en 0
-ach-038,Um tipo de pedra usada em arquitetura,,Jaspe,,Clássico,,,https://pt.wikipedia.org/wiki/Jaspe,pt 557; en 0
+ach-038,Um tipo de pedra usada em arquitetura,,Sílex,,Arquivo,,,https://pt.wikipedia.org/wiki/Sílex,pt 588; en 0
+ach-038,Um tipo de pedra usada em arquitetura,,Jaspe,,Arquivo,,,https://pt.wikipedia.org/wiki/Jaspe,pt 557; en 0
 ach-038,Um tipo de pedra usada em arquitetura,,Arenito,,Clássico,,,https://pt.wikipedia.org/wiki/Arenito,pt 546; en 0
 ach-038,Um tipo de pedra usada em arquitetura,,Travertino,,Repertório,,,https://pt.wikipedia.org/wiki/Travertino,pt 542; en 0
 ach-038,Um tipo de pedra usada em arquitetura,,Pedra-pomes,,Repertório,,,https://pt.wikipedia.org/wiki/Pedra-pomes,pt 527; en 0
@@ -1403,10 +1398,10 @@ ach-038,Um tipo de pedra usada em arquitetura,,Pedra São Tomé,,Achado,,,https:
 ach-038,Um tipo de pedra usada em arquitetura,,Pedra de Caen,Caen stone,Achado,,,https://en.wikipedia.org/wiki/Caen_stone,pt 0; en 470
 ach-038,Um tipo de pedra usada em arquitetura,,Pedra-de-Istria,Pedra de Ístria; Istrian stone,Achado,,,https://en.wikipedia.org/wiki/Istrian_stone,pt 0; en 441
 ach-038,Um tipo de pedra usada em arquitetura,,Peperino,,Achado,,,https://en.wikipedia.org/wiki/Peperino,pt 0; en 218
-ach-039,Um elemento de fachada,,Gárgula,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Gárgula,pt 1513; en 0
+ach-039,Um elemento de fachada,,Gárgula,,Clássico,,,https://pt.wikipedia.org/wiki/Gárgula,pt 1513; en 0
 ach-039,Um elemento de fachada,,Azulejo,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Azulejo,pt 1068; en 0
 ach-039,Um elemento de fachada,,Cobogó,Elemento vazado,Cartão-postal,,,https://pt.wikipedia.org/wiki/Cobogó,pt 725; en 0
-ach-039,Um elemento de fachada,,Vitral,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Vitral,pt 705; en 0
+ach-039,Um elemento de fachada,,Vitral,,Clássico,,,https://pt.wikipedia.org/wiki/Vitral,pt 705; en 0
 ach-039,Um elemento de fachada,,Platibanda,,Clássico,,,https://pt.wikipedia.org/wiki/Platibanda,pt 568; en 0
 ach-039,Um elemento de fachada,,Pórtico,,Clássico,,,https://pt.wikipedia.org/wiki/Pórtico,pt 460; en 0
 ach-039,Um elemento de fachada,,Cornija,,Clássico,,,https://pt.wikipedia.org/wiki/Cornija,pt 359; en 0
@@ -1429,7 +1424,7 @@ ach-039,Um elemento de fachada,,Entablamento,,Repertório,,,https://pt.wikipedia
 ach-039,Um elemento de fachada,,Arcada,,Repertório,,,https://pt.wikipedia.org/wiki/Arcada,pt 108; en 0
 ach-039,Um elemento de fachada,,Veneziana,,Repertório,,,https://pt.wikipedia.org/wiki/Veneziana,pt 103; en 0
 ach-039,Um elemento de fachada,,Pilastra,,Arquivo,,,https://pt.wikipedia.org/wiki/Pilastra,pt 100; en 0
-ach-039,Um elemento de fachada,,Brise-soleil,Brise; Quebra-sol,Arquivo,,,https://pt.wikipedia.org/wiki/Brise-soleil,pt 97; en 0
+ach-039,Um elemento de fachada,,Brise-soleil,Brise; Quebra-sol,Cartão-postal,,,https://pt.wikipedia.org/wiki/Brise-soleil,pt 97; en 0
 ach-039,Um elemento de fachada,,Colunata,,Arquivo,,,https://pt.wikipedia.org/wiki/Colunata,pt 95; en 0
 ach-039,Um elemento de fachada,,Lambrequim,,Arquivo,,,https://pt.wikipedia.org/wiki/Lambrequim,pt 92; en 0
 ach-039,Um elemento de fachada,,Loggia,Logia; Lógia,Arquivo,,,https://pt.wikipedia.org/wiki/Lógia,pt 91; en 0
@@ -1445,10 +1440,10 @@ ach-039,Um elemento de fachada,,Bossagem,Almofadado; Rústico,Achado,,,https://p
 ach-039,Um elemento de fachada,,Jardim vertical,Parede verde; Fachada verde,Achado,,,https://pt.wikipedia.org/wiki/Jardim_vertical,pt 22; en 0
 ach-039,Um elemento de fachada,,Peitoril,,Achado,,,https://pt.wikipedia.org/wiki/Peitoril,pt 21; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Cúpula,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Cúpula,pt 400; en 0
-ach-040,Um tipo de telhado ou de cobertura,,Sapê,Telhado de palha; Colmo,Cartão-postal,,,https://pt.wikipedia.org/wiki/Sapê,pt 335; en 0
+ach-040,Um tipo de telhado ou de cobertura,,Sapê,Telhado de palha; Colmo,Clássico,,,https://pt.wikipedia.org/wiki/Sapê,pt 335; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Claraboia,,Clássico,,,https://pt.wikipedia.org/wiki/Claraboia,pt 293; en 0
-ach-040,Um tipo de telhado ou de cobertura,,Cobertura em grelha,Treliça espacial; Space frame,Clássico,,,https://en.wikipedia.org/wiki/Space_frame,pt 0; en 4122
-ach-040,Um tipo de telhado ou de cobertura,,Telhado gambrel,Gambrel,Clássico,,,https://en.wikipedia.org/wiki/Gambrel,pt 0; en 3776
+ach-040,Um tipo de telhado ou de cobertura,,Cobertura em grelha,Treliça espacial; Space frame,Arquivo,,,https://en.wikipedia.org/wiki/Space_frame,pt 0; en 4122
+ach-040,Um tipo de telhado ou de cobertura,,Telhado gambrel,Gambrel,Arquivo,,,https://en.wikipedia.org/wiki/Gambrel,pt 0; en 3776
 ach-040,Um tipo de telhado ou de cobertura,,Meia-água,Uma água; Telhado de uma água; Telhado,Clássico,,,https://pt.wikipedia.org/wiki/Telhado,pt 186; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Mansarda,,Clássico,,,https://pt.wikipedia.org/wiki/Mansarda,pt 186; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Cobertura retrátil,Teto retrátil; Retractable roof,Repertório,,,https://en.wikipedia.org/wiki/Retractable_roof,pt 0; en 3198
@@ -1457,19 +1452,19 @@ ach-040,Um tipo de telhado ou de cobertura,,Cúpula geodésica,Domo geodésico; 
 ach-040,Um tipo de telhado ou de cobertura,,Lanternim,Lanterna,Repertório,,,https://pt.wikipedia.org/wiki/Lanterna_(arquitetura),pt 107; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Abóbada de berço,Abóbada de canhão,Repertório,,,https://pt.wikipedia.org/wiki/Abóbada_de_berço,pt 105; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Abóbada de nervuras,Abóbada de cruzaria; Abóbada em cruzaria,Repertório,,,https://pt.wikipedia.org/wiki/Abóbada_em_cruzaria,pt 105; en 0
-ach-040,Um tipo de telhado ou de cobertura,,Telhado verde,Teto verde; Cobertura verde,Repertório,,,https://pt.wikipedia.org/wiki/Cobertura_verde,pt 96; en 0
+ach-040,Um tipo de telhado ou de cobertura,,Telhado verde,Teto verde; Cobertura verde,Cartão-postal,,,https://pt.wikipedia.org/wiki/Cobertura_verde,pt 96; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Coruchéu,,Arquivo,,,https://pt.wikipedia.org/wiki/Coruchéu,pt 89; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Zimbório,,Arquivo,,,https://pt.wikipedia.org/wiki/Zimbório,pt 73; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Quatro águas,Telhado de quatro águas,Arquivo,,,https://pt.wikipedia.org/wiki/Telhado_de_quatro_águas,pt 61; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Abóbada de aresta,,Arquivo,,,https://pt.wikipedia.org/wiki/Abóbada_de_aresta,pt 53; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Telhado borboleta,Butterfly; Butterfly roof,Arquivo,,,https://en.wikipedia.org/wiki/Butterfly_roof,pt 0; en 750
-ach-040,Um tipo de telhado ou de cobertura,,Duas águas,Telhado de duas águas; Telhado duas águas; Água de telhado,Arquivo,,,https://pt.wikipedia.org/wiki/Água_de_telhado,pt 30; en 0
+ach-040,Um tipo de telhado ou de cobertura,,Duas águas,Telhado de duas águas; Telhado duas águas; Água de telhado,Cartão-postal,,,https://pt.wikipedia.org/wiki/Água_de_telhado,pt 30; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Casca de concreto,Casca; Shell,Achado,,,https://en.wikipedia.org/wiki/Shell_(structure),pt 0; en 535
 ach-040,Um tipo de telhado ou de cobertura,,Terraço-jardim,Teto-jardim,Achado,,,https://pt.wikipedia.org/wiki/Terraço-jardim,pt 21; en 0
 ach-040,Um tipo de telhado ou de cobertura,,Telhado holandês,Dutch gable roof,Achado,,,https://en.wikipedia.org/wiki/Dutch_gable_roof,pt 0; en 377
-ach-041,Uma parte de uma igreja,,Vitral,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Vitral,pt 705; en 0
+ach-041,Uma parte de uma igreja,,Vitral,,Clássico,,,https://pt.wikipedia.org/wiki/Vitral,pt 705; en 0
 ach-041,Uma parte de uma igreja,,Púlpito,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Púlpito,pt 620; en 0
-ach-041,Uma parte de uma igreja,,Arco triunfal,Arco do triunfo,Cartão-postal,,,https://pt.wikipedia.org/wiki/Arco_do_triunfo,pt 463; en 0
+ach-041,Uma parte de uma igreja,,Arco triunfal,Arco do triunfo,Repertório,,,https://pt.wikipedia.org/wiki/Arco_do_triunfo,pt 463; en 0
 ach-041,Uma parte de uma igreja,,Cúpula,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Cúpula,pt 400; en 0
 ach-041,Uma parte de uma igreja,,Cripta,,Clássico,,,https://pt.wikipedia.org/wiki/Cripta,pt 324; en 0
 ach-041,Uma parte de uma igreja,,Campanário,Torre sineira,Clássico,,,https://pt.wikipedia.org/wiki/Campanário,pt 296; en 0
@@ -1477,8 +1472,8 @@ ach-041,Uma parte de uma igreja,,Retábulo,,Clássico,,,https://pt.wikipedia.org
 ach-041,Uma parte de uma igreja,,Arcobotante,,Clássico,,,https://pt.wikipedia.org/wiki/Arcobotante,pt 255; en 0
 ach-041,Uma parte de uma igreja,,Claustro,,Clássico,,,https://pt.wikipedia.org/wiki/Claustro,pt 249; en 0
 ach-041,Uma parte de uma igreja,,Sacrário,Tabernáculo,Clássico,,,https://pt.wikipedia.org/wiki/Sacrário,pt 225; en 0
-ach-041,Uma parte de uma igreja,,Nave,Nave central,Clássico,,,https://pt.wikipedia.org/wiki/Nave_(arquitetura),pt 211; en 0
-ach-041,Uma parte de uma igreja,,Altar,,Repertório,,,https://pt.wikipedia.org/wiki/Altar,pt 205; en 0
+ach-041,Uma parte de uma igreja,,Nave,Nave central,Cartão-postal,,,https://pt.wikipedia.org/wiki/Nave_(arquitetura),pt 211; en 0
+ach-041,Uma parte de uma igreja,,Altar,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Altar,pt 205; en 0
 ach-041,Uma parte de uma igreja,,Abside,,Repertório,,,https://pt.wikipedia.org/wiki/Abside,pt 203; en 0
 ach-041,Uma parte de uma igreja,,Cadeira episcopal,Cátedra,Repertório,,,https://pt.wikipedia.org/wiki/Cátedra,pt 187; en 0
 ach-041,Uma parte de uma igreja,,Baldaquino,,Repertório,,,https://pt.wikipedia.org/wiki/Baldaquino,pt 171; en 0
@@ -1504,25 +1499,25 @@ ach-041,Uma parte de uma igreja,,Deambulatório,,Achado,,,https://pt.wikipedia.o
 ach-041,Uma parte de uma igreja,,Pia batismal,,Achado,,,https://pt.wikipedia.org/wiki/Pia_batismal,pt 63; en 0
 ach-041,Uma parte de uma igreja,,Trifório,,Achado,,,https://pt.wikipedia.org/wiki/Trifório,pt 61; en 0
 ach-041,Uma parte de uma igreja,,Tribuna,,Achado,,,https://pt.wikipedia.org/wiki/Tribuna,pt 52; en 0
-ach-042,Um tipo de escada,,Escada de Jacó,Escada de Jacob; Escadas de Jacó,Cartão-postal,,,https://pt.wikipedia.org/wiki/Escadas_de_Jacó,pt 450; en 0
-ach-042,Um tipo de escada,,Escada helicoidal,Stairs,Clássico,,,https://en.wikipedia.org/wiki/Stairs,pt 0; en 3922
+ach-042,Um tipo de escada,,Escada de Jacó,Escada de Jacob; Escadas de Jacó,Repertório,,,https://pt.wikipedia.org/wiki/Escadas_de_Jacó,pt 450; en 0
+ach-042,Um tipo de escada,,Escada em caracol,Caracol; Escada caracol; Escada helicoidal; Helicoidal; Stairs,Cartão-postal,,,https://en.wikipedia.org/wiki/Stairs,pt 0; en 3922
 ach-042,Um tipo de escada,,Escadaria,escada,Clássico,,,https://pt.wikipedia.org/wiki/escada,pt 186; en 0
-ach-042,Um tipo de escada,,Escada rolante,Rolante,Repertório,,,https://pt.wikipedia.org/wiki/Escada_rolante,pt 133; en 0
+ach-042,Um tipo de escada,,Escada rolante,Rolante,Cartão-postal,,,https://pt.wikipedia.org/wiki/Escada_rolante,pt 133; en 0
 ach-042,Um tipo de escada,,Escada do Vaticano,Escada de Bramante; Bramante Staircase,Repertório,,,https://en.wikipedia.org/wiki/Bramante_Staircase,pt 0; en 2603
 ach-042,Um tipo de escada,,Escada Penrose,Penrose; Escada impossível; Escada de Penrose,Arquivo,,,https://pt.wikipedia.org/wiki/Escada_de_Penrose,pt 127; en 0
 ach-042,Um tipo de escada,,Rampa,,Arquivo,,,https://pt.wikipedia.org/wiki/Rampa,pt 47; en 0
 ach-042,Um tipo de escada,,Escada de mão,Escada portátil,Arquivo,,,https://pt.wikipedia.org/wiki/Escada_de_mão,pt 32; en 0
 ach-042,Um tipo de escada,,Escada imperial,Imperial; Imperial staircase,Achado,,,https://en.wikipedia.org/wiki/Imperial_staircase,pt 0; en 582
 ach-043,Um instrumento de desenho,,Lápis,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Lápis,pt 484; en 0
-ach-043,Um instrumento de desenho,,Caneta esferográfica,Esferográfica; Bic,Cartão-postal,,,https://pt.wikipedia.org/wiki/Caneta_esferográfica,pt 397; en 0
+ach-043,Um instrumento de desenho,,Caneta esferográfica,Esferográfica; Bic,Clássico,,,https://pt.wikipedia.org/wiki/Caneta_esferográfica,pt 397; en 0
 ach-043,Um instrumento de desenho,,Aquarela,Aguarela,Clássico,,,https://pt.wikipedia.org/wiki/Aguarela,pt 338; en 0
 ach-043,Um instrumento de desenho,,Régua,,Clássico,,,https://pt.wikipedia.org/wiki/Régua,pt 316; en 0
-ach-043,Um instrumento de desenho,,Compasso,Compasso,Clássico,,,https://pt.wikipedia.org/wiki/Compasso_(geometria),pt 232; en 0
+ach-043,Um instrumento de desenho,,Compasso,Compasso,Cartão-postal,,,https://pt.wikipedia.org/wiki/Compasso_(geometria),pt 232; en 0
 ach-043,Um instrumento de desenho,,Transferidor,,Clássico,,,https://pt.wikipedia.org/wiki/Transferidor,pt 220; en 0
 ach-043,Um instrumento de desenho,,Pastel,,Clássico,,,https://en.wikipedia.org/wiki/Pastel,pt 0; en 4353
 ach-043,Um instrumento de desenho,,Bico de pena,Pena; Caneta tinteiro,Repertório,,,https://pt.wikipedia.org/wiki/Bico_de_pena,pt 180; en 0
 ach-043,Um instrumento de desenho,,Papel manteiga,,Repertório,,,https://pt.wikipedia.org/wiki/Papel_manteiga,pt 177; en 0
-ach-043,Um instrumento de desenho,,Esquadro,,Repertório,,,https://pt.wikipedia.org/wiki/Esquadro,pt 159; en 0
+ach-043,Um instrumento de desenho,,Esquadro,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Esquadro,pt 159; en 0
 ach-043,Um instrumento de desenho,,Lapiseira,,Repertório,,,https://pt.wikipedia.org/wiki/Lapiseira,pt 126; en 0
 ach-043,Um instrumento de desenho,,Papel vegetal,,Repertório,,,https://pt.wikipedia.org/wiki/Papel_vegetal,pt 114; en 0
 ach-043,Um instrumento de desenho,,Pincel,,Repertório,,,https://pt.wikipedia.org/wiki/Pincel,pt 111; en 0
@@ -1538,18 +1533,19 @@ ach-043,Um instrumento de desenho,,Esfuminho,,Achado,,,https://pt.wikipedia.org/
 ach-043,Um instrumento de desenho,,Mesa de luz,,Achado,,,https://pt.wikipedia.org/wiki/Mesa_de_luz,pt 18; en 0
 ach-043,Um instrumento de desenho,,Curva francesa,Pistola,Achado,,,https://pt.wikipedia.org/wiki/Curva_francesa,pt 17; en 0
 ach-043,Um instrumento de desenho,,Régua paralela,,Achado,,,https://pt.wikipedia.org/wiki/Régua_paralela,pt 12; en 0
-ach-044,Um software usado por arquitetos,,Canva,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Canva,pt 10219; en 0
-ach-044,Um software usado por arquitetos,,Microsoft Excel,Excel,Cartão-postal,,,https://pt.wikipedia.org/wiki/Microsoft_Excel,pt 10098; en 0
-ach-044,Um software usado por arquitetos,,Google Earth,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Google_Earth,pt 3843; en 0
-ach-044,Um software usado por arquitetos,,Twinmotion,Epic Games,Cartão-postal,,,https://en.wikipedia.org/wiki/Epic_Games,pt 0; en 52824
-ach-044,Um software usado por arquitetos,,Adobe Photoshop,Photoshop,Clássico,,,https://pt.wikipedia.org/wiki/Adobe_Photoshop,pt 928; en 0
+ach-043,Um instrumento de desenho,,Régua T,Régua tê; Regua T,Cartão-postal,,,https://pt.wikipedia.org/wiki/Desenho_técnico,pt 0; en 0
+ach-044,Um software usado por arquitetos,,Canva,,Repertório,,,https://pt.wikipedia.org/wiki/Canva,pt 10219; en 0
+ach-044,Um software usado por arquitetos,,Microsoft Excel,Excel,Repertório,,,https://pt.wikipedia.org/wiki/Microsoft_Excel,pt 10098; en 0
+ach-044,Um software usado por arquitetos,,Google Earth,,Repertório,,,https://pt.wikipedia.org/wiki/Google_Earth,pt 3843; en 0
+ach-044,Um software usado por arquitetos,,Twinmotion,Epic Games,Repertório,,,https://en.wikipedia.org/wiki/Epic_Games,pt 0; en 52824
+ach-044,Um software usado por arquitetos,,Adobe Photoshop,Photoshop,Cartão-postal,,,https://pt.wikipedia.org/wiki/Adobe_Photoshop,pt 928; en 0
 ach-044,Um software usado por arquitetos,,Blender,,Clássico,,,https://pt.wikipedia.org/wiki/Blender,pt 903; en 0
-ach-044,Um software usado por arquitetos,,PowerPoint,PowerPoint; Microsoft PowerPoint,Clássico,,,https://pt.wikipedia.org/wiki/Microsoft_PowerPoint,pt 715; en 0
-ach-044,Um software usado por arquitetos,,AutoCAD,,Clássico,,,https://pt.wikipedia.org/wiki/AutoCAD,pt 588; en 0
+ach-044,Um software usado por arquitetos,,PowerPoint,PowerPoint; Microsoft PowerPoint,Repertório,,,https://pt.wikipedia.org/wiki/Microsoft_PowerPoint,pt 715; en 0
+ach-044,Um software usado por arquitetos,,AutoCAD,,Cartão-postal,,,https://pt.wikipedia.org/wiki/AutoCAD,pt 588; en 0
 ach-044,Um software usado por arquitetos,,Procreate,Reproduction,Clássico,,,https://en.wikipedia.org/wiki/Reproduction,pt 0; en 10690
 ach-044,Um software usado por arquitetos,,Unreal Engine,,Clássico,,,https://pt.wikipedia.org/wiki/Unreal_Engine,pt 391; en 0
 ach-044,Um software usado por arquitetos,,QGIS,,Clássico,,,https://pt.wikipedia.org/wiki/QGIS,pt 385; en 0
-ach-044,Um software usado por arquitetos,,SketchUp,Sketchup,Repertório,,,https://pt.wikipedia.org/wiki/SketchUp,pt 338; en 0
+ach-044,Um software usado por arquitetos,,SketchUp,Sketchup,Cartão-postal,,,https://pt.wikipedia.org/wiki/SketchUp,pt 338; en 0
 ach-044,Um software usado por arquitetos,,Midjourney,,Repertório,,,https://pt.wikipedia.org/wiki/Midjourney,pt 214; en 0
 ach-044,Um software usado por arquitetos,,CATIA,Catia,Repertório,,,https://en.wikipedia.org/wiki/CATIA,pt 0; en 4176
 ach-044,Um software usado por arquitetos,,Adobe Illustrator,Illustrator,Repertório,,,https://pt.wikipedia.org/wiki/Adobe_Illustrator,pt 206; en 0
@@ -1557,7 +1553,7 @@ ach-044,Um software usado por arquitetos,,Solidworks,SolidWorks,Repertório,,,ht
 ach-044,Um software usado por arquitetos,,Figma,,Repertório,,,https://pt.wikipedia.org/wiki/Figma,pt 176; en 0
 ach-044,Um software usado por arquitetos,,Affinity Designer,,Repertório,,,https://en.wikipedia.org/wiki/Affinity_Designer,pt 0; en 3294
 ach-044,Um software usado por arquitetos,,Fusion 360,Autodesk Fusion,Repertório,,,https://en.wikipedia.org/wiki/Autodesk_Fusion,pt 0; en 3042
-ach-044,Um software usado por arquitetos,,Revit,Autodesk Revit,Repertório,,,https://pt.wikipedia.org/wiki/Revit,pt 146; en 0
+ach-044,Um software usado por arquitetos,,Revit,Autodesk Revit,Cartão-postal,,,https://pt.wikipedia.org/wiki/Revit,pt 146; en 0
 ach-044,Um software usado por arquitetos,,3ds Max,3D Studio Max; Max,Repertório,,,https://pt.wikipedia.org/wiki/3ds_Max,pt 119; en 0
 ach-044,Um software usado por arquitetos,,Autodesk Maya,Maya,Repertório,,,https://pt.wikipedia.org/wiki/Autodesk_Maya,pt 109; en 0
 ach-044,Um software usado por arquitetos,,Rhinoceros 3D,Rhino; Rhinoceros,Repertório,,,https://pt.wikipedia.org/wiki/Rhinoceros_3D,pt 101; en 0
@@ -1576,8 +1572,8 @@ ach-044,Um software usado por arquitetos,,MicroStation,,Achado,,,https://pt.wiki
 ach-044,Um software usado por arquitetos,,Chief Architect,Chief Architect Software,Achado,,,https://en.wikipedia.org/wiki/Chief_Architect_Software,pt 0; en 269
 ach-044,Um software usado por arquitetos,,EnergyPlus,,Achado,,,https://en.wikipedia.org/wiki/EnergyPlus,pt 0; en 162
 ach-044,Um software usado por arquitetos,,Corona Renderer,Corona; Chaos Corona,Achado,,,https://en.wikipedia.org/wiki/Chaos_Corona,pt 0; en 150
-ach-045,Um tipo de janela,,Vitral,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Vitral,pt 705; en 0
-ach-045,Um tipo de janela,,Janela panorâmica,Panorâmica; Window,Cartão-postal,,,https://en.wikipedia.org/wiki/Window,pt 0; en 7961
+ach-045,Um tipo de janela,,Vitral,,Repertório,,,https://pt.wikipedia.org/wiki/Vitral,pt 705; en 0
+ach-045,Um tipo de janela,,Janela panorâmica,Panorâmica; Window,Repertório,,,https://en.wikipedia.org/wiki/Window,pt 0; en 7961
 ach-045,Um tipo de janela,,Muxarabi,,Clássico,,,https://pt.wikipedia.org/wiki/Muxarabi,pt 300; en 0
 ach-045,Um tipo de janela,,Claraboia,,Clássico,,,https://pt.wikipedia.org/wiki/Claraboia,pt 293; en 0
 ach-045,Um tipo de janela,,Persiana,,Clássico,,,https://pt.wikipedia.org/wiki/Persiana,pt 170; en 0
@@ -1599,6 +1595,9 @@ ach-045,Um tipo de janela,,Janela Chicago,Janela de Chicago; Chicago window,Arqu
 ach-045,Um tipo de janela,,Janela termal,Janela termal; Janela diocleciana; Diocletian window,Achado,,,https://en.wikipedia.org/wiki/Diocletian_window,pt 0; en 365
 ach-045,Um tipo de janela,,Ajimez,Ajimez; bifora,Achado,,,https://en.wikipedia.org/wiki/bifora_(architecture),pt 0; en 248
 ach-045,Um tipo de janela,,Serliana,Janela palladiana; Janela serliana; Serliano,Achado,,,https://pt.wikipedia.org/wiki/Serliano,pt 9; en 0
+ach-045,Um tipo de janela,,Guilhotina,Janela de guilhotina; Janela guilhotina,Cartão-postal,,,https://pt.wikipedia.org/wiki/Janela,pt 0; en 0
+ach-045,Um tipo de janela,,Basculante,Janela basculante,Cartão-postal,,,https://pt.wikipedia.org/wiki/Janela,pt 0; en 0
+ach-045,Um tipo de janela,,De correr,Janela de correr; Correr,Cartão-postal,,,https://en.wikipedia.org/wiki/Window,pt 0; en 0
 ach-046,Uma pintura famosa,,A Noite Estrelada,Noite Estrelada; The Starry Night,Cartão-postal,,,https://pt.wikipedia.org/wiki/A_Noite_Estrelada,pt 13617; en 0
 ach-046,Uma pintura famosa,,Mona Lisa,Gioconda; La Gioconda,Cartão-postal,,,https://pt.wikipedia.org/wiki/Mona_Lisa,pt 12518; en 0
 ach-046,Uma pintura famosa,,Abaporu,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Abaporu,pt 11987; en 0
@@ -1654,22 +1653,22 @@ ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Arte de Sã
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Instituto Inhotim,Inhotim,Cartão-postal,,,https://pt.wikipedia.org/wiki/Instituto_Inhotim,pt 1922; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu do Louvre,Louvre,Cartão-postal,,,https://pt.wikipedia.org/wiki/Museu_do_Louvre,pt 1778; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Pinacoteca do Estado de São Paulo,Pinacoteca; Pinacoteca de São Paulo,Cartão-postal,,,https://pt.wikipedia.org/wiki/Pinacoteca_de_São_Paulo,pt 1082; en 0
-ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Arte Contemporânea de Niterói,MAC Niterói,Cartão-postal,,mac-niteroi,https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_de_Niterói,pt 760; en 0
+ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Arte Contemporânea de Niterói,MAC Niterói,Clássico,,mac-niteroi,https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_de_Niterói,pt 760; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu do Prado,Prado,Cartão-postal,,,https://pt.wikipedia.org/wiki/Museu_do_Prado,pt 655; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Oscar Niemeyer,MON,Clássico,,mon,https://pt.wikipedia.org/wiki/Museu_Oscar_Niemeyer,pt 637; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Nacional de Belas Artes (Brasil),Museu Nacional de Belas Artes; MNBA,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Nacional_de_Belas_Artes_(Brasil),pt 484; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Guggenheim de Bilbau,Guggenheim Bilbao; Museu Guggenheim Bilbao,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Guggenheim_Bilbao,pt 480; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Galeria Uffizi,Uffizi; Galleria degli Uffizi,Clássico,,,https://pt.wikipedia.org/wiki/Galleria_degli_Uffizi,pt 479; en 0
-ach-048,Um museu que guarda uma obra famosa (diga o museu),,Palácio Belvedere,Belvedere,Clássico,,,https://pt.wikipedia.org/wiki/Palácio_Belvedere,pt 438; en 0
+ach-048,Um museu que guarda uma obra famosa (diga o museu),,Palácio Belvedere,Belvedere,Repertório,,,https://pt.wikipedia.org/wiki/Palácio_Belvedere,pt 438; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,National Gallery,National Gallery de Londres,Clássico,,,https://en.wikipedia.org/wiki/National_Gallery,pt 0; en 8523
-ach-048,Um museu que guarda uma obra famosa (diga o museu),,Galeria Nacional de Arte (Washington),National Gallery of Art,Clássico,,,https://en.wikipedia.org/wiki/National_Gallery_of_Art,pt 0; en 8439
+ach-048,Um museu que guarda uma obra famosa (diga o museu),,Galeria Nacional de Arte (Washington),National Gallery of Art,Repertório,,,https://en.wikipedia.org/wiki/National_Gallery_of_Art,pt 0; en 8439
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Hermitage,Hermitage; Ermitage,Clássico,,,https://pt.wikipedia.org/wiki/Hermitage,pt 377; en 0
-ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Orsay,Orsay; Musée d'Orsay,Clássico,,,https://pt.wikipedia.org/wiki/Museu_de_Orsay,pt 373; en 0
+ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Orsay,Orsay; Musée d'Orsay,Cartão-postal,,,https://pt.wikipedia.org/wiki/Museu_de_Orsay,pt 373; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museus Vaticanos,Museus do Vaticano,Clássico,,,https://pt.wikipedia.org/wiki/Museus_Vaticanos,pt 357; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Solomon R. Guggenheim,Guggenheim de Nova York; Guggenheim,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Solomon_R._Guggenheim,pt 312; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Arte Moderna do Rio de Janeiro,MAM Rio,Clássico,,mam-rio,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_do_Rio_de_Janeiro,pt 305; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Frida Kahlo,Casa Azul,Clássico,,,https://pt.wikipedia.org/wiki/Museu_Frida_Kahlo,pt 287; en 0
-ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Arte Moderna de Nova Iorque,MoMA; Museu de Arte Moderna,Repertório,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_(Nova_Iorque),pt 278; en 0
+ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Arte Moderna de Nova Iorque,MoMA; Museu de Arte Moderna,Cartão-postal,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_(Nova_Iorque),pt 278; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Nacional Centro de Arte Rainha Sofia,Reina Sofía; Museo Reina Sofia; Museu Nacional Centro de Arte Reina Sofia,Repertório,,,https://pt.wikipedia.org/wiki/Museu_Nacional_Centro_de_Arte_Reina_Sofia,pt 266; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Arte Moderna de São Paulo,MAM SP; MAM,Repertório,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_de_São_Paulo,pt 250; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Centro Georges Pompidou,Pompidou; Beaubourg,Repertório,,,https://pt.wikipedia.org/wiki/Centro_Georges_Pompidou,pt 247; en 0
@@ -1712,13 +1711,13 @@ ach-048,Um museu que guarda uma obra famosa (diga o museu),,Zeitz MOCAA,Zeitz; Z
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu de Arte do Condado de Los Angeles,LACMA,Achado,,,https://pt.wikipedia.org/wiki/Museu_de_Arte_do_Condado_de_Los_Angeles,pt 26; en 0
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Botero,Museo Botero,Achado,,,https://en.wikipedia.org/wiki/Museo_Botero,pt 0; en 380
 ach-048,Um museu que guarda uma obra famosa (diga o museu),,Museu Whitney de Arte Americana,Whitney,Achado,,,https://pt.wikipedia.org/wiki/Museu_Whitney_de_Arte_Americana,pt 19; en 0
-ach-049,Uma cor com nome próprio,,Lápis-lazúli,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Lápis-lazúli,pt 1328; en 0
-ach-049,Uma cor com nome próprio,,Verde esmeralda,Esmeralda; Shades of green,Cartão-postal,,,https://en.wikipedia.org/wiki/Shades_of_green,pt 0; en 24855
-ach-049,Uma cor com nome próprio,,Magenta,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Magenta,pt 1119; en 0
-ach-049,Uma cor com nome próprio,,Púrpura de Tiro,Tyrian purple,Cartão-postal,,,https://en.wikipedia.org/wiki/Tyrian_purple,pt 0; en 18924
-ach-049,Uma cor com nome próprio,,Rosa choque,Rosa Schiaparelli; Shocking pink; Shades of pink,Clássico,,,https://en.wikipedia.org/wiki/Shades_of_pink,pt 0; en 18561
+ach-049,Uma cor com nome próprio,,Lápis-lazúli,,Repertório,,,https://pt.wikipedia.org/wiki/Lápis-lazúli,pt 1328; en 0
+ach-049,Uma cor com nome próprio,,Verde esmeralda,Esmeralda; Shades of green,Clássico,,,https://en.wikipedia.org/wiki/Shades_of_green,pt 0; en 24855
+ach-049,Uma cor com nome próprio,,Magenta,,Clássico,,,https://pt.wikipedia.org/wiki/Magenta,pt 1119; en 0
+ach-049,Uma cor com nome próprio,,Púrpura de Tiro,Tyrian purple,Repertório,,,https://en.wikipedia.org/wiki/Tyrian_purple,pt 0; en 18924
+ach-049,Uma cor com nome próprio,,Rosa choque,Rosa Schiaparelli; Shocking pink; Shades of pink,Cartão-postal,,,https://en.wikipedia.org/wiki/Shades_of_pink,pt 0; en 18561
 ach-049,Uma cor com nome próprio,,Vermelho chinês,Vermelhão; Vermilion,Clássico,,,https://en.wikipedia.org/wiki/Vermilion,pt 0; en 16980
-ach-049,Uma cor com nome próprio,,Azul Klein,International Klein Blue; IKB; Azul Yves Klein,Clássico,,,https://en.wikipedia.org/wiki/International_Klein_Blue,pt 0; en 14210
+ach-049,Uma cor com nome próprio,,Azul Klein,International Klein Blue; IKB; Azul Yves Klein,Cartão-postal,,,https://en.wikipedia.org/wiki/International_Klein_Blue,pt 0; en 14210
 ach-049,Uma cor com nome próprio,,Verde-oliva,Oliva,Clássico,,,https://pt.wikipedia.org/wiki/Verde-oliva,pt 694; en 0
 ach-049,Uma cor com nome próprio,,Bordô,Bordeaux; Borgonha,Clássico,,,https://pt.wikipedia.org/wiki/Bordô,pt 463; en 0
 ach-049,Uma cor com nome próprio,,Turquesa,,Clássico,,,https://pt.wikipedia.org/wiki/Turquesa,pt 358; en 0
@@ -1730,7 +1729,7 @@ ach-049,Uma cor com nome próprio,,Azul Egípcio,Egyptian blue,Repertório,,,htt
 ach-049,Uma cor com nome próprio,,Verde Paris,Paris green,Repertório,,,https://en.wikipedia.org/wiki/Paris_green,pt 0; en 3742
 ach-049,Uma cor com nome próprio,,Verde Veronese,Viridian,Repertório,,,https://en.wikipedia.org/wiki/Viridian,pt 0; en 3382
 ach-049,Uma cor com nome próprio,,Siena queimada,Terra de Siena queimada; Siena; Sienna,Repertório,,,https://en.wikipedia.org/wiki/Sienna,pt 0; en 3367
-ach-049,Uma cor com nome próprio,,Azul Tiffany,Tiffany Blue,Repertório,,,https://en.wikipedia.org/wiki/Tiffany_Blue,pt 0; en 3295
+ach-049,Uma cor com nome próprio,,Azul Tiffany,Tiffany Blue,Cartão-postal,,,https://en.wikipedia.org/wiki/Tiffany_Blue,pt 0; en 3295
 ach-049,Uma cor com nome próprio,,Azul Bondi,Bondi blue; Blue-green,Repertório,,,https://en.wikipedia.org/wiki/Blue-green,pt 0; en 3286
 ach-049,Uma cor com nome próprio,,Sombra queimada,Terra de sombra; Umber,Repertório,,,https://en.wikipedia.org/wiki/Umber,pt 0; en 3149
 ach-049,Uma cor com nome próprio,,Vermelho cádmio,Cádmio; Cadmium pigments,Repertório,,,https://en.wikipedia.org/wiki/Cadmium_pigments,pt 0; en 2354
@@ -1749,21 +1748,21 @@ ach-049,Uma cor com nome próprio,,Vermelho Turco,Turkey red,Achado,,,https://en
 ach-049,Uma cor com nome próprio,,Azul Yale,Yale Blue,Achado,,,https://en.wikipedia.org/wiki/Yale_Blue,pt 0; en 290
 ach-049,Uma cor com nome próprio,,Vermelho pompeiano,Vermelho Pompeia; Pompeian red,Achado,,,https://en.wikipedia.org/wiki/Pompeian_red,pt 0; en 278
 ach-050,Uma técnica de pintura ou de gravura,,Xilogravura,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Xilogravura,pt 1455; en 0
-ach-050,Uma técnica de pintura ou de gravura,,Azulejaria,Azulejo,Cartão-postal,,,https://pt.wikipedia.org/wiki/Azulejo,pt 1068; en 0
-ach-050,Uma técnica de pintura ou de gravura,,Nanquim,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Nanquim,pt 798; en 0
+ach-050,Uma técnica de pintura ou de gravura,,Azulejaria,Azulejo,Repertório,,,https://pt.wikipedia.org/wiki/Azulejo,pt 1068; en 0
+ach-050,Uma técnica de pintura ou de gravura,,Nanquim,,Clássico,,,https://pt.wikipedia.org/wiki/Nanquim,pt 798; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Litografia,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Litografia,pt 722; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Vitral,,Clássico,,,https://pt.wikipedia.org/wiki/Vitral,pt 705; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Pontilhismo,,Clássico,,,https://pt.wikipedia.org/wiki/Pontilhismo,pt 624; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Serigrafia,Silk screen; Silkscreen,Clássico,,,https://pt.wikipedia.org/wiki/Serigrafia,pt 611; en 0
-ach-050,Uma técnica de pintura ou de gravura,,Pintura a óleo,Óleo; Óleo sobre tela,Clássico,,,https://pt.wikipedia.org/wiki/Pintura_a_óleo,pt 606; en 0
-ach-050,Uma técnica de pintura ou de gravura,,Afresco,,Clássico,,,https://pt.wikipedia.org/wiki/Afresco,pt 603; en 0
+ach-050,Uma técnica de pintura ou de gravura,,Pintura a óleo,Óleo; Óleo sobre tela,Cartão-postal,,,https://pt.wikipedia.org/wiki/Pintura_a_óleo,pt 606; en 0
+ach-050,Uma técnica de pintura ou de gravura,,Afresco,,Cartão-postal,,,https://pt.wikipedia.org/wiki/Afresco,pt 603; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Claro-escuro,Chiaroscuro,Clássico,,,https://pt.wikipedia.org/wiki/Chiaroscuro,pt 515; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Iluminura,,Clássico,,,https://pt.wikipedia.org/wiki/Iluminura,pt 449; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Grafite,Grafitti; Graffiti; Grafito,Clássico,,,https://pt.wikipedia.org/wiki/Grafito,pt 440; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Gravura,,Repertório,,,https://pt.wikipedia.org/wiki/Gravura,pt 427; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Mosaico,,Repertório,,,https://pt.wikipedia.org/wiki/Mosaico,pt 426; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Trompe-l'oeil,,Repertório,,,https://pt.wikipedia.org/wiki/Trompe-l'oeil,pt 389; en 0
-ach-050,Uma técnica de pintura ou de gravura,,Aquarela,Aguarela,Repertório,,,https://pt.wikipedia.org/wiki/Aguarela,pt 338; en 0
+ach-050,Uma técnica de pintura ou de gravura,,Aquarela,Aguarela,Cartão-postal,,,https://pt.wikipedia.org/wiki/Aguarela,pt 338; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Água-forte,,Repertório,,,https://pt.wikipedia.org/wiki/Água-forte,pt 297; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Buril,Cinzel,Repertório,,,https://pt.wikipedia.org/wiki/Cinzel,pt 276; en 0
 ach-050,Uma técnica de pintura ou de gravura,,Tinta acrílica,Acrílica,Repertório,,,https://pt.wikipedia.org/wiki/Tinta_acrílica,pt 228; en 0

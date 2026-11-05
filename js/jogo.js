@@ -115,21 +115,23 @@
       if (t === "alvo-altura") {
         var alvo = Math.round(escolher(comAltura.filter(function (o) { return o.altura >= 60; }), rnd).altura / 10) * 10;
         return { tipo: "alvo", pontuacao: "Medida", atributo: "altura", valor: alvo, unidade: "m", titulo: alvo + " m",
-                 pergunta: "Diga uma obra do acervo com cerca de " + alvo + " m de altura", candidatas: dados.acervo.filter(function (o) { return o.altura !== null; }) };
+                 pergunta: "Diga um edifício ou torre famosa com cerca de " + alvo + " m de altura", candidatas: dados.acervo.filter(function (o) { return o.altura !== null; }) };
       }
       var ano = Math.round(escolher(comAno.filter(function (o) { return o.ano >= 1900; }), rnd).ano / 5) * 5;
       return { tipo: "alvo", pontuacao: "Ano", atributo: "ano", valor: ano, unidade: "", titulo: String(ano),
-               pergunta: "Diga uma obra do acervo que ficou pronta perto de " + ano, candidatas: dados.acervo.filter(function (o) { return o.ano !== null; }) };
+               pergunta: "Diga uma obra de arquitetura famosa que ficou pronta perto de " + ano, candidatas: dados.acervo.filter(function (o) { return o.ano !== null; }) };
     });
   }
 
   function novaPartida(modo, livre) {
     var dia = hoje();
-    var rnd = livre ? Math.random : gerador(sementeDe(dia + ":" + modo));
+    var semente = livre ? Math.floor(Math.random() * 1e9) : sementeDe(dia + ":" + modo);
+    var rnd = livre ? Math.random : gerador(semente);
     return {
       modo: modo, livre: livre, dia: dia, i: 0, total: 0, resultados: [],
       rodadas: modo === "achado" ? rodadasAchado(rnd) : rodadasEscala(rnd),
-      desenho: modo === "achado" ? "masp" : "torre"
+      semente: semente,
+      desenho: modo === "achado" ? D.DO_ACHADO[semente % D.DO_ACHADO.length] : "torre"
     };
   }
 
@@ -187,9 +189,8 @@
     limpar();
     var q = partida.rodadas[partida.i];
     var obra = el("figure", { "class": "obra" });
-    var desenho = D.montar(obra, partida.desenho);
-    desenho.entintar(partida.total / 700);
-    obra.appendChild(el("figcaption", { "class": "obra-legenda", texto: partida.total === 0 ? "A obra de hoje, ainda só em relevo" : Math.round(partida.total / 7) + "% da obra com tinta" }));
+    partida.obra = D.montar(obra, partida.desenho, partida.semente, partida.total / 700);
+    obra.appendChild(el("figcaption", { "class": "obra-legenda", texto: partida.total === 0 ? "A obra de hoje, ainda só em pistas de relevo" : Math.round(partida.total / 7) + "% da obra com tinta" }));
 
     var espiral = partida.livre ? null : relogioSvg();
     var cabecalho = el("header", { "class": "barra" }, [
@@ -281,7 +282,7 @@
     var url = REPO + "/issues/new?title=" + encodeURIComponent("Sugestão para o acervo: " + texto.trim()) +
       "&body=" + encodeURIComponent("Pergunta: " + pergunta + "\nResposta sugerida: " + texto.trim() + "\nFonte (link):\n");
     retorno.appendChild(el("div", { "class": "aviso" }, [
-      el("p", { texto: "“" + texto.trim() + "” não está no acervo desta pergunta. Tente outra." }),
+      el("p", { texto: q.tipo === "achado" ? "“" + texto.trim() + "” não está entre as respostas desta pergunta. Tente outra." : "Não conheço essa obra, ou não tenho esse dado dela. Tente outra." }),
       el("a", { href: url, target: "_blank", rel: "noopener", "class": "link" }, ["Sugerir para o acervo"])
     ]));
     form.querySelector("input").select();
@@ -308,10 +309,8 @@
     var area = tela.querySelector(".rodada");
     area.querySelector("form").remove();
     var ret = area.querySelector(".retorno"); ret.innerHTML = "";
-    var desenho = D.montar(tela.querySelector(".obra"), partida.desenho);
-    tela.querySelector(".obra").appendChild(el("figcaption", { "class": "obra-legenda", texto: Math.round(partida.total / 7) + "% da obra com tinta" }));
-    desenho.entintar((partida.total - res.pontos) / 700);
-    requestAnimationFrame(function () { requestAnimationFrame(function () { desenho.entintar(partida.total / 700); }); });
+    var novos = partida.obra.entintar(partida.total / 700);
+    tela.querySelector(".obra-legenda").textContent = (novos > 0 ? "+" + novos + (novos === 1 ? " traço" : " traços") + ". " : "Nenhum traço novo. ") + Math.round(partida.total / 7) + "% da obra com tinta";
     tela.querySelector(".placar-mini").textContent = partida.total + " de 700";
     var seg = tela.querySelector(".segundos"); if (seg) { seg.textContent = ""; }
 
@@ -323,6 +322,9 @@
       blocos.push(el("p", { "class": "faixa" }, [res.faixa + ", ", el("span", { "class": "num", texto: "+" + res.pontos }), res.pontos === 1 ? " ponto" : " pontos"]));
     }
     blocos.push(el("p", { "class": "fala" }, [el("span", { "class": "selo", "aria-hidden": "true" }), fala(res.motivo || res.faixa)]));
+    if (q.tipo !== "achado" && !res.motivo) {
+      blocos.push(escalimetro(q, q.tipo === "numero" ? res.chute : res.valorEscolha, q.tipo === "numero" ? "Seu chute" : res.escolha));
+    }
     blocos.push(contexto(q, res));
     blocos.push(el("button", { type: "button", "class": "botao botao-cheio", onclick: proxima }, [partida.i < 6 ? "Próxima pergunta" : "Ver o resultado"]));
     var resultado = el("div", { "class": "resultado" }, blocos);
@@ -339,19 +341,50 @@
     }
     if (q.tipo === "numero") {
       var certo = q.pontuacao === "Ano" ? fmtAno(q.valor) : fmt(q.valor) + " m";
-      return el("p", { "class": "contexto" }, ["Resposta: " + certo + ". ", el("a", { href: q.obra.fonte, target: "_blank", rel: "noopener", "class": "link" }, ["Fonte"])]);
+      return el("p", { "class": "contexto" }, [q.obra.nome + ", " + certo + ". ", el("a", { href: q.obra.fonte, target: "_blank", rel: "noopener", "class": "link" }, ["Fonte"])]);
     }
     var melhor = q.candidatas.slice().sort(function (a, b) { return Math.abs(a[q.atributo] - q.valor) - Math.abs(b[q.atributo] - q.valor); })[0];
     var fmtV = function (v) { return q.atributo === "ano" ? fmtAno(v) : fmt(v) + " m"; };
     var partes = [];
-    if (res.obraEscolha) { partes.push(res.obraEscolha.nome + ": " + fmtV(res.valorEscolha) + ". "); }
     partes.push("Melhor resposta: " + melhor.nome + ", " + fmtV(melhor[q.atributo]) + ".");
     return el("p", { "class": "contexto", texto: partes.join("") });
   }
 
+  // Escalímetro: régua com a resposta certa no meio e o chute marcado; a tinta cobre a distância entre os dois.
+  // Em unidades da régua, a pontuação p fica a (100 - p) / 120 do centro, tanto para anos quanto para medidas.
+  function posicao(q, v) {
+    var u = q.pontuacao === "Ano" ? (v - q.valor) / 30 : Math.log(v / q.valor) / (Math.log(3) * 1.2);
+    return Math.max(-1, Math.min(1, u));
+  }
+  function escalimetro(q, v, rotuloChute) {
+    var fmtV = function (x) { return q.pontuacao === "Ano" ? fmtAno(x) : fmt(x) + " m"; };
+    var u = posicao(q, v), pct = function (x) { return (50 + x * 46) + "%"; };
+    var regua = el("div", { "class": "regua", role: "img", "aria-label": "Seu chute " + fmtV(v) + ", resposta " + fmtV(q.valor) });
+    var esq = Math.min(0, u), larg = Math.abs(u);
+    regua.appendChild(el("span", { "class": "regua-corpo" }));
+    [-0.833, -0.667, -0.417, -0.167, 0.167, 0.417, 0.667, 0.833].forEach(function (b) {
+      var pts = Math.round(100 - Math.abs(b) * 120);
+      regua.appendChild(el("span", { "class": "regua-marca", style: "left:" + pct(b) }));
+      regua.appendChild(el("span", { "class": "regua-numero num", style: "left:" + pct(b), texto: String(pts) }));
+    });
+    for (var i = -20; i <= 20; i++) { if (i % 5) { regua.appendChild(el("span", { "class": "regua-miuda", style: "left:" + pct(i / 24) })); } }
+    var barra = el("span", { "class": "regua-tinta" + (u < 0 ? " para-esquerda" : ""), style: "left:" + pct(esq) + ";width:" + (larg * 46) + "%" });
+    regua.appendChild(barra);
+    regua.appendChild(el("span", { "class": "regua-certo", style: "left:50%" }));
+    regua.appendChild(el("span", { "class": "regua-chute", style: "left:" + pct(u) }));
+    return el("figure", { "class": "escalimetro" }, [
+      el("figcaption", { "class": "escalimetro-legenda" }, [
+        el("span", {}, [rotuloChute + ": ", el("strong", { "class": "num", texto: fmtV(v) })]),
+        el("span", {}, [q.tipo === "alvo" ? "Alvo: " : "Resposta: ", el("strong", { "class": "num", texto: fmtV(q.valor) })])
+      ]),
+      regua,
+      el("p", { "class": "escalimetro-nota", texto: "Os números na régua são os pontos de cada distância." })
+    ]);
+  }
+
   function proxima() {
     if (partida.i < 6) { partida.i++; rodada(); return; }
-    var resumo = { total: partida.total, resultados: partida.resultados, dia: partida.dia, livre: partida.livre };
+    var resumo = { total: partida.total, resultados: partida.resultados, dia: partida.dia, livre: partida.livre, desenho: partida.desenho, semente: partida.semente };
     if (!partida.livre) {
       var estado = ler();
       estado.dias[partida.dia] = estado.dias[partida.dia] || {};
@@ -365,12 +398,13 @@
     limpar();
     var fracao = resumo.total / 700;
     var obra = el("figure", { "class": "obra obra-grande" });
-    var desenho = D.montar(obra, modo === "achado" ? "masp" : "torre");
-    desenho.entintar(0);
+    var chave = resumo.desenho || (modo === "achado" ? "masp" : "torre");
+    var desenho = D.montar(obra, chave, resumo.semente || 1, 0);
     requestAnimationFrame(function () { requestAnimationFrame(function () { desenho.entintar(fracao); }); });
     obra.appendChild(el("figcaption", { "class": "obra-legenda" }, [
-      fracao >= 1 ? el("strong", { texto: desenho.nome }) : el("span", { texto: Math.round(fracao * 100) + "% da obra com tinta" }),
-      fracao >= 1 ? el("span", { texto: desenho.legenda }) : null
+      el("span", { texto: Math.round(fracao * 100) + "% da obra com tinta. A obra de hoje era" }),
+      el("strong", { texto: desenho.nome }),
+      el("span", { texto: desenho.legenda })
     ]));
     var texto = "Arquitetex, " + (modo === "achado" ? "Achado" : "Escala") + " de " + dataBr(resumo.dia) + (resumo.livre ? " (livre)" : "") + "\n" +
       resumo.total + " de 700, " + Math.round(fracao * 100) + "% da obra\n" +

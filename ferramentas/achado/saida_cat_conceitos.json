@@ -22,7 +22,7 @@
     "vpt": 1756,
     "ven": 0,
     "peso": 1756.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Art déco",
@@ -62,7 +62,7 @@
     "vpt": 1073,
     "ven": 0,
     "peso": 1073.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Brutalismo",
@@ -89,7 +89,7 @@
     "vpt": 811,
     "ven": 0,
     "peso": 811.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Românico",
@@ -117,7 +117,7 @@
     "vpt": 739,
     "ven": 0,
     "peso": 739.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Modernismo",
@@ -132,7 +132,7 @@
     "vpt": 575,
     "ven": 0,
     "peso": 575.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Googie",
@@ -145,7 +145,7 @@
     "vpt": 0,
     "ven": 9894,
     "peso": 494.70000000000005,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Colonial",
@@ -625,7 +625,7 @@
     "vpt": 2615,
     "ven": 0,
     "peso": 2615.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Bauhaus",
@@ -636,7 +636,7 @@
     "vpt": 2202,
     "ven": 0,
     "peso": 2202.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Antropofagia",
@@ -674,7 +674,7 @@
     "vpt": 1733,
     "ven": 0,
     "peso": 1733.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Expressionismo",
@@ -707,7 +707,7 @@
     "vpt": 1273,
     "ven": 0,
     "peso": 1273.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Abstracionismo",
@@ -772,7 +772,7 @@
     "vpt": 481,
     "ven": 0,
     "peso": 481.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Op art",
@@ -1190,19 +1190,6 @@
   "pergunta": "Um estilo de coluna ou ordem clássica",
   "linhas": [
    {
-    "nome": "Coluna de Trajano",
-    "grafias": [
-     "Trajano"
-    ],
-    "lang": "pt",
-    "titulo": "Coluna de Trajano",
-    "views": 398,
-    "vpt": 398,
-    "ven": 0,
-    "peso": 398.0,
-    "faixa": "Cartão-postal"
-   },
-   {
     "nome": "Coríntia",
     "grafias": [
      "Ordem coríntia",
@@ -1214,7 +1201,7 @@
     "vpt": 384,
     "ven": 0,
     "peso": 384.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Cariátide",
@@ -1241,7 +1228,7 @@
     "vpt": 355,
     "ven": 0,
     "peso": 355.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Jônica",
@@ -1256,18 +1243,7 @@
     "vpt": 268,
     "ven": 0,
     "peso": 268.0,
-    "faixa": "Repertório"
-   },
-   {
-    "nome": "Pilotis",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Pilotis",
-    "views": 223,
-    "vpt": 223,
-    "ven": 0,
-    "peso": 223.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Herma",
@@ -1426,7 +1402,7 @@
     "vpt": 0,
     "ven": 4022,
     "peso": 201.10000000000002,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Pele de vidro",
@@ -1454,7 +1430,7 @@
     "vpt": 188,
     "ven": 0,
     "peso": 188.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Gesamtkunstwerk",
@@ -1467,7 +1443,7 @@
     "vpt": 160,
     "ven": 0,
     "peso": 160.0,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Menos é mais",
@@ -1549,7 +1525,7 @@
     "vpt": 35,
     "ven": 0,
     "peso": 35.0,
-    "faixa": "Arquivo"
+    "faixa": "Clássico"
    },
    {
     "nome": "Unidade de vizinhança",
@@ -1577,7 +1553,7 @@
     "vpt": 21,
     "ven": 0,
     "peso": 21.0,
-    "faixa": "Arquivo"
+    "faixa": "Clássico"
    },
    {
     "nome": "Fachada livre",
@@ -1588,7 +1564,7 @@
     "vpt": 20,
     "ven": 0,
     "peso": 20.0,
-    "faixa": "Arquivo"
+    "faixa": "Clássico"
    },
    {
     "nome": "Estrutura independente",
@@ -1642,7 +1618,7 @@
     "vpt": 7,
     "ven": 0,
     "peso": 7.0,
-    "faixa": "Achado"
+    "faixa": "Cartão-postal"
    }
   ]
  },
@@ -1661,7 +1637,7 @@
     "vpt": 2804,
     "ven": 0,
     "peso": 2804.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "UFRGS",
@@ -1674,7 +1650,7 @@
     "vpt": 2471,
     "ven": 0,
     "peso": 2471.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Mackenzie",
@@ -1688,7 +1664,7 @@
     "vpt": 2379,
     "ven": 0,
     "peso": 2379.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Bauhaus",
@@ -1729,21 +1705,6 @@
     "faixa": "Clássico"
    },
    {
-    "nome": "Escola Politécnica da USP",
-    "grafias": [
-     "Poli USP",
-     "Poli",
-     "Escola Politécnica da Universidade de São Paulo"
-    ],
-    "lang": "pt",
-    "titulo": "Escola Politécnica da Universidade de São Paulo",
-    "views": 576,
-    "vpt": 576,
-    "ven": 0,
-    "peso": 576.0,
-    "faixa": "Clássico"
-   },
-   {
     "nome": "Universidade da Pensilvânia",
     "grafias": [
      "UPenn",
@@ -1755,7 +1716,7 @@
     "vpt": 574,
     "ven": 0,
     "peso": 574.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Escola Nacional de Belas Artes (Brasil)",
@@ -1798,7 +1759,7 @@
     "vpt": 0,
     "ven": 6372,
     "peso": 318.6,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "FAU USP",
@@ -1814,7 +1775,7 @@
     "vpt": 273,
     "ven": 0,
     "peso": 273.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "ETH Zurique",
@@ -2162,31 +2123,6 @@
   "pergunta": "Um livro sobre arquitetura",
   "linhas": [
    {
-    "nome": "Do Espiritual na Arte",
-    "grafias": [
-     "Do Espiritual na Arte",
-     "Wassily Kandinsky"
-    ],
-    "lang": "en",
-    "titulo": "Wassily Kandinsky",
-    "views": 33392,
-    "vpt": 0,
-    "ven": 33392,
-    "peso": 1669.6000000000001,
-    "faixa": "Cartão-postal"
-   },
-   {
-    "nome": "Utopia",
-    "grafias": [],
-    "lang": "pt",
-    "titulo": "Utopia",
-    "views": 1165,
-    "vpt": 1165,
-    "ven": 0,
-    "peso": 1165.0,
-    "faixa": "Cartão-postal"
-   },
-   {
     "nome": "A Nascente",
     "grafias": [
      "The Fountainhead"
@@ -2197,7 +2133,7 @@
     "vpt": 0,
     "ven": 22536,
     "peso": 1126.8,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Morte e Vida de Grandes Cidades",
@@ -2210,7 +2146,7 @@
     "vpt": 0,
     "ven": 4208,
     "peso": 210.4,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Uma Linguagem de Padrões",
@@ -2238,7 +2174,7 @@
     "vpt": 154,
     "ven": 0,
     "peso": 154.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "A Poética do Espaço",
@@ -2278,7 +2214,7 @@
     "vpt": 101,
     "ven": 0,
     "peso": 101.0,
-    "faixa": "Repertório"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Cidade Radiosa",
@@ -2438,7 +2374,7 @@
     "vpt": 0,
     "ven": 449,
     "peso": 22.450000000000003,
-    "faixa": "Arquivo"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Complexidade e Contradição em Arquitetura",
@@ -2523,7 +2459,7 @@
     "vpt": 1605,
     "ven": 0,
     "peso": 1605.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Cobre",
@@ -2534,7 +2470,7 @@
     "vpt": 1496,
     "ven": 0,
     "peso": 1496.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Granito",
@@ -2567,7 +2503,7 @@
     "vpt": 1127,
     "ven": 0,
     "peso": 1127.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Cal",
@@ -2648,7 +2584,7 @@
     "vpt": 875,
     "ven": 0,
     "peso": 875.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "PVC",
@@ -2673,7 +2609,7 @@
     "vpt": 815,
     "ven": 0,
     "peso": 815.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Mármore",
@@ -2772,7 +2708,7 @@
     "vpt": 567,
     "ven": 0,
     "peso": 567.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Travertino",
@@ -2866,7 +2802,7 @@
     "vpt": 411,
     "ven": 0,
     "peso": 411.0,
-    "faixa": "Arquivo"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Aço corten",
@@ -3094,7 +3030,7 @@
     "vpt": 1317,
     "ven": 0,
     "peso": 1317.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Granito",
@@ -3140,7 +3076,7 @@
     "vpt": 807,
     "ven": 0,
     "peso": 807.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Xisto",
@@ -3151,7 +3087,7 @@
     "vpt": 751,
     "ven": 0,
     "peso": 751.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Alabastro",
@@ -3173,7 +3109,7 @@
     "vpt": 588,
     "ven": 0,
     "peso": 588.0,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Jaspe",
@@ -3184,7 +3120,7 @@
     "vpt": 557,
     "ven": 0,
     "peso": 557.0,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Arenito",
@@ -3507,7 +3443,7 @@
     "vpt": 1513,
     "ven": 0,
     "peso": 1513.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Azulejo",
@@ -3542,7 +3478,7 @@
     "vpt": 705,
     "ven": 0,
     "peso": 705.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Platibanda",
@@ -3809,7 +3745,7 @@
     "vpt": 97,
     "ven": 0,
     "peso": 97.0,
-    "faixa": "Arquivo"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Colunata",
@@ -4008,7 +3944,7 @@
     "vpt": 335,
     "ven": 0,
     "peso": 335.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Claraboia",
@@ -4033,7 +3969,7 @@
     "vpt": 0,
     "ven": 4122,
     "peso": 206.10000000000002,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Telhado gambrel",
@@ -4046,7 +3982,7 @@
     "vpt": 0,
     "ven": 3776,
     "peso": 188.8,
-    "faixa": "Clássico"
+    "faixa": "Arquivo"
    },
    {
     "nome": "Meia-água",
@@ -4168,7 +4104,7 @@
     "vpt": 96,
     "ven": 0,
     "peso": 96.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Coruchéu",
@@ -4243,7 +4179,7 @@
     "vpt": 30,
     "ven": 0,
     "peso": 30.0,
-    "faixa": "Arquivo"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Casca de concreto",
@@ -4299,7 +4235,7 @@
     "vpt": 705,
     "ven": 0,
     "peso": 705.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Púlpito",
@@ -4323,7 +4259,7 @@
     "vpt": 463,
     "ven": 0,
     "peso": 463.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Cúpula",
@@ -4417,7 +4353,7 @@
     "vpt": 211,
     "ven": 0,
     "peso": 211.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Altar",
@@ -4428,7 +4364,7 @@
     "vpt": 205,
     "ven": 0,
     "peso": 205.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Abside",
@@ -4732,11 +4668,15 @@
     "vpt": 450,
     "ven": 0,
     "peso": 450.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
-    "nome": "Escada helicoidal",
+    "nome": "Escada em caracol",
     "grafias": [
+     "Caracol",
+     "Escada caracol",
+     "Escada helicoidal",
+     "Helicoidal",
      "Stairs"
     ],
     "lang": "en",
@@ -4745,7 +4685,7 @@
     "vpt": 0,
     "ven": 3922,
     "peso": 196.10000000000002,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Escadaria",
@@ -4771,7 +4711,7 @@
     "vpt": 133,
     "ven": 0,
     "peso": 133.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Escada do Vaticano",
@@ -4868,7 +4808,7 @@
     "vpt": 397,
     "ven": 0,
     "peso": 397.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Aquarela",
@@ -4905,7 +4845,7 @@
     "vpt": 232,
     "ven": 0,
     "peso": 232.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Transferidor",
@@ -4963,7 +4903,7 @@
     "vpt": 159,
     "ven": 0,
     "peso": 159.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Lapiseira",
@@ -5135,6 +5075,20 @@
     "ven": 0,
     "peso": 12.0,
     "faixa": "Achado"
+   },
+   {
+    "nome": "Régua T",
+    "grafias": [
+     "Régua tê",
+     "Regua T"
+    ],
+    "lang": "pt",
+    "titulo": "Desenho técnico",
+    "views": 0,
+    "vpt": 0,
+    "ven": 0,
+    "peso": 0,
+    "faixa": "Cartão-postal"
    }
   ]
  },
@@ -5150,7 +5104,7 @@
     "vpt": 10219,
     "ven": 0,
     "peso": 10219.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Microsoft Excel",
@@ -5163,7 +5117,7 @@
     "vpt": 10098,
     "ven": 0,
     "peso": 10098.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Google Earth",
@@ -5174,7 +5128,7 @@
     "vpt": 3843,
     "ven": 0,
     "peso": 3843.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Twinmotion",
@@ -5187,7 +5141,7 @@
     "vpt": 0,
     "ven": 52824,
     "peso": 2641.2000000000003,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Adobe Photoshop",
@@ -5200,7 +5154,7 @@
     "vpt": 928,
     "ven": 0,
     "peso": 928.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Blender",
@@ -5225,7 +5179,7 @@
     "vpt": 715,
     "ven": 0,
     "peso": 715.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "AutoCAD",
@@ -5236,7 +5190,7 @@
     "vpt": 588,
     "ven": 0,
     "peso": 588.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Procreate",
@@ -5284,7 +5238,7 @@
     "vpt": 338,
     "ven": 0,
     "peso": 338.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Midjourney",
@@ -5382,7 +5336,7 @@
     "vpt": 146,
     "ven": 0,
     "peso": 146.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "3ds Max",
@@ -5622,7 +5576,7 @@
     "vpt": 705,
     "ven": 0,
     "peso": 705.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Janela panorâmica",
@@ -5636,7 +5590,7 @@
     "vpt": 0,
     "ven": 7961,
     "peso": 398.05,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Muxarabi",
@@ -5909,6 +5863,47 @@
     "ven": 0,
     "peso": 9.0,
     "faixa": "Achado"
+   },
+   {
+    "nome": "Guilhotina",
+    "grafias": [
+     "Janela de guilhotina",
+     "Janela guilhotina"
+    ],
+    "lang": "pt",
+    "titulo": "Janela",
+    "views": 0,
+    "vpt": 0,
+    "ven": 0,
+    "peso": 0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "Basculante",
+    "grafias": [
+     "Janela basculante"
+    ],
+    "lang": "pt",
+    "titulo": "Janela",
+    "views": 0,
+    "vpt": 0,
+    "ven": 0,
+    "peso": 0,
+    "faixa": "Cartão-postal"
+   },
+   {
+    "nome": "De correr",
+    "grafias": [
+     "Janela de correr",
+     "Correr"
+    ],
+    "lang": "en",
+    "titulo": "Window",
+    "views": 0,
+    "vpt": 0,
+    "ven": 0,
+    "peso": 0,
+    "faixa": "Cartão-postal"
    }
   ]
  },
@@ -6598,7 +6593,7 @@
     "vpt": 1328,
     "ven": 0,
     "peso": 1328.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Verde esmeralda",
@@ -6612,7 +6607,7 @@
     "vpt": 0,
     "ven": 24855,
     "peso": 1242.75,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Magenta",
@@ -6623,7 +6618,7 @@
     "vpt": 1119,
     "ven": 0,
     "peso": 1119.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Púrpura de Tiro",
@@ -6636,7 +6631,7 @@
     "vpt": 0,
     "ven": 18924,
     "peso": 946.2,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Rosa choque",
@@ -6651,7 +6646,7 @@
     "vpt": 0,
     "ven": 18561,
     "peso": 928.0500000000001,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Vermelho chinês",
@@ -6680,7 +6675,7 @@
     "vpt": 0,
     "ven": 14210,
     "peso": 710.5,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Verde-oliva",
@@ -6837,7 +6832,7 @@
     "vpt": 0,
     "ven": 3295,
     "peso": 164.75,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Azul Bondi",
@@ -7094,7 +7089,7 @@
     "vpt": 1068,
     "ven": 0,
     "peso": 1068.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Repertório"
    },
    {
     "nome": "Nanquim",
@@ -7105,7 +7100,7 @@
     "vpt": 798,
     "ven": 0,
     "peso": 798.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Litografia",
@@ -7166,7 +7161,7 @@
     "vpt": 606,
     "ven": 0,
     "peso": 606.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Afresco",
@@ -7177,7 +7172,7 @@
     "vpt": 603,
     "ven": 0,
     "peso": 603.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Claro-escuro",
@@ -7262,7 +7257,7 @@
     "vpt": 338,
     "ven": 0,
     "peso": 338.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Água-forte",
@@ -7633,7 +7628,7 @@
     "vpt": 760,
     "ven": 0,
     "peso": 760.0,
-    "faixa": "Cartão-postal"
+    "faixa": "Clássico"
    },
    {
     "nome": "Museu do Prado",
@@ -7714,7 +7709,7 @@
     "vpt": 438,
     "ven": 0,
     "peso": 438.0,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "National Gallery",
@@ -7740,7 +7735,7 @@
     "vpt": 0,
     "ven": 8439,
     "peso": 421.95000000000005,
-    "faixa": "Clássico"
+    "faixa": "Repertório"
    },
    {
     "nome": "Museu Hermitage",
@@ -7768,7 +7763,7 @@
     "vpt": 373,
     "ven": 0,
     "peso": 373.0,
-    "faixa": "Clássico"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Museus Vaticanos",
@@ -7835,7 +7830,7 @@
     "vpt": 278,
     "ven": 0,
     "peso": 278.0,
-    "faixa": "Repertório"
+    "faixa": "Cartão-postal"
    },
    {
     "nome": "Museu Nacional Centro de Arte Rainha Sofia",
