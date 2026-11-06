@@ -175,26 +175,28 @@
     ]));
   }
 
-  // O selo do jacaré arquiteto, em relevo seco: cabeça de perfil, óculos redondos e uma régua T.
+  // O selo do jacaré arquiteto, em relevo seco: cabeça de perfil, boca aberta e óculos redondos.
   var JACARE = [
-    "M32 4 a28 28 0 1 0 0.01 0", "M32 8 a24 24 0 1 0 0.01 0",
-    "M13 37 C15 30 22 26.5 31 27.5 L49 29.2 Q52.5 30 49.4 31.8 L30 33.6",
-    "M15 40.5 L48 37.4 Q51 38.2 48.2 39.6 L19 43.6",
-    "M31 33.4 l1.8 1.9 l1.8 -1.9 l1.8 1.9 l1.8 -1.9 l1.8 1.9 l1.8 -1.9 l1.8 1.9 l1.8 -1.9",
-    "M33 37.2 l1.8 -1.7 l1.8 1.7 l1.8 -1.7 l1.8 1.7 l1.8 -1.7 l1.8 1.7",
-    "M19.5 27.6 Q22.5 20.8 27.5 26",
-    "M21.4 26.4 a3.4 3.4 0 1 0 6.8 0 a3.4 3.4 0 1 0 -6.8 0", "M28.2 26.2 Q30 25.4 31.6 26.6",
-    "M24.3 26.3 a0.9 0.9 0 1 0 1.8 0 a0.9 0.9 0 1 0 -1.8 0",
-    "M47.8 29.4 a0.8 0.8 0 1 0 1.6 0 a0.8 0.8 0 1 0 -1.6 0",
-    "M13 37 Q11 41 15 40.5", "M11 33 l2 -2.4 l1.6 2.6 M14.6 30.4 l2.2 -2.2 l1.4 2.6",
-    "M17 48 H47", "M41 48 V54 M37 54 H45"
+    "M32 4 a28 28 0 1 0 0.01 0",
+    "M32 8 a24 24 0 1 0 0.01 0",
+    "M11 33 C12 25 19 21 27 22 C33 22.5 40 23.5 48 25.5 Q53 26.8 52.5 29.5 Q52 31 49 31 L30 30.5",
+    "M18 23.5 Q21 15.5 27 21.5",
+    "M19.8 21.6 a3.2 3.2 0 1 0 6.4 0 a3.2 3.2 0 1 0 -6.4 0",
+    "M23.2 21.5 a0.9 0.9 0 1 0 0.1 0",
+    "M26.2 21.3 Q28.5 20.4 30.5 21.8",
+    "M47 25 q1.6 -2.2 3.2 0",
+    "M32 30.8 l1.4 2.4 l1.4 -2.4 M35 30.8 l1.4 2.4 l1.4 -2.4 M38 30.8 l1.4 2.4 l1.4 -2.4 M41 30.8 l1.4 2.4 l1.4 -2.4 M44 30.8 l1.4 2.4 l1.4 -2.4 M47 30.8 l1.4 2.4 l1.4 -2.4",
+    "M30 30.5 Q24 31.5 21 35.5",
+    "M21 35.5 L45.5 44.5 Q49 46 46 47.6 L19 41.5",
+    "M11 33 Q11.5 39 19 41.5",
+    "M25 37.0 l1.3 -2.3 l1.3 2.3 M28.5 38.3 l1.3 -2.3 l1.3 2.3 M32 39.5 l1.3 -2.3 l1.3 2.3 M35.5 40.8 l1.3 -2.3 l1.3 2.3 M39 42.1 l1.3 -2.3 l1.3 2.3 M42.5 43.4 l1.3 -2.3 l1.3 2.3",
+    "M9 29 l2.2 -2.8 l1.8 3 M13 26 l2.4 -2.6 l1.6 3"
   ];
   function selo(grande) {
     var s = el("span", { "class": "selo" + (grande ? " selo-grande" : ""), "aria-hidden": "true" });
     var camadas = ["luz", "sombra", "relevo"].map(function (c) {
       var off = c === "luz" ? "-0.5 -0.5" : (c === "sombra" ? "0.5 0.5" : "0 0");
-      return '<g class="selo-' + c + '" transform="translate(' + off + ')">' + JACARE.slice(0, 2).map(function (d) { return '<path d="' + d + '"/>'; }).join("") +
-        '<g transform="translate(31 33) scale(1.18) translate(-31 -39)">' + JACARE.slice(2).map(function (d) { return '<path d="' + d + '"/>'; }).join("") + "</g></g>";
+      return '<g class="selo-' + c + '" transform="translate(' + off + ')">' + JACARE.map(function (d) { return '<path d="' + d + '"/>'; }).join("") + "</g>";
     }).join("");
     s.innerHTML = '<svg viewBox="0 0 64 64">' + camadas + "</svg>";
     return s;
@@ -252,9 +254,8 @@
     var cabecalho = el("header", { "class": "barra" }, [
       marca(true),
       el("p", { "class": "passo" }, [
-        espiral ? espiral.svg : null,
         el("span", { texto: (partida.modo === "achado" ? "Achado" : "Escala") + ", pergunta " + (partida.i + 1) + " de 7" }),
-        espiral ? el("span", { "class": "segundos num", "aria-live": "off", texto: TEMPO + " s" }) : el("span", { "class": "livre", texto: "modo livre" })
+        espiral ? null : el("span", { "class": "livre", texto: "modo livre" })
       ]),
       el("p", { "class": "placar-mini num", texto: partida.total + " de 700" })
     ]);
@@ -264,8 +265,11 @@
     var campo = el("input", { id: "resposta", type: "text", autocomplete: "off", autocapitalize: "sentences", spellcheck: "false",
       inputmode: q.tipo === "numero" ? "decimal" : null, placeholder: q.tipo === "numero" ? (q.pontuacao === "Ano" ? "Ano" : "Metros") : "Sua resposta",
       "aria-label": "Sua resposta" });
+    var relogioBox = espiral ? el("div", { "class": "relogio", title: "Tempo para responder" }, [
+      espiral.svg, el("span", { "class": "segundos num", "aria-live": "off", texto: TEMPO + " s" })
+    ]) : null;
     var form = el("form", { "class": "resposta", novalidate: true }, [
-      campo,
+      el("div", { "class": "campo-linha" + (espiral ? " com-relogio" : "") }, [campo, relogioBox]),
       el("div", { "class": "acoes" }, [
         el("button", { type: "submit", "class": "botao botao-cheio" }, ["Responder"]),
         el("button", { type: "button", "class": "botao-texto", onclick: function () { encerrar({ pontos: 0, motivo: "desistiu" }); } }, ["Passar"])
@@ -285,7 +289,7 @@
     area.appendChild(retorno);
     app.appendChild(el("section", { "class": "tela-rodada" }, [cabecalho, obra, area]));
     campo.focus({ preventScroll: true });
-    if (espiral) { iniciarRelogio(espiral, cabecalho.querySelector(".segundos")); }
+    if (espiral) { iniciarRelogio(espiral, relogioBox.querySelector(".segundos"), relogioBox); }
   }
 
   /* ---------- relógio em espiral ---------- */
@@ -300,13 +304,14 @@
     svg.appendChild(base); svg.appendChild(tinta);
     return { svg: svg, tinta: tinta };
   }
-  function iniciarRelogio(espiral, rotulo) {
+  function iniciarRelogio(espiral, rotulo, caixa) {
     var inicio = Date.now() + 600;  // começa quando a pergunta termina de aparecer
     relogio = setInterval(function () {
       var passado = Math.max(0, (Date.now() - inicio) / 1000);
       var resta = Math.max(0, TEMPO - passado);
       espiral.tinta.style.strokeDashoffset = String(resta / TEMPO);
       rotulo.textContent = Math.ceil(resta) + " s";
+      if (caixa) { caixa.classList.toggle("urgente", resta <= 5); }
       if (resta <= 0) { encerrar({ pontos: 0, motivo: "tempo" }); }
     }, 200);
   }
